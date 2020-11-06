@@ -1,0 +1,5055 @@
+"hw5/widget.ml" 27 545 549 "hw5/widget.ml" 27 545 554
+type(
+  Gctx.dimension -> widget
+)
+ident(
+  def space "hw5/widget.ml" 32 674 674 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 27 545 556 "hw5/widget.ml" 27 545 557
+type(
+  Gctx.dimension
+)
+ident(
+  def p "hw5/widget.ml" 27 545 575 "hw5/widget.ml" 31 670 673
+)
+"hw5/widget.ml" 28 586 605 "hw5/widget.ml" 28 586 606
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 28 586 610 "hw5/widget.ml" 28 586 612
+type(
+  unit
+)
+"hw5/widget.ml" 28 586 600 "hw5/widget.ml" 28 586 613
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 29 615 633 "hw5/widget.ml" 29 615 634
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 29 615 635 "hw5/widget.ml" 29 615 636
+type(
+  Gctx.event
+)
+"hw5/widget.ml" 29 615 640 "hw5/widget.ml" 29 615 642
+type(
+  unit
+)
+"hw5/widget.ml" 29 615 628 "hw5/widget.ml" 29 615 643
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 30 645 661 "hw5/widget.ml" 30 645 662
+type(
+  unit
+)
+"hw5/widget.ml" 30 645 666 "hw5/widget.ml" 30 645 667
+type(
+  Gctx.dimension
+)
+ident(
+  int_ref p "hw5/widget.ml" 27 545 556 "hw5/widget.ml" 27 545 557
+)
+"hw5/widget.ml" 30 645 656 "hw5/widget.ml" 30 645 668
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 28 586 588 "hw5/widget.ml" 31 670 673
+type(
+  widget
+)
+type(
+  widget
+)
+"hw5/widget.ml" 32 674 678 "hw5/widget.ml" 32 674 684
+type(
+  widget
+)
+ident(
+  def spacer "hw5/widget.ml" 34 764 764 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 32 674 696 "hw5/widget.ml" 32 674 701
+type(
+  Gctx.dimension -> widget
+)
+ident(
+  int_ref space "hw5/widget.ml" 27 545 549 "hw5/widget.ml" 27 545 554
+)
+"hw5/widget.ml" 32 674 703 "hw5/widget.ml" 32 674 705
+type(
+  int
+)
+"hw5/widget.ml" 32 674 706 "hw5/widget.ml" 32 674 708
+type(
+  int
+)
+"hw5/widget.ml" 32 674 702 "hw5/widget.ml" 32 674 709
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 32 674 696 "hw5/widget.ml" 32 674 709
+call(
+  stack
+)
+type(
+  widget
+)
+type(
+  widget
+)
+"hw5/widget.ml" 34 764 768 "hw5/widget.ml" 34 764 774
+type(
+  widget -> widget
+)
+ident(
+  def border "hw5/widget.ml" 56 1560 1560 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 34 764 776 "hw5/widget.ml" 34 764 777
+type(
+  widget
+)
+ident(
+  def w "hw5/widget.ml" 34 764 787 "hw5/widget.ml" 52 1405 1408
+)
+"hw5/widget.ml" 35 798 818 "hw5/widget.ml" 35 798 819
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 36 835 843 "hw5/widget.ml" 44 1174 1193
+)
+"hw5/widget.ml" 36 835 848 "hw5/widget.ml" 36 835 853
+type(
+  int
+)
+ident(
+  def width "hw5/widget.ml" 37 878 886 "hw5/widget.ml" 44 1174 1193
+)
+"hw5/widget.ml" 36 835 855 "hw5/widget.ml" 36 835 861
+type(
+  int
+)
+ident(
+  def height "hw5/widget.ml" 37 878 886 "hw5/widget.ml" 44 1174 1193
+)
+"hw5/widget.ml" 36 835 847 "hw5/widget.ml" 36 835 862
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 36 835 865 "hw5/widget.ml" 36 835 866
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 34 764 776 "hw5/widget.ml" 34 764 777
+)
+"hw5/widget.ml" 36 835 865 "hw5/widget.ml" 36 835 871
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 36 835 872 "hw5/widget.ml" 36 835 874
+type(
+  unit
+)
+"hw5/widget.ml" 36 835 865 "hw5/widget.ml" 36 835 874
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 37 878 890 "hw5/widget.ml" 37 878 891
+type(
+  int
+)
+ident(
+  def x "hw5/widget.ml" 38 946 954 "hw5/widget.ml" 44 1174 1193
+)
+"hw5/widget.ml" 37 878 894 "hw5/widget.ml" 37 878 899
+type(
+  int
+)
+ident(
+  int_ref width "hw5/widget.ml" 36 835 848 "hw5/widget.ml" 36 835 853
+)
+"hw5/widget.ml" 37 878 900 "hw5/widget.ml" 37 878 901
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/widget.ml" 37 878 902 "hw5/widget.ml" 37 878 903
+type(
+  int
+)
+"hw5/widget.ml" 37 878 894 "hw5/widget.ml" 37 878 903
+type(
+  int
+)
+"hw5/widget.ml" 38 946 958 "hw5/widget.ml" 38 946 959
+type(
+  int
+)
+ident(
+  def y "hw5/widget.ml" 39 976 984 "hw5/widget.ml" 44 1174 1193
+)
+"hw5/widget.ml" 38 946 962 "hw5/widget.ml" 38 946 968
+type(
+  int
+)
+ident(
+  int_ref height "hw5/widget.ml" 36 835 855 "hw5/widget.ml" 36 835 861
+)
+"hw5/widget.ml" 38 946 969 "hw5/widget.ml" 38 946 970
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/widget.ml" 38 946 971 "hw5/widget.ml" 38 946 972
+type(
+  int
+)
+"hw5/widget.ml" 38 946 962 "hw5/widget.ml" 38 946 972
+type(
+  int
+)
+"hw5/widget.ml" 39 976 984 "hw5/widget.ml" 39 976 998
+type(
+  Gctx.gctx -> Gctx.position -> Gctx.position -> unit
+)
+ident(
+  ext_ref Gctx.draw_line
+)
+"hw5/widget.ml" 39 976 999 "hw5/widget.ml" 39 976 1000
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 35 798 818 "hw5/widget.ml" 35 798 819
+)
+"hw5/widget.ml" 39 976 1002 "hw5/widget.ml" 39 976 1003
+type(
+  int
+)
+"hw5/widget.ml" 39 976 1004 "hw5/widget.ml" 39 976 1005
+type(
+  int
+)
+"hw5/widget.ml" 39 976 1001 "hw5/widget.ml" 39 976 1006
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 39 976 1008 "hw5/widget.ml" 39 976 1009
+type(
+  int
+)
+ident(
+  int_ref x "hw5/widget.ml" 37 878 890 "hw5/widget.ml" 37 878 891
+)
+"hw5/widget.ml" 39 976 1010 "hw5/widget.ml" 39 976 1011
+type(
+  int
+)
+"hw5/widget.ml" 39 976 1007 "hw5/widget.ml" 39 976 1012
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 39 976 984 "hw5/widget.ml" 39 976 1012
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 40 1014 1022 "hw5/widget.ml" 40 1014 1036
+type(
+  Gctx.gctx -> Gctx.position -> Gctx.position -> unit
+)
+ident(
+  ext_ref Gctx.draw_line
+)
+"hw5/widget.ml" 40 1014 1037 "hw5/widget.ml" 40 1014 1038
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 35 798 818 "hw5/widget.ml" 35 798 819
+)
+"hw5/widget.ml" 40 1014 1040 "hw5/widget.ml" 40 1014 1041
+type(
+  int
+)
+"hw5/widget.ml" 40 1014 1042 "hw5/widget.ml" 40 1014 1043
+type(
+  int
+)
+"hw5/widget.ml" 40 1014 1039 "hw5/widget.ml" 40 1014 1044
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 40 1014 1046 "hw5/widget.ml" 40 1014 1047
+type(
+  int
+)
+"hw5/widget.ml" 40 1014 1049 "hw5/widget.ml" 40 1014 1050
+type(
+  int
+)
+ident(
+  int_ref y "hw5/widget.ml" 38 946 958 "hw5/widget.ml" 38 946 959
+)
+"hw5/widget.ml" 40 1014 1045 "hw5/widget.ml" 40 1014 1051
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 40 1014 1022 "hw5/widget.ml" 40 1014 1051
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 41 1053 1061 "hw5/widget.ml" 41 1053 1075
+type(
+  Gctx.gctx -> Gctx.position -> Gctx.position -> unit
+)
+ident(
+  ext_ref Gctx.draw_line
+)
+"hw5/widget.ml" 41 1053 1076 "hw5/widget.ml" 41 1053 1077
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 35 798 818 "hw5/widget.ml" 35 798 819
+)
+"hw5/widget.ml" 41 1053 1079 "hw5/widget.ml" 41 1053 1080
+type(
+  int
+)
+ident(
+  int_ref x "hw5/widget.ml" 37 878 890 "hw5/widget.ml" 37 878 891
+)
+"hw5/widget.ml" 41 1053 1081 "hw5/widget.ml" 41 1053 1082
+type(
+  int
+)
+"hw5/widget.ml" 41 1053 1078 "hw5/widget.ml" 41 1053 1083
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 41 1053 1085 "hw5/widget.ml" 41 1053 1086
+type(
+  int
+)
+ident(
+  int_ref x "hw5/widget.ml" 37 878 890 "hw5/widget.ml" 37 878 891
+)
+"hw5/widget.ml" 41 1053 1088 "hw5/widget.ml" 41 1053 1089
+type(
+  int
+)
+ident(
+  int_ref y "hw5/widget.ml" 38 946 958 "hw5/widget.ml" 38 946 959
+)
+"hw5/widget.ml" 41 1053 1084 "hw5/widget.ml" 41 1053 1090
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 41 1053 1061 "hw5/widget.ml" 41 1053 1090
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 42 1092 1100 "hw5/widget.ml" 42 1092 1114
+type(
+  Gctx.gctx -> Gctx.position -> Gctx.position -> unit
+)
+ident(
+  ext_ref Gctx.draw_line
+)
+"hw5/widget.ml" 42 1092 1115 "hw5/widget.ml" 42 1092 1116
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 35 798 818 "hw5/widget.ml" 35 798 819
+)
+"hw5/widget.ml" 42 1092 1118 "hw5/widget.ml" 42 1092 1119
+type(
+  int
+)
+"hw5/widget.ml" 42 1092 1121 "hw5/widget.ml" 42 1092 1122
+type(
+  int
+)
+ident(
+  int_ref y "hw5/widget.ml" 38 946 958 "hw5/widget.ml" 38 946 959
+)
+"hw5/widget.ml" 42 1092 1117 "hw5/widget.ml" 42 1092 1123
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 42 1092 1125 "hw5/widget.ml" 42 1092 1126
+type(
+  int
+)
+ident(
+  int_ref x "hw5/widget.ml" 37 878 890 "hw5/widget.ml" 37 878 891
+)
+"hw5/widget.ml" 42 1092 1128 "hw5/widget.ml" 42 1092 1129
+type(
+  int
+)
+ident(
+  int_ref y "hw5/widget.ml" 38 946 958 "hw5/widget.ml" 38 946 959
+)
+"hw5/widget.ml" 42 1092 1124 "hw5/widget.ml" 42 1092 1130
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 42 1092 1100 "hw5/widget.ml" 42 1092 1130
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 43 1132 1144 "hw5/widget.ml" 43 1132 1145
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 44 1174 1182 "hw5/widget.ml" 44 1174 1193
+)
+"hw5/widget.ml" 43 1132 1148 "hw5/widget.ml" 43 1132 1162
+type(
+  Gctx.gctx -> int * int -> Gctx.gctx
+)
+ident(
+  ext_ref Gctx.translate
+)
+"hw5/widget.ml" 43 1132 1163 "hw5/widget.ml" 43 1132 1164
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 35 798 818 "hw5/widget.ml" 35 798 819
+)
+"hw5/widget.ml" 43 1132 1166 "hw5/widget.ml" 43 1132 1167
+type(
+  int
+)
+"hw5/widget.ml" 43 1132 1168 "hw5/widget.ml" 43 1132 1169
+type(
+  int
+)
+"hw5/widget.ml" 43 1132 1165 "hw5/widget.ml" 43 1132 1170
+type(
+  int * int
+)
+"hw5/widget.ml" 43 1132 1148 "hw5/widget.ml" 43 1132 1170
+call(
+  stack
+)
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 44 1174 1182 "hw5/widget.ml" 44 1174 1183
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 34 764 776 "hw5/widget.ml" 34 764 777
+)
+"hw5/widget.ml" 44 1174 1182 "hw5/widget.ml" 44 1174 1191
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 44 1174 1192 "hw5/widget.ml" 44 1174 1193
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 43 1132 1144 "hw5/widget.ml" 43 1132 1145
+)
+"hw5/widget.ml" 44 1174 1182 "hw5/widget.ml" 44 1174 1193
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 43 1132 1140 "hw5/widget.ml" 44 1174 1193
+type(
+  unit
+)
+"hw5/widget.ml" 42 1092 1100 "hw5/widget.ml" 44 1174 1193
+type(
+  unit
+)
+"hw5/widget.ml" 41 1053 1061 "hw5/widget.ml" 44 1174 1193
+type(
+  unit
+)
+"hw5/widget.ml" 40 1014 1022 "hw5/widget.ml" 44 1174 1193
+type(
+  unit
+)
+"hw5/widget.ml" 39 976 984 "hw5/widget.ml" 44 1174 1193
+type(
+  unit
+)
+"hw5/widget.ml" 38 946 954 "hw5/widget.ml" 44 1174 1193
+type(
+  unit
+)
+"hw5/widget.ml" 37 878 886 "hw5/widget.ml" 44 1174 1193
+type(
+  unit
+)
+"hw5/widget.ml" 36 835 843 "hw5/widget.ml" 44 1174 1193
+type(
+  unit
+)
+"hw5/widget.ml" 35 798 812 "hw5/widget.ml" 44 1174 1194
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 46 1197 1216 "hw5/widget.ml" 46 1197 1217
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 46 1197 1230 "hw5/widget.ml" 47 1249 1296
+)
+"hw5/widget.ml" 46 1197 1231 "hw5/widget.ml" 46 1197 1232
+type(
+  Gctx.event
+)
+ident(
+  def e "hw5/widget.ml" 47 1249 1261 "hw5/widget.ml" 47 1249 1296
+)
+"hw5/widget.ml" 47 1249 1261 "hw5/widget.ml" 47 1249 1262
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 34 764 776 "hw5/widget.ml" 34 764 777
+)
+"hw5/widget.ml" 47 1249 1261 "hw5/widget.ml" 47 1249 1269
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 47 1249 1271 "hw5/widget.ml" 47 1249 1285
+type(
+  Gctx.gctx -> int * int -> Gctx.gctx
+)
+ident(
+  ext_ref Gctx.translate
+)
+"hw5/widget.ml" 47 1249 1286 "hw5/widget.ml" 47 1249 1287
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 46 1197 1216 "hw5/widget.ml" 46 1197 1217
+)
+"hw5/widget.ml" 47 1249 1289 "hw5/widget.ml" 47 1249 1290
+type(
+  int
+)
+"hw5/widget.ml" 47 1249 1291 "hw5/widget.ml" 47 1249 1292
+type(
+  int
+)
+"hw5/widget.ml" 47 1249 1288 "hw5/widget.ml" 47 1249 1293
+type(
+  int * int
+)
+"hw5/widget.ml" 47 1249 1270 "hw5/widget.ml" 47 1249 1294
+call(
+  stack
+)
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 47 1249 1295 "hw5/widget.ml" 47 1249 1296
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 46 1197 1231 "hw5/widget.ml" 46 1197 1232
+)
+"hw5/widget.ml" 47 1249 1261 "hw5/widget.ml" 47 1249 1296
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 46 1197 1210 "hw5/widget.ml" 47 1249 1297
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 49 1300 1316 "hw5/widget.ml" 49 1300 1318
+type(
+  unit
+)
+"hw5/widget.ml" 50 1322 1339 "hw5/widget.ml" 50 1322 1344
+type(
+  int
+)
+ident(
+  def width "hw5/widget.ml" 51 1369 1381 "hw5/widget.ml" 51 1369 1402
+)
+"hw5/widget.ml" 50 1322 1346 "hw5/widget.ml" 50 1322 1352
+type(
+  int
+)
+ident(
+  def height "hw5/widget.ml" 51 1369 1381 "hw5/widget.ml" 51 1369 1402
+)
+"hw5/widget.ml" 50 1322 1338 "hw5/widget.ml" 50 1322 1353
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 50 1322 1356 "hw5/widget.ml" 50 1322 1357
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 34 764 776 "hw5/widget.ml" 34 764 777
+)
+"hw5/widget.ml" 50 1322 1356 "hw5/widget.ml" 50 1322 1362
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 50 1322 1363 "hw5/widget.ml" 50 1322 1365
+type(
+  unit
+)
+"hw5/widget.ml" 50 1322 1356 "hw5/widget.ml" 50 1322 1365
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 51 1369 1381 "hw5/widget.ml" 51 1369 1386
+type(
+  int
+)
+ident(
+  int_ref width "hw5/widget.ml" 50 1322 1339 "hw5/widget.ml" 50 1322 1344
+)
+"hw5/widget.ml" 51 1369 1387 "hw5/widget.ml" 51 1369 1388
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/widget.ml" 51 1369 1389 "hw5/widget.ml" 51 1369 1390
+type(
+  int
+)
+"hw5/widget.ml" 51 1369 1381 "hw5/widget.ml" 51 1369 1390
+type(
+  int
+)
+"hw5/widget.ml" 51 1369 1392 "hw5/widget.ml" 51 1369 1398
+type(
+  int
+)
+ident(
+  int_ref height "hw5/widget.ml" 50 1322 1346 "hw5/widget.ml" 50 1322 1352
+)
+"hw5/widget.ml" 51 1369 1399 "hw5/widget.ml" 51 1369 1400
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/widget.ml" 51 1369 1401 "hw5/widget.ml" 51 1369 1402
+type(
+  int
+)
+"hw5/widget.ml" 51 1369 1392 "hw5/widget.ml" 51 1369 1402
+type(
+  int
+)
+"hw5/widget.ml" 51 1369 1381 "hw5/widget.ml" 51 1369 1402
+type(
+  int * int
+)
+"hw5/widget.ml" 50 1322 1334 "hw5/widget.ml" 51 1369 1402
+type(
+  int * int
+)
+"hw5/widget.ml" 49 1300 1311 "hw5/widget.ml" 51 1369 1403
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 35 798 800 "hw5/widget.ml" 52 1405 1408
+type(
+  widget
+)
+type(
+  widget
+)
+"hw5/widget.ml" 56 1560 1564 "hw5/widget.ml" 56 1560 1576
+type(
+  Gctx.gctx -> Gctx.event -> Gctx.dimension -> bool
+)
+ident(
+  def event_within "hw5/widget.ml" 63 1857 1857 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 56 1560 1578 "hw5/widget.ml" 56 1560 1579
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 56 1560 1592 "hw5/widget.ml" 59 1695 1755
+)
+"hw5/widget.ml" 56 1560 1593 "hw5/widget.ml" 56 1560 1594
+type(
+  Gctx.event
+)
+ident(
+  def e "hw5/widget.ml" 57 1608 1612 "hw5/widget.ml" 59 1695 1755
+)
+"hw5/widget.ml" 57 1608 1614 "hw5/widget.ml" 57 1608 1615
+type(
+  int
+)
+ident(
+  def w "hw5/widget.ml" 57 1608 1637 "hw5/widget.ml" 59 1695 1755
+)
+"hw5/widget.ml" 57 1608 1617 "hw5/widget.ml" 57 1608 1618
+type(
+  int
+)
+ident(
+  def h "hw5/widget.ml" 57 1608 1637 "hw5/widget.ml" 59 1695 1755
+)
+"hw5/widget.ml" 57 1608 1613 "hw5/widget.ml" 57 1608 1619
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 58 1646 1653 "hw5/widget.ml" 58 1646 1660
+type(
+  int
+)
+ident(
+  def mouse_x "hw5/widget.ml" 59 1695 1697 "hw5/widget.ml" 59 1695 1755
+)
+"hw5/widget.ml" 58 1646 1662 "hw5/widget.ml" 58 1646 1669
+type(
+  int
+)
+ident(
+  def mouse_y "hw5/widget.ml" 59 1695 1697 "hw5/widget.ml" 59 1695 1755
+)
+"hw5/widget.ml" 58 1646 1652 "hw5/widget.ml" 58 1646 1670
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 58 1646 1673 "hw5/widget.ml" 58 1646 1687
+type(
+  Gctx.event -> Gctx.gctx -> Gctx.position
+)
+ident(
+  ext_ref Gctx.event_pos
+)
+"hw5/widget.ml" 58 1646 1688 "hw5/widget.ml" 58 1646 1689
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 56 1560 1593 "hw5/widget.ml" 56 1560 1594
+)
+"hw5/widget.ml" 58 1646 1690 "hw5/widget.ml" 58 1646 1691
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 56 1560 1578 "hw5/widget.ml" 56 1560 1579
+)
+"hw5/widget.ml" 58 1646 1673 "hw5/widget.ml" 58 1646 1691
+call(
+  stack
+)
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 59 1695 1697 "hw5/widget.ml" 59 1695 1704
+type(
+  int
+)
+ident(
+  int_ref mouse_x "hw5/widget.ml" 58 1646 1653 "hw5/widget.ml" 58 1646 1660
+)
+"hw5/widget.ml" 59 1695 1705 "hw5/widget.ml" 59 1695 1707
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"hw5/widget.ml" 59 1695 1708 "hw5/widget.ml" 59 1695 1709
+type(
+  int
+)
+"hw5/widget.ml" 59 1695 1697 "hw5/widget.ml" 59 1695 1709
+type(
+  bool
+)
+"hw5/widget.ml" 59 1695 1710 "hw5/widget.ml" 59 1695 1712
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw5/widget.ml" 59 1695 1713 "hw5/widget.ml" 59 1695 1720
+type(
+  int
+)
+ident(
+  int_ref mouse_x "hw5/widget.ml" 58 1646 1653 "hw5/widget.ml" 58 1646 1660
+)
+"hw5/widget.ml" 59 1695 1721 "hw5/widget.ml" 59 1695 1722
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw5/widget.ml" 59 1695 1723 "hw5/widget.ml" 59 1695 1724
+type(
+  int
+)
+ident(
+  int_ref w "hw5/widget.ml" 57 1608 1614 "hw5/widget.ml" 57 1608 1615
+)
+"hw5/widget.ml" 59 1695 1713 "hw5/widget.ml" 59 1695 1724
+type(
+  bool
+)
+"hw5/widget.ml" 59 1695 1725 "hw5/widget.ml" 59 1695 1727
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw5/widget.ml" 59 1695 1728 "hw5/widget.ml" 59 1695 1735
+type(
+  int
+)
+ident(
+  int_ref mouse_y "hw5/widget.ml" 58 1646 1662 "hw5/widget.ml" 58 1646 1669
+)
+"hw5/widget.ml" 59 1695 1736 "hw5/widget.ml" 59 1695 1738
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"hw5/widget.ml" 59 1695 1739 "hw5/widget.ml" 59 1695 1740
+type(
+  int
+)
+"hw5/widget.ml" 59 1695 1728 "hw5/widget.ml" 59 1695 1740
+type(
+  bool
+)
+"hw5/widget.ml" 59 1695 1741 "hw5/widget.ml" 59 1695 1743
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw5/widget.ml" 59 1695 1744 "hw5/widget.ml" 59 1695 1751
+type(
+  int
+)
+ident(
+  int_ref mouse_y "hw5/widget.ml" 58 1646 1662 "hw5/widget.ml" 58 1646 1669
+)
+"hw5/widget.ml" 59 1695 1752 "hw5/widget.ml" 59 1695 1753
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw5/widget.ml" 59 1695 1754 "hw5/widget.ml" 59 1695 1755
+type(
+  int
+)
+ident(
+  int_ref h "hw5/widget.ml" 57 1608 1617 "hw5/widget.ml" 57 1608 1618
+)
+"hw5/widget.ml" 59 1695 1744 "hw5/widget.ml" 59 1695 1755
+type(
+  bool
+)
+"hw5/widget.ml" 59 1695 1728 "hw5/widget.ml" 59 1695 1755
+type(
+  bool
+)
+"hw5/widget.ml" 59 1695 1713 "hw5/widget.ml" 59 1695 1755
+type(
+  bool
+)
+"hw5/widget.ml" 59 1695 1697 "hw5/widget.ml" 59 1695 1755
+type(
+  bool
+)
+"hw5/widget.ml" 58 1646 1648 "hw5/widget.ml" 59 1695 1755
+type(
+  bool
+)
+type(
+  bool
+)
+"hw5/widget.ml" 63 1857 1861 "hw5/widget.ml" 63 1857 1866
+type(
+  widget -> widget -> widget
+)
+ident(
+  def hpair "hw5/widget.ml" 76 2378 2378 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 63 1857 1868 "hw5/widget.ml" 63 1857 1870
+type(
+  widget
+)
+ident(
+  def w1 "hw5/widget.ml" 63 1857 1879 "hw5/widget.ml" 74 2375 2376
+)
+"hw5/widget.ml" 63 1857 1880 "hw5/widget.ml" 63 1857 1882
+type(
+  widget
+)
+ident(
+  def w2 "hw5/widget.ml" 63 1857 1891 "hw5/widget.ml" 74 2375 2376
+)
+"hw5/widget.ml" 64 1904 1923 "hw5/widget.ml" 64 1904 1924
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 64 1904 1939 "hw5/widget.ml" 66 2006 2024
+)
+"hw5/widget.ml" 64 1904 1939 "hw5/widget.ml" 64 1904 1941
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 63 1857 1868 "hw5/widget.ml" 63 1857 1870
+)
+"hw5/widget.ml" 64 1904 1939 "hw5/widget.ml" 64 1904 1949
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 64 1904 1950 "hw5/widget.ml" 64 1904 1951
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 64 1904 1923 "hw5/widget.ml" 64 1904 1924
+)
+"hw5/widget.ml" 64 1904 1939 "hw5/widget.ml" 64 1904 1951
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 65 1953 1961 "hw5/widget.ml" 65 1953 1962
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 66 2006 2012 "hw5/widget.ml" 66 2006 2024
+)
+"hw5/widget.ml" 65 1953 1965 "hw5/widget.ml" 65 1953 1979
+type(
+  Gctx.gctx -> int * int -> Gctx.gctx
+)
+ident(
+  ext_ref Gctx.translate
+)
+"hw5/widget.ml" 65 1953 1980 "hw5/widget.ml" 65 1953 1981
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 64 1904 1923 "hw5/widget.ml" 64 1904 1924
+)
+"hw5/widget.ml" 65 1953 1983 "hw5/widget.ml" 65 1953 1986
+type(
+  Gctx.dimension -> int
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"hw5/widget.ml" 65 1953 1988 "hw5/widget.ml" 65 1953 1990
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 63 1857 1868 "hw5/widget.ml" 63 1857 1870
+)
+"hw5/widget.ml" 65 1953 1988 "hw5/widget.ml" 65 1953 1995
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 65 1953 1996 "hw5/widget.ml" 65 1953 1998
+type(
+  unit
+)
+"hw5/widget.ml" 65 1953 1987 "hw5/widget.ml" 65 1953 1999
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 65 1953 1983 "hw5/widget.ml" 65 1953 1999
+type(
+  int
+)
+"hw5/widget.ml" 65 1953 2000 "hw5/widget.ml" 65 1953 2001
+type(
+  int
+)
+"hw5/widget.ml" 65 1953 1982 "hw5/widget.ml" 65 1953 2002
+type(
+  int * int
+)
+"hw5/widget.ml" 65 1953 1965 "hw5/widget.ml" 65 1953 2002
+call(
+  stack
+)
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 66 2006 2012 "hw5/widget.ml" 66 2006 2014
+type(
+  widget
+)
+ident(
+  int_ref w2 "hw5/widget.ml" 63 1857 1880 "hw5/widget.ml" 63 1857 1882
+)
+"hw5/widget.ml" 66 2006 2012 "hw5/widget.ml" 66 2006 2022
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 66 2006 2023 "hw5/widget.ml" 66 2006 2024
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 65 1953 1961 "hw5/widget.ml" 65 1953 1962
+)
+"hw5/widget.ml" 66 2006 2012 "hw5/widget.ml" 66 2006 2024
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 65 1953 1957 "hw5/widget.ml" 66 2006 2024
+type(
+  unit
+)
+"hw5/widget.ml" 64 1904 1939 "hw5/widget.ml" 66 2006 2024
+type(
+  unit
+)
+"hw5/widget.ml" 64 1904 1916 "hw5/widget.ml" 66 2006 2025
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 67 2027 2044 "hw5/widget.ml" 67 2027 2045
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 67 2027 2057 "hw5/widget.ml" 71 2196 2264
+)
+"hw5/widget.ml" 67 2027 2058 "hw5/widget.ml" 67 2027 2059
+type(
+  Gctx.event
+)
+ident(
+  def e "hw5/widget.ml" 68 2075 2079 "hw5/widget.ml" 71 2196 2264
+)
+"hw5/widget.ml" 68 2075 2082 "hw5/widget.ml" 68 2075 2094
+type(
+  Gctx.gctx -> Gctx.event -> Gctx.dimension -> bool
+)
+ident(
+  int_ref event_within "hw5/widget.ml" 56 1560 1564 "hw5/widget.ml" 56 1560 1576
+)
+"hw5/widget.ml" 68 2075 2095 "hw5/widget.ml" 68 2075 2096
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 67 2027 2044 "hw5/widget.ml" 67 2027 2045
+)
+"hw5/widget.ml" 68 2075 2097 "hw5/widget.ml" 68 2075 2098
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 67 2027 2058 "hw5/widget.ml" 67 2027 2059
+)
+"hw5/widget.ml" 68 2075 2100 "hw5/widget.ml" 68 2075 2102
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 63 1857 1868 "hw5/widget.ml" 63 1857 1870
+)
+"hw5/widget.ml" 68 2075 2100 "hw5/widget.ml" 68 2075 2107
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 68 2075 2108 "hw5/widget.ml" 68 2075 2110
+type(
+  unit
+)
+"hw5/widget.ml" 68 2075 2099 "hw5/widget.ml" 68 2075 2111
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 68 2075 2082 "hw5/widget.ml" 68 2075 2111
+call(
+  stack
+)
+type(
+  bool
+)
+"hw5/widget.ml" 69 2112 2121 "hw5/widget.ml" 69 2112 2123
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 63 1857 1868 "hw5/widget.ml" 63 1857 1870
+)
+"hw5/widget.ml" 69 2112 2121 "hw5/widget.ml" 69 2112 2130
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 69 2112 2131 "hw5/widget.ml" 69 2112 2132
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 67 2027 2044 "hw5/widget.ml" 67 2027 2045
+)
+"hw5/widget.ml" 69 2112 2133 "hw5/widget.ml" 69 2112 2134
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 67 2027 2058 "hw5/widget.ml" 67 2027 2059
+)
+"hw5/widget.ml" 69 2112 2121 "hw5/widget.ml" 69 2112 2134
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 70 2135 2148 "hw5/widget.ml" 70 2135 2149
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 71 2196 2205 "hw5/widget.ml" 71 2196 2264
+)
+"hw5/widget.ml" 70 2135 2153 "hw5/widget.ml" 70 2135 2167
+type(
+  Gctx.gctx -> int * int -> Gctx.gctx
+)
+ident(
+  ext_ref Gctx.translate
+)
+"hw5/widget.ml" 70 2135 2168 "hw5/widget.ml" 70 2135 2169
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 67 2027 2044 "hw5/widget.ml" 67 2027 2045
+)
+"hw5/widget.ml" 70 2135 2171 "hw5/widget.ml" 70 2135 2174
+type(
+  Gctx.dimension -> int
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"hw5/widget.ml" 70 2135 2176 "hw5/widget.ml" 70 2135 2178
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 63 1857 1868 "hw5/widget.ml" 63 1857 1870
+)
+"hw5/widget.ml" 70 2135 2176 "hw5/widget.ml" 70 2135 2183
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 70 2135 2184 "hw5/widget.ml" 70 2135 2186
+type(
+  unit
+)
+"hw5/widget.ml" 70 2135 2175 "hw5/widget.ml" 70 2135 2187
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 70 2135 2171 "hw5/widget.ml" 70 2135 2187
+type(
+  int
+)
+"hw5/widget.ml" 70 2135 2189 "hw5/widget.ml" 70 2135 2190
+type(
+  int
+)
+"hw5/widget.ml" 70 2135 2170 "hw5/widget.ml" 70 2135 2191
+type(
+  int * int
+)
+"hw5/widget.ml" 70 2135 2152 "hw5/widget.ml" 70 2135 2192
+call(
+  stack
+)
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 71 2196 2208 "hw5/widget.ml" 71 2196 2220
+type(
+  Gctx.gctx -> Gctx.event -> Gctx.dimension -> bool
+)
+ident(
+  int_ref event_within "hw5/widget.ml" 56 1560 1564 "hw5/widget.ml" 56 1560 1576
+)
+"hw5/widget.ml" 71 2196 2221 "hw5/widget.ml" 71 2196 2222
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 70 2135 2148 "hw5/widget.ml" 70 2135 2149
+)
+"hw5/widget.ml" 71 2196 2223 "hw5/widget.ml" 71 2196 2224
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 67 2027 2058 "hw5/widget.ml" 67 2027 2059
+)
+"hw5/widget.ml" 71 2196 2226 "hw5/widget.ml" 71 2196 2228
+type(
+  widget
+)
+ident(
+  int_ref w2 "hw5/widget.ml" 63 1857 1880 "hw5/widget.ml" 63 1857 1882
+)
+"hw5/widget.ml" 71 2196 2226 "hw5/widget.ml" 71 2196 2233
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 71 2196 2234 "hw5/widget.ml" 71 2196 2236
+type(
+  unit
+)
+"hw5/widget.ml" 71 2196 2225 "hw5/widget.ml" 71 2196 2237
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 71 2196 2208 "hw5/widget.ml" 71 2196 2237
+call(
+  stack
+)
+type(
+  bool
+)
+"hw5/widget.ml" 71 2196 2243 "hw5/widget.ml" 71 2196 2245
+type(
+  widget
+)
+ident(
+  int_ref w2 "hw5/widget.ml" 63 1857 1880 "hw5/widget.ml" 63 1857 1882
+)
+"hw5/widget.ml" 71 2196 2243 "hw5/widget.ml" 71 2196 2252
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 71 2196 2253 "hw5/widget.ml" 71 2196 2254
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 70 2135 2148 "hw5/widget.ml" 70 2135 2149
+)
+"hw5/widget.ml" 71 2196 2255 "hw5/widget.ml" 71 2196 2256
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 67 2027 2058 "hw5/widget.ml" 67 2027 2059
+)
+"hw5/widget.ml" 71 2196 2243 "hw5/widget.ml" 71 2196 2256
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 71 2196 2262 "hw5/widget.ml" 71 2196 2264
+type(
+  unit
+)
+"hw5/widget.ml" 71 2196 2205 "hw5/widget.ml" 71 2196 2264
+type(
+  unit
+)
+"hw5/widget.ml" 70 2135 2144 "hw5/widget.ml" 71 2196 2264
+type(
+  unit
+)
+"hw5/widget.ml" 68 2075 2079 "hw5/widget.ml" 71 2196 2264
+type(
+  unit
+)
+"hw5/widget.ml" 67 2027 2038 "hw5/widget.ml" 71 2196 2265
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 72 2267 2281 "hw5/widget.ml" 72 2267 2283
+type(
+  unit
+)
+"hw5/widget.ml" 72 2267 2292 "hw5/widget.ml" 72 2267 2294
+type(
+  int
+)
+ident(
+  def x1 "hw5/widget.ml" 73 2315 2325 "hw5/widget.ml" 73 2315 2373
+)
+"hw5/widget.ml" 72 2267 2295 "hw5/widget.ml" 72 2267 2297
+type(
+  int
+)
+ident(
+  def y1 "hw5/widget.ml" 73 2315 2325 "hw5/widget.ml" 73 2315 2373
+)
+"hw5/widget.ml" 72 2267 2291 "hw5/widget.ml" 72 2267 2298
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 72 2267 2301 "hw5/widget.ml" 72 2267 2303
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 63 1857 1868 "hw5/widget.ml" 63 1857 1870
+)
+"hw5/widget.ml" 72 2267 2301 "hw5/widget.ml" 72 2267 2308
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 72 2267 2309 "hw5/widget.ml" 72 2267 2311
+type(
+  unit
+)
+"hw5/widget.ml" 72 2267 2301 "hw5/widget.ml" 72 2267 2311
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 73 2315 2330 "hw5/widget.ml" 73 2315 2332
+type(
+  int
+)
+ident(
+  def x2 "hw5/widget.ml" 73 2315 2353 "hw5/widget.ml" 73 2315 2373
+)
+"hw5/widget.ml" 73 2315 2333 "hw5/widget.ml" 73 2315 2335
+type(
+  int
+)
+ident(
+  def y2 "hw5/widget.ml" 73 2315 2353 "hw5/widget.ml" 73 2315 2373
+)
+"hw5/widget.ml" 73 2315 2329 "hw5/widget.ml" 73 2315 2336
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 73 2315 2339 "hw5/widget.ml" 73 2315 2341
+type(
+  widget
+)
+ident(
+  int_ref w2 "hw5/widget.ml" 63 1857 1880 "hw5/widget.ml" 63 1857 1882
+)
+"hw5/widget.ml" 73 2315 2339 "hw5/widget.ml" 73 2315 2346
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 73 2315 2347 "hw5/widget.ml" 73 2315 2349
+type(
+  unit
+)
+"hw5/widget.ml" 73 2315 2339 "hw5/widget.ml" 73 2315 2349
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 73 2315 2354 "hw5/widget.ml" 73 2315 2356
+type(
+  int
+)
+ident(
+  int_ref x1 "hw5/widget.ml" 72 2267 2292 "hw5/widget.ml" 72 2267 2294
+)
+"hw5/widget.ml" 73 2315 2357 "hw5/widget.ml" 73 2315 2358
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/widget.ml" 73 2315 2359 "hw5/widget.ml" 73 2315 2361
+type(
+  int
+)
+ident(
+  int_ref x2 "hw5/widget.ml" 73 2315 2330 "hw5/widget.ml" 73 2315 2332
+)
+"hw5/widget.ml" 73 2315 2354 "hw5/widget.ml" 73 2315 2361
+type(
+  int
+)
+"hw5/widget.ml" 73 2315 2363 "hw5/widget.ml" 73 2315 2366
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw5/widget.ml" 73 2315 2367 "hw5/widget.ml" 73 2315 2369
+type(
+  int
+)
+ident(
+  int_ref y1 "hw5/widget.ml" 72 2267 2295 "hw5/widget.ml" 72 2267 2297
+)
+"hw5/widget.ml" 73 2315 2370 "hw5/widget.ml" 73 2315 2372
+type(
+  int
+)
+ident(
+  int_ref y2 "hw5/widget.ml" 73 2315 2333 "hw5/widget.ml" 73 2315 2335
+)
+"hw5/widget.ml" 73 2315 2363 "hw5/widget.ml" 73 2315 2372
+call(
+  stack
+)
+type(
+  int
+)
+"hw5/widget.ml" 73 2315 2353 "hw5/widget.ml" 73 2315 2373
+type(
+  int * int
+)
+"hw5/widget.ml" 73 2315 2325 "hw5/widget.ml" 73 2315 2373
+type(
+  int * int
+)
+"hw5/widget.ml" 72 2267 2287 "hw5/widget.ml" 73 2315 2373
+type(
+  int * int
+)
+"hw5/widget.ml" 72 2267 2276 "hw5/widget.ml" 73 2315 2374
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 63 1857 1902 "hw5/widget.ml" 74 2375 2376
+type(
+  widget
+)
+type(
+  widget
+)
+"hw5/widget.ml" 76 2378 2382 "hw5/widget.ml" 76 2378 2387
+type(
+  widget -> widget -> widget
+)
+ident(
+  def vpair "hw5/widget.ml" 98 3225 3225 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 76 2378 2389 "hw5/widget.ml" 76 2378 2391
+type(
+  widget
+)
+ident(
+  def w1 "hw5/widget.ml" 76 2378 2401 "hw5/widget.ml" 88 2897 2898
+)
+"hw5/widget.ml" 76 2378 2402 "hw5/widget.ml" 76 2378 2404
+type(
+  widget
+)
+ident(
+  def w2 "hw5/widget.ml" 76 2378 2414 "hw5/widget.ml" 88 2897 2898
+)
+"hw5/widget.ml" 78 2427 2446 "hw5/widget.ml" 78 2427 2447
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 78 2427 2462 "hw5/widget.ml" 80 2528 2546
+)
+"hw5/widget.ml" 78 2427 2462 "hw5/widget.ml" 78 2427 2464
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 76 2378 2389 "hw5/widget.ml" 76 2378 2391
+)
+"hw5/widget.ml" 78 2427 2462 "hw5/widget.ml" 78 2427 2472
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 78 2427 2473 "hw5/widget.ml" 78 2427 2474
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 78 2427 2446 "hw5/widget.ml" 78 2427 2447
+)
+"hw5/widget.ml" 78 2427 2462 "hw5/widget.ml" 78 2427 2474
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 79 2476 2484 "hw5/widget.ml" 79 2476 2485
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 80 2528 2534 "hw5/widget.ml" 80 2528 2546
+)
+"hw5/widget.ml" 79 2476 2488 "hw5/widget.ml" 79 2476 2502
+type(
+  Gctx.gctx -> int * int -> Gctx.gctx
+)
+ident(
+  ext_ref Gctx.translate
+)
+"hw5/widget.ml" 79 2476 2503 "hw5/widget.ml" 79 2476 2504
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 78 2427 2446 "hw5/widget.ml" 78 2427 2447
+)
+"hw5/widget.ml" 79 2476 2506 "hw5/widget.ml" 79 2476 2507
+type(
+  int
+)
+"hw5/widget.ml" 79 2476 2508 "hw5/widget.ml" 79 2476 2511
+type(
+  Gctx.dimension -> int
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"hw5/widget.ml" 79 2476 2512 "hw5/widget.ml" 79 2476 2514
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 76 2378 2389 "hw5/widget.ml" 76 2378 2391
+)
+"hw5/widget.ml" 79 2476 2512 "hw5/widget.ml" 79 2476 2519
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 79 2476 2520 "hw5/widget.ml" 79 2476 2522
+type(
+  unit
+)
+"hw5/widget.ml" 79 2476 2511 "hw5/widget.ml" 79 2476 2523
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 79 2476 2508 "hw5/widget.ml" 79 2476 2523
+type(
+  int
+)
+"hw5/widget.ml" 79 2476 2505 "hw5/widget.ml" 79 2476 2524
+type(
+  int * int
+)
+"hw5/widget.ml" 79 2476 2488 "hw5/widget.ml" 79 2476 2524
+call(
+  stack
+)
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 80 2528 2534 "hw5/widget.ml" 80 2528 2536
+type(
+  widget
+)
+ident(
+  int_ref w2 "hw5/widget.ml" 76 2378 2402 "hw5/widget.ml" 76 2378 2404
+)
+"hw5/widget.ml" 80 2528 2534 "hw5/widget.ml" 80 2528 2544
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 80 2528 2545 "hw5/widget.ml" 80 2528 2546
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 79 2476 2484 "hw5/widget.ml" 79 2476 2485
+)
+"hw5/widget.ml" 80 2528 2534 "hw5/widget.ml" 80 2528 2546
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 79 2476 2480 "hw5/widget.ml" 80 2528 2546
+type(
+  unit
+)
+"hw5/widget.ml" 78 2427 2462 "hw5/widget.ml" 80 2528 2546
+type(
+  unit
+)
+"hw5/widget.ml" 78 2427 2439 "hw5/widget.ml" 80 2528 2547
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 81 2549 2566 "hw5/widget.ml" 81 2549 2567
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 81 2549 2579 "hw5/widget.ml" 85 2718 2786
+)
+"hw5/widget.ml" 81 2549 2580 "hw5/widget.ml" 81 2549 2581
+type(
+  Gctx.event
+)
+ident(
+  def e "hw5/widget.ml" 82 2597 2601 "hw5/widget.ml" 85 2718 2786
+)
+"hw5/widget.ml" 82 2597 2604 "hw5/widget.ml" 82 2597 2616
+type(
+  Gctx.gctx -> Gctx.event -> Gctx.dimension -> bool
+)
+ident(
+  int_ref event_within "hw5/widget.ml" 56 1560 1564 "hw5/widget.ml" 56 1560 1576
+)
+"hw5/widget.ml" 82 2597 2617 "hw5/widget.ml" 82 2597 2618
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 81 2549 2566 "hw5/widget.ml" 81 2549 2567
+)
+"hw5/widget.ml" 82 2597 2619 "hw5/widget.ml" 82 2597 2620
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 81 2549 2580 "hw5/widget.ml" 81 2549 2581
+)
+"hw5/widget.ml" 82 2597 2622 "hw5/widget.ml" 82 2597 2624
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 76 2378 2389 "hw5/widget.ml" 76 2378 2391
+)
+"hw5/widget.ml" 82 2597 2622 "hw5/widget.ml" 82 2597 2629
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 82 2597 2630 "hw5/widget.ml" 82 2597 2632
+type(
+  unit
+)
+"hw5/widget.ml" 82 2597 2621 "hw5/widget.ml" 82 2597 2633
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 82 2597 2604 "hw5/widget.ml" 82 2597 2633
+call(
+  stack
+)
+type(
+  bool
+)
+"hw5/widget.ml" 83 2634 2643 "hw5/widget.ml" 83 2634 2645
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 76 2378 2389 "hw5/widget.ml" 76 2378 2391
+)
+"hw5/widget.ml" 83 2634 2643 "hw5/widget.ml" 83 2634 2652
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 83 2634 2653 "hw5/widget.ml" 83 2634 2654
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 81 2549 2566 "hw5/widget.ml" 81 2549 2567
+)
+"hw5/widget.ml" 83 2634 2655 "hw5/widget.ml" 83 2634 2656
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 81 2549 2580 "hw5/widget.ml" 81 2549 2581
+)
+"hw5/widget.ml" 83 2634 2643 "hw5/widget.ml" 83 2634 2656
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 84 2657 2670 "hw5/widget.ml" 84 2657 2671
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 85 2718 2727 "hw5/widget.ml" 85 2718 2786
+)
+"hw5/widget.ml" 84 2657 2675 "hw5/widget.ml" 84 2657 2689
+type(
+  Gctx.gctx -> int * int -> Gctx.gctx
+)
+ident(
+  ext_ref Gctx.translate
+)
+"hw5/widget.ml" 84 2657 2690 "hw5/widget.ml" 84 2657 2691
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 81 2549 2566 "hw5/widget.ml" 81 2549 2567
+)
+"hw5/widget.ml" 84 2657 2693 "hw5/widget.ml" 84 2657 2694
+type(
+  int
+)
+"hw5/widget.ml" 84 2657 2696 "hw5/widget.ml" 84 2657 2699
+type(
+  Gctx.dimension -> int
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"hw5/widget.ml" 84 2657 2701 "hw5/widget.ml" 84 2657 2703
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 76 2378 2389 "hw5/widget.ml" 76 2378 2391
+)
+"hw5/widget.ml" 84 2657 2701 "hw5/widget.ml" 84 2657 2708
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 84 2657 2709 "hw5/widget.ml" 84 2657 2711
+type(
+  unit
+)
+"hw5/widget.ml" 84 2657 2700 "hw5/widget.ml" 84 2657 2712
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 84 2657 2696 "hw5/widget.ml" 84 2657 2712
+type(
+  int
+)
+"hw5/widget.ml" 84 2657 2692 "hw5/widget.ml" 84 2657 2713
+type(
+  int * int
+)
+"hw5/widget.ml" 84 2657 2674 "hw5/widget.ml" 84 2657 2714
+call(
+  stack
+)
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 85 2718 2730 "hw5/widget.ml" 85 2718 2742
+type(
+  Gctx.gctx -> Gctx.event -> Gctx.dimension -> bool
+)
+ident(
+  int_ref event_within "hw5/widget.ml" 56 1560 1564 "hw5/widget.ml" 56 1560 1576
+)
+"hw5/widget.ml" 85 2718 2743 "hw5/widget.ml" 85 2718 2744
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 84 2657 2670 "hw5/widget.ml" 84 2657 2671
+)
+"hw5/widget.ml" 85 2718 2745 "hw5/widget.ml" 85 2718 2746
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 81 2549 2580 "hw5/widget.ml" 81 2549 2581
+)
+"hw5/widget.ml" 85 2718 2748 "hw5/widget.ml" 85 2718 2750
+type(
+  widget
+)
+ident(
+  int_ref w2 "hw5/widget.ml" 76 2378 2402 "hw5/widget.ml" 76 2378 2404
+)
+"hw5/widget.ml" 85 2718 2748 "hw5/widget.ml" 85 2718 2755
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 85 2718 2756 "hw5/widget.ml" 85 2718 2758
+type(
+  unit
+)
+"hw5/widget.ml" 85 2718 2747 "hw5/widget.ml" 85 2718 2759
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 85 2718 2730 "hw5/widget.ml" 85 2718 2759
+call(
+  stack
+)
+type(
+  bool
+)
+"hw5/widget.ml" 85 2718 2765 "hw5/widget.ml" 85 2718 2767
+type(
+  widget
+)
+ident(
+  int_ref w2 "hw5/widget.ml" 76 2378 2402 "hw5/widget.ml" 76 2378 2404
+)
+"hw5/widget.ml" 85 2718 2765 "hw5/widget.ml" 85 2718 2774
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 85 2718 2775 "hw5/widget.ml" 85 2718 2776
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 84 2657 2670 "hw5/widget.ml" 84 2657 2671
+)
+"hw5/widget.ml" 85 2718 2777 "hw5/widget.ml" 85 2718 2778
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 81 2549 2580 "hw5/widget.ml" 81 2549 2581
+)
+"hw5/widget.ml" 85 2718 2765 "hw5/widget.ml" 85 2718 2778
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 85 2718 2784 "hw5/widget.ml" 85 2718 2786
+type(
+  unit
+)
+"hw5/widget.ml" 85 2718 2727 "hw5/widget.ml" 85 2718 2786
+type(
+  unit
+)
+"hw5/widget.ml" 84 2657 2666 "hw5/widget.ml" 85 2718 2786
+type(
+  unit
+)
+"hw5/widget.ml" 82 2597 2601 "hw5/widget.ml" 85 2718 2786
+type(
+  unit
+)
+"hw5/widget.ml" 81 2549 2560 "hw5/widget.ml" 85 2718 2787
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 86 2789 2803 "hw5/widget.ml" 86 2789 2805
+type(
+  unit
+)
+"hw5/widget.ml" 86 2789 2814 "hw5/widget.ml" 86 2789 2816
+type(
+  int
+)
+ident(
+  def x1 "hw5/widget.ml" 87 2837 2847 "hw5/widget.ml" 87 2837 2895
+)
+"hw5/widget.ml" 86 2789 2817 "hw5/widget.ml" 86 2789 2819
+type(
+  int
+)
+ident(
+  def y1 "hw5/widget.ml" 87 2837 2847 "hw5/widget.ml" 87 2837 2895
+)
+"hw5/widget.ml" 86 2789 2813 "hw5/widget.ml" 86 2789 2820
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 86 2789 2823 "hw5/widget.ml" 86 2789 2825
+type(
+  widget
+)
+ident(
+  int_ref w1 "hw5/widget.ml" 76 2378 2389 "hw5/widget.ml" 76 2378 2391
+)
+"hw5/widget.ml" 86 2789 2823 "hw5/widget.ml" 86 2789 2830
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 86 2789 2831 "hw5/widget.ml" 86 2789 2833
+type(
+  unit
+)
+"hw5/widget.ml" 86 2789 2823 "hw5/widget.ml" 86 2789 2833
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 87 2837 2852 "hw5/widget.ml" 87 2837 2854
+type(
+  int
+)
+ident(
+  def x2 "hw5/widget.ml" 87 2837 2875 "hw5/widget.ml" 87 2837 2895
+)
+"hw5/widget.ml" 87 2837 2855 "hw5/widget.ml" 87 2837 2857
+type(
+  int
+)
+ident(
+  def y2 "hw5/widget.ml" 87 2837 2875 "hw5/widget.ml" 87 2837 2895
+)
+"hw5/widget.ml" 87 2837 2851 "hw5/widget.ml" 87 2837 2858
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 87 2837 2861 "hw5/widget.ml" 87 2837 2863
+type(
+  widget
+)
+ident(
+  int_ref w2 "hw5/widget.ml" 76 2378 2402 "hw5/widget.ml" 76 2378 2404
+)
+"hw5/widget.ml" 87 2837 2861 "hw5/widget.ml" 87 2837 2868
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 87 2837 2869 "hw5/widget.ml" 87 2837 2871
+type(
+  unit
+)
+"hw5/widget.ml" 87 2837 2861 "hw5/widget.ml" 87 2837 2871
+call(
+  stack
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 87 2837 2876 "hw5/widget.ml" 87 2837 2879
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw5/widget.ml" 87 2837 2880 "hw5/widget.ml" 87 2837 2882
+type(
+  int
+)
+ident(
+  int_ref x1 "hw5/widget.ml" 86 2789 2814 "hw5/widget.ml" 86 2789 2816
+)
+"hw5/widget.ml" 87 2837 2883 "hw5/widget.ml" 87 2837 2885
+type(
+  int
+)
+ident(
+  int_ref x2 "hw5/widget.ml" 87 2837 2852 "hw5/widget.ml" 87 2837 2854
+)
+"hw5/widget.ml" 87 2837 2876 "hw5/widget.ml" 87 2837 2885
+call(
+  stack
+)
+type(
+  int
+)
+"hw5/widget.ml" 87 2837 2887 "hw5/widget.ml" 87 2837 2889
+type(
+  int
+)
+ident(
+  int_ref y1 "hw5/widget.ml" 86 2789 2817 "hw5/widget.ml" 86 2789 2819
+)
+"hw5/widget.ml" 87 2837 2890 "hw5/widget.ml" 87 2837 2891
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/widget.ml" 87 2837 2892 "hw5/widget.ml" 87 2837 2894
+type(
+  int
+)
+ident(
+  int_ref y2 "hw5/widget.ml" 87 2837 2855 "hw5/widget.ml" 87 2837 2857
+)
+"hw5/widget.ml" 87 2837 2887 "hw5/widget.ml" 87 2837 2894
+type(
+  int
+)
+"hw5/widget.ml" 87 2837 2875 "hw5/widget.ml" 87 2837 2895
+type(
+  int * int
+)
+"hw5/widget.ml" 87 2837 2847 "hw5/widget.ml" 87 2837 2895
+type(
+  int * int
+)
+"hw5/widget.ml" 86 2789 2809 "hw5/widget.ml" 87 2837 2895
+type(
+  int * int
+)
+"hw5/widget.ml" 86 2789 2798 "hw5/widget.ml" 87 2837 2896
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 77 2425 2425 "hw5/widget.ml" 88 2897 2898
+type(
+  widget
+)
+type(
+  widget
+)
+"hw5/widget.ml" 98 3225 3229 "hw5/widget.ml" 98 3225 3240
+type(
+  (widget -> widget -> widget) -> widget list -> widget
+)
+ident(
+  def list_layout "hw5/widget.ml" 103 3349 3349 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 99 3241 3246 "hw5/widget.ml" 99 3241 3250
+type(
+  widget -> widget -> widget
+)
+ident(
+  def pair "hw5/widget.ml" 100 3280 3284 "hw5/widget.ml" 101 3313 3347
+)
+"hw5/widget.ml" 100 3280 3285 "hw5/widget.ml" 100 3280 3287
+type(
+  widget list
+)
+ident(
+  def ws "hw5/widget.ml" 100 3280 3302 "hw5/widget.ml" 101 3313 3347
+)
+"hw5/widget.ml" 101 3313 3315 "hw5/widget.ml" 101 3313 3325
+type(
+  (widget -> widget -> widget) -> widget list -> widget -> widget
+)
+ident(
+  ext_ref List.fold_right
+)
+"hw5/widget.ml" 101 3313 3326 "hw5/widget.ml" 101 3313 3330
+type(
+  widget -> widget -> widget
+)
+ident(
+  int_ref pair "hw5/widget.ml" 99 3241 3246 "hw5/widget.ml" 99 3241 3250
+)
+"hw5/widget.ml" 101 3313 3331 "hw5/widget.ml" 101 3313 3333
+type(
+  widget list
+)
+ident(
+  int_ref ws "hw5/widget.ml" 100 3280 3285 "hw5/widget.ml" 100 3280 3287
+)
+"hw5/widget.ml" 101 3313 3335 "hw5/widget.ml" 101 3313 3340
+type(
+  Gctx.dimension -> widget
+)
+ident(
+  int_ref space "hw5/widget.ml" 27 545 549 "hw5/widget.ml" 27 545 554
+)
+"hw5/widget.ml" 101 3313 3342 "hw5/widget.ml" 101 3313 3343
+type(
+  int
+)
+"hw5/widget.ml" 101 3313 3344 "hw5/widget.ml" 101 3313 3345
+type(
+  int
+)
+"hw5/widget.ml" 101 3313 3341 "hw5/widget.ml" 101 3313 3346
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 101 3313 3334 "hw5/widget.ml" 101 3313 3347
+call(
+  stack
+)
+type(
+  widget
+)
+"hw5/widget.ml" 101 3313 3315 "hw5/widget.ml" 101 3313 3347
+call(
+  tail
+)
+type(
+  widget
+)
+type(
+  widget
+)
+"hw5/widget.ml" 103 3349 3353 "hw5/widget.ml" 103 3349 3358
+type(
+  widget list -> widget
+)
+ident(
+  def vlist "hw5/widget.ml" 104 3426 3426 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 103 3349 3360 "hw5/widget.ml" 103 3349 3362
+type(
+  widget list
+)
+ident(
+  def ws "hw5/widget.ml" 103 3349 3377 "hw5/widget.ml" 103 3349 3425
+)
+"hw5/widget.ml" 103 3349 3388 "hw5/widget.ml" 103 3349 3399
+type(
+  (widget -> widget -> widget) -> widget list -> widget
+)
+ident(
+  int_ref list_layout "hw5/widget.ml" 98 3225 3229 "hw5/widget.ml" 98 3225 3240
+)
+"hw5/widget.ml" 103 3349 3405 "hw5/widget.ml" 103 3349 3406
+type(
+  widget
+)
+ident(
+  def x "hw5/widget.ml" 103 3349 3407 "hw5/widget.ml" 103 3349 3421
+)
+"hw5/widget.ml" 103 3349 3407 "hw5/widget.ml" 103 3349 3408
+type(
+  widget
+)
+ident(
+  def y "hw5/widget.ml" 103 3349 3412 "hw5/widget.ml" 103 3349 3421
+)
+"hw5/widget.ml" 103 3349 3412 "hw5/widget.ml" 103 3349 3417
+type(
+  widget -> widget -> widget
+)
+ident(
+  int_ref vpair "hw5/widget.ml" 76 2378 2382 "hw5/widget.ml" 76 2378 2387
+)
+"hw5/widget.ml" 103 3349 3418 "hw5/widget.ml" 103 3349 3419
+type(
+  widget
+)
+ident(
+  int_ref x "hw5/widget.ml" 103 3349 3405 "hw5/widget.ml" 103 3349 3406
+)
+"hw5/widget.ml" 103 3349 3420 "hw5/widget.ml" 103 3349 3421
+type(
+  widget
+)
+ident(
+  int_ref y "hw5/widget.ml" 103 3349 3407 "hw5/widget.ml" 103 3349 3408
+)
+"hw5/widget.ml" 103 3349 3412 "hw5/widget.ml" 103 3349 3421
+call(
+  tail
+)
+type(
+  widget
+)
+"hw5/widget.ml" 103 3349 3400 "hw5/widget.ml" 103 3349 3422
+type(
+  widget -> widget -> widget
+)
+"hw5/widget.ml" 103 3349 3423 "hw5/widget.ml" 103 3349 3425
+type(
+  widget list
+)
+ident(
+  int_ref ws "hw5/widget.ml" 103 3349 3360 "hw5/widget.ml" 103 3349 3362
+)
+"hw5/widget.ml" 103 3349 3388 "hw5/widget.ml" 103 3349 3425
+call(
+  tail
+)
+type(
+  widget
+)
+type(
+  widget
+)
+"hw5/widget.ml" 104 3426 3430 "hw5/widget.ml" 104 3426 3435
+type(
+  widget list -> widget
+)
+ident(
+  def hlist "hw5/widget.ml" 122 4214 4214 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 104 3426 3437 "hw5/widget.ml" 104 3426 3439
+type(
+  widget list
+)
+ident(
+  def ws "hw5/widget.ml" 104 3426 3454 "hw5/widget.ml" 104 3426 3502
+)
+"hw5/widget.ml" 104 3426 3465 "hw5/widget.ml" 104 3426 3476
+type(
+  (widget -> widget -> widget) -> widget list -> widget
+)
+ident(
+  int_ref list_layout "hw5/widget.ml" 98 3225 3229 "hw5/widget.ml" 98 3225 3240
+)
+"hw5/widget.ml" 104 3426 3482 "hw5/widget.ml" 104 3426 3483
+type(
+  widget
+)
+ident(
+  def x "hw5/widget.ml" 104 3426 3484 "hw5/widget.ml" 104 3426 3498
+)
+"hw5/widget.ml" 104 3426 3484 "hw5/widget.ml" 104 3426 3485
+type(
+  widget
+)
+ident(
+  def y "hw5/widget.ml" 104 3426 3489 "hw5/widget.ml" 104 3426 3498
+)
+"hw5/widget.ml" 104 3426 3489 "hw5/widget.ml" 104 3426 3494
+type(
+  widget -> widget -> widget
+)
+ident(
+  int_ref hpair "hw5/widget.ml" 63 1857 1861 "hw5/widget.ml" 63 1857 1866
+)
+"hw5/widget.ml" 104 3426 3495 "hw5/widget.ml" 104 3426 3496
+type(
+  widget
+)
+ident(
+  int_ref x "hw5/widget.ml" 104 3426 3482 "hw5/widget.ml" 104 3426 3483
+)
+"hw5/widget.ml" 104 3426 3497 "hw5/widget.ml" 104 3426 3498
+type(
+  widget
+)
+ident(
+  int_ref y "hw5/widget.ml" 104 3426 3484 "hw5/widget.ml" 104 3426 3485
+)
+"hw5/widget.ml" 104 3426 3489 "hw5/widget.ml" 104 3426 3498
+call(
+  tail
+)
+type(
+  widget
+)
+"hw5/widget.ml" 104 3426 3477 "hw5/widget.ml" 104 3426 3499
+type(
+  widget -> widget -> widget
+)
+"hw5/widget.ml" 104 3426 3500 "hw5/widget.ml" 104 3426 3502
+type(
+  widget list
+)
+ident(
+  int_ref ws "hw5/widget.ml" 104 3426 3437 "hw5/widget.ml" 104 3426 3439
+)
+"hw5/widget.ml" 104 3426 3465 "hw5/widget.ml" 104 3426 3502
+call(
+  tail
+)
+type(
+  widget
+)
+type(
+  widget
+)
+"hw5/widget.ml" 126 4376 4380 "hw5/widget.ml" 126 4376 4385
+type(
+  string -> widget * label_controller
+)
+ident(
+  def label "hw5/widget.ml" 145 4957 4957 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 126 4376 4387 "hw5/widget.ml" 126 4376 4388
+type(
+  string
+)
+ident(
+  def s "hw5/widget.ml" 126 4376 4398 "hw5/widget.ml" 136 4727 4730
+)
+"hw5/widget.ml" 127 4428 4434 "hw5/widget.ml" 127 4428 4435
+type(
+  string ref
+)
+ident(
+  def r "hw5/widget.ml" 128 4458 4460 "hw5/widget.ml" 136 4727 4730
+)
+"hw5/widget.ml" 127 4428 4451 "hw5/widget.ml" 127 4428 4452
+type(
+  string
+)
+ident(
+  int_ref s "hw5/widget.ml" 126 4376 4387 "hw5/widget.ml" 126 4376 4388
+)
+"hw5/widget.ml" 127 4428 4438 "hw5/widget.ml" 127 4428 4454
+type(
+  string ref
+)
+"hw5/widget.ml" 128 4458 4478 "hw5/widget.ml" 128 4458 4479
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 129 4495 4507 "hw5/widget.ml" 129 4495 4542
+)
+"hw5/widget.ml" 129 4495 4507 "hw5/widget.ml" 129 4495 4523
+type(
+  Gctx.gctx -> Gctx.position -> string -> unit
+)
+ident(
+  ext_ref Gctx.draw_string
+)
+"hw5/widget.ml" 129 4495 4524 "hw5/widget.ml" 129 4495 4525
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 128 4458 4478 "hw5/widget.ml" 128 4458 4479
+)
+"hw5/widget.ml" 129 4495 4527 "hw5/widget.ml" 129 4495 4528
+type(
+  int
+)
+"hw5/widget.ml" 129 4495 4529 "hw5/widget.ml" 129 4495 4530
+type(
+  int
+)
+"hw5/widget.ml" 129 4495 4526 "hw5/widget.ml" 129 4495 4531
+type(
+  Gctx.position
+)
+"hw5/widget.ml" 129 4495 4532 "hw5/widget.ml" 129 4495 4533
+type(
+  string ref
+)
+ident(
+  int_ref r "hw5/widget.ml" 127 4428 4434 "hw5/widget.ml" 127 4428 4435
+)
+"hw5/widget.ml" 129 4495 4532 "hw5/widget.ml" 129 4495 4542
+type(
+  string
+)
+"hw5/widget.ml" 129 4495 4507 "hw5/widget.ml" 129 4495 4542
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 128 4458 4472 "hw5/widget.ml" 129 4495 4543
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 130 4545 4563 "hw5/widget.ml" 130 4545 4564
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 130 4545 4565 "hw5/widget.ml" 130 4545 4566
+type(
+  Gctx.event
+)
+"hw5/widget.ml" 130 4545 4570 "hw5/widget.ml" 130 4545 4572
+type(
+  unit
+)
+"hw5/widget.ml" 130 4545 4558 "hw5/widget.ml" 130 4545 4573
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 131 4575 4591 "hw5/widget.ml" 131 4575 4593
+type(
+  unit
+)
+"hw5/widget.ml" 131 4575 4597 "hw5/widget.ml" 131 4575 4611
+type(
+  string -> Gctx.dimension
+)
+ident(
+  ext_ref Gctx.text_size
+)
+"hw5/widget.ml" 131 4575 4612 "hw5/widget.ml" 131 4575 4613
+type(
+  string ref
+)
+ident(
+  int_ref r "hw5/widget.ml" 127 4428 4434 "hw5/widget.ml" 127 4428 4435
+)
+"hw5/widget.ml" 131 4575 4612 "hw5/widget.ml" 131 4575 4622
+type(
+  string
+)
+"hw5/widget.ml" 131 4575 4597 "hw5/widget.ml" 131 4575 4622
+call(
+  tail
+)
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 131 4575 4586 "hw5/widget.ml" 131 4575 4623
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 128 4458 4460 "hw5/widget.ml" 132 4624 4627
+type(
+  widget
+)
+"hw5/widget.ml" 134 4633 4654 "hw5/widget.ml" 134 4633 4656
+type(
+  unit
+)
+"hw5/widget.ml" 134 4633 4660 "hw5/widget.ml" 134 4633 4661
+type(
+  string ref
+)
+ident(
+  int_ref r "hw5/widget.ml" 127 4428 4434 "hw5/widget.ml" 127 4428 4435
+)
+"hw5/widget.ml" 134 4633 4660 "hw5/widget.ml" 134 4633 4670
+type(
+  string
+)
+"hw5/widget.ml" 134 4633 4649 "hw5/widget.ml" 134 4633 4671
+type(
+  unit -> string
+)
+"hw5/widget.ml" 135 4673 4695 "hw5/widget.ml" 135 4673 4696
+type(
+  string
+)
+ident(
+  def s "hw5/widget.ml" 135 4673 4709 "hw5/widget.ml" 135 4673 4724
+)
+"hw5/widget.ml" 135 4673 4709 "hw5/widget.ml" 135 4673 4710
+type(
+  string ref
+)
+ident(
+  int_ref r "hw5/widget.ml" 127 4428 4434 "hw5/widget.ml" 127 4428 4435
+)
+"hw5/widget.ml" 135 4673 4723 "hw5/widget.ml" 135 4673 4724
+type(
+  string
+)
+ident(
+  int_ref s "hw5/widget.ml" 135 4673 4695 "hw5/widget.ml" 135 4673 4696
+)
+"hw5/widget.ml" 135 4673 4709 "hw5/widget.ml" 135 4673 4724
+type(
+  unit
+)
+"hw5/widget.ml" 135 4673 4689 "hw5/widget.ml" 135 4673 4725
+type(
+  string -> unit
+)
+"hw5/widget.ml" 133 4629 4631 "hw5/widget.ml" 136 4727 4730
+type(
+  label_controller
+)
+"hw5/widget.ml" 128 4458 4460 "hw5/widget.ml" 136 4727 4730
+type(
+  widget * label_controller
+)
+"hw5/widget.ml" 127 4428 4430 "hw5/widget.ml" 136 4727 4730
+type(
+  widget * label_controller
+)
+type(
+  widget * label_controller
+)
+"hw5/widget.ml" 150 5129 5133 "hw5/widget.ml" 150 5129 5152
+type(
+  (unit -> unit) -> event_listener
+)
+ident(
+  def mouseclick_listener "hw5/widget.ml" 156 5348 5348 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 150 5129 5154 "hw5/widget.ml" 150 5129 5160
+type(
+  unit -> unit
+)
+ident(
+  def action "hw5/widget.ml" 150 5129 5176 "hw5/widget.ml" 152 5235 5291
+)
+"hw5/widget.ml" 151 5195 5202 "hw5/widget.ml" 151 5195 5203
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 151 5195 5216 "hw5/widget.ml" 152 5235 5291
+)
+"hw5/widget.ml" 151 5195 5217 "hw5/widget.ml" 151 5195 5218
+type(
+  Gctx.event
+)
+ident(
+  def e "hw5/widget.ml" 152 5235 5239 "hw5/widget.ml" 152 5235 5291
+)
+"hw5/widget.ml" 152 5235 5242 "hw5/widget.ml" 152 5235 5257
+type(
+  Gctx.event -> Gctx.event_type
+)
+ident(
+  ext_ref Gctx.event_type
+)
+"hw5/widget.ml" 152 5235 5258 "hw5/widget.ml" 152 5235 5259
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 151 5195 5217 "hw5/widget.ml" 151 5195 5218
+)
+"hw5/widget.ml" 152 5235 5242 "hw5/widget.ml" 152 5235 5259
+call(
+  stack
+)
+type(
+  Gctx.event_type
+)
+"hw5/widget.ml" 152 5235 5260 "hw5/widget.ml" 152 5235 5261
+type(
+  Gctx.event_type -> Gctx.event_type -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw5/widget.ml" 152 5235 5262 "hw5/widget.ml" 152 5235 5276
+type(
+  Gctx.event_type
+)
+"hw5/widget.ml" 152 5235 5242 "hw5/widget.ml" 152 5235 5276
+type(
+  bool
+)
+"hw5/widget.ml" 152 5235 5282 "hw5/widget.ml" 152 5235 5288
+type(
+  unit -> unit
+)
+ident(
+  int_ref action "hw5/widget.ml" 150 5129 5154 "hw5/widget.ml" 150 5129 5160
+)
+"hw5/widget.ml" 152 5235 5289 "hw5/widget.ml" 152 5235 5291
+type(
+  unit
+)
+"hw5/widget.ml" 152 5235 5282 "hw5/widget.ml" 152 5235 5291
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 152 5235 5239 "hw5/widget.ml" 152 5235 5291
+type(
+  unit
+)
+"hw5/widget.ml" 151 5195 5197 "hw5/widget.ml" 152 5235 5291
+type(
+  event_listener
+)
+type(
+  event_listener
+)
+"hw5/widget.ml" 156 5348 5352 "hw5/widget.ml" 156 5348 5364
+type(
+  (char -> unit) -> event_listener
+)
+ident(
+  def key_listener "hw5/widget.ml" 165 5692 5692 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 156 5348 5366 "hw5/widget.ml" 156 5348 5372
+type(
+  char -> unit
+)
+ident(
+  def action "hw5/widget.ml" 156 5348 5388 "hw5/widget.ml" 161 5548 5557
+)
+"hw5/widget.ml" 157 5407 5414 "hw5/widget.ml" 157 5407 5415
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 157 5407 5428 "hw5/widget.ml" 161 5548 5557
+)
+"hw5/widget.ml" 157 5407 5429 "hw5/widget.ml" 157 5407 5430
+type(
+  Gctx.event
+)
+ident(
+  def e "hw5/widget.ml" 158 5447 5453 "hw5/widget.ml" 161 5548 5557
+)
+"hw5/widget.ml" 158 5447 5465 "hw5/widget.ml" 158 5447 5480
+type(
+  Gctx.event -> Gctx.event_type
+)
+ident(
+  ext_ref Gctx.event_type
+)
+"hw5/widget.ml" 158 5447 5481 "hw5/widget.ml" 158 5447 5482
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 157 5407 5429 "hw5/widget.ml" 157 5407 5430
+)
+"hw5/widget.ml" 158 5447 5465 "hw5/widget.ml" 158 5447 5482
+call(
+  stack
+)
+type(
+  Gctx.event_type
+)
+"hw5/widget.ml" 159 5488 5512 "hw5/widget.ml" 159 5488 5515
+type(
+  char
+)
+ident(
+  def key "hw5/widget.ml" 159 5488 5519 "hw5/widget.ml" 159 5488 5529
+)
+"hw5/widget.ml" 159 5488 5498 "hw5/widget.ml" 159 5488 5515
+type(
+  Gctx.event_type
+)
+"hw5/widget.ml" 159 5488 5519 "hw5/widget.ml" 159 5488 5525
+type(
+  char -> unit
+)
+ident(
+  int_ref action "hw5/widget.ml" 156 5348 5366 "hw5/widget.ml" 156 5348 5372
+)
+"hw5/widget.ml" 159 5488 5526 "hw5/widget.ml" 159 5488 5529
+type(
+  char
+)
+ident(
+  int_ref key "hw5/widget.ml" 159 5488 5512 "hw5/widget.ml" 159 5488 5515
+)
+"hw5/widget.ml" 159 5488 5519 "hw5/widget.ml" 159 5488 5529
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 160 5530 5540 "hw5/widget.ml" 160 5530 5541
+type(
+  Gctx.event_type
+)
+"hw5/widget.ml" 160 5530 5545 "hw5/widget.ml" 160 5530 5547
+type(
+  unit
+)
+"hw5/widget.ml" 158 5447 5453 "hw5/widget.ml" 161 5548 5557
+type(
+  unit
+)
+"hw5/widget.ml" 157 5407 5409 "hw5/widget.ml" 161 5548 5557
+type(
+  event_listener
+)
+type(
+  event_listener
+)
+"hw5/widget.ml" 177 6184 6188 "hw5/widget.ml" 177 6184 6196
+type(
+  widget -> widget * notifier_controller
+)
+ident(
+  def notifier "hw5/widget.ml" 200 7012 7012 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 177 6184 6198 "hw5/widget.ml" 177 6184 6199
+type(
+  widget
+)
+ident(
+  def w "hw5/widget.ml" 177 6184 6209 "hw5/widget.ml" 189 6589 6592
+)
+"hw5/widget.ml" 178 6242 6248 "hw5/widget.ml" 178 6242 6257
+type(
+  event_listener list ref
+)
+ident(
+  def listeners "hw5/widget.ml" 179 6281 6283 "hw5/widget.ml" 189 6589 6592
+)
+"hw5/widget.ml" 178 6242 6273 "hw5/widget.ml" 178 6242 6275
+type(
+  event_listener list
+)
+"hw5/widget.ml" 178 6242 6260 "hw5/widget.ml" 178 6242 6277
+type(
+  event_listener list ref
+)
+"hw5/widget.ml" 179 6281 6295 "hw5/widget.ml" 179 6281 6296
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 177 6184 6198 "hw5/widget.ml" 177 6184 6199
+)
+"hw5/widget.ml" 179 6281 6295 "hw5/widget.ml" 179 6281 6304
+type(
+  Gctx.gctx -> unit
+)
+"hw5/widget.ml" 181 6319 6331 "hw5/widget.ml" 181 6319 6332
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/widget.ml" 181 6319 6345 "hw5/widget.ml" 183 6421 6443
+)
+"hw5/widget.ml" 181 6319 6346 "hw5/widget.ml" 181 6319 6347
+type(
+  Gctx.event
+)
+ident(
+  def e "hw5/widget.ml" 182 6364 6374 "hw5/widget.ml" 183 6421 6443
+)
+"hw5/widget.ml" 182 6364 6374 "hw5/widget.ml" 182 6364 6383
+type(
+  (event_listener -> unit) -> event_listener list -> unit
+)
+ident(
+  ext_ref List.iter
+)
+"hw5/widget.ml" 182 6364 6389 "hw5/widget.ml" 182 6364 6390
+type(
+  event_listener
+)
+ident(
+  def h "hw5/widget.ml" 182 6364 6394 "hw5/widget.ml" 182 6364 6399
+)
+"hw5/widget.ml" 182 6364 6394 "hw5/widget.ml" 182 6364 6395
+type(
+  event_listener
+)
+ident(
+  int_ref h "hw5/widget.ml" 182 6364 6389 "hw5/widget.ml" 182 6364 6390
+)
+"hw5/widget.ml" 182 6364 6396 "hw5/widget.ml" 182 6364 6397
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 181 6319 6331 "hw5/widget.ml" 181 6319 6332
+)
+"hw5/widget.ml" 182 6364 6398 "hw5/widget.ml" 182 6364 6399
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 181 6319 6346 "hw5/widget.ml" 181 6319 6347
+)
+"hw5/widget.ml" 182 6364 6394 "hw5/widget.ml" 182 6364 6399
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 182 6364 6384 "hw5/widget.ml" 182 6364 6400
+type(
+  event_listener -> unit
+)
+"hw5/widget.ml" 182 6364 6401 "hw5/widget.ml" 182 6364 6410
+type(
+  event_listener list ref
+)
+ident(
+  int_ref listeners "hw5/widget.ml" 178 6242 6248 "hw5/widget.ml" 178 6242 6257
+)
+"hw5/widget.ml" 182 6364 6401 "hw5/widget.ml" 182 6364 6419
+type(
+  event_listener list
+)
+"hw5/widget.ml" 182 6364 6374 "hw5/widget.ml" 182 6364 6419
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 183 6421 6431 "hw5/widget.ml" 183 6421 6432
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 177 6184 6198 "hw5/widget.ml" 177 6184 6199
+)
+"hw5/widget.ml" 183 6421 6431 "hw5/widget.ml" 183 6421 6439
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 183 6421 6440 "hw5/widget.ml" 183 6421 6441
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/widget.ml" 181 6319 6331 "hw5/widget.ml" 181 6319 6332
+)
+"hw5/widget.ml" 183 6421 6442 "hw5/widget.ml" 183 6421 6443
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/widget.ml" 181 6319 6346 "hw5/widget.ml" 181 6319 6347
+)
+"hw5/widget.ml" 183 6421 6431 "hw5/widget.ml" 183 6421 6443
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 182 6364 6374 "hw5/widget.ml" 183 6421 6443
+type(
+  unit
+)
+"hw5/widget.ml" 181 6319 6325 "hw5/widget.ml" 183 6421 6444
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 184 6446 6457 "hw5/widget.ml" 184 6446 6458
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 177 6184 6198 "hw5/widget.ml" 177 6184 6199
+)
+"hw5/widget.ml" 184 6446 6457 "hw5/widget.ml" 184 6446 6463
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 179 6281 6283 "hw5/widget.ml" 185 6464 6467
+type(
+  widget
+)
+"hw5/widget.ml" 187 6494 6505 "hw5/widget.ml" 187 6494 6509
+type(
+  event_listener
+)
+ident(
+  def newl "hw5/widget.ml" 188 6530 6540 "hw5/widget.ml" 188 6530 6588
+)
+"hw5/widget.ml" 188 6530 6540 "hw5/widget.ml" 188 6530 6549
+type(
+  event_listener list ref
+)
+ident(
+  int_ref listeners "hw5/widget.ml" 178 6242 6248 "hw5/widget.ml" 178 6242 6257
+)
+"hw5/widget.ml" 188 6530 6562 "hw5/widget.ml" 188 6530 6566
+type(
+  event_listener
+)
+ident(
+  int_ref newl "hw5/widget.ml" 187 6494 6505 "hw5/widget.ml" 187 6494 6509
+)
+"hw5/widget.ml" 188 6530 6570 "hw5/widget.ml" 188 6530 6579
+type(
+  event_listener list ref
+)
+ident(
+  int_ref listeners "hw5/widget.ml" 178 6242 6248 "hw5/widget.ml" 178 6242 6257
+)
+"hw5/widget.ml" 188 6530 6570 "hw5/widget.ml" 188 6530 6588
+type(
+  event_listener list
+)
+"hw5/widget.ml" 188 6530 6562 "hw5/widget.ml" 188 6530 6588
+type(
+  event_listener list
+)
+"hw5/widget.ml" 188 6530 6540 "hw5/widget.ml" 188 6530 6588
+type(
+  unit
+)
+"hw5/widget.ml" 187 6494 6500 "hw5/widget.ml" 188 6530 6588
+type(
+  event_listener -> unit
+)
+"hw5/widget.ml" 186 6469 6471 "hw5/widget.ml" 189 6589 6592
+type(
+  notifier_controller
+)
+"hw5/widget.ml" 179 6281 6283 "hw5/widget.ml" 189 6589 6592
+type(
+  widget * notifier_controller
+)
+"hw5/widget.ml" 178 6242 6244 "hw5/widget.ml" 189 6589 6592
+type(
+  widget * notifier_controller
+)
+type(
+  widget * notifier_controller
+)
+"hw5/widget.ml" 200 7012 7016 "hw5/widget.ml" 200 7012 7022
+type(
+  string -> widget * label_controller * notifier_controller
+)
+ident(
+  def button "hw5/widget.ml" 213 7494 7494 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 200 7012 7024 "hw5/widget.ml" 200 7012 7025
+type(
+  string
+)
+ident(
+  def s "hw5/widget.ml" 201 7035 7039 "hw5/widget.ml" 204 7149 7163
+)
+"hw5/widget.ml" 202 7091 7098 "hw5/widget.ml" 202 7091 7099
+type(
+  widget
+)
+ident(
+  def w "hw5/widget.ml" 203 7118 7120 "hw5/widget.ml" 204 7149 7163
+)
+"hw5/widget.ml" 202 7091 7101 "hw5/widget.ml" 202 7091 7103
+type(
+  label_controller
+)
+ident(
+  def lc "hw5/widget.ml" 203 7118 7120 "hw5/widget.ml" 204 7149 7163
+)
+"hw5/widget.ml" 202 7091 7097 "hw5/widget.ml" 202 7091 7104
+type(
+  widget * label_controller
+)
+"hw5/widget.ml" 202 7091 7107 "hw5/widget.ml" 202 7091 7112
+type(
+  string -> widget * label_controller
+)
+ident(
+  int_ref label "hw5/widget.ml" 126 4376 4380 "hw5/widget.ml" 126 4376 4385
+)
+"hw5/widget.ml" 202 7091 7113 "hw5/widget.ml" 202 7091 7114
+type(
+  string
+)
+ident(
+  int_ref s "hw5/widget.ml" 200 7012 7024 "hw5/widget.ml" 200 7012 7025
+)
+"hw5/widget.ml" 202 7091 7107 "hw5/widget.ml" 202 7091 7114
+call(
+  stack
+)
+type(
+  widget * label_controller
+)
+"hw5/widget.ml" 203 7118 7125 "hw5/widget.ml" 203 7118 7127
+type(
+  widget
+)
+ident(
+  def w' "hw5/widget.ml" 204 7149 7151 "hw5/widget.ml" 204 7149 7163
+)
+"hw5/widget.ml" 203 7118 7129 "hw5/widget.ml" 203 7118 7131
+type(
+  notifier_controller
+)
+ident(
+  def nc "hw5/widget.ml" 204 7149 7151 "hw5/widget.ml" 204 7149 7163
+)
+"hw5/widget.ml" 203 7118 7124 "hw5/widget.ml" 203 7118 7132
+type(
+  widget * notifier_controller
+)
+"hw5/widget.ml" 203 7118 7135 "hw5/widget.ml" 203 7118 7143
+type(
+  widget -> widget * notifier_controller
+)
+ident(
+  int_ref notifier "hw5/widget.ml" 177 6184 6188 "hw5/widget.ml" 177 6184 6196
+)
+"hw5/widget.ml" 203 7118 7144 "hw5/widget.ml" 203 7118 7145
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 202 7091 7098 "hw5/widget.ml" 202 7091 7099
+)
+"hw5/widget.ml" 203 7118 7135 "hw5/widget.ml" 203 7118 7145
+call(
+  stack
+)
+type(
+  widget * notifier_controller
+)
+"hw5/widget.ml" 204 7149 7152 "hw5/widget.ml" 204 7149 7154
+type(
+  widget
+)
+ident(
+  int_ref w' "hw5/widget.ml" 203 7118 7125 "hw5/widget.ml" 203 7118 7127
+)
+"hw5/widget.ml" 204 7149 7156 "hw5/widget.ml" 204 7149 7158
+type(
+  label_controller
+)
+ident(
+  int_ref lc "hw5/widget.ml" 202 7091 7101 "hw5/widget.ml" 202 7091 7103
+)
+"hw5/widget.ml" 204 7149 7160 "hw5/widget.ml" 204 7149 7162
+type(
+  notifier_controller
+)
+ident(
+  int_ref nc "hw5/widget.ml" 203 7118 7129 "hw5/widget.ml" 203 7118 7131
+)
+"hw5/widget.ml" 204 7149 7151 "hw5/widget.ml" 204 7149 7163
+type(
+  widget * label_controller * notifier_controller
+)
+"hw5/widget.ml" 203 7118 7120 "hw5/widget.ml" 204 7149 7163
+type(
+  widget * label_controller * notifier_controller
+)
+"hw5/widget.ml" 202 7091 7093 "hw5/widget.ml" 204 7149 7163
+type(
+  widget * label_controller * notifier_controller
+)
+type(
+  widget * label_controller * notifier_controller
+)
+"hw5/widget.ml" 213 7494 7498 "hw5/widget.ml" 213 7494 7504
+type(
+  Gctx.dimension -> (Gctx.gctx -> unit) -> widget * notifier_controller
+)
+ident(
+  def canvas "hw5/widget.ml" 234 8163 8163 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 213 7494 7506 "hw5/widget.ml" 213 7494 7509
+type(
+  Gctx.dimension
+)
+ident(
+  def dim "hw5/widget.ml" 213 7494 7527 "hw5/widget.ml" 220 7692 7713
+)
+"hw5/widget.ml" 213 7494 7528 "hw5/widget.ml" 213 7494 7533
+type(
+  Gctx.gctx -> unit
+)
+ident(
+  def paint "hw5/widget.ml" 214 7555 7559 "hw5/widget.ml" 220 7692 7713
+)
+"hw5/widget.ml" 215 7592 7598 "hw5/widget.ml" 215 7592 7599
+type(
+  widget
+)
+ident(
+  def w "hw5/widget.ml" 220 7692 7694 "hw5/widget.ml" 220 7692 7713
+)
+"hw5/widget.ml" 216 7602 7618 "hw5/widget.ml" 216 7602 7623
+type(
+  Gctx.gctx -> unit
+)
+ident(
+  int_ref paint "hw5/widget.ml" 213 7494 7528 "hw5/widget.ml" 213 7494 7533
+)
+"hw5/widget.ml" 217 7625 7645 "hw5/widget.ml" 217 7625 7646
+type(
+  Gctx.gctx
+)
+"hw5/widget.ml" 217 7625 7647 "hw5/widget.ml" 217 7625 7648
+type(
+  Gctx.event
+)
+"hw5/widget.ml" 217 7625 7652 "hw5/widget.ml" 217 7625 7654
+type(
+  unit
+)
+"hw5/widget.ml" 217 7625 7640 "hw5/widget.ml" 217 7625 7655
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/widget.ml" 218 7657 7675 "hw5/widget.ml" 218 7657 7676
+type(
+  unit
+)
+"hw5/widget.ml" 218 7657 7680 "hw5/widget.ml" 218 7657 7683
+type(
+  Gctx.dimension
+)
+ident(
+  int_ref dim "hw5/widget.ml" 213 7494 7506 "hw5/widget.ml" 213 7494 7509
+)
+"hw5/widget.ml" 218 7657 7670 "hw5/widget.ml" 218 7657 7684
+type(
+  unit -> Gctx.dimension
+)
+"hw5/widget.ml" 216 7602 7606 "hw5/widget.ml" 218 7657 7686
+type(
+  widget
+)
+"hw5/widget.ml" 220 7692 7694 "hw5/widget.ml" 220 7692 7702
+type(
+  widget -> widget * notifier_controller
+)
+ident(
+  int_ref notifier "hw5/widget.ml" 177 6184 6188 "hw5/widget.ml" 177 6184 6196
+)
+"hw5/widget.ml" 220 7692 7704 "hw5/widget.ml" 220 7692 7710
+type(
+  widget -> widget
+)
+ident(
+  int_ref border "hw5/widget.ml" 34 764 768 "hw5/widget.ml" 34 764 774
+)
+"hw5/widget.ml" 220 7692 7711 "hw5/widget.ml" 220 7692 7712
+type(
+  widget
+)
+ident(
+  int_ref w "hw5/widget.ml" 215 7592 7598 "hw5/widget.ml" 215 7592 7599
+)
+"hw5/widget.ml" 220 7692 7703 "hw5/widget.ml" 220 7692 7713
+call(
+  stack
+)
+type(
+  widget
+)
+"hw5/widget.ml" 220 7692 7694 "hw5/widget.ml" 220 7692 7713
+call(
+  tail
+)
+type(
+  widget * notifier_controller
+)
+"hw5/widget.ml" 215 7592 7594 "hw5/widget.ml" 220 7692 7713
+type(
+  widget * notifier_controller
+)
+type(
+  widget * notifier_controller
+)
+"hw5/widget.ml" 243 8357 8361 "hw5/widget.ml" 243 8357 8369
+type(
+  bool -> string -> widget * bool value_controller
+)
+ident(
+  def checkbox "hw5/widget.ml" 274 9575 9575 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 243 8357 8371 "hw5/widget.ml" 243 8357 8375
+type(
+  bool
+)
+ident(
+  def init "hw5/widget.ml" 243 8357 8383 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 243 8357 8384 "hw5/widget.ml" 243 8357 8385
+type(
+  string
+)
+ident(
+  def s "hw5/widget.ml" 244 8395 8399 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 246 8494 8501 "hw5/widget.ml" 246 8494 8505
+type(
+  widget
+)
+ident(
+  def w_cb "hw5/widget.ml" 247 8562 8563 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 246 8494 8506 "hw5/widget.ml" 246 8494 8510
+type(
+  label_controller
+)
+ident(
+  def l_cb "hw5/widget.ml" 247 8562 8563 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 246 8494 8511 "hw5/widget.ml" 246 8494 8515
+type(
+  notifier_controller
+)
+ident(
+  def n_cb "hw5/widget.ml" 247 8562 8563 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 246 8494 8500 "hw5/widget.ml" 246 8494 8516
+type(
+  widget * label_controller * notifier_controller
+)
+"hw5/widget.ml" 246 8494 8522 "hw5/widget.ml" 246 8494 8526
+type(
+  bool
+)
+ident(
+  int_ref init "hw5/widget.ml" 243 8357 8371 "hw5/widget.ml" 243 8357 8375
+)
+"hw5/widget.ml" 246 8494 8532 "hw5/widget.ml" 246 8494 8538
+type(
+  string -> widget * label_controller * notifier_controller
+)
+ident(
+  int_ref button "hw5/widget.ml" 200 7012 7016 "hw5/widget.ml" 200 7012 7022
+)
+"hw5/widget.ml" 246 8494 8539 "hw5/widget.ml" 246 8494 8542
+type(
+  string
+)
+"hw5/widget.ml" 246 8494 8532 "hw5/widget.ml" 246 8494 8542
+call(
+  stack
+)
+type(
+  widget * label_controller * notifier_controller
+)
+"hw5/widget.ml" 246 8494 8548 "hw5/widget.ml" 246 8494 8554
+type(
+  string -> widget * label_controller * notifier_controller
+)
+ident(
+  int_ref button "hw5/widget.ml" 200 7012 7016 "hw5/widget.ml" 200 7012 7022
+)
+"hw5/widget.ml" 246 8494 8555 "hw5/widget.ml" 246 8494 8558
+type(
+  string
+)
+"hw5/widget.ml" 246 8494 8548 "hw5/widget.ml" 246 8494 8558
+call(
+  stack
+)
+type(
+  widget * label_controller * notifier_controller
+)
+"hw5/widget.ml" 246 8494 8519 "hw5/widget.ml" 246 8494 8558
+type(
+  widget * label_controller * notifier_controller
+)
+"hw5/widget.ml" 247 8562 8567 "hw5/widget.ml" 247 8562 8570
+type(
+  widget
+)
+ident(
+  def lbl "hw5/widget.ml" 248 8590 8591 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 247 8562 8573 "hw5/widget.ml" 247 8562 8576
+type(
+  widget * label_controller -> widget
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"hw5/widget.ml" 247 8562 8578 "hw5/widget.ml" 247 8562 8583
+type(
+  string -> widget * label_controller
+)
+ident(
+  int_ref label "hw5/widget.ml" 126 4376 4380 "hw5/widget.ml" 126 4376 4385
+)
+"hw5/widget.ml" 247 8562 8584 "hw5/widget.ml" 247 8562 8585
+type(
+  string
+)
+ident(
+  int_ref s "hw5/widget.ml" 243 8357 8384 "hw5/widget.ml" 243 8357 8385
+)
+"hw5/widget.ml" 247 8562 8577 "hw5/widget.ml" 247 8562 8586
+call(
+  stack
+)
+type(
+  widget * label_controller
+)
+"hw5/widget.ml" 247 8562 8573 "hw5/widget.ml" 247 8562 8586
+type(
+  widget
+)
+"hw5/widget.ml" 248 8590 8595 "hw5/widget.ml" 248 8590 8602
+type(
+  bool ref
+)
+ident(
+  def checked "hw5/widget.ml" 249 8650 8652 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 248 8590 8619 "hw5/widget.ml" 248 8590 8623
+type(
+  bool
+)
+ident(
+  int_ref init "hw5/widget.ml" 243 8357 8371 "hw5/widget.ml" 243 8357 8375
+)
+"hw5/widget.ml" 248 8590 8629 "hw5/widget.ml" 248 8590 8633
+type(
+  bool
+)
+"hw5/widget.ml" 248 8590 8639 "hw5/widget.ml" 248 8590 8644
+type(
+  bool
+)
+"hw5/widget.ml" 248 8590 8616 "hw5/widget.ml" 248 8590 8644
+type(
+  bool
+)
+"hw5/widget.ml" 248 8590 8605 "hw5/widget.ml" 248 8590 8646
+type(
+  bool ref
+)
+"hw5/widget.ml" 249 8650 8656 "hw5/widget.ml" 249 8650 8672
+type(
+  bool change_listener list ref
+)
+ident(
+  def change_listeners "hw5/widget.ml" 250 8725 8726 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 249 8650 8718 "hw5/widget.ml" 249 8650 8720
+type(
+  bool change_listener list
+)
+"hw5/widget.ml" 249 8650 8708 "hw5/widget.ml" 249 8650 8721
+type(
+  bool change_listener list ref
+)
+type(
+  bool change_listener list ref
+)
+"hw5/widget.ml" 250 8725 8730 "hw5/widget.ml" 250 8725 8733
+type(
+  bool value_controller
+)
+ident(
+  def bvc "hw5/widget.ml" 263 9237 9238 "hw5/widget.ml" 267 9389 9438
+)
+"hw5/widget.ml" 253 8770 8781 "hw5/widget.ml" 253 8770 8785
+type(
+  bool change_listener
+)
+ident(
+  def newl "hw5/widget.ml" 254 8812 8818 "hw5/widget.ml" 254 8812 8880
+)
+"hw5/widget.ml" 254 8812 8818 "hw5/widget.ml" 254 8812 8834
+type(
+  bool change_listener list ref
+)
+ident(
+  int_ref change_listeners "hw5/widget.ml" 249 8650 8656 "hw5/widget.ml" 249 8650 8672
+)
+"hw5/widget.ml" 254 8812 8847 "hw5/widget.ml" 254 8812 8851
+type(
+  bool change_listener
+)
+ident(
+  int_ref newl "hw5/widget.ml" 253 8770 8781 "hw5/widget.ml" 253 8770 8785
+)
+"hw5/widget.ml" 254 8812 8855 "hw5/widget.ml" 254 8812 8871
+type(
+  bool change_listener list ref
+)
+ident(
+  int_ref change_listeners "hw5/widget.ml" 249 8650 8656 "hw5/widget.ml" 249 8650 8672
+)
+"hw5/widget.ml" 254 8812 8855 "hw5/widget.ml" 254 8812 8880
+type(
+  bool change_listener list
+)
+"hw5/widget.ml" 254 8812 8847 "hw5/widget.ml" 254 8812 8880
+type(
+  bool change_listener list
+)
+"hw5/widget.ml" 254 8812 8818 "hw5/widget.ml" 254 8812 8880
+type(
+  unit
+)
+"hw5/widget.ml" 252 8742 8768 "hw5/widget.ml" 254 8812 8882
+type(
+  bool change_listener -> unit
+)
+"hw5/widget.ml" 256 8888 8910 "hw5/widget.ml" 256 8888 8912
+type(
+  unit
+)
+"hw5/widget.ml" 256 8888 8916 "hw5/widget.ml" 256 8888 8923
+type(
+  bool ref
+)
+ident(
+  int_ref checked "hw5/widget.ml" 248 8590 8595 "hw5/widget.ml" 248 8590 8602
+)
+"hw5/widget.ml" 256 8888 8916 "hw5/widget.ml" 256 8888 8932
+type(
+  bool
+)
+"hw5/widget.ml" 256 8888 8904 "hw5/widget.ml" 256 8888 8933
+type(
+  unit -> bool
+)
+"hw5/widget.ml" 257 8935 8957 "hw5/widget.ml" 257 8935 8958
+type(
+  bool
+)
+ident(
+  def b "hw5/widget.ml" 257 8935 8969 "hw5/widget.ml" 259 9077 9150
+)
+"hw5/widget.ml" 257 8935 8969 "hw5/widget.ml" 257 8935 8976
+type(
+  bool ref
+)
+ident(
+  int_ref checked "hw5/widget.ml" 248 8590 8595 "hw5/widget.ml" 248 8590 8602
+)
+"hw5/widget.ml" 257 8935 8989 "hw5/widget.ml" 257 8935 8990
+type(
+  bool
+)
+ident(
+  int_ref b "hw5/widget.ml" 257 8935 8957 "hw5/widget.ml" 257 8935 8958
+)
+"hw5/widget.ml" 257 8935 8969 "hw5/widget.ml" 257 8935 8990
+type(
+  unit
+)
+"hw5/widget.ml" 258 8993 9011 "hw5/widget.ml" 258 8993 9018
+type(
+  bool ref
+)
+ident(
+  int_ref checked "hw5/widget.ml" 248 8590 8595 "hw5/widget.ml" 248 8590 8602
+)
+"hw5/widget.ml" 258 8993 9011 "hw5/widget.ml" 258 8993 9027
+type(
+  bool
+)
+"hw5/widget.ml" 258 8993 9033 "hw5/widget.ml" 258 8993 9037
+type(
+  label_controller
+)
+ident(
+  int_ref l_cb "hw5/widget.ml" 246 8494 8506 "hw5/widget.ml" 246 8494 8510
+)
+"hw5/widget.ml" 258 8993 9033 "hw5/widget.ml" 258 8993 9047
+type(
+  string -> unit
+)
+"hw5/widget.ml" 258 8993 9048 "hw5/widget.ml" 258 8993 9051
+type(
+  string
+)
+"hw5/widget.ml" 258 8993 9033 "hw5/widget.ml" 258 8993 9051
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 258 8993 9057 "hw5/widget.ml" 258 8993 9061
+type(
+  label_controller
+)
+ident(
+  int_ref l_cb "hw5/widget.ml" 246 8494 8506 "hw5/widget.ml" 246 8494 8510
+)
+"hw5/widget.ml" 258 8993 9057 "hw5/widget.ml" 258 8993 9071
+type(
+  string -> unit
+)
+"hw5/widget.ml" 258 8993 9072 "hw5/widget.ml" 258 8993 9075
+type(
+  string
+)
+"hw5/widget.ml" 258 8993 9057 "hw5/widget.ml" 258 8993 9075
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 258 8993 9008 "hw5/widget.ml" 258 8993 9075
+type(
+  unit
+)
+"hw5/widget.ml" 259 9077 9085 "hw5/widget.ml" 259 9077 9094
+type(
+  (bool change_listener -> unit) -> bool change_listener list -> unit
+)
+ident(
+  ext_ref List.iter
+)
+"hw5/widget.ml" 259 9077 9100 "hw5/widget.ml" 259 9077 9101
+type(
+  bool change_listener
+)
+ident(
+  def x "hw5/widget.ml" 259 9077 9105 "hw5/widget.ml" 259 9077 9123
+)
+"hw5/widget.ml" 259 9077 9105 "hw5/widget.ml" 259 9077 9106
+type(
+  bool change_listener
+)
+ident(
+  int_ref x "hw5/widget.ml" 259 9077 9100 "hw5/widget.ml" 259 9077 9101
+)
+"hw5/widget.ml" 259 9077 9107 "hw5/widget.ml" 259 9077 9114
+type(
+  bool ref
+)
+ident(
+  int_ref checked "hw5/widget.ml" 248 8590 8595 "hw5/widget.ml" 248 8590 8602
+)
+"hw5/widget.ml" 259 9077 9107 "hw5/widget.ml" 259 9077 9123
+type(
+  bool
+)
+"hw5/widget.ml" 259 9077 9105 "hw5/widget.ml" 259 9077 9123
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 259 9077 9095 "hw5/widget.ml" 259 9077 9124
+type(
+  bool change_listener -> unit
+)
+"hw5/widget.ml" 259 9077 9125 "hw5/widget.ml" 259 9077 9141
+type(
+  bool change_listener list ref
+)
+ident(
+  int_ref change_listeners "hw5/widget.ml" 249 8650 8656 "hw5/widget.ml" 249 8650 8672
+)
+"hw5/widget.ml" 259 9077 9125 "hw5/widget.ml" 259 9077 9150
+type(
+  bool change_listener list
+)
+"hw5/widget.ml" 259 9077 9085 "hw5/widget.ml" 259 9077 9150
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 258 8993 9008 "hw5/widget.ml" 259 9077 9150
+type(
+  unit
+)
+"hw5/widget.ml" 257 8935 8969 "hw5/widget.ml" 259 9077 9150
+type(
+  unit
+)
+"hw5/widget.ml" 257 8935 8951 "hw5/widget.ml" 259 9077 9151
+type(
+  bool -> unit
+)
+"hw5/widget.ml" 251 8737 8739 "hw5/widget.ml" 260 9152 9155
+type(
+  bool value_controller
+)
+"hw5/widget.ml" 263 9237 9238 "hw5/widget.ml" 263 9237 9242
+type(
+  notifier_controller
+)
+ident(
+  int_ref n_cb "hw5/widget.ml" 246 8494 8511 "hw5/widget.ml" 246 8494 8515
+)
+"hw5/widget.ml" 263 9237 9238 "hw5/widget.ml" 263 9237 9261
+type(
+  event_listener -> unit
+)
+"hw5/widget.ml" 264 9263 9265 "hw5/widget.ml" 264 9263 9284
+type(
+  (unit -> unit) -> event_listener
+)
+ident(
+  int_ref mouseclick_listener "hw5/widget.ml" 150 5129 5133 "hw5/widget.ml" 150 5129 5152
+)
+"hw5/widget.ml" 264 9263 9290 "hw5/widget.ml" 264 9263 9292
+type(
+  unit
+)
+"hw5/widget.ml" 265 9296 9302 "hw5/widget.ml" 265 9296 9309
+type(
+  bool ref
+)
+ident(
+  int_ref checked "hw5/widget.ml" 248 8590 8595 "hw5/widget.ml" 248 8590 8602
+)
+"hw5/widget.ml" 265 9296 9302 "hw5/widget.ml" 265 9296 9318
+type(
+  bool
+)
+"hw5/widget.ml" 265 9296 9324 "hw5/widget.ml" 265 9296 9327
+type(
+  bool value_controller
+)
+ident(
+  int_ref bvc "hw5/widget.ml" 250 8725 8730 "hw5/widget.ml" 250 8725 8733
+)
+"hw5/widget.ml" 265 9296 9324 "hw5/widget.ml" 265 9296 9337
+type(
+  bool -> unit
+)
+"hw5/widget.ml" 265 9296 9338 "hw5/widget.ml" 265 9296 9343
+type(
+  bool
+)
+"hw5/widget.ml" 265 9296 9324 "hw5/widget.ml" 265 9296 9343
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 265 9296 9349 "hw5/widget.ml" 265 9296 9352
+type(
+  bool value_controller
+)
+ident(
+  int_ref bvc "hw5/widget.ml" 250 8725 8730 "hw5/widget.ml" 250 8725 8733
+)
+"hw5/widget.ml" 265 9296 9349 "hw5/widget.ml" 265 9296 9362
+type(
+  bool -> unit
+)
+"hw5/widget.ml" 265 9296 9363 "hw5/widget.ml" 265 9296 9367
+type(
+  bool
+)
+"hw5/widget.ml" 265 9296 9349 "hw5/widget.ml" 265 9296 9367
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 265 9296 9299 "hw5/widget.ml" 265 9296 9367
+type(
+  unit
+)
+"hw5/widget.ml" 264 9263 9285 "hw5/widget.ml" 265 9296 9368
+type(
+  unit -> unit
+)
+"hw5/widget.ml" 264 9263 9264 "hw5/widget.ml" 265 9296 9369
+call(
+  stack
+)
+type(
+  event_listener
+)
+"hw5/widget.ml" 263 9237 9238 "hw5/widget.ml" 265 9296 9369
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 267 9389 9391 "hw5/widget.ml" 267 9389 9397
+type(
+  widget -> widget
+)
+ident(
+  int_ref border "hw5/widget.ml" 34 764 768 "hw5/widget.ml" 34 764 774
+)
+"hw5/widget.ml" 267 9389 9399 "hw5/widget.ml" 267 9389 9404
+type(
+  widget list -> widget
+)
+ident(
+  int_ref hlist "hw5/widget.ml" 104 3426 3430 "hw5/widget.ml" 104 3426 3435
+)
+"hw5/widget.ml" 267 9389 9406 "hw5/widget.ml" 267 9389 9412
+type(
+  widget -> widget
+)
+ident(
+  int_ref border "hw5/widget.ml" 34 764 768 "hw5/widget.ml" 34 764 774
+)
+"hw5/widget.ml" 267 9389 9413 "hw5/widget.ml" 267 9389 9417
+type(
+  widget
+)
+ident(
+  int_ref w_cb "hw5/widget.ml" 246 8494 8501 "hw5/widget.ml" 246 8494 8505
+)
+"hw5/widget.ml" 267 9389 9406 "hw5/widget.ml" 267 9389 9417
+call(
+  stack
+)
+type(
+  widget
+)
+"hw5/widget.ml" 267 9389 9418 "hw5/widget.ml" 267 9389 9423
+type(
+  Gctx.dimension -> widget
+)
+ident(
+  int_ref space "hw5/widget.ml" 27 545 549 "hw5/widget.ml" 27 545 554
+)
+"hw5/widget.ml" 267 9389 9424 "hw5/widget.ml" 267 9389 9425
+type(
+  int
+)
+"hw5/widget.ml" 267 9389 9426 "hw5/widget.ml" 267 9389 9427
+type(
+  int
+)
+"hw5/widget.ml" 267 9389 9423 "hw5/widget.ml" 267 9389 9428
+type(
+  Gctx.dimension
+)
+"hw5/widget.ml" 267 9389 9418 "hw5/widget.ml" 267 9389 9428
+call(
+  stack
+)
+type(
+  widget
+)
+"hw5/widget.ml" 267 9389 9429 "hw5/widget.ml" 267 9389 9432
+type(
+  widget
+)
+ident(
+  int_ref lbl "hw5/widget.ml" 247 8562 8567 "hw5/widget.ml" 247 8562 8570
+)
+"hw5/widget.ml" 267 9389 9405 "hw5/widget.ml" 267 9389 9433
+type(
+  widget list
+)
+"hw5/widget.ml" 267 9389 9398 "hw5/widget.ml" 267 9389 9434
+call(
+  stack
+)
+type(
+  widget
+)
+"hw5/widget.ml" 267 9389 9391 "hw5/widget.ml" 267 9389 9434
+call(
+  stack
+)
+type(
+  widget
+)
+"hw5/widget.ml" 267 9389 9435 "hw5/widget.ml" 267 9389 9438
+type(
+  bool value_controller
+)
+ident(
+  int_ref bvc "hw5/widget.ml" 250 8725 8730 "hw5/widget.ml" 250 8725 8733
+)
+"hw5/widget.ml" 267 9389 9391 "hw5/widget.ml" 267 9389 9438
+type(
+  widget * bool value_controller
+)
+"hw5/widget.ml" 263 9237 9238 "hw5/widget.ml" 267 9389 9438
+type(
+  widget * bool value_controller
+)
+"hw5/widget.ml" 250 8725 8726 "hw5/widget.ml" 267 9389 9438
+type(
+  widget * bool value_controller
+)
+"hw5/widget.ml" 249 8650 8652 "hw5/widget.ml" 267 9389 9438
+type(
+  widget * bool value_controller
+)
+"hw5/widget.ml" 248 8590 8591 "hw5/widget.ml" 267 9389 9438
+type(
+  widget * bool value_controller
+)
+"hw5/widget.ml" 247 8562 8563 "hw5/widget.ml" 267 9389 9438
+type(
+  widget * bool value_controller
+)
+"hw5/widget.ml" 246 8494 8496 "hw5/widget.ml" 267 9389 9438
+type(
+  widget * bool value_controller
+)
+type(
+  widget * bool value_controller
+)
+"hw5/widget.ml" 282 9800 9808 "hw5/widget.ml" 282 9800 9816
+type(
+  int -> 'a list -> 'a
+)
+ident(
+  def ith_elem "hw5/widget.ml" 282 9800 9800 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 282 9800 9818 "hw5/widget.ml" 282 9800 9819
+type(
+  int
+)
+ident(
+  def i "hw5/widget.ml" 282 9800 9825 "hw5/widget.ml" 287 9955 9960
+)
+"hw5/widget.ml" 282 9800 9826 "hw5/widget.ml" 282 9800 9827
+type(
+  'a list
+)
+ident(
+  def l "hw5/widget.ml" 283 9839 9841 "hw5/widget.ml" 287 9955 9960
+)
+"hw5/widget.ml" 284 9847 9857 "hw5/widget.ml" 284 9847 9858
+type(
+  'a list
+)
+ident(
+  int_ref l "hw5/widget.ml" 282 9800 9826 "hw5/widget.ml" 282 9800 9827
+)
+"hw5/widget.ml" 285 9864 9870 "hw5/widget.ml" 285 9864 9872
+type(
+  'a list
+)
+"hw5/widget.ml" 285 9864 9878 "hw5/widget.ml" 285 9864 9886
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw5/widget.ml" 285 9864 9887 "hw5/widget.ml" 285 9864 9902
+type(
+  string
+)
+"hw5/widget.ml" 285 9864 9878 "hw5/widget.ml" 285 9864 9902
+call(
+  tail
+)
+type(
+  'a
+)
+"hw5/widget.ml" 286 9903 9909 "hw5/widget.ml" 286 9903 9910
+type(
+  'a
+)
+ident(
+  def h "hw5/widget.ml" 286 9903 9917 "hw5/widget.ml" 286 9903 9954
+)
+"hw5/widget.ml" 286 9903 9912 "hw5/widget.ml" 286 9903 9913
+type(
+  'a list
+)
+ident(
+  def t "hw5/widget.ml" 286 9903 9917 "hw5/widget.ml" 286 9903 9954
+)
+"hw5/widget.ml" 286 9903 9909 "hw5/widget.ml" 286 9903 9913
+type(
+  'a list
+)
+"hw5/widget.ml" 286 9903 9921 "hw5/widget.ml" 286 9903 9922
+type(
+  int
+)
+ident(
+  int_ref i "hw5/widget.ml" 282 9800 9818 "hw5/widget.ml" 282 9800 9819
+)
+"hw5/widget.ml" 286 9903 9922 "hw5/widget.ml" 286 9903 9923
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw5/widget.ml" 286 9903 9923 "hw5/widget.ml" 286 9903 9924
+type(
+  int
+)
+"hw5/widget.ml" 286 9903 9920 "hw5/widget.ml" 286 9903 9925
+type(
+  bool
+)
+"hw5/widget.ml" 286 9903 9931 "hw5/widget.ml" 286 9903 9932
+type(
+  'a
+)
+ident(
+  int_ref h "hw5/widget.ml" 286 9903 9909 "hw5/widget.ml" 286 9903 9910
+)
+"hw5/widget.ml" 286 9903 9938 "hw5/widget.ml" 286 9903 9946
+type(
+  int -> 'a list -> 'a
+)
+ident(
+  int_ref ith_elem "hw5/widget.ml" 282 9800 9808 "hw5/widget.ml" 282 9800 9816
+)
+"hw5/widget.ml" 286 9903 9948 "hw5/widget.ml" 286 9903 9949
+type(
+  int
+)
+ident(
+  int_ref i "hw5/widget.ml" 282 9800 9818 "hw5/widget.ml" 282 9800 9819
+)
+"hw5/widget.ml" 286 9903 9949 "hw5/widget.ml" 286 9903 9950
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/widget.ml" 286 9903 9950 "hw5/widget.ml" 286 9903 9951
+type(
+  int
+)
+"hw5/widget.ml" 286 9903 9947 "hw5/widget.ml" 286 9903 9952
+type(
+  int
+)
+"hw5/widget.ml" 286 9903 9953 "hw5/widget.ml" 286 9903 9954
+type(
+  'a list
+)
+ident(
+  int_ref t "hw5/widget.ml" 286 9903 9912 "hw5/widget.ml" 286 9903 9913
+)
+"hw5/widget.ml" 286 9903 9938 "hw5/widget.ml" 286 9903 9954
+call(
+  tail
+)
+type(
+  'a
+)
+"hw5/widget.ml" 286 9903 9917 "hw5/widget.ml" 286 9903 9954
+type(
+  'a
+)
+"hw5/widget.ml" 283 9839 9841 "hw5/widget.ml" 287 9955 9960
+type(
+  'a
+)
+"hw5/widget.ml" 289 9963 9971 "hw5/widget.ml" 289 9963 9980
+type(
+  ('a -> 'b) -> 'a list -> 'b list
+)
+ident(
+  def transform "hw5/widget.ml" 289 9963 9963 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 289 9963 9982 "hw5/widget.ml" 289 9963 9983
+type(
+  'a -> 'b
+)
+ident(
+  def f "hw5/widget.ml" 289 9963 9995 "hw5/widget.ml" 293 10091 10096
+)
+"hw5/widget.ml" 289 9963 9996 "hw5/widget.ml" 289 9963 9997
+type(
+  'a list
+)
+ident(
+  def l "hw5/widget.ml" 289 9963 10008 "hw5/widget.ml" 293 10091 10096
+)
+"hw5/widget.ml" 290 10020 10034 "hw5/widget.ml" 290 10020 10035
+type(
+  'a list
+)
+ident(
+  int_ref l "hw5/widget.ml" 289 9963 9996 "hw5/widget.ml" 289 9963 9997
+)
+"hw5/widget.ml" 291 10041 10045 "hw5/widget.ml" 291 10041 10047
+type(
+  'a list
+)
+"hw5/widget.ml" 291 10041 10051 "hw5/widget.ml" 291 10041 10053
+type(
+  'b list
+)
+"hw5/widget.ml" 292 10054 10058 "hw5/widget.ml" 292 10054 10059
+type(
+  'a
+)
+ident(
+  def x "hw5/widget.ml" 292 10054 10069 "hw5/widget.ml" 292 10054 10090
+)
+"hw5/widget.ml" 292 10054 10063 "hw5/widget.ml" 292 10054 10065
+type(
+  'a list
+)
+ident(
+  def xs "hw5/widget.ml" 292 10054 10069 "hw5/widget.ml" 292 10054 10090
+)
+"hw5/widget.ml" 292 10054 10058 "hw5/widget.ml" 292 10054 10065
+type(
+  'a list
+)
+"hw5/widget.ml" 292 10054 10069 "hw5/widget.ml" 292 10054 10070
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "hw5/widget.ml" 289 9963 9982 "hw5/widget.ml" 289 9963 9983
+)
+"hw5/widget.ml" 292 10054 10071 "hw5/widget.ml" 292 10054 10072
+type(
+  'a
+)
+ident(
+  int_ref x "hw5/widget.ml" 292 10054 10058 "hw5/widget.ml" 292 10054 10059
+)
+"hw5/widget.ml" 292 10054 10069 "hw5/widget.ml" 292 10054 10072
+call(
+  stack
+)
+type(
+  'b
+)
+"hw5/widget.ml" 292 10054 10076 "hw5/widget.ml" 292 10054 10085
+type(
+  ('a -> 'b) -> 'a list -> 'b list
+)
+ident(
+  int_ref transform "hw5/widget.ml" 289 9963 9971 "hw5/widget.ml" 289 9963 9980
+)
+"hw5/widget.ml" 292 10054 10086 "hw5/widget.ml" 292 10054 10087
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "hw5/widget.ml" 289 9963 9982 "hw5/widget.ml" 289 9963 9983
+)
+"hw5/widget.ml" 292 10054 10088 "hw5/widget.ml" 292 10054 10090
+type(
+  'a list
+)
+ident(
+  int_ref xs "hw5/widget.ml" 292 10054 10063 "hw5/widget.ml" 292 10054 10065
+)
+"hw5/widget.ml" 292 10054 10076 "hw5/widget.ml" 292 10054 10090
+call(
+  stack
+)
+type(
+  'b list
+)
+"hw5/widget.ml" 292 10054 10069 "hw5/widget.ml" 292 10054 10090
+type(
+  'b list
+)
+"hw5/widget.ml" 290 10020 10022 "hw5/widget.ml" 293 10091 10096
+type(
+  'b list
+)
+type(
+  'b list
+)
+"hw5/widget.ml" 299 10291 10295 "hw5/widget.ml" 299 10291 10313
+type(
+  (widget * bool value_controller) list ->
+  int -> string -> widget * radio_controller
+)
+ident(
+  def radio_button_group "hw5/widget.ml" 354 12341 12342 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 299 10291 10315 "hw5/widget.ml" 299 10291 10318
+type(
+  (widget * bool value_controller) list
+)
+ident(
+  def cbl "hw5/widget.ml" 299 10291 10359 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 299 10291 10360 "hw5/widget.ml" 299 10291 10364
+type(
+  int
+)
+ident(
+  def init "hw5/widget.ml" 299 10291 10372 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 299 10291 10373 "hw5/widget.ml" 299 10291 10374
+type(
+  string
+)
+ident(
+  def s "hw5/widget.ml" 299 10291 10383 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 301 10445 10450 "hw5/widget.ml" 301 10445 10453
+type(
+  widget
+)
+ident(
+  def lbl "hw5/widget.ml" 303 10548 10550 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 301 10445 10456 "hw5/widget.ml" 301 10445 10459
+type(
+  widget * label_controller -> widget
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"hw5/widget.ml" 301 10445 10461 "hw5/widget.ml" 301 10445 10466
+type(
+  string -> widget * label_controller
+)
+ident(
+  int_ref label "hw5/widget.ml" 126 4376 4380 "hw5/widget.ml" 126 4376 4385
+)
+"hw5/widget.ml" 301 10445 10467 "hw5/widget.ml" 301 10445 10468
+type(
+  string
+)
+ident(
+  int_ref s "hw5/widget.ml" 299 10291 10373 "hw5/widget.ml" 299 10291 10374
+)
+"hw5/widget.ml" 301 10445 10460 "hw5/widget.ml" 301 10445 10469
+call(
+  stack
+)
+type(
+  widget * label_controller
+)
+"hw5/widget.ml" 301 10445 10456 "hw5/widget.ml" 301 10445 10469
+type(
+  widget
+)
+"hw5/widget.ml" 303 10548 10554 "hw5/widget.ml" 303 10548 10563
+type(
+  widget list
+)
+ident(
+  def cbwidgets "hw5/widget.ml" 311 10928 10930 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 303 10548 10564 "hw5/widget.ml" 303 10548 10574
+type(
+  bool value_controller list
+)
+ident(
+  def cbcontrols "hw5/widget.ml" 311 10928 10930 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 303 10548 10554 "hw5/widget.ml" 303 10548 10574
+type(
+  widget list * bool value_controller list
+)
+"hw5/widget.ml" 303 10548 10578 "hw5/widget.ml" 303 10548 10588
+type(
+  (widget * bool value_controller) list ->
+  widget list * bool value_controller list
+)
+ident(
+  ext_ref List.split
+)
+"hw5/widget.ml" 303 10548 10589 "hw5/widget.ml" 303 10548 10592
+type(
+  (widget * bool value_controller) list
+)
+ident(
+  int_ref cbl "hw5/widget.ml" 299 10291 10315 "hw5/widget.ml" 299 10291 10318
+)
+"hw5/widget.ml" 303 10548 10578 "hw5/widget.ml" 303 10548 10592
+call(
+  stack
+)
+type(
+  widget list * bool value_controller list
+)
+"hw5/widget.ml" 311 10928 10934 "hw5/widget.ml" 311 10928 10943
+type(
+  int ref
+)
+ident(
+  def selection "hw5/widget.ml" 313 10979 10981 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 311 10928 10958 "hw5/widget.ml" 311 10928 10959
+type(
+  int
+)
+"hw5/widget.ml" 311 10928 10946 "hw5/widget.ml" 311 10928 10960
+type(
+  int ref
+)
+"hw5/widget.ml" 313 10979 10985 "hw5/widget.ml" 313 10979 11007
+type(
+  radio_change_listener list ref
+)
+ident(
+  def radio_change_listeners "hw5/widget.ml" 315 11080 11082 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 313 10979 11055 "hw5/widget.ml" 313 10979 11057
+type(
+  radio_change_listener list
+)
+"hw5/widget.ml" 313 10979 11045 "hw5/widget.ml" 313 10979 11058
+type(
+  radio_change_listener list ref
+)
+type(
+  radio_change_listener list ref
+)
+"hw5/widget.ml" 315 11080 11086 "hw5/widget.ml" 315 11080 11088
+type(
+  radio_controller
+)
+ident(
+  def rc "hw5/widget.ml" 338 11780 11781 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 320 11143 11158 "hw5/widget.ml" 320 11143 11162
+type(
+  radio_change_listener
+)
+ident(
+  def newl "hw5/widget.ml" 321 11191 11201 "hw5/widget.ml" 321 11191 11275
+)
+"hw5/widget.ml" 321 11191 11201 "hw5/widget.ml" 321 11191 11223
+type(
+  radio_change_listener list ref
+)
+ident(
+  int_ref radio_change_listeners "hw5/widget.ml" 313 10979 10985 "hw5/widget.ml" 313 10979 11007
+)
+"hw5/widget.ml" 321 11191 11236 "hw5/widget.ml" 321 11191 11240
+type(
+  radio_change_listener
+)
+ident(
+  int_ref newl "hw5/widget.ml" 320 11143 11158 "hw5/widget.ml" 320 11143 11162
+)
+"hw5/widget.ml" 321 11191 11244 "hw5/widget.ml" 321 11191 11266
+type(
+  radio_change_listener list ref
+)
+ident(
+  int_ref radio_change_listeners "hw5/widget.ml" 313 10979 10985 "hw5/widget.ml" 313 10979 11007
+)
+"hw5/widget.ml" 321 11191 11244 "hw5/widget.ml" 321 11191 11275
+type(
+  radio_change_listener list
+)
+"hw5/widget.ml" 321 11191 11236 "hw5/widget.ml" 321 11191 11275
+type(
+  radio_change_listener list
+)
+"hw5/widget.ml" 321 11191 11201 "hw5/widget.ml" 321 11191 11275
+type(
+  unit
+)
+"hw5/widget.ml" 319 11137 11141 "hw5/widget.ml" 322 11277 11282
+type(
+  radio_change_listener -> unit
+)
+"hw5/widget.ml" 325 11312 11323 "hw5/widget.ml" 325 11312 11325
+type(
+  unit
+)
+"hw5/widget.ml" 325 11312 11329 "hw5/widget.ml" 325 11312 11338
+type(
+  int ref
+)
+ident(
+  int_ref selection "hw5/widget.ml" 311 10928 10934 "hw5/widget.ml" 311 10928 10943
+)
+"hw5/widget.ml" 325 11312 11329 "hw5/widget.ml" 325 11312 11347
+type(
+  int
+)
+"hw5/widget.ml" 325 11312 11317 "hw5/widget.ml" 325 11312 11348
+type(
+  unit -> int
+)
+"hw5/widget.ml" 327 11456 11481 "hw5/widget.ml" 327 11456 11482
+type(
+  int
+)
+ident(
+  def b "hw5/widget.ml" 328 11493 11498 "hw5/widget.ml" 334 11761 11768
+)
+"hw5/widget.ml" 329 11500 11510 "hw5/widget.ml" 329 11500 11519
+type(
+  (bool value_controller -> unit) -> bool value_controller list -> unit
+)
+ident(
+  ext_ref List.iter
+)
+"hw5/widget.ml" 329 11500 11525 "hw5/widget.ml" 329 11500 11526
+type(
+  bool value_controller
+)
+ident(
+  def x "hw5/widget.ml" 330 11553 11560 "hw5/widget.ml" 330 11553 11616
+)
+"hw5/widget.ml" 330 11553 11565 "hw5/widget.ml" 330 11553 11573
+type(
+  int -> bool value_controller list -> bool value_controller
+)
+ident(
+  int_ref ith_elem "hw5/widget.ml" 282 9800 9808 "hw5/widget.ml" 282 9800 9816
+)
+"hw5/widget.ml" 330 11553 11574 "hw5/widget.ml" 330 11553 11575
+type(
+  int
+)
+ident(
+  int_ref b "hw5/widget.ml" 327 11456 11481 "hw5/widget.ml" 327 11456 11482
+)
+"hw5/widget.ml" 330 11553 11576 "hw5/widget.ml" 330 11553 11586
+type(
+  bool value_controller list
+)
+ident(
+  int_ref cbcontrols "hw5/widget.ml" 303 10548 10564 "hw5/widget.ml" 303 10548 10574
+)
+"hw5/widget.ml" 330 11553 11564 "hw5/widget.ml" 330 11553 11587
+call(
+  stack
+)
+type(
+  bool value_controller
+)
+"hw5/widget.ml" 330 11553 11587 "hw5/widget.ml" 330 11553 11589
+type(
+  bool value_controller -> bool value_controller -> bool
+)
+ident(
+  ext_ref Pervasives.( != )
+)
+"hw5/widget.ml" 330 11553 11590 "hw5/widget.ml" 330 11553 11591
+type(
+  bool value_controller
+)
+ident(
+  int_ref x "hw5/widget.ml" 329 11500 11525 "hw5/widget.ml" 329 11500 11526
+)
+"hw5/widget.ml" 330 11553 11562 "hw5/widget.ml" 330 11553 11593
+type(
+  bool
+)
+"hw5/widget.ml" 330 11553 11599 "hw5/widget.ml" 330 11553 11600
+type(
+  bool value_controller
+)
+ident(
+  int_ref x "hw5/widget.ml" 329 11500 11525 "hw5/widget.ml" 329 11500 11526
+)
+"hw5/widget.ml" 330 11553 11599 "hw5/widget.ml" 330 11553 11610
+type(
+  bool -> unit
+)
+"hw5/widget.ml" 330 11553 11611 "hw5/widget.ml" 330 11553 11616
+type(
+  bool
+)
+"hw5/widget.ml" 330 11553 11599 "hw5/widget.ml" 330 11553 11616
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 330 11553 11560 "hw5/widget.ml" 330 11553 11616
+type(
+  unit
+)
+"hw5/widget.ml" 329 11500 11519 "hw5/widget.ml" 330 11553 11617
+type(
+  bool value_controller -> unit
+)
+"hw5/widget.ml" 330 11553 11618 "hw5/widget.ml" 330 11553 11628
+type(
+  bool value_controller list
+)
+ident(
+  int_ref cbcontrols "hw5/widget.ml" 303 10548 10564 "hw5/widget.ml" 303 10548 10574
+)
+"hw5/widget.ml" 329 11500 11510 "hw5/widget.ml" 330 11553 11628
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 331 11630 11637 "hw5/widget.ml" 331 11630 11646
+type(
+  int ref
+)
+ident(
+  int_ref selection "hw5/widget.ml" 311 10928 10934 "hw5/widget.ml" 311 10928 10943
+)
+"hw5/widget.ml" 331 11630 11659 "hw5/widget.ml" 331 11630 11660
+type(
+  int
+)
+ident(
+  int_ref b "hw5/widget.ml" 327 11456 11481 "hw5/widget.ml" 327 11456 11482
+)
+"hw5/widget.ml" 331 11630 11637 "hw5/widget.ml" 331 11630 11660
+type(
+  unit
+)
+"hw5/widget.ml" 332 11663 11673 "hw5/widget.ml" 332 11663 11682
+type(
+  (radio_change_listener -> unit) -> radio_change_listener list -> unit
+)
+ident(
+  ext_ref List.iter
+)
+"hw5/widget.ml" 332 11663 11688 "hw5/widget.ml" 332 11663 11689
+type(
+  radio_change_listener
+)
+ident(
+  def x "hw5/widget.ml" 332 11663 11693 "hw5/widget.ml" 332 11663 11713
+)
+"hw5/widget.ml" 332 11663 11693 "hw5/widget.ml" 332 11663 11694
+type(
+  radio_change_listener
+)
+ident(
+  int_ref x "hw5/widget.ml" 332 11663 11688 "hw5/widget.ml" 332 11663 11689
+)
+"hw5/widget.ml" 332 11663 11695 "hw5/widget.ml" 332 11663 11704
+type(
+  int ref
+)
+ident(
+  int_ref selection "hw5/widget.ml" 311 10928 10934 "hw5/widget.ml" 311 10928 10943
+)
+"hw5/widget.ml" 332 11663 11695 "hw5/widget.ml" 332 11663 11713
+type(
+  int
+)
+"hw5/widget.ml" 332 11663 11693 "hw5/widget.ml" 332 11663 11713
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 332 11663 11683 "hw5/widget.ml" 332 11663 11714
+type(
+  radio_change_listener -> unit
+)
+"hw5/widget.ml" 332 11663 11715 "hw5/widget.ml" 332 11663 11737
+type(
+  radio_change_listener list ref
+)
+ident(
+  int_ref radio_change_listeners "hw5/widget.ml" 313 10979 10985 "hw5/widget.ml" 313 10979 11007
+)
+"hw5/widget.ml" 332 11663 11715 "hw5/widget.ml" 332 11663 11746
+type(
+  radio_change_listener list
+)
+"hw5/widget.ml" 332 11663 11673 "hw5/widget.ml" 332 11663 11747
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 331 11630 11637 "hw5/widget.ml" 332 11663 11747
+type(
+  unit
+)
+"hw5/widget.ml" 328 11493 11498 "hw5/widget.ml" 334 11761 11768
+type(
+  unit
+)
+"hw5/widget.ml" 327 11456 11476 "hw5/widget.ml" 334 11761 11768
+type(
+  int -> unit
+)
+"hw5/widget.ml" 316 11092 11096 "hw5/widget.ml" 336 11771 11774
+type(
+  radio_controller
+)
+"hw5/widget.ml" 338 11780 11785 "hw5/widget.ml" 338 11780 11793
+type(
+  unit -> bool
+)
+ident(
+  def allfalse "hw5/widget.ml" 340 11923 11924 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 338 11780 11794 "hw5/widget.ml" 338 11780 11796
+type(
+  unit
+)
+"hw5/widget.ml" 338 11780 11807 "hw5/widget.ml" 338 11780 11818
+type(
+  (bool value_controller -> bool) ->
+  bool value_controller list -> bool value_controller list
+)
+ident(
+  ext_ref List.filter
+)
+"hw5/widget.ml" 338 11780 11824 "hw5/widget.ml" 338 11780 11825
+type(
+  bool value_controller
+)
+ident(
+  def x "hw5/widget.ml" 338 11780 11829 "hw5/widget.ml" 338 11780 11842
+)
+"hw5/widget.ml" 338 11780 11829 "hw5/widget.ml" 338 11780 11830
+type(
+  bool value_controller
+)
+ident(
+  int_ref x "hw5/widget.ml" 338 11780 11824 "hw5/widget.ml" 338 11780 11825
+)
+"hw5/widget.ml" 338 11780 11829 "hw5/widget.ml" 338 11780 11840
+type(
+  unit -> bool
+)
+"hw5/widget.ml" 338 11780 11840 "hw5/widget.ml" 338 11780 11842
+type(
+  unit
+)
+"hw5/widget.ml" 338 11780 11829 "hw5/widget.ml" 338 11780 11842
+call(
+  tail
+)
+type(
+  bool
+)
+"hw5/widget.ml" 338 11780 11819 "hw5/widget.ml" 338 11780 11843
+type(
+  bool value_controller -> bool
+)
+"hw5/widget.ml" 338 11780 11844 "hw5/widget.ml" 338 11780 11854
+type(
+  bool value_controller list
+)
+ident(
+  int_ref cbcontrols "hw5/widget.ml" 303 10548 10564 "hw5/widget.ml" 303 10548 10574
+)
+"hw5/widget.ml" 338 11780 11807 "hw5/widget.ml" 338 11780 11854
+call(
+  stack
+)
+type(
+  bool value_controller list
+)
+"hw5/widget.ml" 338 11780 11855 "hw5/widget.ml" 338 11780 11856
+type(
+  bool value_controller list -> bool value_controller list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw5/widget.ml" 338 11780 11856 "hw5/widget.ml" 338 11780 11858
+type(
+  bool value_controller list
+)
+"hw5/widget.ml" 338 11780 11805 "hw5/widget.ml" 338 11780 11860
+type(
+  bool
+)
+type(
+  bool
+)
+"hw5/widget.ml" 340 11923 11932 "hw5/widget.ml" 340 11923 11936
+type(
+  int -> bool value_controller list -> unit
+)
+ident(
+  def forr "hw5/widget.ml" 340 11923 11924 "hw5/widget.ml" 351 12275 12309
+)
+"hw5/widget.ml" 340 11923 11938 "hw5/widget.ml" 340 11923 11939
+type(
+  int
+)
+ident(
+  def i "hw5/widget.ml" 340 11923 11945 "hw5/widget.ml" 345 12153 12158
+)
+"hw5/widget.ml" 340 11923 11946 "hw5/widget.ml" 340 11923 11948
+type(
+  bool value_controller list
+)
+ident(
+  def xx "hw5/widget.ml" 341 11960 11962 "hw5/widget.ml" 345 12153 12158
+)
+"hw5/widget.ml" 342 11968 11978 "hw5/widget.ml" 342 11968 11980
+type(
+  bool value_controller list
+)
+ident(
+  int_ref xx "hw5/widget.ml" 340 11923 11946 "hw5/widget.ml" 340 11923 11948
+)
+"hw5/widget.ml" 343 11986 11992 "hw5/widget.ml" 343 11986 11994
+type(
+  bool value_controller list
+)
+"hw5/widget.ml" 343 11986 12000 "hw5/widget.ml" 343 11986 12002
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12009 "hw5/widget.ml" 344 12003 12010
+type(
+  bool value_controller
+)
+ident(
+  def h "hw5/widget.ml" 344 12003 12017 "hw5/widget.ml" 344 12003 12152
+)
+"hw5/widget.ml" 344 12003 12012 "hw5/widget.ml" 344 12003 12013
+type(
+  bool value_controller list
+)
+ident(
+  def t "hw5/widget.ml" 344 12003 12017 "hw5/widget.ml" 344 12003 12152
+)
+"hw5/widget.ml" 344 12003 12009 "hw5/widget.ml" 344 12003 12013
+type(
+  bool value_controller list
+)
+"hw5/widget.ml" 344 12003 12017 "hw5/widget.ml" 344 12003 12018
+type(
+  bool value_controller
+)
+ident(
+  int_ref h "hw5/widget.ml" 344 12003 12009 "hw5/widget.ml" 344 12003 12010
+)
+"hw5/widget.ml" 344 12003 12017 "hw5/widget.ml" 344 12003 12038
+type(
+  bool change_listener -> unit
+)
+"hw5/widget.ml" 344 12003 12044 "hw5/widget.ml" 344 12003 12045
+type(
+  bool
+)
+ident(
+  def x "hw5/widget.ml" 344 12003 12049 "hw5/widget.ml" 344 12003 12137
+)
+"hw5/widget.ml" 344 12003 12052 "hw5/widget.ml" 344 12003 12053
+type(
+  bool
+)
+ident(
+  int_ref x "hw5/widget.ml" 344 12003 12044 "hw5/widget.ml" 344 12003 12045
+)
+"hw5/widget.ml" 344 12003 12059 "hw5/widget.ml" 344 12003 12061
+type(
+  radio_controller
+)
+ident(
+  int_ref rc "hw5/widget.ml" 315 11080 11086 "hw5/widget.ml" 315 11080 11088
+)
+"hw5/widget.ml" 344 12003 12059 "hw5/widget.ml" 344 12003 12075
+type(
+  int -> unit
+)
+"hw5/widget.ml" 344 12003 12076 "hw5/widget.ml" 344 12003 12077
+type(
+  int
+)
+ident(
+  int_ref i "hw5/widget.ml" 340 11923 11938 "hw5/widget.ml" 340 11923 11939
+)
+"hw5/widget.ml" 344 12003 12059 "hw5/widget.ml" 344 12003 12077
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12086 "hw5/widget.ml" 344 12003 12087
+type(
+  bool
+)
+ident(
+  int_ref x "hw5/widget.ml" 344 12003 12044 "hw5/widget.ml" 344 12003 12045
+)
+"hw5/widget.ml" 344 12003 12087 "hw5/widget.ml" 344 12003 12088
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw5/widget.ml" 344 12003 12088 "hw5/widget.ml" 344 12003 12093
+type(
+  bool
+)
+"hw5/widget.ml" 344 12003 12086 "hw5/widget.ml" 344 12003 12093
+type(
+  bool
+)
+"hw5/widget.ml" 344 12003 12103 "hw5/widget.ml" 344 12003 12111
+type(
+  unit -> bool
+)
+ident(
+  int_ref allfalse "hw5/widget.ml" 338 11780 11785 "hw5/widget.ml" 338 11780 11793
+)
+"hw5/widget.ml" 344 12003 12111 "hw5/widget.ml" 344 12003 12113
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12103 "hw5/widget.ml" 344 12003 12113
+call(
+  stack
+)
+type(
+  bool
+)
+"hw5/widget.ml" 344 12003 12119 "hw5/widget.ml" 344 12003 12120
+type(
+  bool value_controller
+)
+ident(
+  int_ref h "hw5/widget.ml" 344 12003 12009 "hw5/widget.ml" 344 12003 12010
+)
+"hw5/widget.ml" 344 12003 12119 "hw5/widget.ml" 344 12003 12130
+type(
+  bool -> unit
+)
+"hw5/widget.ml" 344 12003 12131 "hw5/widget.ml" 344 12003 12135
+type(
+  bool
+)
+"hw5/widget.ml" 344 12003 12119 "hw5/widget.ml" 344 12003 12135
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12099 "hw5/widget.ml" 344 12003 12137
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12083 "hw5/widget.ml" 344 12003 12137
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12049 "hw5/widget.ml" 344 12003 12137
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12039 "hw5/widget.ml" 344 12003 12138
+type(
+  bool change_listener
+)
+"hw5/widget.ml" 344 12003 12017 "hw5/widget.ml" 344 12003 12138
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12140 "hw5/widget.ml" 344 12003 12144
+type(
+  int -> bool value_controller list -> unit
+)
+ident(
+  int_ref forr "hw5/widget.ml" 340 11923 11932 "hw5/widget.ml" 340 11923 11936
+)
+"hw5/widget.ml" 344 12003 12146 "hw5/widget.ml" 344 12003 12147
+type(
+  int
+)
+ident(
+  int_ref i "hw5/widget.ml" 340 11923 11938 "hw5/widget.ml" 340 11923 11939
+)
+"hw5/widget.ml" 344 12003 12147 "hw5/widget.ml" 344 12003 12148
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/widget.ml" 344 12003 12148 "hw5/widget.ml" 344 12003 12149
+type(
+  int
+)
+"hw5/widget.ml" 344 12003 12145 "hw5/widget.ml" 344 12003 12150
+type(
+  int
+)
+"hw5/widget.ml" 344 12003 12151 "hw5/widget.ml" 344 12003 12152
+type(
+  bool value_controller list
+)
+ident(
+  int_ref t "hw5/widget.ml" 344 12003 12012 "hw5/widget.ml" 344 12003 12013
+)
+"hw5/widget.ml" 344 12003 12140 "hw5/widget.ml" 344 12003 12152
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/widget.ml" 344 12003 12017 "hw5/widget.ml" 344 12003 12152
+type(
+  unit
+)
+"hw5/widget.ml" 341 11960 11962 "hw5/widget.ml" 345 12153 12158
+type(
+  unit
+)
+"hw5/widget.ml" 347 12164 12165 "hw5/widget.ml" 347 12164 12169
+type(
+  int -> bool value_controller list -> unit
+)
+ident(
+  int_ref forr "hw5/widget.ml" 340 11923 11932 "hw5/widget.ml" 340 11923 11936
+)
+"hw5/widget.ml" 347 12164 12170 "hw5/widget.ml" 347 12164 12171
+type(
+  int
+)
+"hw5/widget.ml" 347 12164 12172 "hw5/widget.ml" 347 12164 12182
+type(
+  bool value_controller list
+)
+ident(
+  int_ref cbcontrols "hw5/widget.ml" 303 10548 10564 "hw5/widget.ml" 303 10548 10574
+)
+"hw5/widget.ml" 347 12164 12165 "hw5/widget.ml" 347 12164 12182
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 349 12194 12195 "hw5/widget.ml" 349 12194 12197
+type(
+  radio_controller
+)
+ident(
+  int_ref rc "hw5/widget.ml" 315 11080 11086 "hw5/widget.ml" 315 11080 11088
+)
+"hw5/widget.ml" 349 12194 12195 "hw5/widget.ml" 349 12194 12211
+type(
+  int -> unit
+)
+"hw5/widget.ml" 349 12194 12212 "hw5/widget.ml" 349 12194 12216
+type(
+  int
+)
+ident(
+  int_ref init "hw5/widget.ml" 299 10291 10360 "hw5/widget.ml" 299 10291 10364
+)
+"hw5/widget.ml" 349 12194 12195 "hw5/widget.ml" 349 12194 12216
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 349 12194 12218 "hw5/widget.ml" 349 12194 12226
+type(
+  int -> bool value_controller list -> bool value_controller
+)
+ident(
+  int_ref ith_elem "hw5/widget.ml" 282 9800 9808 "hw5/widget.ml" 282 9800 9816
+)
+"hw5/widget.ml" 349 12194 12227 "hw5/widget.ml" 349 12194 12231
+type(
+  int
+)
+ident(
+  int_ref init "hw5/widget.ml" 299 10291 10360 "hw5/widget.ml" 299 10291 10364
+)
+"hw5/widget.ml" 349 12194 12232 "hw5/widget.ml" 349 12194 12242
+type(
+  bool value_controller list
+)
+ident(
+  int_ref cbcontrols "hw5/widget.ml" 303 10548 10564 "hw5/widget.ml" 303 10548 10574
+)
+"hw5/widget.ml" 349 12194 12217 "hw5/widget.ml" 349 12194 12243
+type(
+  bool value_controller
+)
+"hw5/widget.ml" 349 12194 12217 "hw5/widget.ml" 349 12194 12253
+type(
+  bool -> unit
+)
+"hw5/widget.ml" 349 12194 12254 "hw5/widget.ml" 349 12194 12258
+type(
+  bool
+)
+"hw5/widget.ml" 349 12194 12217 "hw5/widget.ml" 349 12194 12258
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/widget.ml" 351 12275 12278 "hw5/widget.ml" 351 12275 12283
+type(
+  widget list -> widget
+)
+ident(
+  int_ref hlist "hw5/widget.ml" 104 3426 3430 "hw5/widget.ml" 104 3426 3435
+)
+"hw5/widget.ml" 351 12275 12285 "hw5/widget.ml" 351 12275 12288
+type(
+  widget
+)
+ident(
+  int_ref lbl "hw5/widget.ml" 301 10445 10450 "hw5/widget.ml" 301 10445 10453
+)
+"hw5/widget.ml" 351 12275 12289 "hw5/widget.ml" 351 12275 12294
+type(
+  widget list -> widget
+)
+ident(
+  int_ref hlist "hw5/widget.ml" 104 3426 3430 "hw5/widget.ml" 104 3426 3435
+)
+"hw5/widget.ml" 351 12275 12295 "hw5/widget.ml" 351 12275 12304
+type(
+  widget list
+)
+ident(
+  int_ref cbwidgets "hw5/widget.ml" 303 10548 10554 "hw5/widget.ml" 303 10548 10563
+)
+"hw5/widget.ml" 351 12275 12289 "hw5/widget.ml" 351 12275 12304
+call(
+  stack
+)
+type(
+  widget
+)
+"hw5/widget.ml" 351 12275 12284 "hw5/widget.ml" 351 12275 12305
+type(
+  widget list
+)
+"hw5/widget.ml" 351 12275 12278 "hw5/widget.ml" 351 12275 12305
+call(
+  stack
+)
+type(
+  widget
+)
+"hw5/widget.ml" 351 12275 12306 "hw5/widget.ml" 351 12275 12308
+type(
+  radio_controller
+)
+ident(
+  int_ref rc "hw5/widget.ml" 315 11080 11086 "hw5/widget.ml" 315 11080 11088
+)
+"hw5/widget.ml" 351 12275 12277 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 349 12194 12217 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 349 12194 12195 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 347 12164 12165 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 340 11923 11924 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 338 11780 11781 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 315 11080 11082 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 313 10979 10981 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 311 10928 10930 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 303 10548 10550 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 301 10445 10446 "hw5/widget.ml" 351 12275 12309
+type(
+  widget * radio_controller
+)
+type(
+  widget * radio_controller
+)
+"hw5/widget.ml" 354 12341 12346 "hw5/widget.ml" 354 12341 12358
+type(
+  (widget * bool value_controller) list ->
+  int -> string -> widget * radio_controller
+)
+ident(
+  def radio_button "hw5/widget.ml" 354 12341 12377 "hw5/widget.ml" 1 0 -1
+)
+"hw5/widget.ml" 354 12341 12359 "hw5/widget.ml" 354 12341 12377
+type(
+  (widget * bool value_controller) list ->
+  int -> string -> widget * radio_controller
+)
+ident(
+  int_ref radio_button_group "hw5/widget.ml" 299 10291 10295 "hw5/widget.ml" 299 10291 10313
+)

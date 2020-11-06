@@ -1,0 +1,1321 @@
+"hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  def run_test "hw3/setTest.ml" 22 1133 1135 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 21 1068 1083 "hw3/setTest.ml" 21 1068 1087
+type(
+  string
+)
+ident(
+  def desc "hw3/setTest.ml" 21 1068 1090 "hw3/setTest.ml" 21 1068 1132
+)
+"hw3/setTest.ml" 21 1068 1090 "hw3/setTest.ml" 21 1068 1105
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/setTest.ml" 21 1068 1107 "hw3/setTest.ml" 21 1068 1117
+type(
+  string
+)
+ident(
+  ext_ref SetImpl.debug_name
+)
+"hw3/setTest.ml" 21 1068 1118 "hw3/setTest.ml" 21 1068 1119
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw3/setTest.ml" 21 1068 1120 "hw3/setTest.ml" 21 1068 1124
+type(
+  string
+)
+"hw3/setTest.ml" 21 1068 1125 "hw3/setTest.ml" 21 1068 1126
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw3/setTest.ml" 21 1068 1127 "hw3/setTest.ml" 21 1068 1131
+type(
+  string
+)
+ident(
+  int_ref desc "hw3/setTest.ml" 21 1068 1083 "hw3/setTest.ml" 21 1068 1087
+)
+"hw3/setTest.ml" 21 1068 1120 "hw3/setTest.ml" 21 1068 1131
+type(
+  string
+)
+"hw3/setTest.ml" 21 1068 1106 "hw3/setTest.ml" 21 1068 1132
+type(
+  string
+)
+"hw3/setTest.ml" 21 1068 1090 "hw3/setTest.ml" 21 1068 1132
+type(
+  (unit -> bool) -> unit
+)
+"hw3/setTest.ml" 22 1133 1139 "hw3/setTest.ml" 22 1133 1155
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  def run_failing_test "hw3/setTest.ml" 24 1215 1220 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 22 1133 1156 "hw3/setTest.ml" 22 1133 1160
+type(
+  string
+)
+ident(
+  def desc "hw3/setTest.ml" 22 1133 1163 "hw3/setTest.ml" 22 1133 1213
+)
+"hw3/setTest.ml" 22 1133 1163 "hw3/setTest.ml" 22 1133 1186
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_failing_test
+)
+"hw3/setTest.ml" 22 1133 1188 "hw3/setTest.ml" 22 1133 1198
+type(
+  string
+)
+ident(
+  ext_ref SetImpl.debug_name
+)
+"hw3/setTest.ml" 22 1133 1199 "hw3/setTest.ml" 22 1133 1200
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw3/setTest.ml" 22 1133 1201 "hw3/setTest.ml" 22 1133 1205
+type(
+  string
+)
+"hw3/setTest.ml" 22 1133 1206 "hw3/setTest.ml" 22 1133 1207
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw3/setTest.ml" 22 1133 1208 "hw3/setTest.ml" 22 1133 1212
+type(
+  string
+)
+ident(
+  int_ref desc "hw3/setTest.ml" 22 1133 1156 "hw3/setTest.ml" 22 1133 1160
+)
+"hw3/setTest.ml" 22 1133 1201 "hw3/setTest.ml" 22 1133 1212
+type(
+  string
+)
+"hw3/setTest.ml" 22 1133 1187 "hw3/setTest.ml" 22 1133 1213
+type(
+  string
+)
+"hw3/setTest.ml" 22 1133 1163 "hw3/setTest.ml" 22 1133 1213
+type(
+  (unit -> bool) -> unit
+)
+"hw3/setTest.ml" 24 1215 1220 "hw3/setTest.ml" 24 1215 1233
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw3/setTest.ml" 24 1215 1235 "hw3/setTest.ml" 24 1215 1261
+type(
+  string
+)
+"hw3/setTest.ml" 24 1215 1262 "hw3/setTest.ml" 24 1215 1263
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw3/setTest.ml" 24 1215 1264 "hw3/setTest.ml" 24 1215 1274
+type(
+  string
+)
+ident(
+  ext_ref SetImpl.debug_name
+)
+"hw3/setTest.ml" 24 1215 1275 "hw3/setTest.ml" 24 1215 1276
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw3/setTest.ml" 24 1215 1277 "hw3/setTest.ml" 24 1215 1283
+type(
+  string
+)
+"hw3/setTest.ml" 24 1215 1264 "hw3/setTest.ml" 24 1215 1283
+type(
+  string
+)
+"hw3/setTest.ml" 24 1215 1234 "hw3/setTest.ml" 24 1215 1284
+type(
+  string
+)
+"hw3/setTest.ml" 24 1215 1220 "hw3/setTest.ml" 24 1215 1284
+type(
+  unit
+)
+"hw3/setTest.ml" 29 1406 1412 "hw3/setTest.ml" 29 1406 1416
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 31 1448 1453 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 29 1406 1417 "hw3/setTest.ml" 29 1406 1419
+type(
+  unit
+)
+"hw3/setTest.ml" 30 1429 1433 "hw3/setTest.ml" 30 1429 1441
+type(
+  '_a SetImpl.set -> bool
+)
+ident(
+  ext_ref SetImpl.is_empty
+)
+"hw3/setTest.ml" 30 1429 1442 "hw3/setTest.ml" 30 1429 1447
+type(
+  '_a SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 30 1429 1433 "hw3/setTest.ml" 30 1429 1447
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 31 1448 1453 "hw3/setTest.ml" 31 1448 1461
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 31 1448 1462 "hw3/setTest.ml" 31 1448 1482
+type(
+  string
+)
+"hw3/setTest.ml" 31 1448 1483 "hw3/setTest.ml" 31 1448 1487
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 29 1406 1412 "hw3/setTest.ml" 29 1406 1416
+)
+"hw3/setTest.ml" 31 1448 1453 "hw3/setTest.ml" 31 1448 1487
+type(
+  unit
+)
+"hw3/setTest.ml" 33 1489 1495 "hw3/setTest.ml" 33 1489 1499
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 36 1570 1575 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 33 1489 1500 "hw3/setTest.ml" 33 1489 1502
+type(
+  unit
+)
+"hw3/setTest.ml" 34 1512 1520 "hw3/setTest.ml" 34 1512 1521
+type(
+  int SetImpl.set
+)
+ident(
+  def s "hw3/setTest.ml" 35 1549 1553 "hw3/setTest.ml" 35 1549 1569
+)
+"hw3/setTest.ml" 34 1512 1524 "hw3/setTest.ml" 34 1512 1535
+type(
+  int list -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.set_of_list
+)
+"hw3/setTest.ml" 34 1512 1537 "hw3/setTest.ml" 34 1512 1538
+type(
+  int
+)
+"hw3/setTest.ml" 34 1512 1540 "hw3/setTest.ml" 34 1512 1541
+type(
+  int
+)
+"hw3/setTest.ml" 34 1512 1543 "hw3/setTest.ml" 34 1512 1544
+type(
+  int
+)
+"hw3/setTest.ml" 34 1512 1536 "hw3/setTest.ml" 34 1512 1545
+type(
+  int list
+)
+"hw3/setTest.ml" 34 1512 1524 "hw3/setTest.ml" 34 1512 1545
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 35 1549 1553 "hw3/setTest.ml" 35 1549 1556
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw3/setTest.ml" 35 1549 1558 "hw3/setTest.ml" 35 1549 1566
+type(
+  int SetImpl.set -> bool
+)
+ident(
+  ext_ref SetImpl.is_empty
+)
+"hw3/setTest.ml" 35 1549 1567 "hw3/setTest.ml" 35 1549 1568
+type(
+  int SetImpl.set
+)
+ident(
+  int_ref s "hw3/setTest.ml" 34 1512 1520 "hw3/setTest.ml" 34 1512 1521
+)
+"hw3/setTest.ml" 35 1549 1557 "hw3/setTest.ml" 35 1549 1569
+type(
+  bool
+)
+"hw3/setTest.ml" 35 1549 1553 "hw3/setTest.ml" 35 1549 1569
+type(
+  bool
+)
+"hw3/setTest.ml" 34 1512 1516 "hw3/setTest.ml" 35 1549 1569
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 36 1570 1575 "hw3/setTest.ml" 36 1570 1583
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 36 1570 1584 "hw3/setTest.ml" 36 1570 1608
+type(
+  string
+)
+"hw3/setTest.ml" 36 1570 1609 "hw3/setTest.ml" 36 1570 1613
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 33 1489 1495 "hw3/setTest.ml" 33 1489 1499
+)
+"hw3/setTest.ml" 36 1570 1575 "hw3/setTest.ml" 36 1570 1613
+type(
+  unit
+)
+"hw3/setTest.ml" 50 2143 2147 "hw3/setTest.ml" 50 2143 2151
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 52 2204 2207 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 50 2143 2152 "hw3/setTest.ml" 50 2143 2154
+type(
+  unit
+)
+"hw3/setTest.ml" 51 2164 2166 "hw3/setTest.ml" 51 2164 2174
+type(
+  int SetImpl.set -> bool
+)
+ident(
+  ext_ref SetImpl.is_empty
+)
+"hw3/setTest.ml" 51 2164 2176 "hw3/setTest.ml" 51 2164 2182
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.remove
+)
+"hw3/setTest.ml" 51 2164 2183 "hw3/setTest.ml" 51 2164 2184
+type(
+  int
+)
+"hw3/setTest.ml" 51 2164 2186 "hw3/setTest.ml" 51 2164 2197
+type(
+  int list -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.set_of_list
+)
+"hw3/setTest.ml" 51 2164 2199 "hw3/setTest.ml" 51 2164 2200
+type(
+  int
+)
+"hw3/setTest.ml" 51 2164 2198 "hw3/setTest.ml" 51 2164 2201
+type(
+  int list
+)
+"hw3/setTest.ml" 51 2164 2185 "hw3/setTest.ml" 51 2164 2202
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 51 2164 2175 "hw3/setTest.ml" 51 2164 2203
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 51 2164 2166 "hw3/setTest.ml" 51 2164 2203
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 52 2204 2207 "hw3/setTest.ml" 52 2204 2215
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 52 2204 2216 "hw3/setTest.ml" 52 2204 2262
+type(
+  string
+)
+"hw3/setTest.ml" 52 2204 2263 "hw3/setTest.ml" 52 2204 2267
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 50 2143 2147 "hw3/setTest.ml" 50 2143 2151
+)
+"hw3/setTest.ml" 52 2204 2207 "hw3/setTest.ml" 52 2204 2267
+type(
+  unit
+)
+"hw3/setTest.ml" 54 2269 2273 "hw3/setTest.ml" 54 2269 2277
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 56 2317 2322 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 54 2269 2278 "hw3/setTest.ml" 54 2269 2280
+type(
+  unit
+)
+"hw3/setTest.ml" 55 2290 2294 "hw3/setTest.ml" 55 2290 2300
+type(
+  int -> int SetImpl.set -> bool
+)
+ident(
+  ext_ref SetImpl.member
+)
+"hw3/setTest.ml" 55 2290 2301 "hw3/setTest.ml" 55 2290 2302
+type(
+  int
+)
+"hw3/setTest.ml" 55 2290 2304 "hw3/setTest.ml" 55 2290 2307
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 55 2290 2308 "hw3/setTest.ml" 55 2290 2309
+type(
+  int
+)
+"hw3/setTest.ml" 55 2290 2310 "hw3/setTest.ml" 55 2290 2315
+type(
+  int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 55 2290 2303 "hw3/setTest.ml" 55 2290 2316
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 55 2290 2294 "hw3/setTest.ml" 55 2290 2316
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 56 2317 2322 "hw3/setTest.ml" 56 2317 2330
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 56 2317 2331 "hw3/setTest.ml" 56 2317 2370
+type(
+  string
+)
+"hw3/setTest.ml" 56 2317 2371 "hw3/setTest.ml" 56 2317 2375
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 54 2269 2273 "hw3/setTest.ml" 54 2269 2277
+)
+"hw3/setTest.ml" 56 2317 2322 "hw3/setTest.ml" 56 2317 2375
+type(
+  unit
+)
+"hw3/setTest.ml" 58 2377 2381 "hw3/setTest.ml" 58 2377 2385
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 61 2443 2448 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 58 2377 2386 "hw3/setTest.ml" 58 2377 2388
+type(
+  unit
+)
+"hw3/setTest.ml" 59 2398 2406 "hw3/setTest.ml" 59 2398 2407
+type(
+  '_b SetImpl.set
+)
+ident(
+  def s "hw3/setTest.ml" 60 2428 2432 "hw3/setTest.ml" 60 2428 2442
+)
+"hw3/setTest.ml" 59 2398 2410 "hw3/setTest.ml" 59 2398 2421
+type(
+  '_b list -> '_b SetImpl.set
+)
+ident(
+  ext_ref SetImpl.set_of_list
+)
+"hw3/setTest.ml" 59 2398 2422 "hw3/setTest.ml" 59 2398 2424
+type(
+  '_b list
+)
+"hw3/setTest.ml" 59 2398 2410 "hw3/setTest.ml" 59 2398 2424
+type(
+  '_b SetImpl.set
+)
+"hw3/setTest.ml" 60 2428 2432 "hw3/setTest.ml" 60 2428 2440
+type(
+  '_b SetImpl.set -> bool
+)
+ident(
+  ext_ref SetImpl.is_empty
+)
+"hw3/setTest.ml" 60 2428 2441 "hw3/setTest.ml" 60 2428 2442
+type(
+  '_b SetImpl.set
+)
+ident(
+  int_ref s "hw3/setTest.ml" 59 2398 2406 "hw3/setTest.ml" 59 2398 2407
+)
+"hw3/setTest.ml" 60 2428 2432 "hw3/setTest.ml" 60 2428 2442
+type(
+  bool
+)
+"hw3/setTest.ml" 59 2398 2402 "hw3/setTest.ml" 60 2428 2442
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 61 2443 2448 "hw3/setTest.ml" 61 2443 2456
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 61 2443 2457 "hw3/setTest.ml" 61 2443 2470
+type(
+  string
+)
+"hw3/setTest.ml" 61 2443 2471 "hw3/setTest.ml" 61 2443 2475
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 58 2377 2381 "hw3/setTest.ml" 58 2377 2385
+)
+"hw3/setTest.ml" 61 2443 2448 "hw3/setTest.ml" 61 2443 2475
+type(
+  unit
+)
+"hw3/setTest.ml" 64 2478 2482 "hw3/setTest.ml" 64 2478 2486
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 66 2541 2546 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 64 2478 2487 "hw3/setTest.ml" 64 2478 2489
+type(
+  unit
+)
+"hw3/setTest.ml" 65 2499 2503 "hw3/setTest.ml" 65 2499 2506
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 65 2499 2507 "hw3/setTest.ml" 65 2499 2508
+type(
+  int
+)
+"hw3/setTest.ml" 65 2499 2509 "hw3/setTest.ml" 65 2499 2514
+type(
+  int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 65 2499 2503 "hw3/setTest.ml" 65 2499 2514
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 65 2499 2515 "hw3/setTest.ml" 65 2499 2516
+type(
+  int SetImpl.set -> int SetImpl.set -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/setTest.ml" 65 2499 2517 "hw3/setTest.ml" 65 2499 2520
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 65 2499 2521 "hw3/setTest.ml" 65 2499 2522
+type(
+  int
+)
+"hw3/setTest.ml" 65 2499 2524 "hw3/setTest.ml" 65 2499 2535
+type(
+  int list -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.set_of_list
+)
+"hw3/setTest.ml" 65 2499 2537 "hw3/setTest.ml" 65 2499 2538
+type(
+  int
+)
+"hw3/setTest.ml" 65 2499 2536 "hw3/setTest.ml" 65 2499 2539
+type(
+  int list
+)
+"hw3/setTest.ml" 65 2499 2523 "hw3/setTest.ml" 65 2499 2540
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 65 2499 2517 "hw3/setTest.ml" 65 2499 2540
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 65 2499 2503 "hw3/setTest.ml" 65 2499 2540
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 66 2541 2546 "hw3/setTest.ml" 66 2541 2554
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 66 2541 2555 "hw3/setTest.ml" 66 2541 2570
+type(
+  string
+)
+"hw3/setTest.ml" 66 2541 2571 "hw3/setTest.ml" 66 2541 2575
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 64 2478 2482 "hw3/setTest.ml" 64 2478 2486
+)
+"hw3/setTest.ml" 66 2541 2546 "hw3/setTest.ml" 66 2541 2575
+type(
+  unit
+)
+"hw3/setTest.ml" 68 2577 2581 "hw3/setTest.ml" 68 2577 2585
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 70 2636 2641 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 68 2577 2586 "hw3/setTest.ml" 68 2577 2588
+type(
+  unit
+)
+"hw3/setTest.ml" 69 2598 2602 "hw3/setTest.ml" 69 2598 2610
+type(
+  int SetImpl.set -> bool
+)
+ident(
+  ext_ref SetImpl.is_empty
+)
+"hw3/setTest.ml" 69 2598 2612 "hw3/setTest.ml" 69 2598 2618
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.remove
+)
+"hw3/setTest.ml" 69 2598 2619 "hw3/setTest.ml" 69 2598 2620
+type(
+  int
+)
+"hw3/setTest.ml" 69 2598 2622 "hw3/setTest.ml" 69 2598 2625
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 69 2598 2626 "hw3/setTest.ml" 69 2598 2627
+type(
+  int
+)
+"hw3/setTest.ml" 69 2598 2628 "hw3/setTest.ml" 69 2598 2633
+type(
+  int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 69 2598 2621 "hw3/setTest.ml" 69 2598 2634
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 69 2598 2611 "hw3/setTest.ml" 69 2598 2635
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 69 2598 2602 "hw3/setTest.ml" 69 2598 2635
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 70 2636 2641 "hw3/setTest.ml" 70 2636 2649
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 70 2636 2650 "hw3/setTest.ml" 70 2636 2691
+type(
+  string
+)
+"hw3/setTest.ml" 70 2636 2692 "hw3/setTest.ml" 70 2636 2696
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 68 2577 2581 "hw3/setTest.ml" 68 2577 2585
+)
+"hw3/setTest.ml" 70 2636 2641 "hw3/setTest.ml" 70 2636 2696
+type(
+  unit
+)
+"hw3/setTest.ml" 72 2698 2702 "hw3/setTest.ml" 72 2698 2706
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 74 2744 2749 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 72 2698 2707 "hw3/setTest.ml" 72 2698 2709
+type(
+  unit
+)
+"hw3/setTest.ml" 73 2719 2723 "hw3/setTest.ml" 73 2719 2729
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.remove
+)
+"hw3/setTest.ml" 73 2719 2730 "hw3/setTest.ml" 73 2719 2731
+type(
+  int
+)
+"hw3/setTest.ml" 73 2719 2732 "hw3/setTest.ml" 73 2719 2737
+type(
+  int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 73 2719 2723 "hw3/setTest.ml" 73 2719 2737
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 73 2719 2737 "hw3/setTest.ml" 73 2719 2738
+type(
+  int SetImpl.set -> int SetImpl.set -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/setTest.ml" 73 2719 2738 "hw3/setTest.ml" 73 2719 2743
+type(
+  int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 73 2719 2723 "hw3/setTest.ml" 73 2719 2743
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 74 2744 2749 "hw3/setTest.ml" 74 2744 2757
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 74 2744 2758 "hw3/setTest.ml" 74 2744 2788
+type(
+  string
+)
+"hw3/setTest.ml" 74 2744 2789 "hw3/setTest.ml" 74 2744 2793
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 72 2698 2702 "hw3/setTest.ml" 72 2698 2706
+)
+"hw3/setTest.ml" 74 2744 2749 "hw3/setTest.ml" 74 2744 2793
+type(
+  unit
+)
+"hw3/setTest.ml" 76 2795 2799 "hw3/setTest.ml" 76 2795 2803
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 78 2864 2869 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 76 2795 2804 "hw3/setTest.ml" 76 2795 2806
+type(
+  unit
+)
+"hw3/setTest.ml" 77 2816 2820 "hw3/setTest.ml" 77 2816 2824
+type(
+  '_c SetImpl.set -> int
+)
+ident(
+  ext_ref SetImpl.size
+)
+"hw3/setTest.ml" 77 2816 2825 "hw3/setTest.ml" 77 2816 2830
+type(
+  '_c SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 77 2816 2820 "hw3/setTest.ml" 77 2816 2830
+type(
+  int
+)
+"hw3/setTest.ml" 77 2816 2831 "hw3/setTest.ml" 77 2816 2832
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/setTest.ml" 77 2816 2833 "hw3/setTest.ml" 77 2816 2837
+type(
+  int SetImpl.set -> int
+)
+ident(
+  ext_ref SetImpl.size
+)
+"hw3/setTest.ml" 77 2816 2839 "hw3/setTest.ml" 77 2816 2850
+type(
+  int list -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.set_of_list
+)
+"hw3/setTest.ml" 77 2816 2852 "hw3/setTest.ml" 77 2816 2853
+type(
+  int
+)
+"hw3/setTest.ml" 77 2816 2854 "hw3/setTest.ml" 77 2816 2855
+type(
+  int
+)
+"hw3/setTest.ml" 77 2816 2856 "hw3/setTest.ml" 77 2816 2857
+type(
+  int
+)
+"hw3/setTest.ml" 77 2816 2851 "hw3/setTest.ml" 77 2816 2858
+type(
+  int list
+)
+"hw3/setTest.ml" 77 2816 2838 "hw3/setTest.ml" 77 2816 2859
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 77 2816 2833 "hw3/setTest.ml" 77 2816 2859
+type(
+  int
+)
+"hw3/setTest.ml" 77 2816 2860 "hw3/setTest.ml" 77 2816 2861
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw3/setTest.ml" 77 2816 2862 "hw3/setTest.ml" 77 2816 2863
+type(
+  int
+)
+"hw3/setTest.ml" 77 2816 2833 "hw3/setTest.ml" 77 2816 2863
+type(
+  int
+)
+"hw3/setTest.ml" 77 2816 2820 "hw3/setTest.ml" 77 2816 2863
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 78 2864 2869 "hw3/setTest.ml" 78 2864 2877
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 78 2864 2878 "hw3/setTest.ml" 78 2864 2922
+type(
+  string
+)
+"hw3/setTest.ml" 78 2864 2923 "hw3/setTest.ml" 78 2864 2927
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 76 2795 2799 "hw3/setTest.ml" 76 2795 2803
+)
+"hw3/setTest.ml" 78 2864 2869 "hw3/setTest.ml" 78 2864 2927
+type(
+  unit
+)
+"hw3/setTest.ml" 80 2929 2933 "hw3/setTest.ml" 80 2929 2937
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 82 2973 2978 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 80 2929 2938 "hw3/setTest.ml" 80 2929 2940
+type(
+  unit
+)
+"hw3/setTest.ml" 81 2950 2954 "hw3/setTest.ml" 81 2950 2960
+type(
+  '_d SetImpl.set -> '_d SetImpl.set -> bool
+)
+ident(
+  ext_ref SetImpl.equals
+)
+"hw3/setTest.ml" 81 2950 2961 "hw3/setTest.ml" 81 2950 2966
+type(
+  '_d SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 81 2950 2967 "hw3/setTest.ml" 81 2950 2972
+type(
+  '_d SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 81 2950 2954 "hw3/setTest.ml" 81 2950 2972
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 82 2973 2978 "hw3/setTest.ml" 82 2973 2986
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 82 2973 2987 "hw3/setTest.ml" 82 2973 3009
+type(
+  string
+)
+"hw3/setTest.ml" 82 2973 3010 "hw3/setTest.ml" 82 2973 3014
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 80 2929 2933 "hw3/setTest.ml" 80 2929 2937
+)
+"hw3/setTest.ml" 82 2973 2978 "hw3/setTest.ml" 82 2973 3014
+type(
+  unit
+)
+"hw3/setTest.ml" 84 3016 3020 "hw3/setTest.ml" 84 3016 3024
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 86 3108 3113 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 84 3016 3025 "hw3/setTest.ml" 84 3016 3027
+type(
+  unit
+)
+"hw3/setTest.ml" 85 3037 3041 "hw3/setTest.ml" 85 3037 3047
+type(
+  int SetImpl.set -> int SetImpl.set -> bool
+)
+ident(
+  ext_ref SetImpl.equals
+)
+"hw3/setTest.ml" 85 3037 3049 "hw3/setTest.ml" 85 3037 3052
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 85 3037 3053 "hw3/setTest.ml" 85 3037 3054
+type(
+  int
+)
+"hw3/setTest.ml" 85 3037 3056 "hw3/setTest.ml" 85 3037 3059
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 85 3037 3060 "hw3/setTest.ml" 85 3037 3061
+type(
+  int
+)
+"hw3/setTest.ml" 85 3037 3063 "hw3/setTest.ml" 85 3037 3066
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 85 3037 3067 "hw3/setTest.ml" 85 3037 3068
+type(
+  int
+)
+"hw3/setTest.ml" 85 3037 3069 "hw3/setTest.ml" 85 3037 3074
+type(
+  int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 85 3037 3062 "hw3/setTest.ml" 85 3037 3075
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 85 3037 3055 "hw3/setTest.ml" 85 3037 3076
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 85 3037 3048 "hw3/setTest.ml" 85 3037 3077
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 85 3037 3079 "hw3/setTest.ml" 85 3037 3082
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 85 3037 3083 "hw3/setTest.ml" 85 3037 3084
+type(
+  int
+)
+"hw3/setTest.ml" 85 3037 3086 "hw3/setTest.ml" 85 3037 3089
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 85 3037 3090 "hw3/setTest.ml" 85 3037 3091
+type(
+  int
+)
+"hw3/setTest.ml" 85 3037 3093 "hw3/setTest.ml" 85 3037 3096
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 85 3037 3097 "hw3/setTest.ml" 85 3037 3098
+type(
+  int
+)
+"hw3/setTest.ml" 85 3037 3099 "hw3/setTest.ml" 85 3037 3104
+type(
+  int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 85 3037 3092 "hw3/setTest.ml" 85 3037 3105
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 85 3037 3085 "hw3/setTest.ml" 85 3037 3106
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 85 3037 3078 "hw3/setTest.ml" 85 3037 3107
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 85 3037 3041 "hw3/setTest.ml" 85 3037 3107
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 86 3108 3113 "hw3/setTest.ml" 86 3108 3121
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 86 3108 3122 "hw3/setTest.ml" 86 3108 3142
+type(
+  string
+)
+"hw3/setTest.ml" 86 3108 3143 "hw3/setTest.ml" 86 3108 3147
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 84 3016 3020 "hw3/setTest.ml" 84 3016 3024
+)
+"hw3/setTest.ml" 86 3108 3113 "hw3/setTest.ml" 86 3108 3147
+type(
+  unit
+)
+"hw3/setTest.ml" 88 3149 3153 "hw3/setTest.ml" 88 3149 3157
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/setTest.ml" 90 3244 3249 "hw3/setTest.ml" 95 3382 3385
+)
+"hw3/setTest.ml" 88 3149 3158 "hw3/setTest.ml" 88 3149 3160
+type(
+  unit
+)
+"hw3/setTest.ml" 89 3170 3174 "hw3/setTest.ml" 89 3170 3185
+type(
+  int list -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.set_of_list
+)
+"hw3/setTest.ml" 89 3170 3187 "hw3/setTest.ml" 89 3170 3198
+type(
+  int SetImpl.set -> int list
+)
+ident(
+  ext_ref SetImpl.list_of_set
+)
+"hw3/setTest.ml" 89 3170 3200 "hw3/setTest.ml" 89 3170 3203
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 89 3170 3204 "hw3/setTest.ml" 89 3170 3206
+type(
+  int
+)
+"hw3/setTest.ml" 89 3170 3208 "hw3/setTest.ml" 89 3170 3211
+type(
+  int -> int SetImpl.set -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.add
+)
+"hw3/setTest.ml" 89 3170 3212 "hw3/setTest.ml" 89 3170 3213
+type(
+  int
+)
+"hw3/setTest.ml" 89 3170 3214 "hw3/setTest.ml" 89 3170 3219
+type(
+  int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.empty
+)
+"hw3/setTest.ml" 89 3170 3207 "hw3/setTest.ml" 89 3170 3220
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 89 3170 3199 "hw3/setTest.ml" 89 3170 3221
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 89 3170 3186 "hw3/setTest.ml" 89 3170 3222
+type(
+  int list
+)
+"hw3/setTest.ml" 89 3170 3174 "hw3/setTest.ml" 89 3170 3222
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 89 3170 3223 "hw3/setTest.ml" 89 3170 3224
+type(
+  int SetImpl.set -> int SetImpl.set -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/setTest.ml" 89 3170 3225 "hw3/setTest.ml" 89 3170 3236
+type(
+  int list -> int SetImpl.set
+)
+ident(
+  ext_ref SetImpl.set_of_list
+)
+"hw3/setTest.ml" 89 3170 3238 "hw3/setTest.ml" 89 3170 3239
+type(
+  int
+)
+"hw3/setTest.ml" 89 3170 3240 "hw3/setTest.ml" 89 3170 3242
+type(
+  int
+)
+"hw3/setTest.ml" 89 3170 3237 "hw3/setTest.ml" 89 3170 3243
+type(
+  int list
+)
+"hw3/setTest.ml" 89 3170 3225 "hw3/setTest.ml" 89 3170 3243
+type(
+  int SetImpl.set
+)
+"hw3/setTest.ml" 89 3170 3174 "hw3/setTest.ml" 89 3170 3243
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/setTest.ml" 90 3244 3249 "hw3/setTest.ml" 90 3244 3257
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  int_ref run_test "hw3/setTest.ml" 21 1068 1074 "hw3/setTest.ml" 21 1068 1082
+)
+"hw3/setTest.ml" 90 3244 3258 "hw3/setTest.ml" 90 3244 3310
+type(
+  string
+)
+"hw3/setTest.ml" 90 3244 3311 "hw3/setTest.ml" 90 3244 3315
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/setTest.ml" 88 3149 3153 "hw3/setTest.ml" 88 3149 3157
+)
+"hw3/setTest.ml" 90 3244 3249 "hw3/setTest.ml" 90 3244 3315
+type(
+  unit
+)
+"hw3/setTest.ml" 101 3550 3553 "hw3/setTest.ml" 101 3550 3566
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"hw3/setTest.ml" 101 3550 3567 "hw3/setTest.ml" 101 3550 3569
+type(
+  unit
+)
+"hw3/setTest.ml" 101 3550 3553 "hw3/setTest.ml" 101 3550 3569
+type(
+  unit
+)
+"hw3/setTest.ml" 104 3615 3618 "hw3/setTest.ml" 104 3615 3631
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"hw3/setTest.ml" 104 3615 3632 "hw3/setTest.ml" 104 3615 3634
+type(
+  unit
+)
+"hw3/setTest.ml" 104 3615 3618 "hw3/setTest.ml" 104 3615 3634
+type(
+  unit
+)

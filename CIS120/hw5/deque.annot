@@ -1,0 +1,709 @@
+"hw5/deque.ml" 14 389 393 "hw5/deque.ml" 14 389 399
+type(
+  unit -> 'a deque
+)
+ident(
+  def create "hw5/deque.ml" 18 468 468 "hw5/deque.ml" 1 0 -1
+)
+"hw5/deque.ml" 14 389 400 "hw5/deque.ml" 14 389 402
+type(
+  unit
+)
+"hw5/deque.ml" 15 416 431 "hw5/deque.ml" 15 416 433
+type(
+  'a list
+)
+"hw5/deque.ml" 15 416 418 "hw5/deque.ml" 15 416 436
+type(
+  'a deque
+)
+type(
+  'a deque
+)
+"hw5/deque.ml" 18 468 472 "hw5/deque.ml" 18 468 480
+type(
+  'a deque -> bool
+)
+ident(
+  def is_empty "hw5/deque.ml" 22 561 561 "hw5/deque.ml" 1 0 -1
+)
+"hw5/deque.ml" 18 468 482 "hw5/deque.ml" 18 468 483
+type(
+  'a deque
+)
+ident(
+  def d "hw5/deque.ml" 18 468 496 "hw5/deque.ml" 19 505 522
+)
+"hw5/deque.ml" 19 505 507 "hw5/deque.ml" 19 505 508
+type(
+  'a deque
+)
+ident(
+  int_ref d "hw5/deque.ml" 18 468 482 "hw5/deque.ml" 18 468 483
+)
+"hw5/deque.ml" 19 505 507 "hw5/deque.ml" 19 505 517
+type(
+  'a list
+)
+"hw5/deque.ml" 19 505 518 "hw5/deque.ml" 19 505 519
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw5/deque.ml" 19 505 520 "hw5/deque.ml" 19 505 522
+type(
+  'a list
+)
+"hw5/deque.ml" 19 505 507 "hw5/deque.ml" 19 505 522
+type(
+  bool
+)
+type(
+  bool
+)
+"hw5/deque.ml" 22 561 565 "hw5/deque.ml" 22 561 576
+type(
+  'a -> 'a deque -> unit
+)
+ident(
+  def insert_head "hw5/deque.ml" 26 679 679 "hw5/deque.ml" 1 0 -1
+)
+"hw5/deque.ml" 22 561 578 "hw5/deque.ml" 22 561 579
+type(
+  'a
+)
+ident(
+  def x "hw5/deque.ml" 22 561 585 "hw5/deque.ml" 23 608 641
+)
+"hw5/deque.ml" 22 561 586 "hw5/deque.ml" 22 561 587
+type(
+  'a deque
+)
+ident(
+  def q "hw5/deque.ml" 22 561 599 "hw5/deque.ml" 23 608 641
+)
+"hw5/deque.ml" 23 608 610 "hw5/deque.ml" 23 608 611
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 22 561 586 "hw5/deque.ml" 22 561 587
+)
+"hw5/deque.ml" 23 608 625 "hw5/deque.ml" 23 608 626
+type(
+  'a
+)
+ident(
+  int_ref x "hw5/deque.ml" 22 561 578 "hw5/deque.ml" 22 561 579
+)
+"hw5/deque.ml" 23 608 630 "hw5/deque.ml" 23 608 631
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 22 561 586 "hw5/deque.ml" 22 561 587
+)
+"hw5/deque.ml" 23 608 630 "hw5/deque.ml" 23 608 640
+type(
+  'a list
+)
+"hw5/deque.ml" 23 608 624 "hw5/deque.ml" 23 608 641
+type(
+  'a list
+)
+"hw5/deque.ml" 23 608 610 "hw5/deque.ml" 23 608 641
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/deque.ml" 26 679 683 "hw5/deque.ml" 26 679 694
+type(
+  'a -> 'a deque -> unit
+)
+ident(
+  def insert_tail "hw5/deque.ml" 31 849 849 "hw5/deque.ml" 1 0 -1
+)
+"hw5/deque.ml" 26 679 696 "hw5/deque.ml" 26 679 697
+type(
+  'a
+)
+ident(
+  def x "hw5/deque.ml" 26 679 703 "hw5/deque.ml" 27 726 758
+)
+"hw5/deque.ml" 26 679 704 "hw5/deque.ml" 26 679 705
+type(
+  'a deque
+)
+ident(
+  def q "hw5/deque.ml" 26 679 717 "hw5/deque.ml" 27 726 758
+)
+"hw5/deque.ml" 27 726 728 "hw5/deque.ml" 27 726 729
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 26 679 704 "hw5/deque.ml" 26 679 705
+)
+"hw5/deque.ml" 27 726 742 "hw5/deque.ml" 27 726 743
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 26 679 704 "hw5/deque.ml" 26 679 705
+)
+"hw5/deque.ml" 27 726 742 "hw5/deque.ml" 27 726 752
+type(
+  'a list
+)
+"hw5/deque.ml" 27 726 753 "hw5/deque.ml" 27 726 754
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"hw5/deque.ml" 27 726 756 "hw5/deque.ml" 27 726 757
+type(
+  'a
+)
+ident(
+  int_ref x "hw5/deque.ml" 26 679 696 "hw5/deque.ml" 26 679 697
+)
+"hw5/deque.ml" 27 726 755 "hw5/deque.ml" 27 726 758
+type(
+  'a list
+)
+"hw5/deque.ml" 27 726 742 "hw5/deque.ml" 27 726 758
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw5/deque.ml" 27 726 728 "hw5/deque.ml" 27 726 758
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/deque.ml" 31 849 853 "hw5/deque.ml" 31 849 864
+type(
+  'a deque -> 'a
+)
+ident(
+  def remove_head "hw5/deque.ml" 39 1088 1088 "hw5/deque.ml" 1 0 -1
+)
+"hw5/deque.ml" 31 849 866 "hw5/deque.ml" 31 849 867
+type(
+  'a deque
+)
+ident(
+  def q "hw5/deque.ml" 31 849 879 "hw5/deque.ml" 35 994 999
+)
+"hw5/deque.ml" 32 886 900 "hw5/deque.ml" 32 886 901
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 31 849 866 "hw5/deque.ml" 31 849 867
+)
+"hw5/deque.ml" 32 886 900 "hw5/deque.ml" 32 886 910
+type(
+  'a list
+)
+"hw5/deque.ml" 33 916 922 "hw5/deque.ml" 33 916 923
+type(
+  'a
+)
+ident(
+  def h "hw5/deque.ml" 33 916 935 "hw5/deque.ml" 33 916 958
+)
+"hw5/deque.ml" 33 916 927 "hw5/deque.ml" 33 916 931
+type(
+  'a list
+)
+ident(
+  def rest "hw5/deque.ml" 33 916 935 "hw5/deque.ml" 33 916 958
+)
+"hw5/deque.ml" 33 916 922 "hw5/deque.ml" 33 916 931
+type(
+  'a list
+)
+"hw5/deque.ml" 33 916 936 "hw5/deque.ml" 33 916 937
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 31 849 866 "hw5/deque.ml" 31 849 867
+)
+"hw5/deque.ml" 33 916 950 "hw5/deque.ml" 33 916 954
+type(
+  'a list
+)
+ident(
+  int_ref rest "hw5/deque.ml" 33 916 927 "hw5/deque.ml" 33 916 931
+)
+"hw5/deque.ml" 33 916 936 "hw5/deque.ml" 33 916 954
+type(
+  unit
+)
+"hw5/deque.ml" 33 916 956 "hw5/deque.ml" 33 916 957
+type(
+  'a
+)
+ident(
+  int_ref h "hw5/deque.ml" 33 916 922 "hw5/deque.ml" 33 916 923
+)
+"hw5/deque.ml" 33 916 935 "hw5/deque.ml" 33 916 958
+type(
+  'a
+)
+"hw5/deque.ml" 34 959 965 "hw5/deque.ml" 34 959 967
+type(
+  'a list
+)
+"hw5/deque.ml" 34 959 971 "hw5/deque.ml" 34 959 979
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw5/deque.ml" 34 959 980 "hw5/deque.ml" 34 959 993
+type(
+  string
+)
+"hw5/deque.ml" 34 959 971 "hw5/deque.ml" 34 959 993
+call(
+  tail
+)
+type(
+  'a
+)
+"hw5/deque.ml" 32 886 888 "hw5/deque.ml" 35 994 999
+type(
+  'a
+)
+type(
+  'a
+)
+"hw5/deque.ml" 39 1088 1092 "hw5/deque.ml" 39 1088 1103
+type(
+  'a deque -> 'a
+)
+ident(
+  def remove_tail "hw5/deque.ml" 52 1467 1467 "hw5/deque.ml" 1 0 -1
+)
+"hw5/deque.ml" 39 1088 1105 "hw5/deque.ml" 39 1088 1106
+type(
+  'a deque
+)
+ident(
+  def q "hw5/deque.ml" 39 1088 1118 "hw5/deque.ml" 48 1387 1390
+)
+"hw5/deque.ml" 40 1125 1135 "hw5/deque.ml" 40 1125 1139
+type(
+  'a list -> 'a list -> 'a list * 'a
+)
+ident(
+  def last "hw5/deque.ml" 40 1125 1127 "hw5/deque.ml" 48 1387 1390
+)
+"hw5/deque.ml" 40 1125 1141 "hw5/deque.ml" 40 1125 1142
+type(
+  'a list
+)
+ident(
+  def l "hw5/deque.ml" 40 1125 1154 "hw5/deque.ml" 45 1311 1318
+)
+"hw5/deque.ml" 40 1125 1155 "hw5/deque.ml" 40 1125 1158
+type(
+  'a list
+)
+ident(
+  def acc "hw5/deque.ml" 40 1125 1170 "hw5/deque.ml" 45 1311 1318
+)
+"hw5/deque.ml" 41 1186 1202 "hw5/deque.ml" 41 1186 1203
+type(
+  'a list
+)
+ident(
+  int_ref l "hw5/deque.ml" 40 1125 1141 "hw5/deque.ml" 40 1125 1142
+)
+"hw5/deque.ml" 42 1209 1217 "hw5/deque.ml" 42 1209 1218
+type(
+  'a
+)
+ident(
+  def x "hw5/deque.ml" 42 1209 1228 "hw5/deque.ml" 42 1209 1235
+)
+"hw5/deque.ml" 42 1209 1222 "hw5/deque.ml" 42 1209 1224
+type(
+  'a list
+)
+"hw5/deque.ml" 42 1209 1217 "hw5/deque.ml" 42 1209 1224
+type(
+  'a list
+)
+"hw5/deque.ml" 42 1209 1228 "hw5/deque.ml" 42 1209 1231
+type(
+  'a list
+)
+ident(
+  int_ref acc "hw5/deque.ml" 40 1125 1155 "hw5/deque.ml" 40 1125 1158
+)
+"hw5/deque.ml" 42 1209 1234 "hw5/deque.ml" 42 1209 1235
+type(
+  'a
+)
+ident(
+  int_ref x "hw5/deque.ml" 42 1209 1217 "hw5/deque.ml" 42 1209 1218
+)
+"hw5/deque.ml" 42 1209 1228 "hw5/deque.ml" 42 1209 1235
+type(
+  'a list * 'a
+)
+"hw5/deque.ml" 43 1236 1244 "hw5/deque.ml" 43 1236 1245
+type(
+  'a
+)
+ident(
+  def x "hw5/deque.ml" 43 1236 1255 "hw5/deque.ml" 43 1236 1273
+)
+"hw5/deque.ml" 43 1236 1249 "hw5/deque.ml" 43 1236 1251
+type(
+  'a list
+)
+ident(
+  def tl "hw5/deque.ml" 43 1236 1255 "hw5/deque.ml" 43 1236 1273
+)
+"hw5/deque.ml" 43 1236 1244 "hw5/deque.ml" 43 1236 1251
+type(
+  'a list
+)
+"hw5/deque.ml" 43 1236 1255 "hw5/deque.ml" 43 1236 1259
+type(
+  'a list -> 'a list -> 'a list * 'a
+)
+ident(
+  int_ref last "hw5/deque.ml" 40 1125 1135 "hw5/deque.ml" 40 1125 1139
+)
+"hw5/deque.ml" 43 1236 1260 "hw5/deque.ml" 43 1236 1262
+type(
+  'a list
+)
+ident(
+  int_ref tl "hw5/deque.ml" 43 1236 1249 "hw5/deque.ml" 43 1236 1251
+)
+"hw5/deque.ml" 43 1236 1264 "hw5/deque.ml" 43 1236 1265
+type(
+  'a
+)
+ident(
+  int_ref x "hw5/deque.ml" 43 1236 1244 "hw5/deque.ml" 43 1236 1245
+)
+"hw5/deque.ml" 43 1236 1269 "hw5/deque.ml" 43 1236 1272
+type(
+  'a list
+)
+ident(
+  int_ref acc "hw5/deque.ml" 40 1125 1155 "hw5/deque.ml" 40 1125 1158
+)
+"hw5/deque.ml" 43 1236 1263 "hw5/deque.ml" 43 1236 1273
+type(
+  'a list
+)
+"hw5/deque.ml" 43 1236 1255 "hw5/deque.ml" 43 1236 1273
+call(
+  tail
+)
+type(
+  'a list * 'a
+)
+"hw5/deque.ml" 44 1274 1282 "hw5/deque.ml" 44 1274 1284
+type(
+  'a list
+)
+"hw5/deque.ml" 44 1274 1288 "hw5/deque.ml" 44 1274 1296
+type(
+  string -> 'a list * 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw5/deque.ml" 44 1274 1297 "hw5/deque.ml" 44 1274 1310
+type(
+  string
+)
+"hw5/deque.ml" 44 1274 1288 "hw5/deque.ml" 44 1274 1310
+call(
+  tail
+)
+type(
+  'a list * 'a
+)
+"hw5/deque.ml" 41 1186 1190 "hw5/deque.ml" 45 1311 1318
+type(
+  'a list * 'a
+)
+type(
+  'a list * 'a
+)
+"hw5/deque.ml" 46 1322 1329 "hw5/deque.ml" 46 1322 1330
+type(
+  'a list
+)
+ident(
+  def c "hw5/deque.ml" 47 1359 1361 "hw5/deque.ml" 48 1387 1390
+)
+"hw5/deque.ml" 46 1322 1332 "hw5/deque.ml" 46 1322 1333
+type(
+  'a
+)
+ident(
+  def x "hw5/deque.ml" 47 1359 1361 "hw5/deque.ml" 48 1387 1390
+)
+"hw5/deque.ml" 46 1322 1328 "hw5/deque.ml" 46 1322 1334
+type(
+  'a list * 'a
+)
+"hw5/deque.ml" 46 1322 1337 "hw5/deque.ml" 46 1322 1341
+type(
+  'a list -> 'a list -> 'a list * 'a
+)
+ident(
+  int_ref last "hw5/deque.ml" 40 1125 1135 "hw5/deque.ml" 40 1125 1139
+)
+"hw5/deque.ml" 46 1322 1342 "hw5/deque.ml" 46 1322 1343
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 39 1088 1105 "hw5/deque.ml" 39 1088 1106
+)
+"hw5/deque.ml" 46 1322 1342 "hw5/deque.ml" 46 1322 1352
+type(
+  'a list
+)
+"hw5/deque.ml" 46 1322 1353 "hw5/deque.ml" 46 1322 1355
+type(
+  'a list
+)
+"hw5/deque.ml" 46 1322 1337 "hw5/deque.ml" 46 1322 1355
+call(
+  stack
+)
+type(
+  'a list * 'a
+)
+"hw5/deque.ml" 47 1359 1361 "hw5/deque.ml" 47 1359 1362
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 39 1088 1105 "hw5/deque.ml" 39 1088 1106
+)
+"hw5/deque.ml" 47 1359 1375 "hw5/deque.ml" 47 1359 1383
+type(
+  'a list -> 'a list
+)
+ident(
+  ext_ref List.rev
+)
+"hw5/deque.ml" 47 1359 1384 "hw5/deque.ml" 47 1359 1385
+type(
+  'a list
+)
+ident(
+  int_ref c "hw5/deque.ml" 46 1322 1329 "hw5/deque.ml" 46 1322 1330
+)
+"hw5/deque.ml" 47 1359 1375 "hw5/deque.ml" 47 1359 1385
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw5/deque.ml" 47 1359 1361 "hw5/deque.ml" 47 1359 1385
+type(
+  unit
+)
+"hw5/deque.ml" 48 1387 1389 "hw5/deque.ml" 48 1387 1390
+type(
+  'a
+)
+ident(
+  int_ref x "hw5/deque.ml" 46 1322 1332 "hw5/deque.ml" 46 1322 1333
+)
+"hw5/deque.ml" 47 1359 1361 "hw5/deque.ml" 48 1387 1390
+type(
+  'a
+)
+"hw5/deque.ml" 46 1322 1324 "hw5/deque.ml" 48 1387 1390
+type(
+  'a
+)
+"hw5/deque.ml" 40 1125 1127 "hw5/deque.ml" 48 1387 1390
+type(
+  'a
+)
+type(
+  'a
+)
+"hw5/deque.ml" 52 1467 1471 "hw5/deque.ml" 52 1467 1478
+type(
+  ('a -> unit) -> 'a deque -> unit
+)
+ident(
+  def iterate "hw5/deque.ml" 58 1636 1656 "hw5/deque.ml" 1 0 -1
+)
+"hw5/deque.ml" 52 1467 1480 "hw5/deque.ml" 52 1467 1481
+type(
+  'a -> unit
+)
+ident(
+  def c "hw5/deque.ml" 52 1467 1494 "hw5/deque.ml" 58 1636 1656
+)
+"hw5/deque.ml" 52 1467 1495 "hw5/deque.ml" 52 1467 1496
+type(
+  'a deque
+)
+ident(
+  def q "hw5/deque.ml" 52 1467 1507 "hw5/deque.ml" 58 1636 1656
+)
+"hw5/deque.ml" 53 1516 1526 "hw5/deque.ml" 53 1516 1530
+type(
+  'a list -> unit
+)
+ident(
+  def loop "hw5/deque.ml" 53 1516 1518 "hw5/deque.ml" 58 1636 1656
+)
+"hw5/deque.ml" 53 1516 1532 "hw5/deque.ml" 53 1516 1533
+type(
+  'a list
+)
+ident(
+  def l "hw5/deque.ml" 53 1516 1543 "hw5/deque.ml" 57 1628 1635
+)
+"hw5/deque.ml" 54 1552 1568 "hw5/deque.ml" 54 1552 1569
+type(
+  'a list
+)
+ident(
+  int_ref l "hw5/deque.ml" 53 1516 1532 "hw5/deque.ml" 53 1516 1533
+)
+"hw5/deque.ml" 55 1575 1583 "hw5/deque.ml" 55 1575 1585
+type(
+  'a list
+)
+"hw5/deque.ml" 55 1575 1589 "hw5/deque.ml" 55 1575 1591
+type(
+  unit
+)
+"hw5/deque.ml" 56 1592 1600 "hw5/deque.ml" 56 1592 1601
+type(
+  'a
+)
+ident(
+  def x "hw5/deque.ml" 56 1592 1613 "hw5/deque.ml" 56 1592 1627
+)
+"hw5/deque.ml" 56 1592 1605 "hw5/deque.ml" 56 1592 1609
+type(
+  'a list
+)
+ident(
+  def rest "hw5/deque.ml" 56 1592 1613 "hw5/deque.ml" 56 1592 1627
+)
+"hw5/deque.ml" 56 1592 1600 "hw5/deque.ml" 56 1592 1609
+type(
+  'a list
+)
+"hw5/deque.ml" 56 1592 1613 "hw5/deque.ml" 56 1592 1614
+type(
+  'a -> unit
+)
+ident(
+  int_ref c "hw5/deque.ml" 52 1467 1480 "hw5/deque.ml" 52 1467 1481
+)
+"hw5/deque.ml" 56 1592 1615 "hw5/deque.ml" 56 1592 1616
+type(
+  'a
+)
+ident(
+  int_ref x "hw5/deque.ml" 56 1592 1600 "hw5/deque.ml" 56 1592 1601
+)
+"hw5/deque.ml" 56 1592 1613 "hw5/deque.ml" 56 1592 1616
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/deque.ml" 56 1592 1618 "hw5/deque.ml" 56 1592 1622
+type(
+  'a list -> unit
+)
+ident(
+  int_ref loop "hw5/deque.ml" 53 1516 1526 "hw5/deque.ml" 53 1516 1530
+)
+"hw5/deque.ml" 56 1592 1623 "hw5/deque.ml" 56 1592 1627
+type(
+  'a list
+)
+ident(
+  int_ref rest "hw5/deque.ml" 56 1592 1605 "hw5/deque.ml" 56 1592 1609
+)
+"hw5/deque.ml" 56 1592 1618 "hw5/deque.ml" 56 1592 1627
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/deque.ml" 56 1592 1613 "hw5/deque.ml" 56 1592 1627
+type(
+  unit
+)
+"hw5/deque.ml" 54 1552 1556 "hw5/deque.ml" 57 1628 1635
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/deque.ml" 58 1636 1641 "hw5/deque.ml" 58 1636 1645
+type(
+  'a list -> unit
+)
+ident(
+  int_ref loop "hw5/deque.ml" 53 1516 1526 "hw5/deque.ml" 53 1516 1530
+)
+"hw5/deque.ml" 58 1636 1646 "hw5/deque.ml" 58 1636 1647
+type(
+  'a deque
+)
+ident(
+  int_ref q "hw5/deque.ml" 52 1467 1495 "hw5/deque.ml" 52 1467 1496
+)
+"hw5/deque.ml" 58 1636 1646 "hw5/deque.ml" 58 1636 1656
+type(
+  'a list
+)
+"hw5/deque.ml" 58 1636 1641 "hw5/deque.ml" 58 1636 1656
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/deque.ml" 53 1516 1518 "hw5/deque.ml" 58 1636 1656
+type(
+  unit
+)
+type(
+  unit
+)

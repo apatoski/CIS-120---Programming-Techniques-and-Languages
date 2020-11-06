@@ -1,0 +1,6159 @@
+"hw4/q.ml" 39 1529 1533 "hw4/q.ml" 39 1529 1547
+type(
+  unit -> int queue
+)
+ident(
+  def cyclic_queue_1 "hw4/q.ml" 44 1657 1657 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 39 1529 1548 "hw4/q.ml" 39 1529 1550
+type(
+  unit
+)
+"hw4/q.ml" 40 1565 1571 "hw4/q.ml" 40 1565 1572
+type(
+  int qnode
+)
+ident(
+  def n "hw4/q.ml" 41 1601 1603 "hw4/q.ml" 42 1621 1655
+)
+"hw4/q.ml" 40 1565 1581 "hw4/q.ml" 40 1565 1582
+type(
+  int
+)
+"hw4/q.ml" 40 1565 1591 "hw4/q.ml" 40 1565 1595
+type(
+  int qnode option
+)
+"hw4/q.ml" 40 1565 1575 "hw4/q.ml" 40 1565 1597
+type(
+  int qnode
+)
+"hw4/q.ml" 41 1601 1603 "hw4/q.ml" 41 1601 1604
+type(
+  int qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 40 1565 1571 "hw4/q.ml" 40 1565 1572
+)
+"hw4/q.ml" 41 1601 1618 "hw4/q.ml" 41 1601 1619
+type(
+  int qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 40 1565 1571 "hw4/q.ml" 40 1565 1572
+)
+"hw4/q.ml" 41 1601 1613 "hw4/q.ml" 41 1601 1619
+type(
+  int qnode option
+)
+"hw4/q.ml" 41 1601 1603 "hw4/q.ml" 41 1601 1619
+type(
+  unit
+)
+"hw4/q.ml" 42 1621 1637 "hw4/q.ml" 42 1621 1638
+type(
+  int qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 40 1565 1571 "hw4/q.ml" 40 1565 1572
+)
+"hw4/q.ml" 42 1621 1632 "hw4/q.ml" 42 1621 1638
+type(
+  int qnode option
+)
+"hw4/q.ml" 42 1621 1652 "hw4/q.ml" 42 1621 1653
+type(
+  int qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 40 1565 1571 "hw4/q.ml" 40 1565 1572
+)
+"hw4/q.ml" 42 1621 1647 "hw4/q.ml" 42 1621 1653
+type(
+  int qnode option
+)
+"hw4/q.ml" 42 1621 1623 "hw4/q.ml" 42 1621 1655
+type(
+  int queue
+)
+"hw4/q.ml" 41 1601 1603 "hw4/q.ml" 42 1621 1655
+type(
+  int queue
+)
+"hw4/q.ml" 40 1565 1567 "hw4/q.ml" 42 1621 1655
+type(
+  int queue
+)
+type(
+  int queue
+)
+"hw4/q.ml" 44 1657 1661 "hw4/q.ml" 44 1657 1676
+type(
+  unit -> int queue
+)
+ident(
+  def cyclic_queue_12 "hw4/q.ml" 64 2507 2507 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 44 1657 1677 "hw4/q.ml" 44 1657 1679
+type(
+  unit
+)
+"hw4/q.ml" 45 1694 1700 "hw4/q.ml" 45 1694 1702
+type(
+  int qnode
+)
+ident(
+  def n2 "hw4/q.ml" 46 1731 1733 "hw4/q.ml" 48 1793 1829
+)
+"hw4/q.ml" 45 1694 1711 "hw4/q.ml" 45 1694 1712
+type(
+  int
+)
+"hw4/q.ml" 45 1694 1721 "hw4/q.ml" 45 1694 1725
+type(
+  int qnode option
+)
+"hw4/q.ml" 45 1694 1705 "hw4/q.ml" 45 1694 1727
+type(
+  int qnode
+)
+"hw4/q.ml" 46 1731 1737 "hw4/q.ml" 46 1731 1739
+type(
+  int qnode
+)
+ident(
+  def n1 "hw4/q.ml" 47 1771 1773 "hw4/q.ml" 48 1793 1829
+)
+"hw4/q.ml" 46 1731 1748 "hw4/q.ml" 46 1731 1749
+type(
+  int
+)
+"hw4/q.ml" 46 1731 1763 "hw4/q.ml" 46 1731 1765
+type(
+  int qnode
+)
+ident(
+  int_ref n2 "hw4/q.ml" 45 1694 1700 "hw4/q.ml" 45 1694 1702
+)
+"hw4/q.ml" 46 1731 1758 "hw4/q.ml" 46 1731 1765
+type(
+  int qnode option
+)
+"hw4/q.ml" 46 1731 1742 "hw4/q.ml" 46 1731 1767
+type(
+  int qnode
+)
+"hw4/q.ml" 47 1771 1773 "hw4/q.ml" 47 1771 1775
+type(
+  int qnode
+)
+ident(
+  int_ref n2 "hw4/q.ml" 45 1694 1700 "hw4/q.ml" 45 1694 1702
+)
+"hw4/q.ml" 47 1771 1789 "hw4/q.ml" 47 1771 1791
+type(
+  int qnode
+)
+ident(
+  int_ref n2 "hw4/q.ml" 45 1694 1700 "hw4/q.ml" 45 1694 1702
+)
+"hw4/q.ml" 47 1771 1784 "hw4/q.ml" 47 1771 1791
+type(
+  int qnode option
+)
+"hw4/q.ml" 47 1771 1773 "hw4/q.ml" 47 1771 1791
+type(
+  unit
+)
+"hw4/q.ml" 48 1793 1809 "hw4/q.ml" 48 1793 1811
+type(
+  int qnode
+)
+ident(
+  int_ref n1 "hw4/q.ml" 46 1731 1737 "hw4/q.ml" 46 1731 1739
+)
+"hw4/q.ml" 48 1793 1804 "hw4/q.ml" 48 1793 1811
+type(
+  int qnode option
+)
+"hw4/q.ml" 48 1793 1825 "hw4/q.ml" 48 1793 1827
+type(
+  int qnode
+)
+ident(
+  int_ref n2 "hw4/q.ml" 45 1694 1700 "hw4/q.ml" 45 1694 1702
+)
+"hw4/q.ml" 48 1793 1820 "hw4/q.ml" 48 1793 1827
+type(
+  int qnode option
+)
+"hw4/q.ml" 48 1793 1795 "hw4/q.ml" 48 1793 1829
+type(
+  int queue
+)
+"hw4/q.ml" 47 1771 1773 "hw4/q.ml" 48 1793 1829
+type(
+  int queue
+)
+"hw4/q.ml" 46 1731 1733 "hw4/q.ml" 48 1793 1829
+type(
+  int queue
+)
+"hw4/q.ml" 45 1694 1696 "hw4/q.ml" 48 1793 1829
+type(
+  int queue
+)
+type(
+  int queue
+)
+"hw4/q.ml" 64 2507 2515 "hw4/q.ml" 64 2507 2523
+type(
+  'a qnode -> 'a qnode option
+)
+ident(
+  def get_tail "hw4/q.ml" 64 2507 2507 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 64 2507 2525 "hw4/q.ml" 64 2507 2527
+type(
+  'a qnode
+)
+ident(
+  def qn "hw4/q.ml" 64 2507 2539 "hw4/q.ml" 73 2798 2813
+)
+"hw4/q.ml" 65 2559 2569 "hw4/q.ml" 65 2559 2573
+type(
+  'a qnode -> 'a qnode list -> 'a qnode option
+)
+ident(
+  def loop "hw4/q.ml" 65 2559 2561 "hw4/q.ml" 73 2798 2813
+)
+"hw4/q.ml" 65 2559 2575 "hw4/q.ml" 65 2559 2579
+type(
+  'a qnode
+)
+ident(
+  def curr "hw4/q.ml" 65 2559 2591 "hw4/q.ml" 72 2790 2797
+)
+"hw4/q.ml" 65 2559 2592 "hw4/q.ml" 65 2559 2596
+type(
+  'a qnode list
+)
+ident(
+  def seen "hw4/q.ml" 65 2559 2613 "hw4/q.ml" 72 2790 2797
+)
+"hw4/q.ml" 66 2633 2649 "hw4/q.ml" 66 2633 2653
+type(
+  'a qnode
+)
+ident(
+  int_ref curr "hw4/q.ml" 65 2559 2575 "hw4/q.ml" 65 2559 2579
+)
+"hw4/q.ml" 66 2633 2649 "hw4/q.ml" 66 2633 2658
+type(
+  'a qnode option
+)
+"hw4/q.ml" 67 2664 2670 "hw4/q.ml" 67 2664 2674
+type(
+  'a qnode option
+)
+"hw4/q.ml" 67 2664 2683 "hw4/q.ml" 67 2664 2687
+type(
+  'a qnode
+)
+ident(
+  int_ref curr "hw4/q.ml" 65 2559 2575 "hw4/q.ml" 65 2559 2579
+)
+"hw4/q.ml" 67 2664 2678 "hw4/q.ml" 67 2664 2687
+type(
+  'a qnode option
+)
+"hw4/q.ml" 68 2688 2699 "hw4/q.ml" 68 2688 2700
+type(
+  'a qnode
+)
+ident(
+  def n "hw4/q.ml" 69 2704 2712 "hw4/q.ml" 71 2755 2789
+)
+"hw4/q.ml" 68 2688 2694 "hw4/q.ml" 68 2688 2700
+type(
+  'a qnode option
+)
+"hw4/q.ml" 69 2704 2715 "hw4/q.ml" 69 2704 2729
+type(
+  'a qnode -> 'a qnode list -> bool
+)
+ident(
+  ext_ref Imp.contains_alias
+)
+"hw4/q.ml" 69 2704 2730 "hw4/q.ml" 69 2704 2731
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 68 2688 2699 "hw4/q.ml" 68 2688 2700
+)
+"hw4/q.ml" 69 2704 2732 "hw4/q.ml" 69 2704 2736
+type(
+  'a qnode list
+)
+ident(
+  int_ref seen "hw4/q.ml" 65 2559 2592 "hw4/q.ml" 65 2559 2596
+)
+"hw4/q.ml" 69 2704 2715 "hw4/q.ml" 69 2704 2736
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 70 2737 2750 "hw4/q.ml" 70 2737 2754
+type(
+  'a qnode option
+)
+"hw4/q.ml" 71 2755 2768 "hw4/q.ml" 71 2755 2772
+type(
+  'a qnode -> 'a qnode list -> 'a qnode option
+)
+ident(
+  int_ref loop "hw4/q.ml" 65 2559 2569 "hw4/q.ml" 65 2559 2573
+)
+"hw4/q.ml" 71 2755 2773 "hw4/q.ml" 71 2755 2774
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 68 2688 2699 "hw4/q.ml" 68 2688 2700
+)
+"hw4/q.ml" 71 2755 2776 "hw4/q.ml" 71 2755 2780
+type(
+  'a qnode
+)
+ident(
+  int_ref curr "hw4/q.ml" 65 2559 2575 "hw4/q.ml" 65 2559 2579
+)
+"hw4/q.ml" 71 2755 2784 "hw4/q.ml" 71 2755 2788
+type(
+  'a qnode list
+)
+ident(
+  int_ref seen "hw4/q.ml" 65 2559 2592 "hw4/q.ml" 65 2559 2596
+)
+"hw4/q.ml" 71 2755 2775 "hw4/q.ml" 71 2755 2789
+type(
+  'a qnode list
+)
+"hw4/q.ml" 71 2755 2768 "hw4/q.ml" 71 2755 2789
+call(
+  tail
+)
+type(
+  'a qnode option
+)
+"hw4/q.ml" 69 2704 2712 "hw4/q.ml" 71 2755 2789
+type(
+  'a qnode option
+)
+"hw4/q.ml" 66 2633 2637 "hw4/q.ml" 72 2790 2797
+type(
+  'a qnode option
+)
+type(
+  'a qnode option
+)
+"hw4/q.ml" 73 2798 2803 "hw4/q.ml" 73 2798 2807
+type(
+  'a qnode -> 'a qnode list -> 'a qnode option
+)
+ident(
+  int_ref loop "hw4/q.ml" 65 2559 2569 "hw4/q.ml" 65 2559 2573
+)
+"hw4/q.ml" 73 2798 2808 "hw4/q.ml" 73 2798 2810
+type(
+  'a qnode
+)
+ident(
+  int_ref qn "hw4/q.ml" 64 2507 2525 "hw4/q.ml" 64 2507 2527
+)
+"hw4/q.ml" 73 2798 2811 "hw4/q.ml" 73 2798 2813
+type(
+  'a qnode list
+)
+"hw4/q.ml" 73 2798 2803 "hw4/q.ml" 73 2798 2813
+call(
+  tail
+)
+type(
+  'a qnode option
+)
+"hw4/q.ml" 65 2559 2561 "hw4/q.ml" 73 2798 2813
+type(
+  'a qnode option
+)
+type(
+  'a qnode option
+)
+"hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+type(
+  'a queue -> bool
+)
+ident(
+  def valid "hw4/q.ml" 100 3636 3636 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 83 3201 3212 "hw4/q.ml" 83 3201 3213
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 83 3201 3225 "hw4/q.ml" 93 3501 3506
+)
+"hw4/q.ml" 85 3269 3283 "hw4/q.ml" 85 3269 3284
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 83 3201 3212 "hw4/q.ml" 83 3201 3213
+)
+"hw4/q.ml" 85 3269 3283 "hw4/q.ml" 85 3269 3289
+type(
+  'a qnode option
+)
+"hw4/q.ml" 85 3269 3291 "hw4/q.ml" 85 3269 3292
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 83 3201 3212 "hw4/q.ml" 83 3201 3213
+)
+"hw4/q.ml" 85 3269 3291 "hw4/q.ml" 85 3269 3297
+type(
+  'a qnode option
+)
+"hw4/q.ml" 85 3269 3283 "hw4/q.ml" 85 3269 3297
+type(
+  'a qnode option * 'a qnode option
+)
+"hw4/q.ml" 86 3303 3307 "hw4/q.ml" 86 3303 3311
+type(
+  'a qnode option
+)
+"hw4/q.ml" 86 3303 3313 "hw4/q.ml" 86 3303 3317
+type(
+  'a qnode option
+)
+"hw4/q.ml" 86 3303 3307 "hw4/q.ml" 86 3303 3317
+type(
+  'a qnode option * 'a qnode option
+)
+"hw4/q.ml" 86 3303 3321 "hw4/q.ml" 86 3303 3325
+type(
+  bool
+)
+"hw4/q.ml" 87 3326 3335 "hw4/q.ml" 87 3326 3337
+type(
+  'a qnode
+)
+ident(
+  def qh "hw4/q.ml" 88 3350 3356 "hw4/q.ml" 91 3472 3481
+)
+"hw4/q.ml" 87 3326 3330 "hw4/q.ml" 87 3326 3337
+type(
+  'a qnode option
+)
+"hw4/q.ml" 87 3326 3344 "hw4/q.ml" 87 3326 3346
+type(
+  'a qnode
+)
+ident(
+  def qt "hw4/q.ml" 88 3350 3356 "hw4/q.ml" 91 3472 3481
+)
+"hw4/q.ml" 87 3326 3339 "hw4/q.ml" 87 3326 3346
+type(
+  'a qnode option
+)
+"hw4/q.ml" 87 3326 3330 "hw4/q.ml" 87 3326 3346
+type(
+  'a qnode option * 'a qnode option
+)
+"hw4/q.ml" 88 3350 3368 "hw4/q.ml" 88 3350 3376
+type(
+  'a qnode -> 'a qnode option
+)
+ident(
+  int_ref get_tail "hw4/q.ml" 64 2507 2515 "hw4/q.ml" 64 2507 2523
+)
+"hw4/q.ml" 88 3350 3377 "hw4/q.ml" 88 3350 3379
+type(
+  'a qnode
+)
+ident(
+  int_ref qh "hw4/q.ml" 87 3326 3335 "hw4/q.ml" 87 3326 3337
+)
+"hw4/q.ml" 88 3350 3368 "hw4/q.ml" 88 3350 3379
+call(
+  stack
+)
+type(
+  'a qnode option
+)
+"hw4/q.ml" 89 3385 3398 "hw4/q.ml" 89 3385 3399
+type(
+  'a qnode
+)
+ident(
+  def n "hw4/q.ml" 89 3385 3403 "hw4/q.ml" 89 3385 3410
+)
+"hw4/q.ml" 89 3385 3393 "hw4/q.ml" 89 3385 3399
+type(
+  'a qnode option
+)
+"hw4/q.ml" 89 3385 3403 "hw4/q.ml" 89 3385 3405
+type(
+  'a qnode
+)
+ident(
+  int_ref qt "hw4/q.ml" 87 3326 3344 "hw4/q.ml" 87 3326 3346
+)
+"hw4/q.ml" 89 3385 3406 "hw4/q.ml" 89 3385 3408
+type(
+  'a qnode -> 'a qnode -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/q.ml" 89 3385 3409 "hw4/q.ml" 89 3385 3410
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 89 3385 3398 "hw4/q.ml" 89 3385 3399
+)
+"hw4/q.ml" 89 3385 3403 "hw4/q.ml" 89 3385 3410
+type(
+  bool
+)
+"hw4/q.ml" 90 3450 3458 "hw4/q.ml" 90 3450 3462
+type(
+  'a qnode option
+)
+"hw4/q.ml" 90 3450 3466 "hw4/q.ml" 90 3450 3471
+type(
+  bool
+)
+"hw4/q.ml" 88 3350 3356 "hw4/q.ml" 91 3472 3481
+type(
+  bool
+)
+"hw4/q.ml" 92 3482 3486 "hw4/q.ml" 92 3482 3487
+type(
+  'a qnode option
+)
+"hw4/q.ml" 92 3482 3489 "hw4/q.ml" 92 3482 3490
+type(
+  'a qnode option
+)
+"hw4/q.ml" 92 3482 3486 "hw4/q.ml" 92 3482 3490
+type(
+  'a qnode option * 'a qnode option
+)
+"hw4/q.ml" 92 3482 3495 "hw4/q.ml" 92 3482 3500
+type(
+  bool
+)
+"hw4/q.ml" 85 3269 3271 "hw4/q.ml" 93 3501 3506
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 100 3636 3640 "hw4/q.ml" 100 3636 3646
+type(
+  unit -> 'a queue
+)
+ident(
+  def create "hw4/q.ml" 105 3740 3740 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 100 3636 3647 "hw4/q.ml" 100 3636 3649
+type(
+  unit
+)
+"hw4/q.ml" 101 3663 3674 "hw4/q.ml" 101 3663 3678
+type(
+  'a qnode option
+)
+"hw4/q.ml" 102 3680 3691 "hw4/q.ml" 102 3680 3695
+type(
+  'a qnode option
+)
+"hw4/q.ml" 101 3663 3665 "hw4/q.ml" 102 3680 3697
+type(
+  'a queue
+)
+type(
+  'a queue
+)
+"hw4/q.ml" 105 3740 3744 "hw4/q.ml" 105 3740 3752
+type(
+  'a queue -> bool
+)
+ident(
+  def is_empty "hw4/q.ml" 109 3837 3837 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 105 3740 3754 "hw4/q.ml" 105 3740 3755
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 105 3740 3767 "hw4/q.ml" 106 3776 3791
+)
+"hw4/q.ml" 106 3776 3778 "hw4/q.ml" 106 3776 3779
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 105 3740 3754 "hw4/q.ml" 105 3740 3755
+)
+"hw4/q.ml" 106 3776 3778 "hw4/q.ml" 106 3776 3784
+type(
+  'a qnode option
+)
+"hw4/q.ml" 106 3776 3785 "hw4/q.ml" 106 3776 3786
+type(
+  'a qnode option -> 'a qnode option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 106 3776 3787 "hw4/q.ml" 106 3776 3791
+type(
+  'a qnode option
+)
+"hw4/q.ml" 106 3776 3778 "hw4/q.ml" 106 3776 3791
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+type(
+  'a -> 'a queue -> unit
+)
+ident(
+  def enq "hw4/q.ml" 123 4262 4262 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 109 3837 3846 "hw4/q.ml" 109 3837 3847
+type(
+  'a
+)
+ident(
+  def x "hw4/q.ml" 109 3837 3853 "hw4/q.ml" 120 4204 4209
+)
+"hw4/q.ml" 109 3837 3854 "hw4/q.ml" 109 3837 3855
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 109 3837 3867 "hw4/q.ml" 120 4204 4209
+)
+"hw4/q.ml" 110 3876 3881 "hw4/q.ml" 110 3876 3884
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 110 3876 3886 "hw4/q.ml" 110 3876 3891
+type(
+  'a queue -> bool
+)
+ident(
+  int_ref valid "hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+)
+"hw4/q.ml" 110 3876 3892 "hw4/q.ml" 110 3876 3893
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 109 3837 3854 "hw4/q.ml" 109 3837 3855
+)
+"hw4/q.ml" 110 3876 3885 "hw4/q.ml" 110 3876 3894
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 110 3876 3881 "hw4/q.ml" 110 3876 3894
+type(
+  bool
+)
+"hw4/q.ml" 110 3876 3900 "hw4/q.ml" 110 3876 3908
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 110 3876 3909 "hw4/q.ml" 110 3876 3935
+type(
+  string
+)
+"hw4/q.ml" 110 3876 3900 "hw4/q.ml" 110 3876 3935
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 110 3876 3878 "hw4/q.ml" 110 3876 3935
+type(
+  unit
+)
+"hw4/q.ml" 111 3937 3943 "hw4/q.ml" 111 3937 3950
+type(
+  'a qnode option
+)
+ident(
+  def newnode "hw4/q.ml" 112 3984 3986 "hw4/q.ml" 120 4204 4209
+)
+"hw4/q.ml" 111 3937 3964 "hw4/q.ml" 111 3937 3965
+type(
+  'a
+)
+ident(
+  int_ref x "hw4/q.ml" 109 3837 3846 "hw4/q.ml" 109 3837 3847
+)
+"hw4/q.ml" 111 3937 3974 "hw4/q.ml" 111 3937 3978
+type(
+  'a qnode option
+)
+"hw4/q.ml" 111 3937 3958 "hw4/q.ml" 111 3937 3980
+type(
+  'a qnode
+)
+"hw4/q.ml" 111 3937 3953 "hw4/q.ml" 111 3937 3980
+type(
+  'a qnode option
+)
+"hw4/q.ml" 112 3984 3998 "hw4/q.ml" 112 3984 3999
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 109 3837 3854 "hw4/q.ml" 109 3837 3855
+)
+"hw4/q.ml" 112 3984 3998 "hw4/q.ml" 112 3984 4004
+type(
+  'a qnode option
+)
+"hw4/q.ml" 113 4010 4014 "hw4/q.ml" 113 4010 4018
+type(
+  'a qnode option
+)
+"hw4/q.ml" 115 4092 4098 "hw4/q.ml" 115 4092 4099
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 109 3837 3854 "hw4/q.ml" 109 3837 3855
+)
+"hw4/q.ml" 115 4092 4108 "hw4/q.ml" 115 4092 4115
+type(
+  'a qnode option
+)
+ident(
+  int_ref newnode "hw4/q.ml" 111 3937 3943 "hw4/q.ml" 111 3937 3950
+)
+"hw4/q.ml" 115 4092 4098 "hw4/q.ml" 115 4092 4115
+type(
+  unit
+)
+"hw4/q.ml" 116 4117 4123 "hw4/q.ml" 116 4117 4124
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 109 3837 3854 "hw4/q.ml" 109 3837 3855
+)
+"hw4/q.ml" 116 4117 4133 "hw4/q.ml" 116 4117 4140
+type(
+  'a qnode option
+)
+ident(
+  int_ref newnode "hw4/q.ml" 111 3937 3943 "hw4/q.ml" 111 3937 3950
+)
+"hw4/q.ml" 116 4117 4123 "hw4/q.ml" 116 4117 4140
+type(
+  unit
+)
+"hw4/q.ml" 115 4092 4098 "hw4/q.ml" 116 4117 4140
+type(
+  unit
+)
+"hw4/q.ml" 117 4141 4150 "hw4/q.ml" 117 4141 4151
+type(
+  'a qnode
+)
+ident(
+  def n "hw4/q.ml" 118 4155 4161 "hw4/q.ml" 119 4180 4203
+)
+"hw4/q.ml" 117 4141 4145 "hw4/q.ml" 117 4141 4151
+type(
+  'a qnode option
+)
+"hw4/q.ml" 118 4155 4161 "hw4/q.ml" 118 4155 4162
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 117 4141 4150 "hw4/q.ml" 117 4141 4151
+)
+"hw4/q.ml" 118 4155 4171 "hw4/q.ml" 118 4155 4178
+type(
+  'a qnode option
+)
+ident(
+  int_ref newnode "hw4/q.ml" 111 3937 3943 "hw4/q.ml" 111 3937 3950
+)
+"hw4/q.ml" 118 4155 4161 "hw4/q.ml" 118 4155 4178
+type(
+  unit
+)
+"hw4/q.ml" 119 4180 4186 "hw4/q.ml" 119 4180 4187
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 109 3837 3854 "hw4/q.ml" 109 3837 3855
+)
+"hw4/q.ml" 119 4180 4196 "hw4/q.ml" 119 4180 4203
+type(
+  'a qnode option
+)
+ident(
+  int_ref newnode "hw4/q.ml" 111 3937 3943 "hw4/q.ml" 111 3937 3950
+)
+"hw4/q.ml" 119 4180 4186 "hw4/q.ml" 119 4180 4203
+type(
+  unit
+)
+"hw4/q.ml" 118 4155 4161 "hw4/q.ml" 119 4180 4203
+type(
+  unit
+)
+"hw4/q.ml" 112 3984 3986 "hw4/q.ml" 120 4204 4209
+type(
+  unit
+)
+"hw4/q.ml" 111 3937 3939 "hw4/q.ml" 120 4204 4209
+type(
+  unit
+)
+"hw4/q.ml" 110 3876 3878 "hw4/q.ml" 120 4204 4209
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/q.ml" 123 4262 4266 "hw4/q.ml" 123 4262 4269
+type(
+  'a queue -> 'a
+)
+ident(
+  def deq "hw4/q.ml" 136 4617 4617 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 123 4262 4271 "hw4/q.ml" 123 4262 4272
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 123 4262 4284 "hw4/q.ml" 132 4525 4530
+)
+"hw4/q.ml" 124 4291 4296 "hw4/q.ml" 124 4291 4299
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 124 4291 4301 "hw4/q.ml" 124 4291 4306
+type(
+  'a queue -> bool
+)
+ident(
+  int_ref valid "hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+)
+"hw4/q.ml" 124 4291 4307 "hw4/q.ml" 124 4291 4308
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 123 4262 4271 "hw4/q.ml" 123 4262 4272
+)
+"hw4/q.ml" 124 4291 4300 "hw4/q.ml" 124 4291 4309
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 124 4291 4296 "hw4/q.ml" 124 4291 4309
+type(
+  bool
+)
+"hw4/q.ml" 124 4291 4315 "hw4/q.ml" 124 4291 4323
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 124 4291 4324 "hw4/q.ml" 124 4291 4350
+type(
+  string
+)
+"hw4/q.ml" 124 4291 4315 "hw4/q.ml" 124 4291 4350
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 124 4291 4293 "hw4/q.ml" 124 4291 4350
+type(
+  unit
+)
+"hw4/q.ml" 125 4352 4366 "hw4/q.ml" 125 4352 4367
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 123 4262 4271 "hw4/q.ml" 123 4262 4272
+)
+"hw4/q.ml" 125 4352 4366 "hw4/q.ml" 125 4352 4372
+type(
+  'a qnode option
+)
+"hw4/q.ml" 126 4378 4382 "hw4/q.ml" 126 4378 4386
+type(
+  'a qnode option
+)
+"hw4/q.ml" 127 4390 4396 "hw4/q.ml" 127 4390 4404
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 127 4390 4405 "hw4/q.ml" 127 4390 4432
+type(
+  string
+)
+"hw4/q.ml" 127 4390 4396 "hw4/q.ml" 127 4390 4432
+call(
+  tail
+)
+type(
+  'a
+)
+"hw4/q.ml" 128 4433 4442 "hw4/q.ml" 128 4433 4443
+type(
+  'a qnode
+)
+ident(
+  def n "hw4/q.ml" 129 4447 4453 "hw4/q.ml" 131 4515 4524
+)
+"hw4/q.ml" 128 4433 4437 "hw4/q.ml" 128 4433 4443
+type(
+  'a qnode option
+)
+"hw4/q.ml" 129 4447 4453 "hw4/q.ml" 129 4447 4454
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 123 4262 4271 "hw4/q.ml" 123 4262 4272
+)
+"hw4/q.ml" 129 4447 4463 "hw4/q.ml" 129 4447 4464
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 128 4433 4442 "hw4/q.ml" 128 4433 4443
+)
+"hw4/q.ml" 129 4447 4463 "hw4/q.ml" 129 4447 4469
+type(
+  'a qnode option
+)
+"hw4/q.ml" 129 4447 4453 "hw4/q.ml" 129 4447 4469
+type(
+  unit
+)
+"hw4/q.ml" 130 4471 4480 "hw4/q.ml" 130 4471 4481
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 128 4433 4442 "hw4/q.ml" 128 4433 4443
+)
+"hw4/q.ml" 130 4471 4480 "hw4/q.ml" 130 4471 4486
+type(
+  'a qnode option
+)
+"hw4/q.ml" 130 4471 4487 "hw4/q.ml" 130 4471 4488
+type(
+  'a qnode option -> 'a qnode option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 130 4471 4489 "hw4/q.ml" 130 4471 4493
+type(
+  'a qnode option
+)
+"hw4/q.ml" 130 4471 4480 "hw4/q.ml" 130 4471 4493
+type(
+  bool
+)
+"hw4/q.ml" 130 4471 4499 "hw4/q.ml" 130 4471 4500
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 123 4262 4271 "hw4/q.ml" 123 4262 4272
+)
+"hw4/q.ml" 130 4471 4509 "hw4/q.ml" 130 4471 4513
+type(
+  'a qnode option
+)
+"hw4/q.ml" 130 4471 4499 "hw4/q.ml" 130 4471 4513
+type(
+  unit
+)
+"hw4/q.ml" 130 4471 4477 "hw4/q.ml" 130 4471 4513
+type(
+  unit
+)
+"hw4/q.ml" 131 4515 4521 "hw4/q.ml" 131 4515 4522
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 128 4433 4442 "hw4/q.ml" 128 4433 4443
+)
+"hw4/q.ml" 131 4515 4521 "hw4/q.ml" 131 4515 4524
+type(
+  'a
+)
+"hw4/q.ml" 130 4471 4477 "hw4/q.ml" 131 4515 4524
+type(
+  'a
+)
+"hw4/q.ml" 129 4447 4453 "hw4/q.ml" 131 4515 4524
+type(
+  'a
+)
+"hw4/q.ml" 125 4352 4354 "hw4/q.ml" 132 4525 4530
+type(
+  'a
+)
+"hw4/q.ml" 124 4291 4293 "hw4/q.ml" 132 4525 4530
+type(
+  'a
+)
+type(
+  'a
+)
+"hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+type(
+  'a queue -> 'a list
+)
+ident(
+  def to_list "hw4/q.ml" 146 4954 4954 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 136 4617 4630 "hw4/q.ml" 136 4617 4631
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 136 4617 4643 "hw4/q.ml" 143 4878 4897
+)
+"hw4/q.ml" 137 4655 4660 "hw4/q.ml" 137 4655 4663
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 137 4655 4665 "hw4/q.ml" 137 4655 4670
+type(
+  'a queue -> bool
+)
+ident(
+  int_ref valid "hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+)
+"hw4/q.ml" 137 4655 4671 "hw4/q.ml" 137 4655 4672
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 136 4617 4630 "hw4/q.ml" 136 4617 4631
+)
+"hw4/q.ml" 137 4655 4664 "hw4/q.ml" 137 4655 4673
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 137 4655 4660 "hw4/q.ml" 137 4655 4673
+type(
+  bool
+)
+"hw4/q.ml" 137 4655 4679 "hw4/q.ml" 137 4655 4687
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 137 4655 4688 "hw4/q.ml" 137 4655 4718
+type(
+  string
+)
+"hw4/q.ml" 137 4655 4679 "hw4/q.ml" 137 4655 4718
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 137 4655 4657 "hw4/q.ml" 137 4655 4718
+type(
+  unit
+)
+"hw4/q.ml" 138 4720 4730 "hw4/q.ml" 138 4720 4734
+type(
+  'a qnode option -> 'a list -> 'a list
+)
+ident(
+  def loop "hw4/q.ml" 138 4720 4722 "hw4/q.ml" 143 4878 4897
+)
+"hw4/q.ml" 138 4720 4736 "hw4/q.ml" 138 4720 4738
+type(
+  'a qnode option
+)
+ident(
+  def no "hw4/q.ml" 138 4720 4757 "hw4/q.ml" 142 4870 4877
+)
+"hw4/q.ml" 138 4720 4758 "hw4/q.ml" 138 4720 4759
+type(
+  'a list
+)
+ident(
+  def l "hw4/q.ml" 138 4720 4770 "hw4/q.ml" 142 4870 4877
+)
+"hw4/q.ml" 139 4782 4798 "hw4/q.ml" 139 4782 4800
+type(
+  'a qnode option
+)
+ident(
+  int_ref no "hw4/q.ml" 138 4720 4736 "hw4/q.ml" 138 4720 4738
+)
+"hw4/q.ml" 140 4806 4812 "hw4/q.ml" 140 4806 4816
+type(
+  'a qnode option
+)
+"hw4/q.ml" 140 4806 4820 "hw4/q.ml" 140 4806 4828
+type(
+  'a list -> 'a list
+)
+ident(
+  ext_ref List.rev
+)
+"hw4/q.ml" 140 4806 4829 "hw4/q.ml" 140 4806 4830
+type(
+  'a list
+)
+ident(
+  int_ref l "hw4/q.ml" 138 4720 4758 "hw4/q.ml" 138 4720 4759
+)
+"hw4/q.ml" 140 4806 4820 "hw4/q.ml" 140 4806 4830
+call(
+  tail
+)
+type(
+  'a list
+)
+"hw4/q.ml" 141 4831 4842 "hw4/q.ml" 141 4831 4843
+type(
+  'a qnode
+)
+ident(
+  def n "hw4/q.ml" 141 4831 4847 "hw4/q.ml" 141 4831 4869
+)
+"hw4/q.ml" 141 4831 4837 "hw4/q.ml" 141 4831 4843
+type(
+  'a qnode option
+)
+"hw4/q.ml" 141 4831 4847 "hw4/q.ml" 141 4831 4851
+type(
+  'a qnode option -> 'a list -> 'a list
+)
+ident(
+  int_ref loop "hw4/q.ml" 138 4720 4730 "hw4/q.ml" 138 4720 4734
+)
+"hw4/q.ml" 141 4831 4852 "hw4/q.ml" 141 4831 4853
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 141 4831 4842 "hw4/q.ml" 141 4831 4843
+)
+"hw4/q.ml" 141 4831 4852 "hw4/q.ml" 141 4831 4858
+type(
+  'a qnode option
+)
+"hw4/q.ml" 141 4831 4860 "hw4/q.ml" 141 4831 4861
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 141 4831 4842 "hw4/q.ml" 141 4831 4843
+)
+"hw4/q.ml" 141 4831 4860 "hw4/q.ml" 141 4831 4863
+type(
+  'a
+)
+"hw4/q.ml" 141 4831 4867 "hw4/q.ml" 141 4831 4868
+type(
+  'a list
+)
+ident(
+  int_ref l "hw4/q.ml" 138 4720 4758 "hw4/q.ml" 138 4720 4759
+)
+"hw4/q.ml" 141 4831 4859 "hw4/q.ml" 141 4831 4869
+type(
+  'a list
+)
+"hw4/q.ml" 141 4831 4847 "hw4/q.ml" 141 4831 4869
+call(
+  tail
+)
+type(
+  'a list
+)
+"hw4/q.ml" 139 4782 4786 "hw4/q.ml" 142 4870 4877
+type(
+  'a list
+)
+type(
+  'a list
+)
+"hw4/q.ml" 143 4878 4883 "hw4/q.ml" 143 4878 4887
+type(
+  'a qnode option -> 'a list -> 'a list
+)
+ident(
+  int_ref loop "hw4/q.ml" 138 4720 4730 "hw4/q.ml" 138 4720 4734
+)
+"hw4/q.ml" 143 4878 4888 "hw4/q.ml" 143 4878 4889
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 136 4617 4630 "hw4/q.ml" 136 4617 4631
+)
+"hw4/q.ml" 143 4878 4888 "hw4/q.ml" 143 4878 4894
+type(
+  'a qnode option
+)
+"hw4/q.ml" 143 4878 4895 "hw4/q.ml" 143 4878 4897
+type(
+  'a list
+)
+"hw4/q.ml" 143 4878 4883 "hw4/q.ml" 143 4878 4897
+call(
+  tail
+)
+type(
+  'a list
+)
+"hw4/q.ml" 138 4720 4722 "hw4/q.ml" 143 4878 4897
+type(
+  'a list
+)
+"hw4/q.ml" 137 4655 4657 "hw4/q.ml" 143 4878 4897
+type(
+  'a list
+)
+type(
+  'a list
+)
+"hw4/q.ml" 146 4954 4958 "hw4/q.ml" 146 4954 4964
+type(
+  'a queue -> int
+)
+ident(
+  def length "hw4/q.ml" 156 5255 5255 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 146 4954 4966 "hw4/q.ml" 146 4954 4967
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 146 4954 4979 "hw4/q.ml" 153 5195 5213
+)
+"hw4/q.ml" 147 4987 4992 "hw4/q.ml" 147 4987 4995
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 147 4987 4997 "hw4/q.ml" 147 4987 5002
+type(
+  'a queue -> bool
+)
+ident(
+  int_ref valid "hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+)
+"hw4/q.ml" 147 4987 5003 "hw4/q.ml" 147 4987 5004
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 146 4954 4966 "hw4/q.ml" 146 4954 4967
+)
+"hw4/q.ml" 147 4987 4996 "hw4/q.ml" 147 4987 5005
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 147 4987 4992 "hw4/q.ml" 147 4987 5005
+type(
+  bool
+)
+"hw4/q.ml" 147 4987 5011 "hw4/q.ml" 147 4987 5019
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 147 4987 5020 "hw4/q.ml" 147 4987 5049
+type(
+  string
+)
+"hw4/q.ml" 147 4987 5011 "hw4/q.ml" 147 4987 5049
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 147 4987 4989 "hw4/q.ml" 147 4987 5049
+type(
+  unit
+)
+"hw4/q.ml" 148 5051 5061 "hw4/q.ml" 148 5051 5065
+type(
+  'a qnode option -> int -> int
+)
+ident(
+  def loop "hw4/q.ml" 148 5051 5053 "hw4/q.ml" 153 5195 5213
+)
+"hw4/q.ml" 148 5051 5067 "hw4/q.ml" 148 5051 5069
+type(
+  'a qnode option
+)
+ident(
+  def no "hw4/q.ml" 148 5051 5088 "hw4/q.ml" 152 5187 5194
+)
+"hw4/q.ml" 148 5051 5089 "hw4/q.ml" 148 5051 5092
+type(
+  int
+)
+ident(
+  def len "hw4/q.ml" 148 5051 5099 "hw4/q.ml" 152 5187 5194
+)
+"hw4/q.ml" 149 5107 5123 "hw4/q.ml" 149 5107 5125
+type(
+  'a qnode option
+)
+ident(
+  int_ref no "hw4/q.ml" 148 5051 5067 "hw4/q.ml" 148 5051 5069
+)
+"hw4/q.ml" 150 5131 5137 "hw4/q.ml" 150 5131 5141
+type(
+  'a qnode option
+)
+"hw4/q.ml" 150 5131 5145 "hw4/q.ml" 150 5131 5148
+type(
+  int
+)
+ident(
+  int_ref len "hw4/q.ml" 148 5051 5089 "hw4/q.ml" 148 5051 5092
+)
+"hw4/q.ml" 151 5149 5160 "hw4/q.ml" 151 5149 5161
+type(
+  'a qnode
+)
+ident(
+  def n "hw4/q.ml" 151 5149 5165 "hw4/q.ml" 151 5149 5186
+)
+"hw4/q.ml" 151 5149 5155 "hw4/q.ml" 151 5149 5161
+type(
+  'a qnode option
+)
+"hw4/q.ml" 151 5149 5165 "hw4/q.ml" 151 5149 5169
+type(
+  'a qnode option -> int -> int
+)
+ident(
+  int_ref loop "hw4/q.ml" 148 5051 5061 "hw4/q.ml" 148 5051 5065
+)
+"hw4/q.ml" 151 5149 5170 "hw4/q.ml" 151 5149 5171
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 151 5149 5160 "hw4/q.ml" 151 5149 5161
+)
+"hw4/q.ml" 151 5149 5170 "hw4/q.ml" 151 5149 5176
+type(
+  'a qnode option
+)
+"hw4/q.ml" 151 5149 5178 "hw4/q.ml" 151 5149 5181
+type(
+  int
+)
+ident(
+  int_ref len "hw4/q.ml" 148 5051 5089 "hw4/q.ml" 148 5051 5092
+)
+"hw4/q.ml" 151 5149 5182 "hw4/q.ml" 151 5149 5183
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw4/q.ml" 151 5149 5184 "hw4/q.ml" 151 5149 5185
+type(
+  int
+)
+"hw4/q.ml" 151 5149 5177 "hw4/q.ml" 151 5149 5186
+type(
+  int
+)
+"hw4/q.ml" 151 5149 5165 "hw4/q.ml" 151 5149 5186
+call(
+  tail
+)
+type(
+  int
+)
+"hw4/q.ml" 149 5107 5111 "hw4/q.ml" 152 5187 5194
+type(
+  int
+)
+type(
+  int
+)
+"hw4/q.ml" 153 5195 5200 "hw4/q.ml" 153 5195 5204
+type(
+  'a qnode option -> int -> int
+)
+ident(
+  int_ref loop "hw4/q.ml" 148 5051 5061 "hw4/q.ml" 148 5051 5065
+)
+"hw4/q.ml" 153 5195 5205 "hw4/q.ml" 153 5195 5206
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 146 4954 4966 "hw4/q.ml" 146 4954 4967
+)
+"hw4/q.ml" 153 5195 5205 "hw4/q.ml" 153 5195 5211
+type(
+  'a qnode option
+)
+"hw4/q.ml" 153 5195 5212 "hw4/q.ml" 153 5195 5213
+type(
+  int
+)
+"hw4/q.ml" 153 5195 5200 "hw4/q.ml" 153 5195 5213
+call(
+  tail
+)
+type(
+  int
+)
+"hw4/q.ml" 148 5051 5053 "hw4/q.ml" 153 5195 5213
+type(
+  int
+)
+"hw4/q.ml" 147 4987 4989 "hw4/q.ml" 153 5195 5213
+type(
+  int
+)
+type(
+  int
+)
+"hw4/q.ml" 156 5255 5259 "hw4/q.ml" 156 5255 5264
+type(
+  'a queue -> ('a -> string) -> unit
+)
+ident(
+  def print "hw4/q.ml" 178 6058 6058 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 156 5255 5266 "hw4/q.ml" 156 5255 5267
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 156 5255 5279 "hw4/q.ml" 166 5613 5655
+)
+"hw4/q.ml" 156 5255 5280 "hw4/q.ml" 156 5255 5297
+type(
+  'a -> string
+)
+ident(
+  def string_of_element "hw4/q.ml" 156 5255 5313 "hw4/q.ml" 166 5613 5655
+)
+"hw4/q.ml" 157 5322 5327 "hw4/q.ml" 157 5322 5330
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 157 5322 5332 "hw4/q.ml" 157 5322 5337
+type(
+  'a queue -> bool
+)
+ident(
+  int_ref valid "hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+)
+"hw4/q.ml" 157 5322 5338 "hw4/q.ml" 157 5322 5339
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 156 5255 5266 "hw4/q.ml" 156 5255 5267
+)
+"hw4/q.ml" 157 5322 5331 "hw4/q.ml" 157 5322 5340
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 157 5322 5327 "hw4/q.ml" 157 5322 5340
+type(
+  bool
+)
+"hw4/q.ml" 157 5322 5346 "hw4/q.ml" 157 5322 5354
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 157 5322 5355 "hw4/q.ml" 157 5322 5383
+type(
+  string
+)
+"hw4/q.ml" 157 5322 5346 "hw4/q.ml" 157 5322 5383
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 157 5322 5324 "hw4/q.ml" 157 5322 5383
+type(
+  unit
+)
+"hw4/q.ml" 158 5385 5395 "hw4/q.ml" 158 5385 5399
+type(
+  'a qnode option -> unit
+)
+ident(
+  def loop "hw4/q.ml" 158 5385 5387 "hw4/q.ml" 166 5613 5655
+)
+"hw4/q.ml" 158 5385 5401 "hw4/q.ml" 158 5385 5403
+type(
+  'a qnode option
+)
+ident(
+  def no "hw4/q.ml" 158 5385 5422 "hw4/q.ml" 162 5539 5546
+)
+"hw4/q.ml" 159 5431 5447 "hw4/q.ml" 159 5431 5449
+type(
+  'a qnode option
+)
+ident(
+  int_ref no "hw4/q.ml" 158 5385 5401 "hw4/q.ml" 158 5385 5403
+)
+"hw4/q.ml" 160 5455 5461 "hw4/q.ml" 160 5455 5465
+type(
+  'a qnode option
+)
+"hw4/q.ml" 160 5455 5469 "hw4/q.ml" 160 5455 5471
+type(
+  unit
+)
+"hw4/q.ml" 161 5472 5483 "hw4/q.ml" 161 5472 5484
+type(
+  'a qnode
+)
+ident(
+  def n "hw4/q.ml" 161 5472 5488 "hw4/q.ml" 161 5472 5538
+)
+"hw4/q.ml" 161 5472 5478 "hw4/q.ml" 161 5472 5484
+type(
+  'a qnode option
+)
+"hw4/q.ml" 161 5472 5488 "hw4/q.ml" 161 5472 5501
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw4/q.ml" 161 5472 5503 "hw4/q.ml" 161 5472 5520
+type(
+  'a -> string
+)
+ident(
+  int_ref string_of_element "hw4/q.ml" 156 5255 5280 "hw4/q.ml" 156 5255 5297
+)
+"hw4/q.ml" 161 5472 5521 "hw4/q.ml" 161 5472 5522
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 161 5472 5483 "hw4/q.ml" 161 5472 5484
+)
+"hw4/q.ml" 161 5472 5521 "hw4/q.ml" 161 5472 5524
+type(
+  'a
+)
+"hw4/q.ml" 161 5472 5502 "hw4/q.ml" 161 5472 5525
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/q.ml" 161 5472 5488 "hw4/q.ml" 161 5472 5525
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 161 5472 5527 "hw4/q.ml" 161 5472 5531
+type(
+  'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 158 5385 5395 "hw4/q.ml" 158 5385 5399
+)
+"hw4/q.ml" 161 5472 5532 "hw4/q.ml" 161 5472 5533
+type(
+  'a qnode
+)
+ident(
+  int_ref n "hw4/q.ml" 161 5472 5483 "hw4/q.ml" 161 5472 5484
+)
+"hw4/q.ml" 161 5472 5532 "hw4/q.ml" 161 5472 5538
+type(
+  'a qnode option
+)
+"hw4/q.ml" 161 5472 5527 "hw4/q.ml" 161 5472 5538
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 161 5472 5488 "hw4/q.ml" 161 5472 5538
+type(
+  unit
+)
+"hw4/q.ml" 159 5431 5435 "hw4/q.ml" 162 5539 5546
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/q.ml" 164 5552 5556 "hw4/q.ml" 164 5552 5569
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw4/q.ml" 164 5552 5570 "hw4/q.ml" 164 5552 5594
+type(
+  string
+)
+"hw4/q.ml" 164 5552 5556 "hw4/q.ml" 164 5552 5594
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 165 5596 5600 "hw4/q.ml" 165 5596 5604
+type(
+  'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 158 5385 5395 "hw4/q.ml" 158 5385 5399
+)
+"hw4/q.ml" 165 5596 5605 "hw4/q.ml" 165 5596 5606
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 156 5255 5266 "hw4/q.ml" 156 5255 5267
+)
+"hw4/q.ml" 165 5596 5605 "hw4/q.ml" 165 5596 5611
+type(
+  'a qnode option
+)
+"hw4/q.ml" 165 5596 5600 "hw4/q.ml" 165 5596 5611
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 166 5613 5617 "hw4/q.ml" 166 5613 5630
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw4/q.ml" 166 5613 5631 "hw4/q.ml" 166 5613 5655
+type(
+  string
+)
+"hw4/q.ml" 166 5613 5617 "hw4/q.ml" 166 5613 5655
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 165 5596 5600 "hw4/q.ml" 166 5613 5655
+type(
+  unit
+)
+"hw4/q.ml" 164 5552 5556 "hw4/q.ml" 166 5613 5655
+type(
+  unit
+)
+"hw4/q.ml" 158 5385 5387 "hw4/q.ml" 166 5613 5655
+type(
+  unit
+)
+"hw4/q.ml" 157 5322 5324 "hw4/q.ml" 166 5613 5655
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+type(
+  'a list -> 'a queue
+)
+ident(
+  def from_list "hw4/q.ml" 199 6474 6474 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 178 6058 6073 "hw4/q.ml" 178 6058 6074
+type(
+  'a list
+)
+ident(
+  def l "hw4/q.ml" 178 6058 6085 "hw4/q.ml" 187 6230 6236
+)
+"hw4/q.ml" 179 6098 6104 "hw4/q.ml" 179 6098 6105
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 180 6121 6123 "hw4/q.ml" 187 6230 6236
+)
+"hw4/q.ml" 179 6098 6108 "hw4/q.ml" 179 6098 6114
+type(
+  unit -> 'a queue
+)
+ident(
+  int_ref create "hw4/q.ml" 100 3636 3640 "hw4/q.ml" 100 3636 3646
+)
+"hw4/q.ml" 179 6098 6115 "hw4/q.ml" 179 6098 6117
+type(
+  unit
+)
+"hw4/q.ml" 179 6098 6108 "hw4/q.ml" 179 6098 6117
+call(
+  stack
+)
+type(
+  'a queue
+)
+"hw4/q.ml" 180 6121 6131 "hw4/q.ml" 180 6121 6135
+type(
+  'a list -> 'a queue
+)
+ident(
+  def loop "hw4/q.ml" 180 6121 6123 "hw4/q.ml" 187 6230 6236
+)
+"hw4/q.ml" 180 6121 6137 "hw4/q.ml" 180 6121 6138
+type(
+  'a list
+)
+ident(
+  def l "hw4/q.ml" 181 6151 6153 "hw4/q.ml" 185 6220 6225
+)
+"hw4/q.ml" 182 6159 6169 "hw4/q.ml" 182 6159 6170
+type(
+  'a list
+)
+ident(
+  int_ref l "hw4/q.ml" 180 6121 6137 "hw4/q.ml" 180 6121 6138
+)
+"hw4/q.ml" 183 6176 6182 "hw4/q.ml" 183 6176 6184
+type(
+  'a list
+)
+"hw4/q.ml" 183 6176 6189 "hw4/q.ml" 183 6176 6190
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 179 6098 6104 "hw4/q.ml" 179 6098 6105
+)
+"hw4/q.ml" 184 6191 6197 "hw4/q.ml" 184 6191 6198
+type(
+  'a
+)
+ident(
+  def h "hw4/q.ml" 184 6191 6204 "hw4/q.ml" 184 6191 6219
+)
+"hw4/q.ml" 184 6191 6200 "hw4/q.ml" 184 6191 6201
+type(
+  'a list
+)
+ident(
+  def t "hw4/q.ml" 184 6191 6204 "hw4/q.ml" 184 6191 6219
+)
+"hw4/q.ml" 184 6191 6197 "hw4/q.ml" 184 6191 6201
+type(
+  'a list
+)
+"hw4/q.ml" 184 6191 6204 "hw4/q.ml" 184 6191 6207
+type(
+  'a -> 'a queue -> unit
+)
+ident(
+  int_ref enq "hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+)
+"hw4/q.ml" 184 6191 6208 "hw4/q.ml" 184 6191 6209
+type(
+  'a
+)
+ident(
+  int_ref h "hw4/q.ml" 184 6191 6197 "hw4/q.ml" 184 6191 6198
+)
+"hw4/q.ml" 184 6191 6210 "hw4/q.ml" 184 6191 6211
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 179 6098 6104 "hw4/q.ml" 179 6098 6105
+)
+"hw4/q.ml" 184 6191 6204 "hw4/q.ml" 184 6191 6211
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 184 6191 6213 "hw4/q.ml" 184 6191 6217
+type(
+  'a list -> 'a queue
+)
+ident(
+  int_ref loop "hw4/q.ml" 180 6121 6131 "hw4/q.ml" 180 6121 6135
+)
+"hw4/q.ml" 184 6191 6218 "hw4/q.ml" 184 6191 6219
+type(
+  'a list
+)
+ident(
+  int_ref t "hw4/q.ml" 184 6191 6200 "hw4/q.ml" 184 6191 6201
+)
+"hw4/q.ml" 184 6191 6213 "hw4/q.ml" 184 6191 6219
+call(
+  tail
+)
+type(
+  'a queue
+)
+"hw4/q.ml" 184 6191 6204 "hw4/q.ml" 184 6191 6219
+type(
+  'a queue
+)
+"hw4/q.ml" 181 6151 6153 "hw4/q.ml" 185 6220 6225
+type(
+  'a queue
+)
+"hw4/q.ml" 187 6230 6230 "hw4/q.ml" 187 6230 6234
+type(
+  'a list -> 'a queue
+)
+ident(
+  int_ref loop "hw4/q.ml" 180 6121 6131 "hw4/q.ml" 180 6121 6135
+)
+"hw4/q.ml" 187 6230 6235 "hw4/q.ml" 187 6230 6236
+type(
+  'a list
+)
+ident(
+  int_ref l "hw4/q.ml" 178 6058 6073 "hw4/q.ml" 178 6058 6074
+)
+"hw4/q.ml" 187 6230 6230 "hw4/q.ml" 187 6230 6236
+call(
+  tail
+)
+type(
+  'a queue
+)
+"hw4/q.ml" 180 6121 6123 "hw4/q.ml" 187 6230 6236
+type(
+  'a queue
+)
+"hw4/q.ml" 179 6098 6100 "hw4/q.ml" 187 6230 6236
+type(
+  'a queue
+)
+type(
+  'a queue
+)
+"hw4/q.ml" 199 6474 6478 "hw4/q.ml" 199 6474 6481
+type(
+  'a option -> 'a
+)
+ident(
+  def ext "hw4/q.ml" 201 6507 6507 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 199 6474 6496 "hw4/q.ml" 199 6474 6497
+ident(
+  def x "hw4/q.ml" 199 6474 6503 "hw4/q.ml" 199 6474 6504
+)
+"hw4/q.ml" 199 6474 6495 "hw4/q.ml" 199 6474 6498
+type(
+  'a
+)
+"hw4/q.ml" 199 6474 6490 "hw4/q.ml" 199 6474 6499
+type(
+  'a option
+)
+"hw4/q.ml" 199 6474 6503 "hw4/q.ml" 199 6474 6504
+type(
+  'a
+)
+ident(
+  int_ref x "hw4/q.ml" 199 6474 6495 "hw4/q.ml" 199 6474 6498
+)
+"hw4/q.ml" 199 6474 6485 "hw4/q.ml" 199 6474 6505
+type(
+  'a option -> 'a
+)
+"hw4/q.ml" 201 6507 6511 "hw4/q.ml" 201 6507 6519
+type(
+  'a -> 'a queue -> bool
+)
+ident(
+  def contains "hw4/q.ml" 222 7248 7248 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 201 6507 6521 "hw4/q.ml" 201 6507 6524
+type(
+  'a
+)
+ident(
+  def elt "hw4/q.ml" 201 6507 6530 "hw4/q.ml" 210 6788 6803
+)
+"hw4/q.ml" 201 6507 6531 "hw4/q.ml" 201 6507 6532
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 201 6507 6544 "hw4/q.ml" 210 6788 6803
+)
+"hw4/q.ml" 202 6553 6558 "hw4/q.ml" 202 6553 6561
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 202 6553 6563 "hw4/q.ml" 202 6553 6568
+type(
+  'a queue -> bool
+)
+ident(
+  int_ref valid "hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+)
+"hw4/q.ml" 202 6553 6569 "hw4/q.ml" 202 6553 6570
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 201 6507 6531 "hw4/q.ml" 201 6507 6532
+)
+"hw4/q.ml" 202 6553 6562 "hw4/q.ml" 202 6553 6571
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 202 6553 6558 "hw4/q.ml" 202 6553 6571
+type(
+  bool
+)
+"hw4/q.ml" 202 6553 6577 "hw4/q.ml" 202 6553 6585
+type(
+  string -> bool
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 202 6553 6586 "hw4/q.ml" 202 6553 6617
+type(
+  string
+)
+"hw4/q.ml" 202 6553 6577 "hw4/q.ml" 202 6553 6617
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/q.ml" 204 6625 6635 "hw4/q.ml" 204 6625 6639
+type(
+  'a qnode option -> bool
+)
+ident(
+  def loop "hw4/q.ml" 204 6625 6627 "hw4/q.ml" 210 6788 6803
+)
+"hw4/q.ml" 204 6625 6641 "hw4/q.ml" 204 6625 6643
+type(
+  'a qnode option
+)
+ident(
+  def no "hw4/q.ml" 205 6664 6667 "hw4/q.ml" 209 6781 6787
+)
+"hw4/q.ml" 206 6673 6683 "hw4/q.ml" 206 6673 6685
+type(
+  'a qnode option
+)
+ident(
+  int_ref no "hw4/q.ml" 204 6625 6641 "hw4/q.ml" 204 6625 6643
+)
+"hw4/q.ml" 207 6691 6697 "hw4/q.ml" 207 6691 6701
+type(
+  'a qnode option
+)
+"hw4/q.ml" 207 6691 6707 "hw4/q.ml" 207 6691 6712
+type(
+  bool
+)
+"hw4/q.ml" 208 6713 6724 "hw4/q.ml" 208 6713 6725
+type(
+  'a qnode
+)
+ident(
+  def v "hw4/q.ml" 208 6713 6729 "hw4/q.ml" 208 6713 6780
+)
+"hw4/q.ml" 208 6713 6719 "hw4/q.ml" 208 6713 6725
+type(
+  'a qnode option
+)
+"hw4/q.ml" 208 6713 6733 "hw4/q.ml" 208 6713 6734
+type(
+  'a qnode
+)
+ident(
+  int_ref v "hw4/q.ml" 208 6713 6724 "hw4/q.ml" 208 6713 6725
+)
+"hw4/q.ml" 208 6713 6733 "hw4/q.ml" 208 6713 6736
+type(
+  'a
+)
+"hw4/q.ml" 208 6713 6737 "hw4/q.ml" 208 6713 6739
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/q.ml" 208 6713 6740 "hw4/q.ml" 208 6713 6743
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 201 6507 6521 "hw4/q.ml" 201 6507 6524
+)
+"hw4/q.ml" 208 6713 6733 "hw4/q.ml" 208 6713 6743
+type(
+  bool
+)
+"hw4/q.ml" 208 6713 6749 "hw4/q.ml" 208 6713 6753
+type(
+  bool
+)
+"hw4/q.ml" 208 6713 6759 "hw4/q.ml" 208 6713 6764
+type(
+  bool
+)
+"hw4/q.ml" 208 6713 6729 "hw4/q.ml" 208 6713 6765
+type(
+  bool
+)
+"hw4/q.ml" 208 6713 6766 "hw4/q.ml" 208 6713 6768
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"hw4/q.ml" 208 6713 6769 "hw4/q.ml" 208 6713 6773
+type(
+  'a qnode option -> bool
+)
+ident(
+  int_ref loop "hw4/q.ml" 204 6625 6635 "hw4/q.ml" 204 6625 6639
+)
+"hw4/q.ml" 208 6713 6774 "hw4/q.ml" 208 6713 6775
+type(
+  'a qnode
+)
+ident(
+  int_ref v "hw4/q.ml" 208 6713 6724 "hw4/q.ml" 208 6713 6725
+)
+"hw4/q.ml" 208 6713 6774 "hw4/q.ml" 208 6713 6780
+type(
+  'a qnode option
+)
+"hw4/q.ml" 208 6713 6769 "hw4/q.ml" 208 6713 6780
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/q.ml" 208 6713 6729 "hw4/q.ml" 208 6713 6780
+type(
+  bool
+)
+"hw4/q.ml" 205 6664 6667 "hw4/q.ml" 209 6781 6787
+type(
+  bool
+)
+"hw4/q.ml" 210 6788 6792 "hw4/q.ml" 210 6788 6796
+type(
+  'a qnode option -> bool
+)
+ident(
+  int_ref loop "hw4/q.ml" 204 6625 6635 "hw4/q.ml" 204 6625 6639
+)
+"hw4/q.ml" 210 6788 6797 "hw4/q.ml" 210 6788 6798
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 201 6507 6531 "hw4/q.ml" 201 6507 6532
+)
+"hw4/q.ml" 210 6788 6797 "hw4/q.ml" 210 6788 6803
+type(
+  'a qnode option
+)
+"hw4/q.ml" 210 6788 6792 "hw4/q.ml" 210 6788 6803
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/q.ml" 204 6625 6627 "hw4/q.ml" 210 6788 6803
+type(
+  bool
+)
+"hw4/q.ml" 202 6553 6555 "hw4/q.ml" 210 6788 6803
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+type(
+  'a -> 'a queue -> unit
+)
+ident(
+  def truncate "hw4/q.ml" 235 7587 7587 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 222 7248 7262 "hw4/q.ml" 222 7248 7265
+type(
+  'a
+)
+ident(
+  def elt "hw4/q.ml" 222 7248 7271 "hw4/q.ml" 232 7567 7584
+)
+"hw4/q.ml" 222 7248 7272 "hw4/q.ml" 222 7248 7273
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 222 7248 7285 "hw4/q.ml" 232 7567 7584
+)
+"hw4/q.ml" 223 7294 7299 "hw4/q.ml" 223 7294 7302
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 223 7294 7304 "hw4/q.ml" 223 7294 7309
+type(
+  'a queue -> bool
+)
+ident(
+  int_ref valid "hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+)
+"hw4/q.ml" 223 7294 7310 "hw4/q.ml" 223 7294 7311
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 222 7248 7272 "hw4/q.ml" 222 7248 7273
+)
+"hw4/q.ml" 223 7294 7303 "hw4/q.ml" 223 7294 7312
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 223 7294 7299 "hw4/q.ml" 223 7294 7312
+type(
+  bool
+)
+"hw4/q.ml" 223 7294 7318 "hw4/q.ml" 223 7294 7326
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 223 7294 7327 "hw4/q.ml" 223 7294 7358
+type(
+  string
+)
+"hw4/q.ml" 223 7294 7318 "hw4/q.ml" 223 7294 7358
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 225 7367 7378 "hw4/q.ml" 225 7367 7382
+type(
+  'a qnode option -> unit
+)
+ident(
+  def loop "hw4/q.ml" 225 7367 7370 "hw4/q.ml" 232 7567 7584
+)
+"hw4/q.ml" 225 7367 7384 "hw4/q.ml" 225 7367 7386
+type(
+  'a qnode option
+)
+ident(
+  def no "hw4/q.ml" 226 7407 7411 "hw4/q.ml" 231 7559 7566
+)
+"hw4/q.ml" 227 7417 7428 "hw4/q.ml" 227 7417 7430
+type(
+  'a qnode option
+)
+ident(
+  int_ref no "hw4/q.ml" 225 7367 7384 "hw4/q.ml" 225 7367 7386
+)
+"hw4/q.ml" 228 7436 7443 "hw4/q.ml" 228 7436 7447
+type(
+  'a qnode option
+)
+"hw4/q.ml" 228 7436 7454 "hw4/q.ml" 228 7436 7456
+type(
+  unit
+)
+"hw4/q.ml" 229 7457 7469 "hw4/q.ml" 229 7457 7470
+type(
+  'a qnode
+)
+ident(
+  def v "hw4/q.ml" 229 7457 7474 "hw4/q.ml" 230 7526 7558
+)
+"hw4/q.ml" 229 7457 7464 "hw4/q.ml" 229 7457 7470
+type(
+  'a qnode option
+)
+"hw4/q.ml" 229 7457 7477 "hw4/q.ml" 229 7457 7478
+type(
+  'a qnode
+)
+ident(
+  int_ref v "hw4/q.ml" 229 7457 7469 "hw4/q.ml" 229 7457 7470
+)
+"hw4/q.ml" 229 7457 7477 "hw4/q.ml" 229 7457 7480
+type(
+  'a
+)
+"hw4/q.ml" 229 7457 7481 "hw4/q.ml" 229 7457 7483
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/q.ml" 229 7457 7484 "hw4/q.ml" 229 7457 7487
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 222 7248 7262 "hw4/q.ml" 222 7248 7265
+)
+"hw4/q.ml" 229 7457 7477 "hw4/q.ml" 229 7457 7487
+type(
+  bool
+)
+"hw4/q.ml" 229 7457 7494 "hw4/q.ml" 229 7457 7495
+type(
+  'a qnode
+)
+ident(
+  int_ref v "hw4/q.ml" 229 7457 7469 "hw4/q.ml" 229 7457 7470
+)
+"hw4/q.ml" 229 7457 7502 "hw4/q.ml" 229 7457 7506
+type(
+  'a qnode option
+)
+"hw4/q.ml" 229 7457 7494 "hw4/q.ml" 229 7457 7506
+type(
+  unit
+)
+"hw4/q.ml" 229 7457 7508 "hw4/q.ml" 229 7457 7509
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 222 7248 7272 "hw4/q.ml" 222 7248 7273
+)
+"hw4/q.ml" 229 7457 7522 "hw4/q.ml" 229 7457 7523
+type(
+  'a qnode
+)
+ident(
+  int_ref v "hw4/q.ml" 229 7457 7469 "hw4/q.ml" 229 7457 7470
+)
+"hw4/q.ml" 229 7457 7517 "hw4/q.ml" 229 7457 7523
+type(
+  'a qnode option
+)
+"hw4/q.ml" 229 7457 7508 "hw4/q.ml" 229 7457 7523
+type(
+  unit
+)
+"hw4/q.ml" 229 7457 7493 "hw4/q.ml" 229 7457 7524
+type(
+  unit
+)
+"hw4/q.ml" 230 7526 7547 "hw4/q.ml" 230 7526 7551
+type(
+  'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 225 7367 7378 "hw4/q.ml" 225 7367 7382
+)
+"hw4/q.ml" 230 7526 7552 "hw4/q.ml" 230 7526 7553
+type(
+  'a qnode
+)
+ident(
+  int_ref v "hw4/q.ml" 229 7457 7469 "hw4/q.ml" 229 7457 7470
+)
+"hw4/q.ml" 230 7526 7552 "hw4/q.ml" 230 7526 7558
+type(
+  'a qnode option
+)
+"hw4/q.ml" 230 7526 7547 "hw4/q.ml" 230 7526 7558
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 229 7457 7474 "hw4/q.ml" 230 7526 7558
+type(
+  unit
+)
+"hw4/q.ml" 226 7407 7411 "hw4/q.ml" 231 7559 7566
+type(
+  unit
+)
+"hw4/q.ml" 232 7567 7573 "hw4/q.ml" 232 7567 7577
+type(
+  'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 225 7367 7378 "hw4/q.ml" 225 7367 7382
+)
+"hw4/q.ml" 232 7567 7578 "hw4/q.ml" 232 7567 7579
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 222 7248 7272 "hw4/q.ml" 222 7248 7273
+)
+"hw4/q.ml" 232 7567 7578 "hw4/q.ml" 232 7567 7584
+type(
+  'a qnode option
+)
+"hw4/q.ml" 232 7567 7573 "hw4/q.ml" 232 7567 7584
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 225 7367 7370 "hw4/q.ml" 232 7567 7584
+type(
+  unit
+)
+"hw4/q.ml" 223 7294 7296 "hw4/q.ml" 232 7567 7584
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/q.ml" 235 7587 7591 "hw4/q.ml" 235 7587 7595
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 238 7696 7699 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 235 7587 7596 "hw4/q.ml" 235 7587 7598
+type(
+  unit
+)
+"hw4/q.ml" 236 7608 7613 "hw4/q.ml" 236 7608 7614
+type(
+  int queue
+)
+ident(
+  def q "hw4/q.ml" 237 7641 7643 "hw4/q.ml" 237 7641 7695
+)
+"hw4/q.ml" 236 7608 7615 "hw4/q.ml" 236 7608 7624
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 236 7608 7626 "hw4/q.ml" 236 7608 7627
+type(
+  int
+)
+"hw4/q.ml" 236 7608 7628 "hw4/q.ml" 236 7608 7629
+type(
+  int
+)
+"hw4/q.ml" 236 7608 7630 "hw4/q.ml" 236 7608 7631
+type(
+  int
+)
+"hw4/q.ml" 236 7608 7632 "hw4/q.ml" 236 7608 7634
+type(
+  int
+)
+"hw4/q.ml" 236 7608 7635 "hw4/q.ml" 236 7608 7636
+type(
+  int
+)
+"hw4/q.ml" 236 7608 7625 "hw4/q.ml" 236 7608 7637
+type(
+  int list
+)
+"hw4/q.ml" 236 7608 7615 "hw4/q.ml" 236 7608 7637
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 237 7641 7643 "hw4/q.ml" 237 7641 7651
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref truncate "hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+)
+"hw4/q.ml" 237 7641 7652 "hw4/q.ml" 237 7641 7653
+type(
+  int
+)
+"hw4/q.ml" 237 7641 7654 "hw4/q.ml" 237 7641 7655
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 236 7608 7613 "hw4/q.ml" 236 7608 7614
+)
+"hw4/q.ml" 237 7641 7643 "hw4/q.ml" 237 7641 7655
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 237 7641 7657 "hw4/q.ml" 237 7641 7662
+type(
+  int queue -> (int -> string) -> unit
+)
+ident(
+  int_ref print "hw4/q.ml" 156 5255 5259 "hw4/q.ml" 156 5255 5264
+)
+"hw4/q.ml" 237 7641 7663 "hw4/q.ml" 237 7641 7664
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 236 7608 7613 "hw4/q.ml" 236 7608 7614
+)
+"hw4/q.ml" 237 7641 7665 "hw4/q.ml" 237 7641 7678
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"hw4/q.ml" 237 7641 7657 "hw4/q.ml" 237 7641 7678
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 237 7641 7681 "hw4/q.ml" 237 7641 7682
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 236 7608 7613 "hw4/q.ml" 236 7608 7614
+)
+"hw4/q.ml" 237 7641 7682 "hw4/q.ml" 237 7641 7683
+type(
+  int queue -> int queue -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 237 7641 7683 "hw4/q.ml" 237 7641 7692
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 237 7641 7693 "hw4/q.ml" 237 7641 7694
+type(
+  int
+)
+"hw4/q.ml" 237 7641 7692 "hw4/q.ml" 237 7641 7695
+type(
+  int list
+)
+"hw4/q.ml" 237 7641 7683 "hw4/q.ml" 237 7641 7695
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 237 7641 7681 "hw4/q.ml" 237 7641 7695
+type(
+  bool
+)
+"hw4/q.ml" 237 7641 7657 "hw4/q.ml" 237 7641 7695
+type(
+  bool
+)
+"hw4/q.ml" 237 7641 7643 "hw4/q.ml" 237 7641 7695
+type(
+  bool
+)
+"hw4/q.ml" 236 7608 7609 "hw4/q.ml" 237 7641 7695
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 238 7696 7699 "hw4/q.ml" 238 7696 7707
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 238 7696 7708 "hw4/q.ml" 238 7696 7714
+type(
+  string
+)
+"hw4/q.ml" 238 7696 7715 "hw4/q.ml" 238 7696 7719
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 235 7587 7591 "hw4/q.ml" 235 7587 7595
+)
+"hw4/q.ml" 238 7696 7699 "hw4/q.ml" 238 7696 7719
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 265 8655 8659 "hw4/q.ml" 265 8655 8665
+type(
+  'a -> 'a queue -> unit
+)
+ident(
+  def delete "hw4/q.ml" 302 10092 10092 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 265 8655 8667 "hw4/q.ml" 265 8655 8670
+type(
+  'a
+)
+ident(
+  def elt "hw4/q.ml" 265 8655 8676 "hw4/q.ml" 279 9240 9264
+)
+"hw4/q.ml" 265 8655 8677 "hw4/q.ml" 265 8655 8678
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 265 8655 8690 "hw4/q.ml" 279 9240 9264
+)
+"hw4/q.ml" 266 8699 8704 "hw4/q.ml" 266 8699 8707
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 266 8699 8709 "hw4/q.ml" 266 8699 8714
+type(
+  'a queue -> bool
+)
+ident(
+  int_ref valid "hw4/q.ml" 83 3201 3205 "hw4/q.ml" 83 3201 3210
+)
+"hw4/q.ml" 266 8699 8715 "hw4/q.ml" 266 8699 8716
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 265 8655 8677 "hw4/q.ml" 265 8655 8678
+)
+"hw4/q.ml" 266 8699 8708 "hw4/q.ml" 266 8699 8717
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 266 8699 8704 "hw4/q.ml" 266 8699 8717
+type(
+  bool
+)
+"hw4/q.ml" 266 8699 8723 "hw4/q.ml" 266 8699 8731
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 266 8699 8732 "hw4/q.ml" 266 8699 8761
+type(
+  string
+)
+"hw4/q.ml" 266 8699 8723 "hw4/q.ml" 266 8699 8761
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 268 8769 8780 "hw4/q.ml" 268 8769 8784
+type(
+  'a -> 'a qnode option -> 'a qnode option -> unit
+)
+ident(
+  def loop "hw4/q.ml" 268 8769 8772 "hw4/q.ml" 279 9240 9264
+)
+"hw4/q.ml" 268 8769 8786 "hw4/q.ml" 268 8769 8789
+type(
+  'a
+)
+ident(
+  def elt "hw4/q.ml" 268 8769 8794 "hw4/q.ml" 278 9232 9239
+)
+"hw4/q.ml" 268 8769 8795 "hw4/q.ml" 268 8769 8799
+type(
+  'a qnode option
+)
+ident(
+  def prev "hw4/q.ml" 268 8769 8817 "hw4/q.ml" 278 9232 9239
+)
+"hw4/q.ml" 268 8769 8818 "hw4/q.ml" 268 8769 8820
+type(
+  'a qnode option
+)
+ident(
+  def no "hw4/q.ml" 269 8839 8843 "hw4/q.ml" 278 9232 9239
+)
+"hw4/q.ml" 270 8849 8861 "hw4/q.ml" 270 8849 8865
+type(
+  'a qnode option
+)
+ident(
+  int_ref prev "hw4/q.ml" 268 8769 8795 "hw4/q.ml" 268 8769 8799
+)
+"hw4/q.ml" 270 8849 8866 "hw4/q.ml" 270 8849 8868
+type(
+  'a qnode option
+)
+ident(
+  int_ref no "hw4/q.ml" 268 8769 8818 "hw4/q.ml" 268 8769 8820
+)
+"hw4/q.ml" 270 8849 8860 "hw4/q.ml" 270 8849 8869
+type(
+  'a qnode option * 'a qnode option
+)
+"hw4/q.ml" 271 8875 8881 "hw4/q.ml" 271 8875 8882
+type(
+  'a qnode option
+)
+"hw4/q.ml" 271 8875 8884 "hw4/q.ml" 271 8875 8888
+type(
+  'a qnode option
+)
+"hw4/q.ml" 271 8875 8880 "hw4/q.ml" 271 8875 8889
+type(
+  'a qnode option * 'a qnode option
+)
+"hw4/q.ml" 271 8875 8898 "hw4/q.ml" 271 8875 8899
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 265 8655 8677 "hw4/q.ml" 265 8655 8678
+)
+"hw4/q.ml" 271 8875 8906 "hw4/q.ml" 271 8875 8910
+type(
+  'a qnode option
+)
+ident(
+  int_ref prev "hw4/q.ml" 268 8769 8795 "hw4/q.ml" 268 8769 8799
+)
+"hw4/q.ml" 271 8875 8898 "hw4/q.ml" 271 8875 8910
+type(
+  unit
+)
+"hw4/q.ml" 272 8911 8919 "hw4/q.ml" 272 8911 8923
+type(
+  'a qnode option
+)
+"hw4/q.ml" 272 8911 8930 "hw4/q.ml" 272 8911 8931
+type(
+  'a qnode
+)
+ident(
+  def x "hw4/q.ml" 272 8911 8936 "hw4/q.ml" 274 9018 9066
+)
+"hw4/q.ml" 272 8911 8925 "hw4/q.ml" 272 8911 8931
+type(
+  'a qnode option
+)
+"hw4/q.ml" 272 8911 8918 "hw4/q.ml" 272 8911 8932
+type(
+  'a qnode option * 'a qnode option
+)
+"hw4/q.ml" 272 8911 8939 "hw4/q.ml" 272 8911 8940
+type(
+  'a qnode
+)
+ident(
+  int_ref x "hw4/q.ml" 272 8911 8930 "hw4/q.ml" 272 8911 8931
+)
+"hw4/q.ml" 272 8911 8939 "hw4/q.ml" 272 8911 8942
+type(
+  'a
+)
+"hw4/q.ml" 272 8911 8942 "hw4/q.ml" 272 8911 8944
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/q.ml" 272 8911 8944 "hw4/q.ml" 272 8911 8947
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 268 8769 8786 "hw4/q.ml" 268 8769 8789
+)
+"hw4/q.ml" 272 8911 8939 "hw4/q.ml" 272 8911 8947
+type(
+  bool
+)
+"hw4/q.ml" 273 8954 8980 "hw4/q.ml" 273 8954 8981
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 265 8655 8677 "hw4/q.ml" 265 8655 8678
+)
+"hw4/q.ml" 273 8954 8988 "hw4/q.ml" 273 8954 8989
+type(
+  'a qnode
+)
+ident(
+  int_ref x "hw4/q.ml" 272 8911 8930 "hw4/q.ml" 272 8911 8931
+)
+"hw4/q.ml" 273 8954 8988 "hw4/q.ml" 273 8954 8994
+type(
+  'a qnode option
+)
+"hw4/q.ml" 273 8954 8980 "hw4/q.ml" 273 8954 8994
+type(
+  unit
+)
+"hw4/q.ml" 273 8954 8996 "hw4/q.ml" 273 8954 9000
+type(
+  'a -> 'a qnode option -> 'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 268 8769 8780 "hw4/q.ml" 268 8769 8784
+)
+"hw4/q.ml" 273 8954 9001 "hw4/q.ml" 273 8954 9004
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 268 8769 8786 "hw4/q.ml" 268 8769 8789
+)
+"hw4/q.ml" 273 8954 9005 "hw4/q.ml" 273 8954 9009
+type(
+  'a qnode option
+)
+"hw4/q.ml" 273 8954 9010 "hw4/q.ml" 273 8954 9011
+type(
+  'a qnode
+)
+ident(
+  int_ref x "hw4/q.ml" 272 8911 8930 "hw4/q.ml" 272 8911 8931
+)
+"hw4/q.ml" 273 8954 9010 "hw4/q.ml" 273 8954 9016
+type(
+  'a qnode option
+)
+"hw4/q.ml" 273 8954 8996 "hw4/q.ml" 273 8954 9016
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 273 8954 8979 "hw4/q.ml" 273 8954 9017
+type(
+  unit
+)
+"hw4/q.ml" 274 9018 9048 "hw4/q.ml" 274 9018 9052
+type(
+  'a -> 'a qnode option -> 'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 268 8769 8780 "hw4/q.ml" 268 8769 8784
+)
+"hw4/q.ml" 274 9018 9053 "hw4/q.ml" 274 9018 9056
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 268 8769 8786 "hw4/q.ml" 268 8769 8789
+)
+"hw4/q.ml" 274 9018 9057 "hw4/q.ml" 274 9018 9059
+type(
+  'a qnode option
+)
+ident(
+  int_ref no "hw4/q.ml" 268 8769 8818 "hw4/q.ml" 268 8769 8820
+)
+"hw4/q.ml" 274 9018 9060 "hw4/q.ml" 274 9018 9061
+type(
+  'a qnode
+)
+ident(
+  int_ref x "hw4/q.ml" 272 8911 8930 "hw4/q.ml" 272 8911 8931
+)
+"hw4/q.ml" 274 9018 9060 "hw4/q.ml" 274 9018 9066
+type(
+  'a qnode option
+)
+"hw4/q.ml" 274 9018 9048 "hw4/q.ml" 274 9018 9066
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 272 8911 8936 "hw4/q.ml" 274 9018 9066
+type(
+  unit
+)
+"hw4/q.ml" 275 9067 9075 "hw4/q.ml" 275 9067 9076
+type(
+  'a qnode option
+)
+"hw4/q.ml" 275 9067 9083 "hw4/q.ml" 275 9067 9084
+type(
+  'a qnode
+)
+ident(
+  def x "hw4/q.ml" 275 9067 9092 "hw4/q.ml" 277 9183 9231
+)
+"hw4/q.ml" 275 9067 9078 "hw4/q.ml" 275 9067 9084
+type(
+  'a qnode option
+)
+"hw4/q.ml" 275 9067 9074 "hw4/q.ml" 275 9067 9085
+type(
+  'a qnode option * 'a qnode option
+)
+"hw4/q.ml" 275 9067 9095 "hw4/q.ml" 275 9067 9096
+type(
+  'a qnode
+)
+ident(
+  int_ref x "hw4/q.ml" 275 9067 9083 "hw4/q.ml" 275 9067 9084
+)
+"hw4/q.ml" 275 9067 9095 "hw4/q.ml" 275 9067 9098
+type(
+  'a
+)
+"hw4/q.ml" 275 9067 9098 "hw4/q.ml" 275 9067 9100
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/q.ml" 275 9067 9100 "hw4/q.ml" 275 9067 9103
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 268 8769 8786 "hw4/q.ml" 268 8769 8789
+)
+"hw4/q.ml" 275 9067 9095 "hw4/q.ml" 275 9067 9103
+type(
+  bool
+)
+"hw4/q.ml" 276 9110 9137 "hw4/q.ml" 276 9110 9140
+type(
+  'a qnode option -> 'a qnode
+)
+ident(
+  int_ref ext "hw4/q.ml" 199 6474 6478 "hw4/q.ml" 199 6474 6481
+)
+"hw4/q.ml" 276 9110 9141 "hw4/q.ml" 276 9110 9145
+type(
+  'a qnode option
+)
+ident(
+  int_ref prev "hw4/q.ml" 268 8769 8795 "hw4/q.ml" 268 8769 8799
+)
+"hw4/q.ml" 276 9110 9136 "hw4/q.ml" 276 9110 9146
+call(
+  stack
+)
+type(
+  'a qnode
+)
+"hw4/q.ml" 276 9110 9153 "hw4/q.ml" 276 9110 9154
+type(
+  'a qnode
+)
+ident(
+  int_ref x "hw4/q.ml" 275 9067 9083 "hw4/q.ml" 275 9067 9084
+)
+"hw4/q.ml" 276 9110 9153 "hw4/q.ml" 276 9110 9159
+type(
+  'a qnode option
+)
+"hw4/q.ml" 276 9110 9136 "hw4/q.ml" 276 9110 9159
+type(
+  unit
+)
+"hw4/q.ml" 276 9110 9161 "hw4/q.ml" 276 9110 9165
+type(
+  'a -> 'a qnode option -> 'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 268 8769 8780 "hw4/q.ml" 268 8769 8784
+)
+"hw4/q.ml" 276 9110 9166 "hw4/q.ml" 276 9110 9169
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 268 8769 8786 "hw4/q.ml" 268 8769 8789
+)
+"hw4/q.ml" 276 9110 9170 "hw4/q.ml" 276 9110 9174
+type(
+  'a qnode option
+)
+ident(
+  int_ref prev "hw4/q.ml" 268 8769 8795 "hw4/q.ml" 268 8769 8799
+)
+"hw4/q.ml" 276 9110 9175 "hw4/q.ml" 276 9110 9176
+type(
+  'a qnode
+)
+ident(
+  int_ref x "hw4/q.ml" 275 9067 9083 "hw4/q.ml" 275 9067 9084
+)
+"hw4/q.ml" 276 9110 9175 "hw4/q.ml" 276 9110 9181
+type(
+  'a qnode option
+)
+"hw4/q.ml" 276 9110 9161 "hw4/q.ml" 276 9110 9181
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 276 9110 9135 "hw4/q.ml" 276 9110 9182
+type(
+  unit
+)
+"hw4/q.ml" 277 9183 9213 "hw4/q.ml" 277 9183 9217
+type(
+  'a -> 'a qnode option -> 'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 268 8769 8780 "hw4/q.ml" 268 8769 8784
+)
+"hw4/q.ml" 277 9183 9218 "hw4/q.ml" 277 9183 9221
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 268 8769 8786 "hw4/q.ml" 268 8769 8789
+)
+"hw4/q.ml" 277 9183 9222 "hw4/q.ml" 277 9183 9224
+type(
+  'a qnode option
+)
+ident(
+  int_ref no "hw4/q.ml" 268 8769 8818 "hw4/q.ml" 268 8769 8820
+)
+"hw4/q.ml" 277 9183 9225 "hw4/q.ml" 277 9183 9226
+type(
+  'a qnode
+)
+ident(
+  int_ref x "hw4/q.ml" 275 9067 9083 "hw4/q.ml" 275 9067 9084
+)
+"hw4/q.ml" 277 9183 9225 "hw4/q.ml" 277 9183 9231
+type(
+  'a qnode option
+)
+"hw4/q.ml" 277 9183 9213 "hw4/q.ml" 277 9183 9231
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 275 9067 9092 "hw4/q.ml" 277 9183 9231
+type(
+  unit
+)
+"hw4/q.ml" 269 8839 8843 "hw4/q.ml" 278 9232 9239
+type(
+  unit
+)
+"hw4/q.ml" 279 9240 9244 "hw4/q.ml" 279 9240 9248
+type(
+  'a -> 'a qnode option -> 'a qnode option -> unit
+)
+ident(
+  int_ref loop "hw4/q.ml" 268 8769 8780 "hw4/q.ml" 268 8769 8784
+)
+"hw4/q.ml" 279 9240 9249 "hw4/q.ml" 279 9240 9252
+type(
+  'a
+)
+ident(
+  int_ref elt "hw4/q.ml" 265 8655 8667 "hw4/q.ml" 265 8655 8670
+)
+"hw4/q.ml" 279 9240 9253 "hw4/q.ml" 279 9240 9257
+type(
+  'a qnode option
+)
+"hw4/q.ml" 279 9240 9258 "hw4/q.ml" 279 9240 9259
+type(
+  'a queue
+)
+ident(
+  int_ref q "hw4/q.ml" 265 8655 8677 "hw4/q.ml" 265 8655 8678
+)
+"hw4/q.ml" 279 9240 9258 "hw4/q.ml" 279 9240 9264
+type(
+  'a qnode option
+)
+"hw4/q.ml" 279 9240 9244 "hw4/q.ml" 279 9240 9264
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/q.ml" 268 8769 8772 "hw4/q.ml" 279 9240 9264
+type(
+  unit
+)
+"hw4/q.ml" 266 8699 8701 "hw4/q.ml" 279 9240 9264
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/q.ml" 302 10092 10096 "hw4/q.ml" 302 10092 10105
+type(
+  'a queue -> bool
+)
+ident(
+  def has_cycle "hw4/q.ml" 314 10576 10576 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 302 10092 10107 "hw4/q.ml" 302 10092 10108
+type(
+  'a queue
+)
+ident(
+  def q "hw4/q.ml" 302 10092 10120 "hw4/q.ml" 303 10129 10166
+)
+"hw4/q.ml" 303 10129 10131 "hw4/q.ml" 303 10129 10139
+type(
+  string -> bool
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/q.ml" 303 10129 10140 "hw4/q.ml" 303 10129 10166
+type(
+  string
+)
+"hw4/q.ml" 303 10129 10131 "hw4/q.ml" 303 10129 10166
+call(
+  tail
+)
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 314 10576 10580 "hw4/q.ml" 314 10576 10584
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 319 10654 10657 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 314 10576 10585 "hw4/q.ml" 314 10576 10587
+type(
+  unit
+)
+"hw4/q.ml" 315 10597 10603 "hw4/q.ml" 315 10597 10604
+type(
+  int queue
+)
+ident(
+  def q "hw4/q.ml" 316 10620 10622 "hw4/q.ml" 318 10642 10653
+)
+"hw4/q.ml" 315 10597 10607 "hw4/q.ml" 315 10597 10613
+type(
+  unit -> int queue
+)
+ident(
+  int_ref create "hw4/q.ml" 100 3636 3640 "hw4/q.ml" 100 3636 3646
+)
+"hw4/q.ml" 315 10597 10614 "hw4/q.ml" 315 10597 10616
+type(
+  unit
+)
+"hw4/q.ml" 315 10597 10607 "hw4/q.ml" 315 10597 10616
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 316 10620 10622 "hw4/q.ml" 316 10620 10625
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref enq "hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+)
+"hw4/q.ml" 316 10620 10626 "hw4/q.ml" 316 10620 10627
+type(
+  int
+)
+"hw4/q.ml" 316 10620 10628 "hw4/q.ml" 316 10620 10629
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 315 10597 10603 "hw4/q.ml" 315 10597 10604
+)
+"hw4/q.ml" 316 10620 10622 "hw4/q.ml" 316 10620 10629
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 317 10631 10633 "hw4/q.ml" 317 10631 10636
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref enq "hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+)
+"hw4/q.ml" 317 10631 10637 "hw4/q.ml" 317 10631 10638
+type(
+  int
+)
+"hw4/q.ml" 317 10631 10639 "hw4/q.ml" 317 10631 10640
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 315 10597 10603 "hw4/q.ml" 315 10597 10604
+)
+"hw4/q.ml" 317 10631 10633 "hw4/q.ml" 317 10631 10640
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 318 10642 10644 "hw4/q.ml" 318 10642 10645
+type(
+  int
+)
+"hw4/q.ml" 318 10642 10646 "hw4/q.ml" 318 10642 10647
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 318 10642 10648 "hw4/q.ml" 318 10642 10651
+type(
+  int queue -> int
+)
+ident(
+  int_ref deq "hw4/q.ml" 123 4262 4266 "hw4/q.ml" 123 4262 4269
+)
+"hw4/q.ml" 318 10642 10652 "hw4/q.ml" 318 10642 10653
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 315 10597 10603 "hw4/q.ml" 315 10597 10604
+)
+"hw4/q.ml" 318 10642 10648 "hw4/q.ml" 318 10642 10653
+call(
+  stack
+)
+type(
+  int
+)
+"hw4/q.ml" 318 10642 10644 "hw4/q.ml" 318 10642 10653
+type(
+  bool
+)
+"hw4/q.ml" 317 10631 10633 "hw4/q.ml" 318 10642 10653
+type(
+  bool
+)
+"hw4/q.ml" 316 10620 10622 "hw4/q.ml" 318 10642 10653
+type(
+  bool
+)
+"hw4/q.ml" 315 10597 10599 "hw4/q.ml" 318 10642 10653
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 319 10654 10657 "hw4/q.ml" 319 10654 10665
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 319 10654 10666 "hw4/q.ml" 319 10654 10687
+type(
+  string
+)
+"hw4/q.ml" 319 10654 10688 "hw4/q.ml" 319 10654 10692
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 314 10576 10580 "hw4/q.ml" 314 10576 10584
+)
+"hw4/q.ml" 319 10654 10657 "hw4/q.ml" 319 10654 10692
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 321 10694 10698 "hw4/q.ml" 321 10694 10702
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 327 10791 10794 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 321 10694 10703 "hw4/q.ml" 321 10694 10705
+type(
+  unit
+)
+"hw4/q.ml" 322 10715 10721 "hw4/q.ml" 322 10715 10722
+type(
+  int queue
+)
+ident(
+  def q "hw4/q.ml" 323 10738 10740 "hw4/q.ml" 326 10779 10790
+)
+"hw4/q.ml" 322 10715 10725 "hw4/q.ml" 322 10715 10731
+type(
+  unit -> int queue
+)
+ident(
+  int_ref create "hw4/q.ml" 100 3636 3640 "hw4/q.ml" 100 3636 3646
+)
+"hw4/q.ml" 322 10715 10732 "hw4/q.ml" 322 10715 10734
+type(
+  unit
+)
+"hw4/q.ml" 322 10715 10725 "hw4/q.ml" 322 10715 10734
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 323 10738 10740 "hw4/q.ml" 323 10738 10743
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref enq "hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+)
+"hw4/q.ml" 323 10738 10744 "hw4/q.ml" 323 10738 10745
+type(
+  int
+)
+"hw4/q.ml" 323 10738 10746 "hw4/q.ml" 323 10738 10747
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 322 10715 10721 "hw4/q.ml" 322 10715 10722
+)
+"hw4/q.ml" 323 10738 10740 "hw4/q.ml" 323 10738 10747
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 324 10749 10751 "hw4/q.ml" 324 10749 10754
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref enq "hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+)
+"hw4/q.ml" 324 10749 10755 "hw4/q.ml" 324 10749 10756
+type(
+  int
+)
+"hw4/q.ml" 324 10749 10757 "hw4/q.ml" 324 10749 10758
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 322 10715 10721 "hw4/q.ml" 322 10715 10722
+)
+"hw4/q.ml" 324 10749 10751 "hw4/q.ml" 324 10749 10758
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 325 10760 10766 "hw4/q.ml" 325 10760 10767
+type(
+  int
+)
+"hw4/q.ml" 325 10760 10770 "hw4/q.ml" 325 10760 10773
+type(
+  int queue -> int
+)
+ident(
+  int_ref deq "hw4/q.ml" 123 4262 4266 "hw4/q.ml" 123 4262 4269
+)
+"hw4/q.ml" 325 10760 10774 "hw4/q.ml" 325 10760 10775
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 322 10715 10721 "hw4/q.ml" 322 10715 10722
+)
+"hw4/q.ml" 325 10760 10770 "hw4/q.ml" 325 10760 10775
+call(
+  stack
+)
+type(
+  int
+)
+"hw4/q.ml" 326 10779 10781 "hw4/q.ml" 326 10779 10782
+type(
+  int
+)
+"hw4/q.ml" 326 10779 10783 "hw4/q.ml" 326 10779 10784
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 326 10779 10785 "hw4/q.ml" 326 10779 10788
+type(
+  int queue -> int
+)
+ident(
+  int_ref deq "hw4/q.ml" 123 4262 4266 "hw4/q.ml" 123 4262 4269
+)
+"hw4/q.ml" 326 10779 10789 "hw4/q.ml" 326 10779 10790
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 322 10715 10721 "hw4/q.ml" 322 10715 10722
+)
+"hw4/q.ml" 326 10779 10785 "hw4/q.ml" 326 10779 10790
+call(
+  stack
+)
+type(
+  int
+)
+"hw4/q.ml" 326 10779 10781 "hw4/q.ml" 326 10779 10790
+type(
+  bool
+)
+"hw4/q.ml" 325 10760 10762 "hw4/q.ml" 326 10779 10790
+type(
+  bool
+)
+"hw4/q.ml" 324 10749 10751 "hw4/q.ml" 326 10779 10790
+type(
+  bool
+)
+"hw4/q.ml" 323 10738 10740 "hw4/q.ml" 326 10779 10790
+type(
+  bool
+)
+"hw4/q.ml" 322 10715 10717 "hw4/q.ml" 326 10779 10790
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 327 10791 10794 "hw4/q.ml" 327 10791 10802
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 327 10791 10803 "hw4/q.ml" 327 10791 10822
+type(
+  string
+)
+"hw4/q.ml" 327 10791 10823 "hw4/q.ml" 327 10791 10827
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 321 10694 10698 "hw4/q.ml" 321 10694 10702
+)
+"hw4/q.ml" 327 10791 10794 "hw4/q.ml" 327 10791 10827
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 329 10829 10833 "hw4/q.ml" 329 10829 10837
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 334 10910 10913 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 329 10829 10838 "hw4/q.ml" 329 10829 10840
+type(
+  unit
+)
+"hw4/q.ml" 330 10850 10856 "hw4/q.ml" 330 10850 10857
+type(
+  int queue
+)
+ident(
+  def q "hw4/q.ml" 331 10873 10875 "hw4/q.ml" 333 10895 10909
+)
+"hw4/q.ml" 330 10850 10860 "hw4/q.ml" 330 10850 10866
+type(
+  unit -> int queue
+)
+ident(
+  int_ref create "hw4/q.ml" 100 3636 3640 "hw4/q.ml" 100 3636 3646
+)
+"hw4/q.ml" 330 10850 10867 "hw4/q.ml" 330 10850 10869
+type(
+  unit
+)
+"hw4/q.ml" 330 10850 10860 "hw4/q.ml" 330 10850 10869
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 331 10873 10875 "hw4/q.ml" 331 10873 10878
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref enq "hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+)
+"hw4/q.ml" 331 10873 10879 "hw4/q.ml" 331 10873 10880
+type(
+  int
+)
+"hw4/q.ml" 331 10873 10881 "hw4/q.ml" 331 10873 10882
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 330 10850 10856 "hw4/q.ml" 330 10850 10857
+)
+"hw4/q.ml" 331 10873 10875 "hw4/q.ml" 331 10873 10882
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 332 10884 10886 "hw4/q.ml" 332 10884 10889
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref enq "hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+)
+"hw4/q.ml" 332 10884 10890 "hw4/q.ml" 332 10884 10891
+type(
+  int
+)
+"hw4/q.ml" 332 10884 10892 "hw4/q.ml" 332 10884 10893
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 330 10850 10856 "hw4/q.ml" 330 10850 10857
+)
+"hw4/q.ml" 332 10884 10886 "hw4/q.ml" 332 10884 10893
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 333 10895 10897 "hw4/q.ml" 333 10895 10898
+type(
+  int
+)
+"hw4/q.ml" 333 10895 10899 "hw4/q.ml" 333 10895 10900
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 333 10895 10901 "hw4/q.ml" 333 10895 10907
+type(
+  int queue -> int
+)
+ident(
+  int_ref length "hw4/q.ml" 146 4954 4958 "hw4/q.ml" 146 4954 4964
+)
+"hw4/q.ml" 333 10895 10908 "hw4/q.ml" 333 10895 10909
+type(
+  int queue
+)
+ident(
+  int_ref q "hw4/q.ml" 330 10850 10856 "hw4/q.ml" 330 10850 10857
+)
+"hw4/q.ml" 333 10895 10901 "hw4/q.ml" 333 10895 10909
+call(
+  stack
+)
+type(
+  int
+)
+"hw4/q.ml" 333 10895 10897 "hw4/q.ml" 333 10895 10909
+type(
+  bool
+)
+"hw4/q.ml" 332 10884 10886 "hw4/q.ml" 333 10895 10909
+type(
+  bool
+)
+"hw4/q.ml" 331 10873 10875 "hw4/q.ml" 333 10895 10909
+type(
+  bool
+)
+"hw4/q.ml" 330 10850 10852 "hw4/q.ml" 333 10895 10909
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 334 10910 10913 "hw4/q.ml" 334 10910 10921
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 334 10910 10922 "hw4/q.ml" 334 10910 10942
+type(
+  string
+)
+"hw4/q.ml" 334 10910 10943 "hw4/q.ml" 334 10910 10947
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 329 10829 10833 "hw4/q.ml" 329 10829 10837
+)
+"hw4/q.ml" 334 10910 10913 "hw4/q.ml" 334 10910 10947
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 336 10949 10953 "hw4/q.ml" 336 10949 10957
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 339 11011 11014 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 336 10949 10958 "hw4/q.ml" 336 10949 10960
+type(
+  unit
+)
+"hw4/q.ml" 337 10970 10976 "hw4/q.ml" 337 10970 10978
+type(
+  '_a queue
+)
+ident(
+  def q1 "hw4/q.ml" 338 10997 10999 "hw4/q.ml" 338 10997 11010
+)
+"hw4/q.ml" 337 10970 10981 "hw4/q.ml" 337 10970 10990
+type(
+  '_a list -> '_a queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 337 10970 10991 "hw4/q.ml" 337 10970 10993
+type(
+  '_a list
+)
+"hw4/q.ml" 337 10970 10981 "hw4/q.ml" 337 10970 10993
+call(
+  stack
+)
+type(
+  '_a queue
+)
+"hw4/q.ml" 338 10997 10999 "hw4/q.ml" 338 10997 11007
+type(
+  '_a queue -> bool
+)
+ident(
+  int_ref is_empty "hw4/q.ml" 105 3740 3744 "hw4/q.ml" 105 3740 3752
+)
+"hw4/q.ml" 338 10997 11008 "hw4/q.ml" 338 10997 11010
+type(
+  '_a queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 337 10970 10976 "hw4/q.ml" 337 10970 10978
+)
+"hw4/q.ml" 338 10997 10999 "hw4/q.ml" 338 10997 11010
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/q.ml" 337 10970 10972 "hw4/q.ml" 338 10997 11010
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 339 11011 11014 "hw4/q.ml" 339 11011 11022
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 339 11011 11023 "hw4/q.ml" 339 11011 11055
+type(
+  string
+)
+"hw4/q.ml" 339 11011 11056 "hw4/q.ml" 339 11011 11060
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 336 10949 10953 "hw4/q.ml" 336 10949 10957
+)
+"hw4/q.ml" 339 11011 11014 "hw4/q.ml" 339 11011 11060
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 341 11062 11066 "hw4/q.ml" 341 11062 11070
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 344 11124 11127 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 341 11062 11071 "hw4/q.ml" 341 11062 11073
+type(
+  unit
+)
+"hw4/q.ml" 342 11083 11089 "hw4/q.ml" 342 11083 11091
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 343 11111 11113 "hw4/q.ml" 343 11111 11123
+)
+"hw4/q.ml" 342 11083 11094 "hw4/q.ml" 342 11083 11103
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 342 11083 11105 "hw4/q.ml" 342 11083 11106
+type(
+  int
+)
+"hw4/q.ml" 342 11083 11104 "hw4/q.ml" 342 11083 11107
+type(
+  int list
+)
+"hw4/q.ml" 342 11083 11094 "hw4/q.ml" 342 11083 11107
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 343 11111 11113 "hw4/q.ml" 343 11111 11114
+type(
+  int
+)
+"hw4/q.ml" 343 11111 11115 "hw4/q.ml" 343 11111 11116
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 343 11111 11117 "hw4/q.ml" 343 11111 11120
+type(
+  int queue -> int
+)
+ident(
+  int_ref deq "hw4/q.ml" 123 4262 4266 "hw4/q.ml" 123 4262 4269
+)
+"hw4/q.ml" 343 11111 11121 "hw4/q.ml" 343 11111 11123
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 342 11083 11089 "hw4/q.ml" 342 11083 11091
+)
+"hw4/q.ml" 343 11111 11117 "hw4/q.ml" 343 11111 11123
+call(
+  stack
+)
+type(
+  int
+)
+"hw4/q.ml" 343 11111 11113 "hw4/q.ml" 343 11111 11123
+type(
+  bool
+)
+"hw4/q.ml" 342 11083 11085 "hw4/q.ml" 343 11111 11123
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 344 11124 11127 "hw4/q.ml" 344 11124 11135
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 344 11124 11136 "hw4/q.ml" 344 11124 11157
+type(
+  string
+)
+"hw4/q.ml" 344 11124 11158 "hw4/q.ml" 344 11124 11162
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 341 11062 11066 "hw4/q.ml" 341 11062 11070
+)
+"hw4/q.ml" 344 11124 11127 "hw4/q.ml" 344 11124 11162
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 346 11164 11168 "hw4/q.ml" 346 11164 11172
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 349 11231 11234 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 346 11164 11173 "hw4/q.ml" 346 11164 11175
+type(
+  unit
+)
+"hw4/q.ml" 347 11185 11191 "hw4/q.ml" 347 11185 11193
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 348 11209 11211 "hw4/q.ml" 348 11209 11230
+)
+"hw4/q.ml" 347 11185 11196 "hw4/q.ml" 347 11185 11202
+type(
+  unit -> int queue
+)
+ident(
+  int_ref create "hw4/q.ml" 100 3636 3640 "hw4/q.ml" 100 3636 3646
+)
+"hw4/q.ml" 347 11185 11203 "hw4/q.ml" 347 11185 11205
+type(
+  unit
+)
+"hw4/q.ml" 347 11185 11196 "hw4/q.ml" 347 11185 11205
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 348 11209 11211 "hw4/q.ml" 348 11209 11214
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/q.ml" 348 11209 11216 "hw4/q.ml" 348 11209 11224
+type(
+  int -> int queue -> bool
+)
+ident(
+  int_ref contains "hw4/q.ml" 201 6507 6511 "hw4/q.ml" 201 6507 6519
+)
+"hw4/q.ml" 348 11209 11225 "hw4/q.ml" 348 11209 11226
+type(
+  int
+)
+"hw4/q.ml" 348 11209 11227 "hw4/q.ml" 348 11209 11229
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 347 11185 11191 "hw4/q.ml" 347 11185 11193
+)
+"hw4/q.ml" 348 11209 11215 "hw4/q.ml" 348 11209 11230
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/q.ml" 348 11209 11211 "hw4/q.ml" 348 11209 11230
+type(
+  bool
+)
+"hw4/q.ml" 347 11185 11187 "hw4/q.ml" 348 11209 11230
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 349 11231 11234 "hw4/q.ml" 349 11231 11242
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 349 11231 11243 "hw4/q.ml" 349 11231 11282
+type(
+  string
+)
+"hw4/q.ml" 349 11231 11283 "hw4/q.ml" 349 11231 11287
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 346 11164 11168 "hw4/q.ml" 346 11164 11172
+)
+"hw4/q.ml" 349 11231 11234 "hw4/q.ml" 349 11231 11287
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 351 11289 11293 "hw4/q.ml" 351 11289 11297
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 355 11362 11365 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 351 11289 11298 "hw4/q.ml" 351 11289 11300
+type(
+  unit
+)
+"hw4/q.ml" 352 11310 11316 "hw4/q.ml" 352 11310 11318
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 353 11334 11336 "hw4/q.ml" 354 11346 11361
+)
+"hw4/q.ml" 352 11310 11321 "hw4/q.ml" 352 11310 11327
+type(
+  unit -> int queue
+)
+ident(
+  int_ref create "hw4/q.ml" 100 3636 3640 "hw4/q.ml" 100 3636 3646
+)
+"hw4/q.ml" 352 11310 11328 "hw4/q.ml" 352 11310 11330
+type(
+  unit
+)
+"hw4/q.ml" 352 11310 11321 "hw4/q.ml" 352 11310 11330
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 353 11334 11336 "hw4/q.ml" 353 11334 11339
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref enq "hw4/q.ml" 109 3837 3841 "hw4/q.ml" 109 3837 3844
+)
+"hw4/q.ml" 353 11334 11340 "hw4/q.ml" 353 11334 11341
+type(
+  int
+)
+"hw4/q.ml" 353 11334 11342 "hw4/q.ml" 353 11334 11344
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 352 11310 11316 "hw4/q.ml" 352 11310 11318
+)
+"hw4/q.ml" 353 11334 11336 "hw4/q.ml" 353 11334 11344
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 354 11346 11348 "hw4/q.ml" 354 11346 11356
+type(
+  int -> int queue -> bool
+)
+ident(
+  int_ref contains "hw4/q.ml" 201 6507 6511 "hw4/q.ml" 201 6507 6519
+)
+"hw4/q.ml" 354 11346 11357 "hw4/q.ml" 354 11346 11358
+type(
+  int
+)
+"hw4/q.ml" 354 11346 11359 "hw4/q.ml" 354 11346 11361
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 352 11310 11316 "hw4/q.ml" 352 11310 11318
+)
+"hw4/q.ml" 354 11346 11348 "hw4/q.ml" 354 11346 11361
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/q.ml" 353 11334 11336 "hw4/q.ml" 354 11346 11361
+type(
+  bool
+)
+"hw4/q.ml" 352 11310 11312 "hw4/q.ml" 354 11346 11361
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 355 11362 11365 "hw4/q.ml" 355 11362 11373
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 355 11362 11374 "hw4/q.ml" 355 11362 11407
+type(
+  string
+)
+"hw4/q.ml" 355 11362 11408 "hw4/q.ml" 355 11362 11412
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 351 11289 11293 "hw4/q.ml" 351 11289 11297
+)
+"hw4/q.ml" 355 11362 11365 "hw4/q.ml" 355 11362 11412
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 360 11417 11421 "hw4/q.ml" 360 11417 11425
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 363 11479 11482 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 360 11417 11426 "hw4/q.ml" 360 11417 11428
+type(
+  unit
+)
+"hw4/q.ml" 361 11438 11444 "hw4/q.ml" 361 11438 11446
+type(
+  '_a queue
+)
+ident(
+  def q1 "hw4/q.ml" 362 11465 11467 "hw4/q.ml" 362 11465 11478
+)
+"hw4/q.ml" 361 11438 11449 "hw4/q.ml" 361 11438 11458
+type(
+  '_a list -> '_a queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 361 11438 11459 "hw4/q.ml" 361 11438 11461
+type(
+  '_a list
+)
+"hw4/q.ml" 361 11438 11449 "hw4/q.ml" 361 11438 11461
+call(
+  stack
+)
+type(
+  '_a queue
+)
+"hw4/q.ml" 362 11465 11467 "hw4/q.ml" 362 11465 11475
+type(
+  '_a queue -> bool
+)
+ident(
+  int_ref is_empty "hw4/q.ml" 105 3740 3744 "hw4/q.ml" 105 3740 3752
+)
+"hw4/q.ml" 362 11465 11476 "hw4/q.ml" 362 11465 11478
+type(
+  '_a queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 361 11438 11444 "hw4/q.ml" 361 11438 11446
+)
+"hw4/q.ml" 362 11465 11467 "hw4/q.ml" 362 11465 11478
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/q.ml" 361 11438 11440 "hw4/q.ml" 362 11465 11478
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 363 11479 11482 "hw4/q.ml" 363 11479 11490
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 363 11479 11491 "hw4/q.ml" 363 11479 11523
+type(
+  string
+)
+"hw4/q.ml" 363 11479 11524 "hw4/q.ml" 363 11479 11528
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 360 11417 11421 "hw4/q.ml" 360 11417 11425
+)
+"hw4/q.ml" 363 11479 11482 "hw4/q.ml" 363 11479 11528
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 370 11698 11702 "hw4/q.ml" 370 11698 11706
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 373 11784 11787 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 370 11698 11707 "hw4/q.ml" 370 11698 11709
+type(
+  unit
+)
+"hw4/q.ml" 371 11719 11725 "hw4/q.ml" 371 11719 11727
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 372 11751 11753 "hw4/q.ml" 372 11751 11783
+)
+"hw4/q.ml" 371 11719 11730 "hw4/q.ml" 371 11719 11739
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 371 11719 11741 "hw4/q.ml" 371 11719 11742
+type(
+  int
+)
+"hw4/q.ml" 371 11719 11743 "hw4/q.ml" 371 11719 11744
+type(
+  int
+)
+"hw4/q.ml" 371 11719 11745 "hw4/q.ml" 371 11719 11746
+type(
+  int
+)
+"hw4/q.ml" 371 11719 11740 "hw4/q.ml" 371 11719 11747
+type(
+  int list
+)
+"hw4/q.ml" 371 11719 11730 "hw4/q.ml" 371 11719 11747
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 372 11751 11753 "hw4/q.ml" 372 11751 11761
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref truncate "hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+)
+"hw4/q.ml" 372 11751 11762 "hw4/q.ml" 372 11751 11763
+type(
+  int
+)
+"hw4/q.ml" 372 11751 11764 "hw4/q.ml" 372 11751 11766
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 371 11719 11725 "hw4/q.ml" 371 11719 11727
+)
+"hw4/q.ml" 372 11751 11753 "hw4/q.ml" 372 11751 11766
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 372 11751 11768 "hw4/q.ml" 372 11751 11775
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 372 11751 11776 "hw4/q.ml" 372 11751 11778
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 371 11719 11725 "hw4/q.ml" 371 11719 11727
+)
+"hw4/q.ml" 372 11751 11768 "hw4/q.ml" 372 11751 11778
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 372 11751 11778 "hw4/q.ml" 372 11751 11779
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 372 11751 11781 "hw4/q.ml" 372 11751 11782
+type(
+  int
+)
+"hw4/q.ml" 372 11751 11780 "hw4/q.ml" 372 11751 11783
+type(
+  int list
+)
+"hw4/q.ml" 372 11751 11768 "hw4/q.ml" 372 11751 11783
+type(
+  bool
+)
+"hw4/q.ml" 372 11751 11753 "hw4/q.ml" 372 11751 11783
+type(
+  bool
+)
+"hw4/q.ml" 371 11719 11721 "hw4/q.ml" 372 11751 11783
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 373 11784 11787 "hw4/q.ml" 373 11784 11795
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 373 11784 11796 "hw4/q.ml" 373 11784 11814
+type(
+  string
+)
+"hw4/q.ml" 373 11784 11815 "hw4/q.ml" 373 11784 11819
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 370 11698 11702 "hw4/q.ml" 370 11698 11706
+)
+"hw4/q.ml" 373 11784 11787 "hw4/q.ml" 373 11784 11819
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 375 11821 11825 "hw4/q.ml" 375 11821 11829
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 378 11914 11917 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 375 11821 11830 "hw4/q.ml" 375 11821 11832
+type(
+  unit
+)
+"hw4/q.ml" 376 11842 11848 "hw4/q.ml" 376 11842 11850
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 377 11876 11878 "hw4/q.ml" 377 11876 11913
+)
+"hw4/q.ml" 376 11842 11853 "hw4/q.ml" 376 11842 11862
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 376 11842 11864 "hw4/q.ml" 376 11842 11865
+type(
+  int
+)
+"hw4/q.ml" 376 11842 11866 "hw4/q.ml" 376 11842 11867
+type(
+  int
+)
+"hw4/q.ml" 376 11842 11868 "hw4/q.ml" 376 11842 11869
+type(
+  int
+)
+"hw4/q.ml" 376 11842 11870 "hw4/q.ml" 376 11842 11871
+type(
+  int
+)
+"hw4/q.ml" 376 11842 11863 "hw4/q.ml" 376 11842 11872
+type(
+  int list
+)
+"hw4/q.ml" 376 11842 11853 "hw4/q.ml" 376 11842 11872
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 377 11876 11878 "hw4/q.ml" 377 11876 11886
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref truncate "hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+)
+"hw4/q.ml" 377 11876 11887 "hw4/q.ml" 377 11876 11888
+type(
+  int
+)
+"hw4/q.ml" 377 11876 11889 "hw4/q.ml" 377 11876 11891
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 376 11842 11848 "hw4/q.ml" 376 11842 11850
+)
+"hw4/q.ml" 377 11876 11878 "hw4/q.ml" 377 11876 11891
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 377 11876 11893 "hw4/q.ml" 377 11876 11900
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 377 11876 11901 "hw4/q.ml" 377 11876 11903
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 376 11842 11848 "hw4/q.ml" 376 11842 11850
+)
+"hw4/q.ml" 377 11876 11893 "hw4/q.ml" 377 11876 11903
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 377 11876 11903 "hw4/q.ml" 377 11876 11904
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 377 11876 11907 "hw4/q.ml" 377 11876 11908
+type(
+  int
+)
+"hw4/q.ml" 377 11876 11909 "hw4/q.ml" 377 11876 11910
+type(
+  int
+)
+"hw4/q.ml" 377 11876 11911 "hw4/q.ml" 377 11876 11912
+type(
+  int
+)
+"hw4/q.ml" 377 11876 11906 "hw4/q.ml" 377 11876 11913
+type(
+  int list
+)
+"hw4/q.ml" 377 11876 11893 "hw4/q.ml" 377 11876 11913
+type(
+  bool
+)
+"hw4/q.ml" 377 11876 11878 "hw4/q.ml" 377 11876 11913
+type(
+  bool
+)
+"hw4/q.ml" 376 11842 11844 "hw4/q.ml" 377 11876 11913
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 378 11914 11917 "hw4/q.ml" 378 11914 11925
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 378 11914 11926 "hw4/q.ml" 378 11914 11931
+type(
+  string
+)
+"hw4/q.ml" 378 11914 11932 "hw4/q.ml" 378 11914 11936
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 375 11821 11825 "hw4/q.ml" 375 11821 11829
+)
+"hw4/q.ml" 378 11914 11917 "hw4/q.ml" 378 11914 11936
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 380 11938 11942 "hw4/q.ml" 380 11938 11946
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 383 12019 12022 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 380 11938 11947 "hw4/q.ml" 380 11938 11949
+type(
+  unit
+)
+"hw4/q.ml" 381 11959 11965 "hw4/q.ml" 381 11959 11967
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 382 11986 11988 "hw4/q.ml" 382 11986 12018
+)
+"hw4/q.ml" 381 11959 11970 "hw4/q.ml" 381 11959 11979
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 381 11959 11980 "hw4/q.ml" 381 11959 11982
+type(
+  int list
+)
+"hw4/q.ml" 381 11959 11970 "hw4/q.ml" 381 11959 11982
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 382 11986 11988 "hw4/q.ml" 382 11986 11996
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref truncate "hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+)
+"hw4/q.ml" 382 11986 11997 "hw4/q.ml" 382 11986 11998
+type(
+  int
+)
+"hw4/q.ml" 382 11986 11999 "hw4/q.ml" 382 11986 12001
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 381 11959 11965 "hw4/q.ml" 381 11959 11967
+)
+"hw4/q.ml" 382 11986 11988 "hw4/q.ml" 382 11986 12001
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 382 11986 12003 "hw4/q.ml" 382 11986 12010
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 382 11986 12011 "hw4/q.ml" 382 11986 12013
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 381 11959 11965 "hw4/q.ml" 381 11959 11967
+)
+"hw4/q.ml" 382 11986 12003 "hw4/q.ml" 382 11986 12013
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 382 11986 12013 "hw4/q.ml" 382 11986 12014
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 382 11986 12016 "hw4/q.ml" 382 11986 12018
+type(
+  int list
+)
+"hw4/q.ml" 382 11986 12003 "hw4/q.ml" 382 11986 12018
+type(
+  bool
+)
+"hw4/q.ml" 382 11986 11988 "hw4/q.ml" 382 11986 12018
+type(
+  bool
+)
+"hw4/q.ml" 381 11959 11961 "hw4/q.ml" 382 11986 12018
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 383 12019 12022 "hw4/q.ml" 383 12019 12030
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 383 12019 12031 "hw4/q.ml" 383 12019 12038
+type(
+  string
+)
+"hw4/q.ml" 383 12019 12039 "hw4/q.ml" 383 12019 12043
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 380 11938 11942 "hw4/q.ml" 380 11938 11946
+)
+"hw4/q.ml" 383 12019 12022 "hw4/q.ml" 383 12019 12043
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 385 12045 12049 "hw4/q.ml" 385 12045 12053
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 388 12127 12130 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 385 12045 12054 "hw4/q.ml" 385 12045 12056
+type(
+  unit
+)
+"hw4/q.ml" 386 12066 12072 "hw4/q.ml" 386 12066 12074
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 387 12094 12096 "hw4/q.ml" 387 12094 12126
+)
+"hw4/q.ml" 386 12066 12077 "hw4/q.ml" 386 12066 12086
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 386 12066 12088 "hw4/q.ml" 386 12066 12089
+type(
+  int
+)
+"hw4/q.ml" 386 12066 12087 "hw4/q.ml" 386 12066 12090
+type(
+  int list
+)
+"hw4/q.ml" 386 12066 12077 "hw4/q.ml" 386 12066 12090
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 387 12094 12096 "hw4/q.ml" 387 12094 12104
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref truncate "hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+)
+"hw4/q.ml" 387 12094 12105 "hw4/q.ml" 387 12094 12106
+type(
+  int
+)
+"hw4/q.ml" 387 12094 12107 "hw4/q.ml" 387 12094 12109
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 386 12066 12072 "hw4/q.ml" 386 12066 12074
+)
+"hw4/q.ml" 387 12094 12096 "hw4/q.ml" 387 12094 12109
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 387 12094 12111 "hw4/q.ml" 387 12094 12118
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 387 12094 12119 "hw4/q.ml" 387 12094 12121
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 386 12066 12072 "hw4/q.ml" 386 12066 12074
+)
+"hw4/q.ml" 387 12094 12111 "hw4/q.ml" 387 12094 12121
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 387 12094 12121 "hw4/q.ml" 387 12094 12122
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 387 12094 12124 "hw4/q.ml" 387 12094 12125
+type(
+  int
+)
+"hw4/q.ml" 387 12094 12123 "hw4/q.ml" 387 12094 12126
+type(
+  int list
+)
+"hw4/q.ml" 387 12094 12111 "hw4/q.ml" 387 12094 12126
+type(
+  bool
+)
+"hw4/q.ml" 387 12094 12096 "hw4/q.ml" 387 12094 12126
+type(
+  bool
+)
+"hw4/q.ml" 386 12066 12068 "hw4/q.ml" 387 12094 12126
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 388 12127 12130 "hw4/q.ml" 388 12127 12138
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 388 12127 12139 "hw4/q.ml" 388 12127 12150
+type(
+  string
+)
+"hw4/q.ml" 388 12127 12151 "hw4/q.ml" 388 12127 12155
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 385 12045 12049 "hw4/q.ml" 385 12045 12053
+)
+"hw4/q.ml" 388 12127 12130 "hw4/q.ml" 388 12127 12155
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 390 12157 12161 "hw4/q.ml" 390 12157 12165
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 393 12253 12256 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 390 12157 12166 "hw4/q.ml" 390 12157 12168
+type(
+  unit
+)
+"hw4/q.ml" 391 12178 12184 "hw4/q.ml" 391 12178 12186
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 392 12214 12216 "hw4/q.ml" 392 12214 12252
+)
+"hw4/q.ml" 391 12178 12189 "hw4/q.ml" 391 12178 12198
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 391 12178 12200 "hw4/q.ml" 391 12178 12201
+type(
+  int
+)
+"hw4/q.ml" 391 12178 12202 "hw4/q.ml" 391 12178 12203
+type(
+  int
+)
+"hw4/q.ml" 391 12178 12204 "hw4/q.ml" 391 12178 12205
+type(
+  int
+)
+"hw4/q.ml" 391 12178 12206 "hw4/q.ml" 391 12178 12207
+type(
+  int
+)
+"hw4/q.ml" 391 12178 12208 "hw4/q.ml" 391 12178 12209
+type(
+  int
+)
+"hw4/q.ml" 391 12178 12199 "hw4/q.ml" 391 12178 12210
+type(
+  int list
+)
+"hw4/q.ml" 391 12178 12189 "hw4/q.ml" 391 12178 12210
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 392 12214 12216 "hw4/q.ml" 392 12214 12224
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref truncate "hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+)
+"hw4/q.ml" 392 12214 12225 "hw4/q.ml" 392 12214 12226
+type(
+  int
+)
+"hw4/q.ml" 392 12214 12227 "hw4/q.ml" 392 12214 12229
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 391 12178 12184 "hw4/q.ml" 391 12178 12186
+)
+"hw4/q.ml" 392 12214 12216 "hw4/q.ml" 392 12214 12229
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 392 12214 12231 "hw4/q.ml" 392 12214 12238
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 392 12214 12239 "hw4/q.ml" 392 12214 12241
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 391 12178 12184 "hw4/q.ml" 391 12178 12186
+)
+"hw4/q.ml" 392 12214 12231 "hw4/q.ml" 392 12214 12241
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 392 12214 12241 "hw4/q.ml" 392 12214 12242
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 392 12214 12244 "hw4/q.ml" 392 12214 12245
+type(
+  int
+)
+"hw4/q.ml" 392 12214 12246 "hw4/q.ml" 392 12214 12247
+type(
+  int
+)
+"hw4/q.ml" 392 12214 12248 "hw4/q.ml" 392 12214 12249
+type(
+  int
+)
+"hw4/q.ml" 392 12214 12250 "hw4/q.ml" 392 12214 12251
+type(
+  int
+)
+"hw4/q.ml" 392 12214 12243 "hw4/q.ml" 392 12214 12252
+type(
+  int list
+)
+"hw4/q.ml" 392 12214 12231 "hw4/q.ml" 392 12214 12252
+type(
+  bool
+)
+"hw4/q.ml" 392 12214 12216 "hw4/q.ml" 392 12214 12252
+type(
+  bool
+)
+"hw4/q.ml" 391 12178 12180 "hw4/q.ml" 392 12214 12252
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 393 12253 12256 "hw4/q.ml" 393 12253 12264
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 393 12253 12265 "hw4/q.ml" 393 12253 12283
+type(
+  string
+)
+"hw4/q.ml" 393 12253 12284 "hw4/q.ml" 393 12253 12288
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 390 12157 12161 "hw4/q.ml" 390 12157 12165
+)
+"hw4/q.ml" 393 12253 12256 "hw4/q.ml" 393 12253 12288
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 395 12290 12294 "hw4/q.ml" 395 12290 12298
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 398 12381 12384 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 395 12290 12299 "hw4/q.ml" 395 12290 12301
+type(
+  unit
+)
+"hw4/q.ml" 396 12311 12317 "hw4/q.ml" 396 12311 12319
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 397 12343 12345 "hw4/q.ml" 397 12343 12380
+)
+"hw4/q.ml" 396 12311 12322 "hw4/q.ml" 396 12311 12331
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 396 12311 12333 "hw4/q.ml" 396 12311 12334
+type(
+  int
+)
+"hw4/q.ml" 396 12311 12335 "hw4/q.ml" 396 12311 12336
+type(
+  int
+)
+"hw4/q.ml" 396 12311 12337 "hw4/q.ml" 396 12311 12338
+type(
+  int
+)
+"hw4/q.ml" 396 12311 12332 "hw4/q.ml" 396 12311 12339
+type(
+  int list
+)
+"hw4/q.ml" 396 12311 12322 "hw4/q.ml" 396 12311 12339
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 397 12343 12345 "hw4/q.ml" 397 12343 12353
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref truncate "hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+)
+"hw4/q.ml" 397 12343 12354 "hw4/q.ml" 397 12343 12355
+type(
+  int
+)
+"hw4/q.ml" 397 12343 12356 "hw4/q.ml" 397 12343 12358
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 396 12311 12317 "hw4/q.ml" 396 12311 12319
+)
+"hw4/q.ml" 397 12343 12345 "hw4/q.ml" 397 12343 12358
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 397 12343 12360 "hw4/q.ml" 397 12343 12367
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 397 12343 12368 "hw4/q.ml" 397 12343 12370
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 396 12311 12317 "hw4/q.ml" 396 12311 12319
+)
+"hw4/q.ml" 397 12343 12360 "hw4/q.ml" 397 12343 12370
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 397 12343 12370 "hw4/q.ml" 397 12343 12371
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 397 12343 12374 "hw4/q.ml" 397 12343 12375
+type(
+  int
+)
+"hw4/q.ml" 397 12343 12376 "hw4/q.ml" 397 12343 12377
+type(
+  int
+)
+"hw4/q.ml" 397 12343 12378 "hw4/q.ml" 397 12343 12379
+type(
+  int
+)
+"hw4/q.ml" 397 12343 12373 "hw4/q.ml" 397 12343 12380
+type(
+  int list
+)
+"hw4/q.ml" 397 12343 12360 "hw4/q.ml" 397 12343 12380
+type(
+  bool
+)
+"hw4/q.ml" 397 12343 12345 "hw4/q.ml" 397 12343 12380
+type(
+  bool
+)
+"hw4/q.ml" 396 12311 12313 "hw4/q.ml" 397 12343 12380
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 398 12381 12384 "hw4/q.ml" 398 12381 12392
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 398 12381 12393 "hw4/q.ml" 398 12381 12408
+type(
+  string
+)
+"hw4/q.ml" 398 12381 12409 "hw4/q.ml" 398 12381 12413
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 395 12290 12294 "hw4/q.ml" 395 12290 12298
+)
+"hw4/q.ml" 398 12381 12384 "hw4/q.ml" 398 12381 12413
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 400 12415 12419 "hw4/q.ml" 400 12415 12423
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 403 12504 12507 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 400 12415 12424 "hw4/q.ml" 400 12415 12426
+type(
+  unit
+)
+"hw4/q.ml" 401 12436 12442 "hw4/q.ml" 401 12436 12444
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 402 12468 12470 "hw4/q.ml" 402 12468 12503
+)
+"hw4/q.ml" 401 12436 12447 "hw4/q.ml" 401 12436 12456
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 401 12436 12458 "hw4/q.ml" 401 12436 12459
+type(
+  int
+)
+"hw4/q.ml" 401 12436 12460 "hw4/q.ml" 401 12436 12461
+type(
+  int
+)
+"hw4/q.ml" 401 12436 12462 "hw4/q.ml" 401 12436 12463
+type(
+  int
+)
+"hw4/q.ml" 401 12436 12457 "hw4/q.ml" 401 12436 12464
+type(
+  int list
+)
+"hw4/q.ml" 401 12436 12447 "hw4/q.ml" 401 12436 12464
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 402 12468 12470 "hw4/q.ml" 402 12468 12478
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref truncate "hw4/q.ml" 222 7248 7252 "hw4/q.ml" 222 7248 7260
+)
+"hw4/q.ml" 402 12468 12479 "hw4/q.ml" 402 12468 12480
+type(
+  int
+)
+"hw4/q.ml" 402 12468 12481 "hw4/q.ml" 402 12468 12483
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 401 12436 12442 "hw4/q.ml" 401 12436 12444
+)
+"hw4/q.ml" 402 12468 12470 "hw4/q.ml" 402 12468 12483
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 402 12468 12485 "hw4/q.ml" 402 12468 12492
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 402 12468 12493 "hw4/q.ml" 402 12468 12495
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 401 12436 12442 "hw4/q.ml" 401 12436 12444
+)
+"hw4/q.ml" 402 12468 12485 "hw4/q.ml" 402 12468 12495
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 402 12468 12495 "hw4/q.ml" 402 12468 12496
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 402 12468 12497 "hw4/q.ml" 402 12468 12498
+type(
+  int
+)
+"hw4/q.ml" 402 12468 12499 "hw4/q.ml" 402 12468 12500
+type(
+  int
+)
+"hw4/q.ml" 402 12468 12501 "hw4/q.ml" 402 12468 12502
+type(
+  int
+)
+"hw4/q.ml" 402 12468 12496 "hw4/q.ml" 402 12468 12503
+type(
+  int list
+)
+"hw4/q.ml" 402 12468 12485 "hw4/q.ml" 402 12468 12503
+type(
+  bool
+)
+"hw4/q.ml" 402 12468 12470 "hw4/q.ml" 402 12468 12503
+type(
+  bool
+)
+"hw4/q.ml" 401 12436 12438 "hw4/q.ml" 402 12468 12503
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 403 12504 12507 "hw4/q.ml" 403 12504 12515
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 403 12504 12516 "hw4/q.ml" 403 12504 12525
+type(
+  string
+)
+"hw4/q.ml" 403 12504 12526 "hw4/q.ml" 403 12504 12530
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 400 12415 12419 "hw4/q.ml" 400 12415 12423
+)
+"hw4/q.ml" 403 12504 12507 "hw4/q.ml" 403 12504 12530
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 407 12551 12555 "hw4/q.ml" 407 12551 12559
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 410 12631 12634 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 407 12551 12560 "hw4/q.ml" 407 12551 12562
+type(
+  unit
+)
+"hw4/q.ml" 408 12572 12578 "hw4/q.ml" 408 12572 12580
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 409 12600 12602 "hw4/q.ml" 409 12600 12630
+)
+"hw4/q.ml" 408 12572 12583 "hw4/q.ml" 408 12572 12592
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 408 12572 12594 "hw4/q.ml" 408 12572 12595
+type(
+  int
+)
+"hw4/q.ml" 408 12572 12593 "hw4/q.ml" 408 12572 12596
+type(
+  int list
+)
+"hw4/q.ml" 408 12572 12583 "hw4/q.ml" 408 12572 12596
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 409 12600 12602 "hw4/q.ml" 409 12600 12608
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref delete "hw4/q.ml" 265 8655 8659 "hw4/q.ml" 265 8655 8665
+)
+"hw4/q.ml" 409 12600 12609 "hw4/q.ml" 409 12600 12610
+type(
+  int
+)
+"hw4/q.ml" 409 12600 12611 "hw4/q.ml" 409 12600 12613
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 408 12572 12578 "hw4/q.ml" 408 12572 12580
+)
+"hw4/q.ml" 409 12600 12602 "hw4/q.ml" 409 12600 12613
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 409 12600 12615 "hw4/q.ml" 409 12600 12622
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 409 12600 12623 "hw4/q.ml" 409 12600 12625
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 408 12572 12578 "hw4/q.ml" 408 12572 12580
+)
+"hw4/q.ml" 409 12600 12615 "hw4/q.ml" 409 12600 12625
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 409 12600 12625 "hw4/q.ml" 409 12600 12626
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 409 12600 12628 "hw4/q.ml" 409 12600 12630
+type(
+  int list
+)
+"hw4/q.ml" 409 12600 12615 "hw4/q.ml" 409 12600 12630
+type(
+  bool
+)
+"hw4/q.ml" 409 12600 12602 "hw4/q.ml" 409 12600 12630
+type(
+  bool
+)
+"hw4/q.ml" 408 12572 12574 "hw4/q.ml" 409 12600 12630
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 410 12631 12634 "hw4/q.ml" 410 12631 12642
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 410 12631 12643 "hw4/q.ml" 410 12631 12654
+type(
+  string
+)
+"hw4/q.ml" 410 12631 12655 "hw4/q.ml" 410 12631 12659
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 407 12551 12555 "hw4/q.ml" 407 12551 12559
+)
+"hw4/q.ml" 410 12631 12634 "hw4/q.ml" 410 12631 12659
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 412 12661 12665 "hw4/q.ml" 412 12661 12669
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 415 12739 12742 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 412 12661 12670 "hw4/q.ml" 412 12661 12672
+type(
+  unit
+)
+"hw4/q.ml" 413 12682 12688 "hw4/q.ml" 413 12682 12690
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 414 12709 12711 "hw4/q.ml" 414 12709 12738
+)
+"hw4/q.ml" 413 12682 12693 "hw4/q.ml" 413 12682 12702
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 413 12682 12703 "hw4/q.ml" 413 12682 12705
+type(
+  int list
+)
+"hw4/q.ml" 413 12682 12693 "hw4/q.ml" 413 12682 12705
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 414 12709 12711 "hw4/q.ml" 414 12709 12717
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref delete "hw4/q.ml" 265 8655 8659 "hw4/q.ml" 265 8655 8665
+)
+"hw4/q.ml" 414 12709 12718 "hw4/q.ml" 414 12709 12719
+type(
+  int
+)
+"hw4/q.ml" 414 12709 12720 "hw4/q.ml" 414 12709 12722
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 413 12682 12688 "hw4/q.ml" 413 12682 12690
+)
+"hw4/q.ml" 414 12709 12711 "hw4/q.ml" 414 12709 12722
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 414 12709 12724 "hw4/q.ml" 414 12709 12731
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 414 12709 12732 "hw4/q.ml" 414 12709 12734
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 413 12682 12688 "hw4/q.ml" 413 12682 12690
+)
+"hw4/q.ml" 414 12709 12724 "hw4/q.ml" 414 12709 12734
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 414 12709 12734 "hw4/q.ml" 414 12709 12735
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 414 12709 12736 "hw4/q.ml" 414 12709 12738
+type(
+  int list
+)
+"hw4/q.ml" 414 12709 12724 "hw4/q.ml" 414 12709 12738
+type(
+  bool
+)
+"hw4/q.ml" 414 12709 12711 "hw4/q.ml" 414 12709 12738
+type(
+  bool
+)
+"hw4/q.ml" 413 12682 12684 "hw4/q.ml" 414 12709 12738
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 415 12739 12742 "hw4/q.ml" 415 12739 12750
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 415 12739 12751 "hw4/q.ml" 415 12739 12758
+type(
+  string
+)
+"hw4/q.ml" 415 12739 12759 "hw4/q.ml" 415 12739 12763
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 412 12661 12665 "hw4/q.ml" 412 12661 12669
+)
+"hw4/q.ml" 415 12739 12742 "hw4/q.ml" 415 12739 12763
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 417 12765 12769 "hw4/q.ml" 417 12765 12773
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 420 12849 12852 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 417 12765 12774 "hw4/q.ml" 417 12765 12776
+type(
+  unit
+)
+"hw4/q.ml" 418 12786 12792 "hw4/q.ml" 418 12786 12794
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 419 12818 12820 "hw4/q.ml" 419 12818 12848
+)
+"hw4/q.ml" 418 12786 12797 "hw4/q.ml" 418 12786 12806
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 418 12786 12808 "hw4/q.ml" 418 12786 12809
+type(
+  int
+)
+"hw4/q.ml" 418 12786 12810 "hw4/q.ml" 418 12786 12811
+type(
+  int
+)
+"hw4/q.ml" 418 12786 12812 "hw4/q.ml" 418 12786 12813
+type(
+  int
+)
+"hw4/q.ml" 418 12786 12807 "hw4/q.ml" 418 12786 12814
+type(
+  int list
+)
+"hw4/q.ml" 418 12786 12797 "hw4/q.ml" 418 12786 12814
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 419 12818 12820 "hw4/q.ml" 419 12818 12826
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref delete "hw4/q.ml" 265 8655 8659 "hw4/q.ml" 265 8655 8665
+)
+"hw4/q.ml" 419 12818 12827 "hw4/q.ml" 419 12818 12828
+type(
+  int
+)
+"hw4/q.ml" 419 12818 12829 "hw4/q.ml" 419 12818 12831
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 418 12786 12792 "hw4/q.ml" 418 12786 12794
+)
+"hw4/q.ml" 419 12818 12820 "hw4/q.ml" 419 12818 12831
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 419 12818 12833 "hw4/q.ml" 419 12818 12840
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 419 12818 12841 "hw4/q.ml" 419 12818 12843
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 418 12786 12792 "hw4/q.ml" 418 12786 12794
+)
+"hw4/q.ml" 419 12818 12833 "hw4/q.ml" 419 12818 12843
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 419 12818 12843 "hw4/q.ml" 419 12818 12844
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 419 12818 12846 "hw4/q.ml" 419 12818 12847
+type(
+  int
+)
+"hw4/q.ml" 419 12818 12845 "hw4/q.ml" 419 12818 12848
+type(
+  int list
+)
+"hw4/q.ml" 419 12818 12833 "hw4/q.ml" 419 12818 12848
+type(
+  bool
+)
+"hw4/q.ml" 419 12818 12820 "hw4/q.ml" 419 12818 12848
+type(
+  bool
+)
+"hw4/q.ml" 418 12786 12788 "hw4/q.ml" 419 12818 12848
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 420 12849 12852 "hw4/q.ml" 420 12849 12860
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 420 12849 12861 "hw4/q.ml" 420 12849 12876
+type(
+  string
+)
+"hw4/q.ml" 420 12849 12877 "hw4/q.ml" 420 12849 12881
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 417 12765 12769 "hw4/q.ml" 417 12765 12773
+)
+"hw4/q.ml" 420 12849 12852 "hw4/q.ml" 420 12849 12881
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 422 12883 12887 "hw4/q.ml" 422 12883 12891
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 425 12966 12969 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 422 12883 12892 "hw4/q.ml" 422 12883 12894
+type(
+  unit
+)
+"hw4/q.ml" 423 12904 12910 "hw4/q.ml" 423 12904 12912
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 424 12936 12938 "hw4/q.ml" 424 12936 12965
+)
+"hw4/q.ml" 423 12904 12915 "hw4/q.ml" 423 12904 12924
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 423 12904 12926 "hw4/q.ml" 423 12904 12927
+type(
+  int
+)
+"hw4/q.ml" 423 12904 12928 "hw4/q.ml" 423 12904 12929
+type(
+  int
+)
+"hw4/q.ml" 423 12904 12930 "hw4/q.ml" 423 12904 12931
+type(
+  int
+)
+"hw4/q.ml" 423 12904 12925 "hw4/q.ml" 423 12904 12932
+type(
+  int list
+)
+"hw4/q.ml" 423 12904 12915 "hw4/q.ml" 423 12904 12932
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 424 12936 12938 "hw4/q.ml" 424 12936 12944
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref delete "hw4/q.ml" 265 8655 8659 "hw4/q.ml" 265 8655 8665
+)
+"hw4/q.ml" 424 12936 12945 "hw4/q.ml" 424 12936 12946
+type(
+  int
+)
+"hw4/q.ml" 424 12936 12947 "hw4/q.ml" 424 12936 12949
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 423 12904 12910 "hw4/q.ml" 423 12904 12912
+)
+"hw4/q.ml" 424 12936 12938 "hw4/q.ml" 424 12936 12949
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 424 12936 12951 "hw4/q.ml" 424 12936 12958
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 424 12936 12959 "hw4/q.ml" 424 12936 12961
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 423 12904 12910 "hw4/q.ml" 423 12904 12912
+)
+"hw4/q.ml" 424 12936 12951 "hw4/q.ml" 424 12936 12961
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 424 12936 12961 "hw4/q.ml" 424 12936 12962
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 424 12936 12963 "hw4/q.ml" 424 12936 12965
+type(
+  int list
+)
+"hw4/q.ml" 424 12936 12951 "hw4/q.ml" 424 12936 12965
+type(
+  bool
+)
+"hw4/q.ml" 424 12936 12938 "hw4/q.ml" 424 12936 12965
+type(
+  bool
+)
+"hw4/q.ml" 423 12904 12906 "hw4/q.ml" 424 12936 12965
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 425 12966 12969 "hw4/q.ml" 425 12966 12977
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 425 12966 12978 "hw4/q.ml" 425 12966 12987
+type(
+  string
+)
+"hw4/q.ml" 425 12966 12988 "hw4/q.ml" 425 12966 12992
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 422 12883 12887 "hw4/q.ml" 422 12883 12891
+)
+"hw4/q.ml" 425 12966 12969 "hw4/q.ml" 425 12966 12992
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 427 12994 12998 "hw4/q.ml" 427 12994 13002
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 430 13074 13077 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 427 12994 13003 "hw4/q.ml" 427 12994 13005
+type(
+  unit
+)
+"hw4/q.ml" 428 13015 13021 "hw4/q.ml" 428 13015 13023
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 429 13043 13045 "hw4/q.ml" 429 13043 13073
+)
+"hw4/q.ml" 428 13015 13026 "hw4/q.ml" 428 13015 13035
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 428 13015 13037 "hw4/q.ml" 428 13015 13038
+type(
+  int
+)
+"hw4/q.ml" 428 13015 13036 "hw4/q.ml" 428 13015 13039
+type(
+  int list
+)
+"hw4/q.ml" 428 13015 13026 "hw4/q.ml" 428 13015 13039
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 429 13043 13045 "hw4/q.ml" 429 13043 13051
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref delete "hw4/q.ml" 265 8655 8659 "hw4/q.ml" 265 8655 8665
+)
+"hw4/q.ml" 429 13043 13052 "hw4/q.ml" 429 13043 13053
+type(
+  int
+)
+"hw4/q.ml" 429 13043 13054 "hw4/q.ml" 429 13043 13056
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 428 13015 13021 "hw4/q.ml" 428 13015 13023
+)
+"hw4/q.ml" 429 13043 13045 "hw4/q.ml" 429 13043 13056
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 429 13043 13058 "hw4/q.ml" 429 13043 13065
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 429 13043 13066 "hw4/q.ml" 429 13043 13068
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 428 13015 13021 "hw4/q.ml" 428 13015 13023
+)
+"hw4/q.ml" 429 13043 13058 "hw4/q.ml" 429 13043 13068
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 429 13043 13068 "hw4/q.ml" 429 13043 13069
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 429 13043 13071 "hw4/q.ml" 429 13043 13072
+type(
+  int
+)
+"hw4/q.ml" 429 13043 13070 "hw4/q.ml" 429 13043 13073
+type(
+  int list
+)
+"hw4/q.ml" 429 13043 13058 "hw4/q.ml" 429 13043 13073
+type(
+  bool
+)
+"hw4/q.ml" 429 13043 13045 "hw4/q.ml" 429 13043 13073
+type(
+  bool
+)
+"hw4/q.ml" 428 13015 13017 "hw4/q.ml" 429 13043 13073
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 430 13074 13077 "hw4/q.ml" 430 13074 13085
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 430 13074 13086 "hw4/q.ml" 430 13074 13095
+type(
+  string
+)
+"hw4/q.ml" 430 13074 13096 "hw4/q.ml" 430 13074 13100
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 427 12994 12998 "hw4/q.ml" 427 12994 13002
+)
+"hw4/q.ml" 430 13074 13077 "hw4/q.ml" 430 13074 13100
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 432 13102 13106 "hw4/q.ml" 432 13102 13110
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/q.ml" 435 13188 13191 "hw4/q.ml" 1 0 -1
+)
+"hw4/q.ml" 432 13102 13111 "hw4/q.ml" 432 13102 13113
+type(
+  unit
+)
+"hw4/q.ml" 433 13123 13129 "hw4/q.ml" 433 13123 13131
+type(
+  int queue
+)
+ident(
+  def q1 "hw4/q.ml" 434 13155 13157 "hw4/q.ml" 434 13155 13187
+)
+"hw4/q.ml" 433 13123 13134 "hw4/q.ml" 433 13123 13143
+type(
+  int list -> int queue
+)
+ident(
+  int_ref from_list "hw4/q.ml" 178 6058 6062 "hw4/q.ml" 178 6058 6071
+)
+"hw4/q.ml" 433 13123 13145 "hw4/q.ml" 433 13123 13146
+type(
+  int
+)
+"hw4/q.ml" 433 13123 13147 "hw4/q.ml" 433 13123 13148
+type(
+  int
+)
+"hw4/q.ml" 433 13123 13149 "hw4/q.ml" 433 13123 13150
+type(
+  int
+)
+"hw4/q.ml" 433 13123 13144 "hw4/q.ml" 433 13123 13151
+type(
+  int list
+)
+"hw4/q.ml" 433 13123 13134 "hw4/q.ml" 433 13123 13151
+call(
+  stack
+)
+type(
+  int queue
+)
+"hw4/q.ml" 434 13155 13157 "hw4/q.ml" 434 13155 13163
+type(
+  int -> int queue -> unit
+)
+ident(
+  int_ref delete "hw4/q.ml" 265 8655 8659 "hw4/q.ml" 265 8655 8665
+)
+"hw4/q.ml" 434 13155 13164 "hw4/q.ml" 434 13155 13165
+type(
+  int
+)
+"hw4/q.ml" 434 13155 13166 "hw4/q.ml" 434 13155 13168
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 433 13123 13129 "hw4/q.ml" 433 13123 13131
+)
+"hw4/q.ml" 434 13155 13157 "hw4/q.ml" 434 13155 13168
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/q.ml" 434 13155 13170 "hw4/q.ml" 434 13155 13177
+type(
+  int queue -> int list
+)
+ident(
+  int_ref to_list "hw4/q.ml" 136 4617 4621 "hw4/q.ml" 136 4617 4628
+)
+"hw4/q.ml" 434 13155 13178 "hw4/q.ml" 434 13155 13180
+type(
+  int queue
+)
+ident(
+  int_ref q1 "hw4/q.ml" 433 13123 13129 "hw4/q.ml" 433 13123 13131
+)
+"hw4/q.ml" 434 13155 13170 "hw4/q.ml" 434 13155 13180
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/q.ml" 434 13155 13180 "hw4/q.ml" 434 13155 13181
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/q.ml" 434 13155 13183 "hw4/q.ml" 434 13155 13184
+type(
+  int
+)
+"hw4/q.ml" 434 13155 13185 "hw4/q.ml" 434 13155 13186
+type(
+  int
+)
+"hw4/q.ml" 434 13155 13182 "hw4/q.ml" 434 13155 13187
+type(
+  int list
+)
+"hw4/q.ml" 434 13155 13170 "hw4/q.ml" 434 13155 13187
+type(
+  bool
+)
+"hw4/q.ml" 434 13155 13157 "hw4/q.ml" 434 13155 13187
+type(
+  bool
+)
+"hw4/q.ml" 433 13123 13125 "hw4/q.ml" 434 13155 13187
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/q.ml" 435 13188 13191 "hw4/q.ml" 435 13188 13199
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/q.ml" 435 13188 13200 "hw4/q.ml" 435 13188 13214
+type(
+  string
+)
+"hw4/q.ml" 435 13188 13215 "hw4/q.ml" 435 13188 13219
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/q.ml" 432 13102 13106 "hw4/q.ml" 432 13102 13110
+)
+"hw4/q.ml" 435 13188 13191 "hw4/q.ml" 435 13188 13219
+call(
+  stack
+)
+type(
+  unit
+)

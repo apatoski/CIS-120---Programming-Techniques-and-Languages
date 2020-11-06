@@ -1,0 +1,1000 @@
+"hw3/listSet.ml" 30 1364 1370 "hw3/listSet.ml" 30 1364 1375
+type(
+  'a set
+)
+ident(
+  def empty "hw3/listSet.ml" 32 1391 1393 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 30 1364 1387 "hw3/listSet.ml" 30 1364 1389
+type(
+  'a set
+)
+type(
+  'a set
+)
+"hw3/listSet.ml" 32 1391 1397 "hw3/listSet.ml" 32 1391 1405
+type(
+  'a0 set -> bool
+)
+ident(
+  def is_empty "hw3/listSet.ml" 39 1596 1598 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 32 1391 1407 "hw3/listSet.ml" 32 1391 1408
+type(
+  'a0 set
+)
+ident(
+  def s "hw3/listSet.ml" 32 1391 1418 "hw3/listSet.ml" 33 1427 1440
+)
+"hw3/listSet.ml" 33 1427 1431 "hw3/listSet.ml" 33 1427 1432
+type(
+  'a0 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 32 1391 1407 "hw3/listSet.ml" 32 1391 1408
+)
+"hw3/listSet.ml" 33 1427 1433 "hw3/listSet.ml" 33 1427 1434
+type(
+  'a0 set -> 'a0 set -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/listSet.ml" 33 1427 1435 "hw3/listSet.ml" 33 1427 1440
+type(
+  'a0 set
+)
+ident(
+  int_ref empty "hw3/listSet.ml" 30 1364 1370 "hw3/listSet.ml" 30 1364 1375
+)
+"hw3/listSet.ml" 33 1427 1431 "hw3/listSet.ml" 33 1427 1440
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/listSet.ml" 39 1596 1602 "hw3/listSet.ml" 39 1596 1608
+type(
+  'a1 -> 'a1 set -> bool
+)
+ident(
+  def member "hw3/listSet.ml" 48 1980 1982 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 39 1596 1610 "hw3/listSet.ml" 39 1596 1611
+type(
+  'a1
+)
+ident(
+  def v "hw3/listSet.ml" 39 1596 1617 "hw3/listSet.ml" 40 1638 1684
+)
+"hw3/listSet.ml" 39 1596 1618 "hw3/listSet.ml" 39 1596 1619
+type(
+  'a1 set
+)
+ident(
+  def s "hw3/listSet.ml" 39 1596 1629 "hw3/listSet.ml" 40 1638 1684
+)
+"hw3/listSet.ml" 40 1638 1642 "hw3/listSet.ml" 40 1638 1646
+type(
+  ('a1 -> bool -> bool) -> bool -> 'a1 set -> bool
+)
+ident(
+  ext_ref HigherOrder.fold
+)
+"hw3/listSet.ml" 40 1638 1652 "hw3/listSet.ml" 40 1638 1653
+type(
+  'a1
+)
+ident(
+  def x "hw3/listSet.ml" 40 1638 1654 "hw3/listSet.ml" 40 1638 1675
+)
+"hw3/listSet.ml" 40 1638 1654 "hw3/listSet.ml" 40 1638 1657
+type(
+  bool
+)
+ident(
+  def acc "hw3/listSet.ml" 40 1638 1661 "hw3/listSet.ml" 40 1638 1675
+)
+"hw3/listSet.ml" 40 1638 1662 "hw3/listSet.ml" 40 1638 1663
+type(
+  'a1
+)
+ident(
+  int_ref x "hw3/listSet.ml" 40 1638 1652 "hw3/listSet.ml" 40 1638 1653
+)
+"hw3/listSet.ml" 40 1638 1664 "hw3/listSet.ml" 40 1638 1665
+type(
+  'a1 -> 'a1 -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/listSet.ml" 40 1638 1666 "hw3/listSet.ml" 40 1638 1667
+type(
+  'a1
+)
+ident(
+  int_ref v "hw3/listSet.ml" 39 1596 1610 "hw3/listSet.ml" 39 1596 1611
+)
+"hw3/listSet.ml" 40 1638 1661 "hw3/listSet.ml" 40 1638 1668
+type(
+  bool
+)
+"hw3/listSet.ml" 40 1638 1669 "hw3/listSet.ml" 40 1638 1671
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"hw3/listSet.ml" 40 1638 1672 "hw3/listSet.ml" 40 1638 1675
+type(
+  bool
+)
+ident(
+  int_ref acc "hw3/listSet.ml" 40 1638 1654 "hw3/listSet.ml" 40 1638 1657
+)
+"hw3/listSet.ml" 40 1638 1661 "hw3/listSet.ml" 40 1638 1675
+type(
+  bool
+)
+"hw3/listSet.ml" 40 1638 1647 "hw3/listSet.ml" 40 1638 1676
+type(
+  'a1 -> bool -> bool
+)
+"hw3/listSet.ml" 40 1638 1677 "hw3/listSet.ml" 40 1638 1682
+type(
+  bool
+)
+"hw3/listSet.ml" 40 1638 1683 "hw3/listSet.ml" 40 1638 1684
+type(
+  'a1 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 39 1596 1618 "hw3/listSet.ml" 39 1596 1619
+)
+"hw3/listSet.ml" 40 1638 1642 "hw3/listSet.ml" 40 1638 1684
+call(
+  tail
+)
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/listSet.ml" 48 1980 1990 "hw3/listSet.ml" 48 1980 1993
+type(
+  'a2 -> 'a2 set -> 'a2 set
+)
+ident(
+  def add "hw3/listSet.ml" 48 1980 1982 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+type(
+  'a2
+)
+ident(
+  def x "hw3/listSet.ml" 48 1980 2002 "hw3/listSet.ml" 59 2394 2401
+)
+"hw3/listSet.ml" 48 1980 2003 "hw3/listSet.ml" 48 1980 2004
+type(
+  'a2 set
+)
+ident(
+  def s "hw3/listSet.ml" 48 1980 2014 "hw3/listSet.ml" 59 2394 2401
+)
+"hw3/listSet.ml" 50 2035 2047 "hw3/listSet.ml" 50 2035 2048
+type(
+  'a2 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 48 1980 2003 "hw3/listSet.ml" 48 1980 2004
+)
+"hw3/listSet.ml" 51 2054 2062 "hw3/listSet.ml" 51 2054 2064
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 51 2054 2076 "hw3/listSet.ml" 51 2054 2077
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 51 2054 2075 "hw3/listSet.ml" 51 2054 2078
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 52 2079 2088 "hw3/listSet.ml" 52 2079 2089
+type(
+  'a2
+)
+ident(
+  def h "hw3/listSet.ml" 52 2079 2100 "hw3/listSet.ml" 54 2167 2199
+)
+"hw3/listSet.ml" 52 2079 2087 "hw3/listSet.ml" 52 2079 2090
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 52 2079 2103 "hw3/listSet.ml" 52 2079 2104
+type(
+  'a2
+)
+ident(
+  int_ref h "hw3/listSet.ml" 52 2079 2088 "hw3/listSet.ml" 52 2079 2089
+)
+"hw3/listSet.ml" 52 2079 2105 "hw3/listSet.ml" 52 2079 2106
+type(
+  'a2 -> 'a2 -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/listSet.ml" 52 2079 2107 "hw3/listSet.ml" 52 2079 2108
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 52 2079 2103 "hw3/listSet.ml" 52 2079 2108
+type(
+  bool
+)
+"hw3/listSet.ml" 52 2079 2115 "hw3/listSet.ml" 52 2079 2116
+type(
+  'a2
+)
+ident(
+  int_ref h "hw3/listSet.ml" 52 2079 2088 "hw3/listSet.ml" 52 2079 2089
+)
+"hw3/listSet.ml" 52 2079 2114 "hw3/listSet.ml" 52 2079 2117
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 53 2119 2148 "hw3/listSet.ml" 53 2119 2149
+type(
+  'a2
+)
+ident(
+  int_ref h "hw3/listSet.ml" 52 2079 2088 "hw3/listSet.ml" 52 2079 2089
+)
+"hw3/listSet.ml" 53 2119 2150 "hw3/listSet.ml" 53 2119 2151
+type(
+  'a2 -> 'a2 -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw3/listSet.ml" 53 2119 2152 "hw3/listSet.ml" 53 2119 2153
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 53 2119 2148 "hw3/listSet.ml" 53 2119 2153
+type(
+  bool
+)
+"hw3/listSet.ml" 53 2119 2159 "hw3/listSet.ml" 53 2119 2160
+type(
+  'a2
+)
+ident(
+  int_ref h "hw3/listSet.ml" 52 2079 2088 "hw3/listSet.ml" 52 2079 2089
+)
+"hw3/listSet.ml" 53 2119 2163 "hw3/listSet.ml" 53 2119 2164
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 53 2119 2162 "hw3/listSet.ml" 53 2119 2165
+type(
+  'a2 list
+)
+"hw3/listSet.ml" 53 2119 2159 "hw3/listSet.ml" 53 2119 2165
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 54 2167 2193 "hw3/listSet.ml" 54 2167 2194
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 54 2167 2197 "hw3/listSet.ml" 54 2167 2198
+type(
+  'a2
+)
+ident(
+  int_ref h "hw3/listSet.ml" 52 2079 2088 "hw3/listSet.ml" 52 2079 2089
+)
+"hw3/listSet.ml" 54 2167 2196 "hw3/listSet.ml" 54 2167 2199
+type(
+  'a2 list
+)
+"hw3/listSet.ml" 54 2167 2193 "hw3/listSet.ml" 54 2167 2199
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 53 2119 2145 "hw3/listSet.ml" 54 2167 2199
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 52 2079 2100 "hw3/listSet.ml" 54 2167 2199
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 55 2200 2208 "hw3/listSet.ml" 55 2200 2210
+type(
+  'a2
+)
+ident(
+  def h1 "hw3/listSet.ml" 55 2200 2221 "hw3/listSet.ml" 58 2348 2393
+)
+"hw3/listSet.ml" 55 2200 2212 "hw3/listSet.ml" 55 2200 2214
+type(
+  'a2
+)
+ident(
+  def h2 "hw3/listSet.ml" 55 2200 2221 "hw3/listSet.ml" 58 2348 2393
+)
+"hw3/listSet.ml" 55 2200 2216 "hw3/listSet.ml" 55 2200 2217
+type(
+  'a2 list
+)
+ident(
+  def t "hw3/listSet.ml" 55 2200 2221 "hw3/listSet.ml" 58 2348 2393
+)
+"hw3/listSet.ml" 55 2200 2212 "hw3/listSet.ml" 55 2200 2217
+type(
+  'a2 list
+)
+"hw3/listSet.ml" 55 2200 2208 "hw3/listSet.ml" 55 2200 2217
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 55 2200 2224 "hw3/listSet.ml" 55 2200 2226
+type(
+  'a2
+)
+ident(
+  int_ref h1 "hw3/listSet.ml" 55 2200 2208 "hw3/listSet.ml" 55 2200 2210
+)
+"hw3/listSet.ml" 55 2200 2227 "hw3/listSet.ml" 55 2200 2228
+type(
+  'a2 -> 'a2 -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/listSet.ml" 55 2200 2229 "hw3/listSet.ml" 55 2200 2230
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 55 2200 2224 "hw3/listSet.ml" 55 2200 2230
+type(
+  bool
+)
+"hw3/listSet.ml" 55 2200 2236 "hw3/listSet.ml" 55 2200 2237
+type(
+  'a2 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 48 1980 2003 "hw3/listSet.ml" 48 1980 2004
+)
+"hw3/listSet.ml" 56 2238 2267 "hw3/listSet.ml" 56 2238 2268
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 56 2238 2269 "hw3/listSet.ml" 56 2238 2270
+type(
+  'a2 -> 'a2 -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw3/listSet.ml" 56 2238 2271 "hw3/listSet.ml" 56 2238 2273
+type(
+  'a2
+)
+ident(
+  int_ref h1 "hw3/listSet.ml" 55 2200 2208 "hw3/listSet.ml" 55 2200 2210
+)
+"hw3/listSet.ml" 56 2238 2267 "hw3/listSet.ml" 56 2238 2273
+type(
+  bool
+)
+"hw3/listSet.ml" 56 2238 2279 "hw3/listSet.ml" 56 2238 2280
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 56 2238 2282 "hw3/listSet.ml" 56 2238 2283
+type(
+  'a2 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 48 1980 2003 "hw3/listSet.ml" 48 1980 2004
+)
+"hw3/listSet.ml" 56 2238 2279 "hw3/listSet.ml" 56 2238 2283
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 57 2284 2313 "hw3/listSet.ml" 57 2284 2315
+type(
+  'a2
+)
+ident(
+  int_ref h1 "hw3/listSet.ml" 55 2200 2208 "hw3/listSet.ml" 55 2200 2210
+)
+"hw3/listSet.ml" 57 2284 2316 "hw3/listSet.ml" 57 2284 2317
+type(
+  'a2 -> 'a2 -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw3/listSet.ml" 57 2284 2318 "hw3/listSet.ml" 57 2284 2319
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 57 2284 2313 "hw3/listSet.ml" 57 2284 2319
+type(
+  bool
+)
+"hw3/listSet.ml" 57 2284 2320 "hw3/listSet.ml" 57 2284 2322
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw3/listSet.ml" 57 2284 2323 "hw3/listSet.ml" 57 2284 2324
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 57 2284 2325 "hw3/listSet.ml" 57 2284 2326
+type(
+  'a2 -> 'a2 -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw3/listSet.ml" 57 2284 2327 "hw3/listSet.ml" 57 2284 2329
+type(
+  'a2
+)
+ident(
+  int_ref h2 "hw3/listSet.ml" 55 2200 2212 "hw3/listSet.ml" 55 2200 2214
+)
+"hw3/listSet.ml" 57 2284 2323 "hw3/listSet.ml" 57 2284 2329
+type(
+  bool
+)
+"hw3/listSet.ml" 57 2284 2313 "hw3/listSet.ml" 57 2284 2329
+type(
+  bool
+)
+"hw3/listSet.ml" 57 2284 2335 "hw3/listSet.ml" 57 2284 2337
+type(
+  'a2
+)
+ident(
+  int_ref h1 "hw3/listSet.ml" 55 2200 2208 "hw3/listSet.ml" 55 2200 2210
+)
+"hw3/listSet.ml" 57 2284 2339 "hw3/listSet.ml" 57 2284 2340
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 57 2284 2342 "hw3/listSet.ml" 57 2284 2344
+type(
+  'a2
+)
+ident(
+  int_ref h2 "hw3/listSet.ml" 55 2200 2212 "hw3/listSet.ml" 55 2200 2214
+)
+"hw3/listSet.ml" 57 2284 2346 "hw3/listSet.ml" 57 2284 2347
+type(
+  'a2 list
+)
+ident(
+  int_ref t "hw3/listSet.ml" 55 2200 2216 "hw3/listSet.ml" 55 2200 2217
+)
+"hw3/listSet.ml" 57 2284 2342 "hw3/listSet.ml" 57 2284 2347
+type(
+  'a2 list
+)
+"hw3/listSet.ml" 57 2284 2339 "hw3/listSet.ml" 57 2284 2347
+type(
+  'a2 list
+)
+"hw3/listSet.ml" 57 2284 2335 "hw3/listSet.ml" 57 2284 2347
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 58 2348 2374 "hw3/listSet.ml" 58 2348 2376
+type(
+  'a2
+)
+ident(
+  int_ref h1 "hw3/listSet.ml" 55 2200 2208 "hw3/listSet.ml" 55 2200 2210
+)
+"hw3/listSet.ml" 58 2348 2379 "hw3/listSet.ml" 58 2348 2382
+type(
+  'a2 -> 'a2 set -> 'a2 set
+)
+ident(
+  int_ref add "hw3/listSet.ml" 48 1980 1990 "hw3/listSet.ml" 48 1980 1993
+)
+"hw3/listSet.ml" 58 2348 2383 "hw3/listSet.ml" 58 2348 2384
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/listSet.ml" 48 1980 1995 "hw3/listSet.ml" 48 1980 1996
+)
+"hw3/listSet.ml" 58 2348 2386 "hw3/listSet.ml" 58 2348 2388
+type(
+  'a2
+)
+ident(
+  int_ref h2 "hw3/listSet.ml" 55 2200 2212 "hw3/listSet.ml" 55 2200 2214
+)
+"hw3/listSet.ml" 58 2348 2390 "hw3/listSet.ml" 58 2348 2391
+type(
+  'a2 list
+)
+ident(
+  int_ref t "hw3/listSet.ml" 55 2200 2216 "hw3/listSet.ml" 55 2200 2217
+)
+"hw3/listSet.ml" 58 2348 2385 "hw3/listSet.ml" 58 2348 2392
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 58 2348 2378 "hw3/listSet.ml" 58 2348 2393
+call(
+  stack
+)
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 58 2348 2374 "hw3/listSet.ml" 58 2348 2393
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 57 2284 2310 "hw3/listSet.ml" 58 2348 2393
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 56 2238 2264 "hw3/listSet.ml" 58 2348 2393
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 55 2200 2221 "hw3/listSet.ml" 58 2348 2393
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 49 2025 2029 "hw3/listSet.ml" 59 2394 2401
+type(
+  'a2 set
+)
+type(
+  'a2 set
+)
+"hw3/listSet.ml" 67 2698 2708 "hw3/listSet.ml" 67 2698 2714
+type(
+  'a3 -> 'a3 set -> 'a3 set
+)
+ident(
+  def remove "hw3/listSet.ml" 67 2698 2700 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 67 2698 2716 "hw3/listSet.ml" 67 2698 2717
+type(
+  'a3
+)
+ident(
+  def x "hw3/listSet.ml" 67 2698 2723 "hw3/listSet.ml" 72 2870 2877
+)
+"hw3/listSet.ml" 67 2698 2724 "hw3/listSet.ml" 67 2698 2725
+type(
+  'a3 set
+)
+ident(
+  def s "hw3/listSet.ml" 67 2698 2735 "hw3/listSet.ml" 72 2870 2877
+)
+"hw3/listSet.ml" 69 2756 2768 "hw3/listSet.ml" 69 2756 2769
+type(
+  'a3 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 67 2698 2724 "hw3/listSet.ml" 67 2698 2725
+)
+"hw3/listSet.ml" 70 2775 2783 "hw3/listSet.ml" 70 2775 2785
+type(
+  'a3 set
+)
+"hw3/listSet.ml" 70 2775 2792 "hw3/listSet.ml" 70 2775 2794
+type(
+  'a3 set
+)
+"hw3/listSet.ml" 71 2795 2804 "hw3/listSet.ml" 71 2795 2805
+type(
+  'a3
+)
+ident(
+  def h "hw3/listSet.ml" 71 2795 2812 "hw3/listSet.ml" 71 2795 2869
+)
+"hw3/listSet.ml" 71 2795 2807 "hw3/listSet.ml" 71 2795 2808
+type(
+  'a3 list
+)
+ident(
+  def t "hw3/listSet.ml" 71 2795 2812 "hw3/listSet.ml" 71 2795 2869
+)
+"hw3/listSet.ml" 71 2795 2804 "hw3/listSet.ml" 71 2795 2808
+type(
+  'a3 set
+)
+"hw3/listSet.ml" 71 2795 2815 "hw3/listSet.ml" 71 2795 2816
+type(
+  'a3
+)
+ident(
+  int_ref h "hw3/listSet.ml" 71 2795 2804 "hw3/listSet.ml" 71 2795 2805
+)
+"hw3/listSet.ml" 71 2795 2817 "hw3/listSet.ml" 71 2795 2818
+type(
+  'a3 -> 'a3 -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/listSet.ml" 71 2795 2819 "hw3/listSet.ml" 71 2795 2820
+type(
+  'a3
+)
+ident(
+  int_ref x "hw3/listSet.ml" 67 2698 2716 "hw3/listSet.ml" 67 2698 2717
+)
+"hw3/listSet.ml" 71 2795 2815 "hw3/listSet.ml" 71 2795 2820
+type(
+  bool
+)
+"hw3/listSet.ml" 71 2795 2826 "hw3/listSet.ml" 71 2795 2827
+type(
+  'a3 set
+)
+ident(
+  int_ref t "hw3/listSet.ml" 71 2795 2807 "hw3/listSet.ml" 71 2795 2808
+)
+"hw3/listSet.ml" 71 2795 2836 "hw3/listSet.ml" 71 2795 2837
+type(
+  'a3
+)
+ident(
+  int_ref h "hw3/listSet.ml" 71 2795 2804 "hw3/listSet.ml" 71 2795 2805
+)
+"hw3/listSet.ml" 71 2795 2838 "hw3/listSet.ml" 71 2795 2839
+type(
+  'a3 -> 'a3 -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"hw3/listSet.ml" 71 2795 2840 "hw3/listSet.ml" 71 2795 2841
+type(
+  'a3
+)
+ident(
+  int_ref x "hw3/listSet.ml" 67 2698 2716 "hw3/listSet.ml" 67 2698 2717
+)
+"hw3/listSet.ml" 71 2795 2836 "hw3/listSet.ml" 71 2795 2841
+type(
+  bool
+)
+"hw3/listSet.ml" 71 2795 2847 "hw3/listSet.ml" 71 2795 2848
+type(
+  'a3 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 67 2698 2724 "hw3/listSet.ml" 67 2698 2725
+)
+"hw3/listSet.ml" 71 2795 2854 "hw3/listSet.ml" 71 2795 2855
+type(
+  'a3
+)
+ident(
+  int_ref h "hw3/listSet.ml" 71 2795 2804 "hw3/listSet.ml" 71 2795 2805
+)
+"hw3/listSet.ml" 71 2795 2858 "hw3/listSet.ml" 71 2795 2864
+type(
+  'a3 -> 'a3 set -> 'a3 set
+)
+ident(
+  int_ref remove "hw3/listSet.ml" 67 2698 2708 "hw3/listSet.ml" 67 2698 2714
+)
+"hw3/listSet.ml" 71 2795 2865 "hw3/listSet.ml" 71 2795 2866
+type(
+  'a3
+)
+ident(
+  int_ref x "hw3/listSet.ml" 67 2698 2716 "hw3/listSet.ml" 67 2698 2717
+)
+"hw3/listSet.ml" 71 2795 2867 "hw3/listSet.ml" 71 2795 2868
+type(
+  'a3 set
+)
+ident(
+  int_ref t "hw3/listSet.ml" 71 2795 2807 "hw3/listSet.ml" 71 2795 2808
+)
+"hw3/listSet.ml" 71 2795 2857 "hw3/listSet.ml" 71 2795 2869
+call(
+  stack
+)
+type(
+  'a3 set
+)
+"hw3/listSet.ml" 71 2795 2854 "hw3/listSet.ml" 71 2795 2869
+type(
+  'a3 set
+)
+"hw3/listSet.ml" 71 2795 2833 "hw3/listSet.ml" 71 2795 2869
+type(
+  'a3 set
+)
+"hw3/listSet.ml" 71 2795 2812 "hw3/listSet.ml" 71 2795 2869
+type(
+  'a3 set
+)
+"hw3/listSet.ml" 68 2746 2750 "hw3/listSet.ml" 72 2870 2877
+type(
+  'a3 set
+)
+type(
+  'a3 set
+)
+"hw3/listSet.ml" 79 3123 3129 "hw3/listSet.ml" 79 3123 3133
+type(
+  'a4 set -> int
+)
+ident(
+  def size "hw3/listSet.ml" 86 3326 3328 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 79 3123 3135 "hw3/listSet.ml" 79 3123 3136
+type(
+  'a4 set
+)
+ident(
+  def s "hw3/listSet.ml" 79 3123 3146 "hw3/listSet.ml" 80 3154 3189
+)
+"hw3/listSet.ml" 80 3154 3158 "hw3/listSet.ml" 80 3154 3162
+type(
+  ('a4 -> int -> int) -> int -> 'a4 set -> int
+)
+ident(
+  ext_ref HigherOrder.fold
+)
+"hw3/listSet.ml" 80 3154 3168 "hw3/listSet.ml" 80 3154 3169
+type(
+  'a4
+)
+ident(
+  def x "hw3/listSet.ml" 80 3154 3170 "hw3/listSet.ml" 80 3154 3184
+)
+"hw3/listSet.ml" 80 3154 3170 "hw3/listSet.ml" 80 3154 3173
+type(
+  int
+)
+ident(
+  def acc "hw3/listSet.ml" 80 3154 3177 "hw3/listSet.ml" 80 3154 3184
+)
+"hw3/listSet.ml" 80 3154 3177 "hw3/listSet.ml" 80 3154 3178
+type(
+  int
+)
+"hw3/listSet.ml" 80 3154 3179 "hw3/listSet.ml" 80 3154 3180
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw3/listSet.ml" 80 3154 3181 "hw3/listSet.ml" 80 3154 3184
+type(
+  int
+)
+ident(
+  int_ref acc "hw3/listSet.ml" 80 3154 3170 "hw3/listSet.ml" 80 3154 3173
+)
+"hw3/listSet.ml" 80 3154 3177 "hw3/listSet.ml" 80 3154 3184
+type(
+  int
+)
+"hw3/listSet.ml" 80 3154 3163 "hw3/listSet.ml" 80 3154 3185
+type(
+  'a4 -> int -> int
+)
+"hw3/listSet.ml" 80 3154 3186 "hw3/listSet.ml" 80 3154 3187
+type(
+  int
+)
+"hw3/listSet.ml" 80 3154 3188 "hw3/listSet.ml" 80 3154 3189
+type(
+  'a4 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 79 3123 3135 "hw3/listSet.ml" 79 3123 3136
+)
+"hw3/listSet.ml" 80 3154 3158 "hw3/listSet.ml" 80 3154 3189
+call(
+  tail
+)
+type(
+  int
+)
+type(
+  int
+)
+"hw3/listSet.ml" 86 3326 3332 "hw3/listSet.ml" 86 3326 3338
+type(
+  'a5 set -> 'a5 set -> bool
+)
+ident(
+  def equals "hw3/listSet.ml" 94 3607 3609 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 86 3326 3340 "hw3/listSet.ml" 86 3326 3341
+type(
+  'a5 set
+)
+ident(
+  def s "hw3/listSet.ml" 86 3326 3351 "hw3/listSet.ml" 87 3372 3379
+)
+"hw3/listSet.ml" 86 3326 3352 "hw3/listSet.ml" 86 3326 3353
+type(
+  'a5 set
+)
+ident(
+  def t "hw3/listSet.ml" 86 3326 3363 "hw3/listSet.ml" 87 3372 3379
+)
+"hw3/listSet.ml" 87 3372 3376 "hw3/listSet.ml" 87 3372 3377
+type(
+  'a5 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 86 3326 3340 "hw3/listSet.ml" 86 3326 3341
+)
+"hw3/listSet.ml" 87 3372 3377 "hw3/listSet.ml" 87 3372 3378
+type(
+  'a5 set -> 'a5 set -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/listSet.ml" 87 3372 3378 "hw3/listSet.ml" 87 3372 3379
+type(
+  'a5 set
+)
+ident(
+  int_ref t "hw3/listSet.ml" 86 3326 3352 "hw3/listSet.ml" 86 3326 3353
+)
+"hw3/listSet.ml" 87 3372 3376 "hw3/listSet.ml" 87 3372 3379
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/listSet.ml" 94 3607 3617 "hw3/listSet.ml" 94 3607 3628
+type(
+  'a6 list -> 'a6 set
+)
+ident(
+  def set_of_list "hw3/listSet.ml" 94 3607 3609 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 94 3607 3630 "hw3/listSet.ml" 94 3607 3631
+type(
+  'a6 list
+)
+ident(
+  def l "hw3/listSet.ml" 94 3607 3642 "hw3/listSet.ml" 95 3653 3673
+)
+"hw3/listSet.ml" 95 3653 3657 "hw3/listSet.ml" 95 3653 3661
+type(
+  ('a6 -> 'a6 set -> 'a6 set) -> 'a6 set -> 'a6 list -> 'a6 set
+)
+ident(
+  ext_ref HigherOrder.fold
+)
+"hw3/listSet.ml" 95 3653 3662 "hw3/listSet.ml" 95 3653 3665
+type(
+  'a6 -> 'a6 set -> 'a6 set
+)
+ident(
+  int_ref add "hw3/listSet.ml" 48 1980 1990 "hw3/listSet.ml" 48 1980 1993
+)
+"hw3/listSet.ml" 95 3653 3666 "hw3/listSet.ml" 95 3653 3671
+type(
+  'a6 set
+)
+ident(
+  int_ref empty "hw3/listSet.ml" 30 1364 1370 "hw3/listSet.ml" 30 1364 1375
+)
+"hw3/listSet.ml" 95 3653 3672 "hw3/listSet.ml" 95 3653 3673
+type(
+  'a6 list
+)
+ident(
+  int_ref l "hw3/listSet.ml" 94 3607 3630 "hw3/listSet.ml" 94 3607 3631
+)
+"hw3/listSet.ml" 95 3653 3657 "hw3/listSet.ml" 95 3653 3673
+call(
+  tail
+)
+type(
+  'a6 set
+)
+type(
+  'a6 set
+)
+"hw3/listSet.ml" 102 3915 3921 "hw3/listSet.ml" 102 3915 3932
+type(
+  'a7 set -> 'a7 list
+)
+ident(
+  def list_of_set "hw3/listSet.ml" 106 4013 4015 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 102 3915 3934 "hw3/listSet.ml" 102 3915 3935
+type(
+  'a7 set
+)
+ident(
+  def s "hw3/listSet.ml" 102 3915 3945 "hw3/listSet.ml" 103 3957 3962
+)
+"hw3/listSet.ml" 103 3957 3961 "hw3/listSet.ml" 103 3957 3962
+type(
+  'a7 list
+)
+type(
+  'a7 set
+)
+ident(
+  int_ref s "hw3/listSet.ml" 102 3915 3934 "hw3/listSet.ml" 102 3915 3935
+)
+"hw3/listSet.ml" 106 4013 4019 "hw3/listSet.ml" 106 4013 4029
+type(
+  string
+)
+ident(
+  def debug_name "hw3/listSet.ml" 106 4013 4047 "hw3/listSet.ml" 107 4048 4051
+)
+"hw3/listSet.ml" 106 4013 4040 "hw3/listSet.ml" 106 4013 4047
+type(
+  string
+)
+type(
+  string
+)

@@ -1,0 +1,11 @@
+compil_mode/<project>=byte-code
+compil_mode/deque.exe=byte-code
+compil_mode/graph.exe=byte-code
+compil_mode/imp.exe=byte-code
+compil_mode/q.exe=byte-code
+eclipse.preferences.version=1
+flags/<project>=-g\u00A0
+make_exe/deque.ml=deque.exe
+make_exe/graph.ml=graph.exe
+make_exe/imp.ml=imp.exe
+make_exe/q.ml=q.exe

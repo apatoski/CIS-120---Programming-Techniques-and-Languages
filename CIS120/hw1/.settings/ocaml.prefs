@@ -1,0 +1,5 @@
+compil_mode/<project>=byte-code
+compil_mode/intro.exe=byte-code
+eclipse.preferences.version=1
+flags/<project>=-g\u00A0
+make_exe/intro.ml=intro.exe

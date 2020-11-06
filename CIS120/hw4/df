@@ -1,0 +1,24 @@
+let equality_test_results () : bool list =
+   [true; true; true; false; true; true; true; true; true; false;
+   true; false; true; true; true; false]
+   
+let test () : bool =
+  let r = { contents = 5 } in
+  let o = Some r in
+  [ r = r;
+    r == r;
+    r = { contents = 5 };
+    r == { contents = 5 };
+    { contents = 5 } = { contents = 5 };
+    { contents = 5 } == { contents = 5 };
+    r.contents = r.contents;
+    r.contents == r.contents;
+    Some r = Some r;
+    Some r == Some r;
+    Some r = o;
+    Some r == o;
+    o = o;
+    o == o;
+    contains_alias o [o];
+    contains_alias (Some r) [Some r]
+  ] = equality_test_results ()

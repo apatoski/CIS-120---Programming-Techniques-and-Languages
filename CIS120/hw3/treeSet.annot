@@ -1,0 +1,656 @@
+"hw3/treeSet.ml" 22 775 781 "hw3/treeSet.ml" 22 775 786
+type(
+  'a set
+)
+ident(
+  def empty "hw3/treeSet.ml" 24 805 807 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 22 775 798 "hw3/treeSet.ml" 22 775 803
+type(
+  'a set
+)
+type(
+  'a set
+)
+"hw3/treeSet.ml" 24 805 811 "hw3/treeSet.ml" 24 805 819
+type(
+  'a0 set -> bool
+)
+ident(
+  def is_empty "hw3/treeSet.ml" 31 1018 1020 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 24 805 821 "hw3/treeSet.ml" 24 805 822
+type(
+  'a0 set
+)
+ident(
+  def s "hw3/treeSet.ml" 24 805 832 "hw3/treeSet.ml" 25 841 854
+)
+"hw3/treeSet.ml" 25 841 845 "hw3/treeSet.ml" 25 841 846
+type(
+  'a0 set
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 24 805 821 "hw3/treeSet.ml" 24 805 822
+)
+"hw3/treeSet.ml" 25 841 847 "hw3/treeSet.ml" 25 841 848
+type(
+  'a0 set -> 'a0 set -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/treeSet.ml" 25 841 849 "hw3/treeSet.ml" 25 841 854
+type(
+  'a0 set
+)
+ident(
+  int_ref empty "hw3/treeSet.ml" 22 775 781 "hw3/treeSet.ml" 22 775 786
+)
+"hw3/treeSet.ml" 25 841 845 "hw3/treeSet.ml" 25 841 854
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/treeSet.ml" 31 1018 1024 "hw3/treeSet.ml" 31 1018 1030
+type(
+  'a1 -> 'a1 set -> bool
+)
+ident(
+  def member "hw3/treeSet.ml" 35 1077 1079 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 31 1018 1032 "hw3/treeSet.ml" 31 1018 1033
+type(
+  'a1
+)
+ident(
+  def x "hw3/treeSet.ml" 31 1018 1039 "hw3/treeSet.ml" 32 1060 1074
+)
+"hw3/treeSet.ml" 31 1018 1040 "hw3/treeSet.ml" 31 1018 1041
+type(
+  'a1 set
+)
+ident(
+  def s "hw3/treeSet.ml" 31 1018 1051 "hw3/treeSet.ml" 32 1060 1074
+)
+"hw3/treeSet.ml" 32 1060 1064 "hw3/treeSet.ml" 32 1060 1070
+type(
+  'a1 -> 'a1 set -> bool
+)
+ident(
+  ext_ref Tree.lookup
+)
+"hw3/treeSet.ml" 32 1060 1071 "hw3/treeSet.ml" 32 1060 1072
+type(
+  'a1
+)
+ident(
+  int_ref x "hw3/treeSet.ml" 31 1018 1032 "hw3/treeSet.ml" 31 1018 1033
+)
+"hw3/treeSet.ml" 32 1060 1073 "hw3/treeSet.ml" 32 1060 1074
+type(
+  'a1 set
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 31 1018 1040 "hw3/treeSet.ml" 31 1018 1041
+)
+"hw3/treeSet.ml" 32 1060 1064 "hw3/treeSet.ml" 32 1060 1074
+call(
+  tail
+)
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/treeSet.ml" 35 1077 1083 "hw3/treeSet.ml" 35 1077 1086
+type(
+  'a2 -> 'a2 set -> 'a2 set
+)
+ident(
+  def add "hw3/treeSet.ml" 39 1136 1138 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 35 1077 1088 "hw3/treeSet.ml" 35 1077 1089
+type(
+  'a2
+)
+ident(
+  def x "hw3/treeSet.ml" 35 1077 1095 "hw3/treeSet.ml" 36 1118 1132
+)
+"hw3/treeSet.ml" 35 1077 1096 "hw3/treeSet.ml" 35 1077 1097
+type(
+  'a2 set
+)
+ident(
+  def s "hw3/treeSet.ml" 35 1077 1107 "hw3/treeSet.ml" 36 1118 1132
+)
+"hw3/treeSet.ml" 36 1118 1122 "hw3/treeSet.ml" 36 1118 1128
+type(
+  'a2 -> 'a2 set -> 'a2 set
+)
+ident(
+  ext_ref Tree.insert
+)
+"hw3/treeSet.ml" 36 1118 1129 "hw3/treeSet.ml" 36 1118 1130
+type(
+  'a2
+)
+ident(
+  int_ref x "hw3/treeSet.ml" 35 1077 1088 "hw3/treeSet.ml" 35 1077 1089
+)
+"hw3/treeSet.ml" 36 1118 1131 "hw3/treeSet.ml" 36 1118 1132
+type(
+  'a2 set
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 35 1077 1096 "hw3/treeSet.ml" 35 1077 1097
+)
+"hw3/treeSet.ml" 36 1118 1122 "hw3/treeSet.ml" 36 1118 1132
+call(
+  tail
+)
+type(
+  'a2 set
+)
+type(
+  'a2 set
+)
+"hw3/treeSet.ml" 39 1136 1142 "hw3/treeSet.ml" 39 1136 1148
+type(
+  'a3 -> 'a3 set -> 'a3 set
+)
+ident(
+  def remove "hw3/treeSet.ml" 42 1196 1198 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 39 1136 1150 "hw3/treeSet.ml" 39 1136 1151
+type(
+  'a3
+)
+ident(
+  def x "hw3/treeSet.ml" 39 1136 1157 "hw3/treeSet.ml" 40 1180 1194
+)
+"hw3/treeSet.ml" 39 1136 1158 "hw3/treeSet.ml" 39 1136 1159
+type(
+  'a3 set
+)
+ident(
+  def s "hw3/treeSet.ml" 39 1136 1169 "hw3/treeSet.ml" 40 1180 1194
+)
+"hw3/treeSet.ml" 40 1180 1184 "hw3/treeSet.ml" 40 1180 1190
+type(
+  'a3 -> 'a3 set -> 'a3 set
+)
+ident(
+  ext_ref Tree.delete
+)
+"hw3/treeSet.ml" 40 1180 1191 "hw3/treeSet.ml" 40 1180 1192
+type(
+  'a3
+)
+ident(
+  int_ref x "hw3/treeSet.ml" 39 1136 1150 "hw3/treeSet.ml" 39 1136 1151
+)
+"hw3/treeSet.ml" 40 1180 1193 "hw3/treeSet.ml" 40 1180 1194
+type(
+  'a3 set
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 39 1136 1158 "hw3/treeSet.ml" 39 1136 1159
+)
+"hw3/treeSet.ml" 40 1180 1184 "hw3/treeSet.ml" 40 1180 1194
+call(
+  tail
+)
+type(
+  'a3 set
+)
+type(
+  'a3 set
+)
+"hw3/treeSet.ml" 42 1196 1206 "hw3/treeSet.ml" 42 1196 1217
+type(
+  'a4 set -> 'a4 list
+)
+ident(
+  def list_of_set "hw3/treeSet.ml" 42 1196 1198 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 42 1196 1219 "hw3/treeSet.ml" 42 1196 1220
+type(
+  'a4 set
+)
+ident(
+  def s "hw3/treeSet.ml" 42 1196 1230 "hw3/treeSet.ml" 43 1242 1255
+)
+"hw3/treeSet.ml" 43 1242 1246 "hw3/treeSet.ml" 43 1242 1253
+type(
+  'a4 set -> 'a4 list
+)
+ident(
+  ext_ref Tree.inorder
+)
+"hw3/treeSet.ml" 43 1242 1254 "hw3/treeSet.ml" 43 1242 1255
+type(
+  'a4 set
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 42 1196 1219 "hw3/treeSet.ml" 42 1196 1220
+)
+"hw3/treeSet.ml" 43 1242 1246 "hw3/treeSet.ml" 43 1242 1255
+call(
+  tail
+)
+type(
+  'a4 list
+)
+type(
+  'a4 list
+)
+"hw3/treeSet.ml" 45 1261 1271 "hw3/treeSet.ml" 45 1261 1275
+type(
+  'a5 set -> int
+)
+ident(
+  def size "hw3/treeSet.ml" 45 1261 1263 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 45 1261 1277 "hw3/treeSet.ml" 45 1261 1278
+type(
+  'a5 set
+)
+ident(
+  def s "hw3/treeSet.ml" 45 1261 1288 "hw3/treeSet.ml" 46 1296 1343
+)
+"hw3/treeSet.ml" 46 1296 1300 "hw3/treeSet.ml" 46 1296 1304
+type(
+  ('a5 -> int -> int) -> int -> 'a5 list -> int
+)
+ident(
+  ext_ref HigherOrder.fold
+)
+"hw3/treeSet.ml" 46 1296 1310 "hw3/treeSet.ml" 46 1296 1311
+type(
+  'a5
+)
+ident(
+  def x "hw3/treeSet.ml" 46 1296 1312 "hw3/treeSet.ml" 46 1296 1324
+)
+"hw3/treeSet.ml" 46 1296 1312 "hw3/treeSet.ml" 46 1296 1315
+type(
+  int
+)
+ident(
+  def acc "hw3/treeSet.ml" 46 1296 1319 "hw3/treeSet.ml" 46 1296 1324
+)
+"hw3/treeSet.ml" 46 1296 1319 "hw3/treeSet.ml" 46 1296 1320
+type(
+  int
+)
+"hw3/treeSet.ml" 46 1296 1320 "hw3/treeSet.ml" 46 1296 1321
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw3/treeSet.ml" 46 1296 1321 "hw3/treeSet.ml" 46 1296 1324
+type(
+  int
+)
+ident(
+  int_ref acc "hw3/treeSet.ml" 46 1296 1312 "hw3/treeSet.ml" 46 1296 1315
+)
+"hw3/treeSet.ml" 46 1296 1319 "hw3/treeSet.ml" 46 1296 1324
+type(
+  int
+)
+"hw3/treeSet.ml" 46 1296 1305 "hw3/treeSet.ml" 46 1296 1325
+type(
+  'a5 -> int -> int
+)
+"hw3/treeSet.ml" 46 1296 1326 "hw3/treeSet.ml" 46 1296 1327
+type(
+  int
+)
+"hw3/treeSet.ml" 46 1296 1329 "hw3/treeSet.ml" 46 1296 1340
+type(
+  'a5 set -> 'a5 list
+)
+ident(
+  int_ref list_of_set "hw3/treeSet.ml" 42 1196 1206 "hw3/treeSet.ml" 42 1196 1217
+)
+"hw3/treeSet.ml" 46 1296 1341 "hw3/treeSet.ml" 46 1296 1342
+type(
+  'a5 set
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 45 1261 1277 "hw3/treeSet.ml" 45 1261 1278
+)
+"hw3/treeSet.ml" 46 1296 1328 "hw3/treeSet.ml" 46 1296 1343
+call(
+  stack
+)
+type(
+  'a5 list
+)
+"hw3/treeSet.ml" 46 1296 1300 "hw3/treeSet.ml" 46 1296 1343
+call(
+  tail
+)
+type(
+  int
+)
+type(
+  int
+)
+"hw3/treeSet.ml" 55 1698 1704 "hw3/treeSet.ml" 55 1698 1710
+type(
+  'a6 set -> 'a6 set -> bool
+)
+ident(
+  def equals "hw3/treeSet.ml" 58 1779 1781 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 55 1698 1712 "hw3/treeSet.ml" 55 1698 1713
+type(
+  'a6 set
+)
+ident(
+  def s "hw3/treeSet.ml" 55 1698 1723 "hw3/treeSet.ml" 56 1744 1777
+)
+"hw3/treeSet.ml" 55 1698 1724 "hw3/treeSet.ml" 55 1698 1725
+type(
+  'a6 set
+)
+ident(
+  def t "hw3/treeSet.ml" 55 1698 1735 "hw3/treeSet.ml" 56 1744 1777
+)
+"hw3/treeSet.ml" 56 1744 1748 "hw3/treeSet.ml" 56 1744 1759
+type(
+  'a6 set -> 'a6 list
+)
+ident(
+  int_ref list_of_set "hw3/treeSet.ml" 42 1196 1206 "hw3/treeSet.ml" 42 1196 1217
+)
+"hw3/treeSet.ml" 56 1744 1760 "hw3/treeSet.ml" 56 1744 1761
+type(
+  'a6 set
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 55 1698 1712 "hw3/treeSet.ml" 55 1698 1713
+)
+"hw3/treeSet.ml" 56 1744 1748 "hw3/treeSet.ml" 56 1744 1761
+call(
+  stack
+)
+type(
+  'a6 list
+)
+"hw3/treeSet.ml" 56 1744 1762 "hw3/treeSet.ml" 56 1744 1763
+type(
+  'a6 list -> 'a6 list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/treeSet.ml" 56 1744 1764 "hw3/treeSet.ml" 56 1744 1775
+type(
+  'a6 set -> 'a6 list
+)
+ident(
+  int_ref list_of_set "hw3/treeSet.ml" 42 1196 1206 "hw3/treeSet.ml" 42 1196 1217
+)
+"hw3/treeSet.ml" 56 1744 1776 "hw3/treeSet.ml" 56 1744 1777
+type(
+  'a6 set
+)
+ident(
+  int_ref t "hw3/treeSet.ml" 55 1698 1724 "hw3/treeSet.ml" 55 1698 1725
+)
+"hw3/treeSet.ml" 56 1744 1764 "hw3/treeSet.ml" 56 1744 1777
+call(
+  stack
+)
+type(
+  'a6 list
+)
+"hw3/treeSet.ml" 56 1744 1748 "hw3/treeSet.ml" 56 1744 1777
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/treeSet.ml" 58 1779 1785 "hw3/treeSet.ml" 58 1779 1789
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/treeSet.ml" 63 2010 2015 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 58 1779 1790 "hw3/treeSet.ml" 58 1779 1792
+type(
+  unit
+)
+"hw3/treeSet.ml" 59 1802 1810 "hw3/treeSet.ml" 59 1802 1811
+type(
+  int Tree.tree
+)
+ident(
+  def s "hw3/treeSet.ml" 60 1857 1861 "hw3/treeSet.ml" 62 1961 1978
+)
+"hw3/treeSet.ml" 59 1802 1820 "hw3/treeSet.ml" 59 1802 1825
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 59 1802 1827 "hw3/treeSet.ml" 59 1802 1828
+type(
+  int
+)
+"hw3/treeSet.ml" 59 1802 1836 "hw3/treeSet.ml" 59 1802 1841
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 59 1802 1843 "hw3/treeSet.ml" 59 1802 1844
+type(
+  int
+)
+"hw3/treeSet.ml" 59 1802 1846 "hw3/treeSet.ml" 59 1802 1851
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 59 1802 1830 "hw3/treeSet.ml" 59 1802 1852
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 59 1802 1814 "hw3/treeSet.ml" 59 1802 1853
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 60 1857 1865 "hw3/treeSet.ml" 60 1857 1866
+type(
+  int Tree.tree
+)
+ident(
+  def t "hw3/treeSet.ml" 61 1912 1916 "hw3/treeSet.ml" 62 1961 1978
+)
+"hw3/treeSet.ml" 60 1857 1881 "hw3/treeSet.ml" 60 1857 1886
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 60 1857 1888 "hw3/treeSet.ml" 60 1857 1889
+type(
+  int
+)
+"hw3/treeSet.ml" 60 1857 1891 "hw3/treeSet.ml" 60 1857 1896
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 60 1857 1875 "hw3/treeSet.ml" 60 1857 1897
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 60 1857 1899 "hw3/treeSet.ml" 60 1857 1900
+type(
+  int
+)
+"hw3/treeSet.ml" 60 1857 1902 "hw3/treeSet.ml" 60 1857 1907
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 60 1857 1869 "hw3/treeSet.ml" 60 1857 1908
+type(
+  int Tree.tree
+)
+"hw3/treeSet.ml" 61 1912 1916 "hw3/treeSet.ml" 61 1912 1917
+type(
+  int Tree.tree
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 59 1802 1810 "hw3/treeSet.ml" 59 1802 1811
+)
+"hw3/treeSet.ml" 61 1912 1918 "hw3/treeSet.ml" 61 1912 1920
+type(
+  int Tree.tree -> int Tree.tree -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"hw3/treeSet.ml" 61 1912 1921 "hw3/treeSet.ml" 61 1912 1922
+type(
+  int Tree.tree
+)
+ident(
+  int_ref t "hw3/treeSet.ml" 60 1857 1865 "hw3/treeSet.ml" 60 1857 1866
+)
+"hw3/treeSet.ml" 61 1912 1916 "hw3/treeSet.ml" 61 1912 1922
+type(
+  bool
+)
+"hw3/treeSet.ml" 62 1961 1965 "hw3/treeSet.ml" 62 1961 1967
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw3/treeSet.ml" 62 1961 1968 "hw3/treeSet.ml" 62 1961 1974
+type(
+  int set -> int set -> bool
+)
+ident(
+  int_ref equals "hw3/treeSet.ml" 55 1698 1704 "hw3/treeSet.ml" 55 1698 1710
+)
+"hw3/treeSet.ml" 62 1961 1975 "hw3/treeSet.ml" 62 1961 1976
+type(
+  int set
+)
+ident(
+  int_ref s "hw3/treeSet.ml" 59 1802 1810 "hw3/treeSet.ml" 59 1802 1811
+)
+"hw3/treeSet.ml" 62 1961 1977 "hw3/treeSet.ml" 62 1961 1978
+type(
+  int set
+)
+ident(
+  int_ref t "hw3/treeSet.ml" 60 1857 1865 "hw3/treeSet.ml" 60 1857 1866
+)
+"hw3/treeSet.ml" 62 1961 1968 "hw3/treeSet.ml" 62 1961 1978
+call(
+  tail
+)
+type(
+  bool
+)
+"hw3/treeSet.ml" 61 1912 1916 "hw3/treeSet.ml" 62 1961 1978
+type(
+  bool
+)
+"hw3/treeSet.ml" 60 1857 1861 "hw3/treeSet.ml" 62 1961 1978
+type(
+  bool
+)
+"hw3/treeSet.ml" 59 1802 1806 "hw3/treeSet.ml" 62 1961 1978
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/treeSet.ml" 63 2010 2015 "hw3/treeSet.ml" 63 2010 2023
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/treeSet.ml" 63 2010 2024 "hw3/treeSet.ml" 63 2010 2059
+type(
+  string
+)
+"hw3/treeSet.ml" 63 2010 2060 "hw3/treeSet.ml" 63 2010 2064
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/treeSet.ml" 58 1779 1785 "hw3/treeSet.ml" 58 1779 1789
+)
+"hw3/treeSet.ml" 63 2010 2015 "hw3/treeSet.ml" 63 2010 2064
+call(
+  stack
+)
+type(
+  unit
+)
+"hw3/treeSet.ml" 66 2067 2073 "hw3/treeSet.ml" 66 2067 2084
+type(
+  'a7 list -> 'a7 set
+)
+ident(
+  def set_of_list "hw3/treeSet.ml" 75 2185 2187 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 66 2067 2086 "hw3/treeSet.ml" 66 2067 2087
+type(
+  'a7 list
+)
+ident(
+  def l "hw3/treeSet.ml" 66 2067 2098 "hw3/treeSet.ml" 67 2109 2127
+)
+"hw3/treeSet.ml" 67 2109 2113 "hw3/treeSet.ml" 67 2109 2125
+type(
+  'a7 list -> 'a7 set
+)
+ident(
+  ext_ref Tree.tree_of_list
+)
+"hw3/treeSet.ml" 67 2109 2126 "hw3/treeSet.ml" 67 2109 2127
+type(
+  'a7 list
+)
+ident(
+  int_ref l "hw3/treeSet.ml" 66 2067 2086 "hw3/treeSet.ml" 66 2067 2087
+)
+"hw3/treeSet.ml" 67 2109 2113 "hw3/treeSet.ml" 67 2109 2127
+call(
+  tail
+)
+type(
+  'a7 set
+)
+type(
+  'a7 set
+)
+"hw3/treeSet.ml" 75 2185 2191 "hw3/treeSet.ml" 75 2185 2201
+type(
+  string
+)
+ident(
+  def debug_name "hw3/treeSet.ml" 75 2185 2220 "hw3/treeSet.ml" 76 2221 2224
+)
+"hw3/treeSet.ml" 75 2185 2212 "hw3/treeSet.ml" 75 2185 2220
+type(
+  string
+)
+type(
+  string
+)

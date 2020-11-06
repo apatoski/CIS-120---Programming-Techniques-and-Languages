@@ -1,0 +1,998 @@
+"hw2/assert.ml" 9 128 132 "hw2/assert.ml" 9 128 152
+type(
+  bool ref
+)
+ident(
+  def stop_on_failure_flag "hw2/assert.ml" 11 166 166 "hw2/assert.ml" 1 0 -1
+)
+"hw2/assert.ml" 9 128 155 "hw2/assert.ml" 9 128 158
+type(
+  bool -> bool ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw2/assert.ml" 9 128 159 "hw2/assert.ml" 9 128 164
+type(
+  bool
+)
+"hw2/assert.ml" 9 128 155 "hw2/assert.ml" 9 128 164
+type(
+  bool ref
+)
+"hw2/assert.ml" 11 166 170 "hw2/assert.ml" 11 166 185
+type(
+  unit -> unit
+)
+ident(
+  def stop_on_failure "hw2/assert.ml" 13 221 221 "hw2/assert.ml" 1 0 -1
+)
+"hw2/assert.ml" 11 166 186 "hw2/assert.ml" 11 166 188
+type(
+  unit
+)
+"hw2/assert.ml" 11 166 191 "hw2/assert.ml" 11 166 211
+type(
+  bool ref
+)
+ident(
+  int_ref stop_on_failure_flag "hw2/assert.ml" 9 128 132 "hw2/assert.ml" 9 128 152
+)
+"hw2/assert.ml" 11 166 212 "hw2/assert.ml" 11 166 214
+type(
+  bool ref -> bool -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"hw2/assert.ml" 11 166 215 "hw2/assert.ml" 11 166 219
+type(
+  bool
+)
+"hw2/assert.ml" 11 166 191 "hw2/assert.ml" 11 166 219
+type(
+  unit
+)
+"hw2/assert.ml" 13 221 225 "hw2/assert.ml" 13 221 235
+type(
+  string -> unit
+)
+ident(
+  def error_mesg "hw2/assert.ml" 17 317 317 "hw2/assert.ml" 1 0 -1
+)
+"hw2/assert.ml" 13 221 237 "hw2/assert.ml" 13 221 238
+type(
+  string
+)
+ident(
+  def s "hw2/assert.ml" 14 250 252 "hw2/assert.ml" 15 269 315
+)
+"hw2/assert.ml" 14 250 252 "hw2/assert.ml" 14 250 265
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw2/assert.ml" 14 250 266 "hw2/assert.ml" 14 250 267
+type(
+  string
+)
+ident(
+  int_ref s "hw2/assert.ml" 13 221 237 "hw2/assert.ml" 13 221 238
+)
+"hw2/assert.ml" 14 250 252 "hw2/assert.ml" 14 250 267
+call(
+  stack
+)
+type(
+  unit
+)
+"hw2/assert.ml" 15 269 274 "hw2/assert.ml" 15 269 275
+type(
+  bool ref -> bool
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw2/assert.ml" 15 269 275 "hw2/assert.ml" 15 269 295
+type(
+  bool ref
+)
+ident(
+  int_ref stop_on_failure_flag "hw2/assert.ml" 9 128 132 "hw2/assert.ml" 9 128 152
+)
+"hw2/assert.ml" 15 269 274 "hw2/assert.ml" 15 269 295
+type(
+  bool
+)
+"hw2/assert.ml" 15 269 301 "hw2/assert.ml" 15 269 305
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"hw2/assert.ml" 15 269 306 "hw2/assert.ml" 15 269 307
+type(
+  int
+)
+"hw2/assert.ml" 15 269 301 "hw2/assert.ml" 15 269 307
+call(
+  tail
+)
+type(
+  unit
+)
+"hw2/assert.ml" 15 269 313 "hw2/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw2/assert.ml" 15 269 271 "hw2/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw2/assert.ml" 14 250 252 "hw2/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw2/assert.ml" 19 360 364 "hw2/assert.ml" 19 360 379
+type(
+  string -> result -> unit
+)
+ident(
+  def process_outcome "hw2/assert.ml" 33 759 759 "hw2/assert.ml" 1 0 -1
+)
+"hw2/assert.ml" 19 360 380 "hw2/assert.ml" 19 360 383
+type(
+  string
+)
+ident(
+  def msg "hw2/assert.ml" 19 360 384 "hw2/assert.ml" 29 737 752
+)
+"hw2/assert.ml" 19 360 385 "hw2/assert.ml" 19 360 392
+type(
+  result
+)
+ident(
+  def outcome "hw2/assert.ml" 21 409 411 "hw2/assert.ml" 29 737 752
+)
+"hw2/assert.ml" 21 409 423 "hw2/assert.ml" 21 409 430
+type(
+  result
+)
+ident(
+  int_ref outcome "hw2/assert.ml" 19 360 385 "hw2/assert.ml" 19 360 392
+)
+"hw2/assert.ml" 22 437 452 "hw2/assert.ml" 22 437 456
+type(
+  result
+)
+"hw2/assert.ml" 22 437 460 "hw2/assert.ml" 22 437 473
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw2/assert.ml" 22 437 474 "hw2/assert.ml" 22 437 490
+type(
+  string
+)
+"hw2/assert.ml" 22 437 460 "hw2/assert.ml" 22 437 490
+call(
+  tail
+)
+type(
+  unit
+)
+"hw2/assert.ml" 23 491 506 "hw2/assert.ml" 23 491 510
+type(
+  result
+)
+"hw2/assert.ml" 24 514 530 "hw2/assert.ml" 24 514 543
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"hw2/assert.ml" 24 514 544 "hw2/assert.ml" 24 514 546
+type(
+  unit
+)
+"hw2/assert.ml" 24 514 530 "hw2/assert.ml" 24 514 546
+call(
+  stack
+)
+type(
+  unit
+)
+"hw2/assert.ml" 25 548 564 "hw2/assert.ml" 25 548 574
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw2/assert.ml" 13 221 225 "hw2/assert.ml" 13 221 235
+)
+"hw2/assert.ml" 25 548 576 "hw2/assert.ml" 25 548 591
+type(
+  string
+)
+"hw2/assert.ml" 25 548 591 "hw2/assert.ml" 25 548 592
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 25 548 592 "hw2/assert.ml" 25 548 595
+type(
+  string
+)
+ident(
+  int_ref msg "hw2/assert.ml" 19 360 380 "hw2/assert.ml" 19 360 383
+)
+"hw2/assert.ml" 25 548 595 "hw2/assert.ml" 25 548 596
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 25 548 596 "hw2/assert.ml" 25 548 600
+type(
+  string
+)
+"hw2/assert.ml" 25 548 592 "hw2/assert.ml" 25 548 600
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 25 548 575 "hw2/assert.ml" 25 548 601
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 25 548 564 "hw2/assert.ml" 25 548 601
+call(
+  tail
+)
+type(
+  unit
+)
+"hw2/assert.ml" 24 514 530 "hw2/assert.ml" 25 548 601
+type(
+  unit
+)
+"hw2/assert.ml" 26 602 621 "hw2/assert.ml" 26 602 622
+type(
+  string
+)
+ident(
+  def s "hw2/assert.ml" 27 627 643 "hw2/assert.ml" 28 661 736
+)
+"hw2/assert.ml" 26 602 617 "hw2/assert.ml" 26 602 622
+type(
+  result
+)
+"hw2/assert.ml" 27 627 643 "hw2/assert.ml" 27 627 656
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"hw2/assert.ml" 27 627 657 "hw2/assert.ml" 27 627 659
+type(
+  unit
+)
+"hw2/assert.ml" 27 627 643 "hw2/assert.ml" 27 627 659
+call(
+  stack
+)
+type(
+  unit
+)
+"hw2/assert.ml" 28 661 677 "hw2/assert.ml" 28 661 687
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw2/assert.ml" 13 221 225 "hw2/assert.ml" 13 221 235
+)
+"hw2/assert.ml" 28 661 689 "hw2/assert.ml" 28 661 704
+type(
+  string
+)
+"hw2/assert.ml" 28 661 704 "hw2/assert.ml" 28 661 705
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 28 661 705 "hw2/assert.ml" 28 661 708
+type(
+  string
+)
+ident(
+  int_ref msg "hw2/assert.ml" 19 360 380 "hw2/assert.ml" 19 360 383
+)
+"hw2/assert.ml" 28 661 708 "hw2/assert.ml" 28 661 709
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 28 661 709 "hw2/assert.ml" 28 661 723
+type(
+  string
+)
+"hw2/assert.ml" 28 661 724 "hw2/assert.ml" 28 661 725
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 28 661 726 "hw2/assert.ml" 28 661 727
+type(
+  string
+)
+ident(
+  int_ref s "hw2/assert.ml" 26 602 621 "hw2/assert.ml" 26 602 622
+)
+"hw2/assert.ml" 28 661 728 "hw2/assert.ml" 28 661 729
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 28 661 730 "hw2/assert.ml" 28 661 735
+type(
+  string
+)
+"hw2/assert.ml" 28 661 726 "hw2/assert.ml" 28 661 735
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 28 661 709 "hw2/assert.ml" 28 661 735
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 28 661 705 "hw2/assert.ml" 28 661 735
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 28 661 688 "hw2/assert.ml" 28 661 736
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 28 661 677 "hw2/assert.ml" 28 661 736
+call(
+  tail
+)
+type(
+  unit
+)
+"hw2/assert.ml" 27 627 643 "hw2/assert.ml" 28 661 736
+type(
+  unit
+)
+"hw2/assert.ml" 21 409 411 "hw2/assert.ml" 29 737 752
+type(
+  unit
+)
+"hw2/assert.ml" 33 759 763 "hw2/assert.ml" 33 759 773
+type(
+  string -> (unit -> 'a) -> 'a -> unit
+)
+ident(
+  def assert_eqf "hw2/assert.ml" 41 1103 1103 "hw2/assert.ml" 1 0 -1
+)
+"hw2/assert.ml" 33 759 775 "hw2/assert.ml" 33 759 778
+type(
+  string
+)
+ident(
+  def msg "hw2/assert.ml" 33 759 788 "hw2/assert.ml" 39 1071 1100
+)
+"hw2/assert.ml" 33 759 788 "hw2/assert.ml" 33 759 798
+type(
+  unit -> 'a
+)
+ident(
+  def actual_fcn "hw2/assert.ml" 33 759 799 "hw2/assert.ml" 39 1071 1100
+)
+"hw2/assert.ml" 33 759 799 "hw2/assert.ml" 33 759 807
+type(
+  'a
+)
+ident(
+  def expected "hw2/assert.ml" 33 759 808 "hw2/assert.ml" 39 1071 1100
+)
+"hw2/assert.ml" 34 817 823 "hw2/assert.ml" 34 817 824
+type(
+  unit
+)
+"hw2/assert.ml" 34 817 827 "hw2/assert.ml" 34 817 839
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"hw2/assert.ml" 34 817 841 "hw2/assert.ml" 34 817 852
+type(
+  string
+)
+"hw2/assert.ml" 34 817 852 "hw2/assert.ml" 34 817 853
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 34 817 853 "hw2/assert.ml" 34 817 856
+type(
+  string
+)
+ident(
+  int_ref msg "hw2/assert.ml" 33 759 775 "hw2/assert.ml" 33 759 778
+)
+"hw2/assert.ml" 34 817 856 "hw2/assert.ml" 34 817 857
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 34 817 857 "hw2/assert.ml" 34 817 864
+type(
+  string
+)
+"hw2/assert.ml" 34 817 853 "hw2/assert.ml" 34 817 864
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 34 817 840 "hw2/assert.ml" 34 817 865
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 34 817 827 "hw2/assert.ml" 34 817 865
+call(
+  stack
+)
+type(
+  unit
+)
+"hw2/assert.ml" 35 870 876 "hw2/assert.ml" 35 870 877
+type(
+  unit
+)
+"hw2/assert.ml" 35 870 880 "hw2/assert.ml" 35 870 889
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.flush_all
+)
+"hw2/assert.ml" 35 870 890 "hw2/assert.ml" 35 870 892
+type(
+  unit
+)
+"hw2/assert.ml" 35 870 880 "hw2/assert.ml" 35 870 892
+call(
+  stack
+)
+type(
+  unit
+)
+"hw2/assert.ml" 36 896 902 "hw2/assert.ml" 36 896 909
+type(
+  result
+)
+ident(
+  def outcome "hw2/assert.ml" 39 1071 1073 "hw2/assert.ml" 39 1071 1100
+)
+"hw2/assert.ml" 36 896 919 "hw2/assert.ml" 36 896 927
+type(
+  'a
+)
+ident(
+  int_ref expected "hw2/assert.ml" 33 759 799 "hw2/assert.ml" 33 759 807
+)
+"hw2/assert.ml" 36 896 928 "hw2/assert.ml" 36 896 929
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw2/assert.ml" 36 896 931 "hw2/assert.ml" 36 896 941
+type(
+  unit -> 'a
+)
+ident(
+  int_ref actual_fcn "hw2/assert.ml" 33 759 788 "hw2/assert.ml" 33 759 798
+)
+"hw2/assert.ml" 36 896 942 "hw2/assert.ml" 36 896 944
+type(
+  unit
+)
+"hw2/assert.ml" 36 896 930 "hw2/assert.ml" 36 896 945
+call(
+  stack
+)
+type(
+  'a
+)
+"hw2/assert.ml" 36 896 919 "hw2/assert.ml" 36 896 945
+type(
+  bool
+)
+"hw2/assert.ml" 36 896 951 "hw2/assert.ml" 36 896 955
+type(
+  result
+)
+"hw2/assert.ml" 36 896 961 "hw2/assert.ml" 36 896 965
+type(
+  result
+)
+"hw2/assert.ml" 36 896 916 "hw2/assert.ml" 36 896 965
+type(
+  result
+)
+"hw2/assert.ml" 37 967 996 "hw2/assert.ml" 37 967 997
+type(
+  string
+)
+ident(
+  def s "hw2/assert.ml" 37 967 1001 "hw2/assert.ml" 37 967 1006
+)
+"hw2/assert.ml" 37 967 988 "hw2/assert.ml" 37 967 997
+type(
+  exn
+)
+"hw2/assert.ml" 37 967 1005 "hw2/assert.ml" 37 967 1006
+type(
+  string
+)
+ident(
+  int_ref s "hw2/assert.ml" 37 967 996 "hw2/assert.ml" 37 967 997
+)
+"hw2/assert.ml" 37 967 1001 "hw2/assert.ml" 37 967 1006
+type(
+  result
+)
+"hw2/assert.ml" 38 1007 1028 "hw2/assert.ml" 38 1007 1029
+type(
+  exn
+)
+ident(
+  def e "hw2/assert.ml" 38 1007 1041 "hw2/assert.ml" 38 1007 1067
+)
+"hw2/assert.ml" 38 1007 1046 "hw2/assert.ml" 38 1007 1064
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"hw2/assert.ml" 38 1007 1065 "hw2/assert.ml" 38 1007 1066
+type(
+  exn
+)
+ident(
+  int_ref e "hw2/assert.ml" 38 1007 1028 "hw2/assert.ml" 38 1007 1029
+)
+"hw2/assert.ml" 38 1007 1045 "hw2/assert.ml" 38 1007 1067
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 38 1007 1041 "hw2/assert.ml" 38 1007 1067
+type(
+  result
+)
+"hw2/assert.ml" 36 896 912 "hw2/assert.ml" 38 1007 1067
+type(
+  result
+)
+"hw2/assert.ml" 39 1071 1073 "hw2/assert.ml" 39 1071 1088
+type(
+  string -> result -> unit
+)
+ident(
+  int_ref process_outcome "hw2/assert.ml" 19 360 364 "hw2/assert.ml" 19 360 379
+)
+"hw2/assert.ml" 39 1071 1089 "hw2/assert.ml" 39 1071 1092
+type(
+  string
+)
+ident(
+  int_ref msg "hw2/assert.ml" 33 759 775 "hw2/assert.ml" 33 759 778
+)
+"hw2/assert.ml" 39 1071 1093 "hw2/assert.ml" 39 1071 1100
+type(
+  result
+)
+ident(
+  int_ref outcome "hw2/assert.ml" 36 896 902 "hw2/assert.ml" 36 896 909
+)
+"hw2/assert.ml" 39 1071 1073 "hw2/assert.ml" 39 1071 1100
+call(
+  tail
+)
+type(
+  unit
+)
+"hw2/assert.ml" 36 896 898 "hw2/assert.ml" 39 1071 1100
+type(
+  unit
+)
+"hw2/assert.ml" 35 870 872 "hw2/assert.ml" 39 1071 1100
+type(
+  unit
+)
+"hw2/assert.ml" 34 817 819 "hw2/assert.ml" 39 1071 1100
+type(
+  unit
+)
+type(
+  unit
+)
+"hw2/assert.ml" 41 1103 1107 "hw2/assert.ml" 41 1103 1116
+type(
+  string -> 'a -> 'a -> unit
+)
+ident(
+  def assert_eq "hw2/assert.ml" 44 1201 1201 "hw2/assert.ml" 1 0 -1
+)
+"hw2/assert.ml" 41 1103 1118 "hw2/assert.ml" 41 1103 1121
+type(
+  string
+)
+ident(
+  def msg "hw2/assert.ml" 41 1103 1130 "hw2/assert.ml" 42 1155 1199
+)
+"hw2/assert.ml" 41 1103 1130 "hw2/assert.ml" 41 1103 1136
+type(
+  'a
+)
+ident(
+  def actual "hw2/assert.ml" 41 1103 1137 "hw2/assert.ml" 42 1155 1199
+)
+"hw2/assert.ml" 41 1103 1137 "hw2/assert.ml" 41 1103 1145
+type(
+  'a
+)
+ident(
+  def expected "hw2/assert.ml" 41 1103 1146 "hw2/assert.ml" 42 1155 1199
+)
+"hw2/assert.ml" 42 1155 1157 "hw2/assert.ml" 42 1155 1167
+type(
+  string -> (unit -> 'a) -> 'a -> unit
+)
+ident(
+  int_ref assert_eqf "hw2/assert.ml" 33 759 763 "hw2/assert.ml" 33 759 773
+)
+"hw2/assert.ml" 42 1155 1168 "hw2/assert.ml" 42 1155 1171
+type(
+  string
+)
+ident(
+  int_ref msg "hw2/assert.ml" 41 1103 1118 "hw2/assert.ml" 41 1103 1121
+)
+"hw2/assert.ml" 42 1155 1177 "hw2/assert.ml" 42 1155 1179
+type(
+  unit
+)
+"hw2/assert.ml" 42 1155 1183 "hw2/assert.ml" 42 1155 1189
+type(
+  'a
+)
+ident(
+  int_ref actual "hw2/assert.ml" 41 1103 1130 "hw2/assert.ml" 41 1103 1136
+)
+"hw2/assert.ml" 42 1155 1172 "hw2/assert.ml" 42 1155 1190
+type(
+  unit -> 'a
+)
+"hw2/assert.ml" 42 1155 1191 "hw2/assert.ml" 42 1155 1199
+type(
+  'a
+)
+ident(
+  int_ref expected "hw2/assert.ml" 41 1103 1137 "hw2/assert.ml" 41 1103 1145
+)
+"hw2/assert.ml" 42 1155 1157 "hw2/assert.ml" 42 1155 1199
+call(
+  tail
+)
+type(
+  unit
+)
+type(
+  unit
+)
+"hw2/assert.ml" 44 1201 1205 "hw2/assert.ml" 44 1201 1213
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  def run_test "hw2/assert.ml" 46 1245 1245 "hw2/assert.ml" 1 0 -1
+)
+"hw2/assert.ml" 44 1201 1214 "hw2/assert.ml" 44 1201 1217
+type(
+  string
+)
+ident(
+  def msg "hw2/assert.ml" 44 1201 1218 "hw2/assert.ml" 44 1201 1243
+)
+"hw2/assert.ml" 44 1201 1218 "hw2/assert.ml" 44 1201 1219
+type(
+  unit -> bool
+)
+ident(
+  def f "hw2/assert.ml" 44 1201 1222 "hw2/assert.ml" 44 1201 1243
+)
+"hw2/assert.ml" 44 1201 1222 "hw2/assert.ml" 44 1201 1232
+type(
+  string -> (unit -> bool) -> bool -> unit
+)
+ident(
+  int_ref assert_eqf "hw2/assert.ml" 33 759 763 "hw2/assert.ml" 33 759 773
+)
+"hw2/assert.ml" 44 1201 1233 "hw2/assert.ml" 44 1201 1236
+type(
+  string
+)
+ident(
+  int_ref msg "hw2/assert.ml" 44 1201 1214 "hw2/assert.ml" 44 1201 1217
+)
+"hw2/assert.ml" 44 1201 1237 "hw2/assert.ml" 44 1201 1238
+type(
+  unit -> bool
+)
+ident(
+  int_ref f "hw2/assert.ml" 44 1201 1218 "hw2/assert.ml" 44 1201 1219
+)
+"hw2/assert.ml" 44 1201 1239 "hw2/assert.ml" 44 1201 1243
+type(
+  bool
+)
+"hw2/assert.ml" 44 1201 1222 "hw2/assert.ml" 44 1201 1243
+call(
+  tail
+)
+type(
+  unit
+)
+"hw2/assert.ml" 46 1245 1249 "hw2/assert.ml" 46 1245 1265
+type(
+  string -> (unit -> 'a) -> unit
+)
+ident(
+  def run_failing_test "hw2/assert.ml" 51 1435 1464 "hw2/assert.ml" 1 0 -1
+)
+"hw2/assert.ml" 46 1245 1266 "hw2/assert.ml" 46 1245 1269
+type(
+  string
+)
+ident(
+  def msg "hw2/assert.ml" 46 1245 1270 "hw2/assert.ml" 51 1435 1464
+)
+"hw2/assert.ml" 46 1245 1270 "hw2/assert.ml" 46 1245 1271
+type(
+  unit -> 'a
+)
+ident(
+  def f "hw2/assert.ml" 47 1275 1277 "hw2/assert.ml" 51 1435 1464
+)
+"hw2/assert.ml" 47 1275 1281 "hw2/assert.ml" 47 1275 1282
+type(
+  unit
+)
+"hw2/assert.ml" 47 1275 1285 "hw2/assert.ml" 47 1275 1297
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"hw2/assert.ml" 47 1275 1299 "hw2/assert.ml" 47 1275 1310
+type(
+  string
+)
+"hw2/assert.ml" 47 1275 1310 "hw2/assert.ml" 47 1275 1311
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 47 1275 1311 "hw2/assert.ml" 47 1275 1314
+type(
+  string
+)
+ident(
+  int_ref msg "hw2/assert.ml" 46 1245 1266 "hw2/assert.ml" 46 1245 1269
+)
+"hw2/assert.ml" 47 1275 1314 "hw2/assert.ml" 47 1275 1315
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw2/assert.ml" 47 1275 1315 "hw2/assert.ml" 47 1275 1322
+type(
+  string
+)
+"hw2/assert.ml" 47 1275 1311 "hw2/assert.ml" 47 1275 1322
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 47 1275 1298 "hw2/assert.ml" 47 1275 1323
+call(
+  stack
+)
+type(
+  string
+)
+"hw2/assert.ml" 47 1275 1285 "hw2/assert.ml" 47 1275 1323
+call(
+  stack
+)
+type(
+  unit
+)
+"hw2/assert.ml" 48 1327 1333 "hw2/assert.ml" 48 1327 1334
+type(
+  unit
+)
+"hw2/assert.ml" 48 1327 1337 "hw2/assert.ml" 48 1327 1346
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.flush_all
+)
+"hw2/assert.ml" 48 1327 1347 "hw2/assert.ml" 48 1327 1349
+type(
+  unit
+)
+"hw2/assert.ml" 48 1327 1337 "hw2/assert.ml" 48 1327 1349
+call(
+  stack
+)
+type(
+  unit
+)
+"hw2/assert.ml" 49 1353 1359 "hw2/assert.ml" 49 1353 1366
+type(
+  result
+)
+ident(
+  def outcome "hw2/assert.ml" 51 1435 1437 "hw2/assert.ml" 51 1435 1464
+)
+"hw2/assert.ml" 49 1353 1375 "hw2/assert.ml" 49 1353 1381
+type(
+  'a -> unit
+)
+ident(
+  ext_ref Pervasives.ignore
+)
+"hw2/assert.ml" 49 1353 1383 "hw2/assert.ml" 49 1353 1384
+type(
+  unit -> 'a
+)
+ident(
+  int_ref f "hw2/assert.ml" 46 1245 1270 "hw2/assert.ml" 46 1245 1271
+)
+"hw2/assert.ml" 49 1353 1385 "hw2/assert.ml" 49 1353 1387
+type(
+  unit
+)
+"hw2/assert.ml" 49 1353 1382 "hw2/assert.ml" 49 1353 1388
+call(
+  stack
+)
+type(
+  'a
+)
+"hw2/assert.ml" 49 1353 1375 "hw2/assert.ml" 49 1353 1388
+type(
+  unit
+)
+"hw2/assert.ml" 49 1353 1391 "hw2/assert.ml" 49 1353 1395
+type(
+  result
+)
+"hw2/assert.ml" 49 1353 1374 "hw2/assert.ml" 49 1353 1396
+type(
+  result
+)
+"hw2/assert.ml" 50 1402 1421 "hw2/assert.ml" 50 1402 1422
+type(
+  exn
+)
+"hw2/assert.ml" 50 1402 1426 "hw2/assert.ml" 50 1402 1430
+type(
+  result
+)
+"hw2/assert.ml" 49 1353 1369 "hw2/assert.ml" 50 1402 1431
+type(
+  result
+)
+"hw2/assert.ml" 51 1435 1437 "hw2/assert.ml" 51 1435 1452
+type(
+  string -> result -> unit
+)
+ident(
+  int_ref process_outcome "hw2/assert.ml" 19 360 364 "hw2/assert.ml" 19 360 379
+)
+"hw2/assert.ml" 51 1435 1453 "hw2/assert.ml" 51 1435 1456
+type(
+  string
+)
+ident(
+  int_ref msg "hw2/assert.ml" 46 1245 1266 "hw2/assert.ml" 46 1245 1269
+)
+"hw2/assert.ml" 51 1435 1457 "hw2/assert.ml" 51 1435 1464
+type(
+  result
+)
+ident(
+  int_ref outcome "hw2/assert.ml" 49 1353 1359 "hw2/assert.ml" 49 1353 1366
+)
+"hw2/assert.ml" 51 1435 1437 "hw2/assert.ml" 51 1435 1464
+call(
+  tail
+)
+type(
+  unit
+)
+"hw2/assert.ml" 49 1353 1355 "hw2/assert.ml" 51 1435 1464
+type(
+  unit
+)
+"hw2/assert.ml" 48 1327 1329 "hw2/assert.ml" 51 1435 1464
+type(
+  unit
+)
+"hw2/assert.ml" 47 1275 1277 "hw2/assert.ml" 51 1435 1464
+type(
+  unit
+)

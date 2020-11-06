@@ -1,0 +1,1005 @@
+"hw5/assert.ml" 9 128 132 "hw5/assert.ml" 9 128 152
+type(
+  bool ref
+)
+ident(
+  def stop_on_failure_flag "hw5/assert.ml" 11 166 166 "hw5/assert.ml" 1 0 -1
+)
+"hw5/assert.ml" 9 128 155 "hw5/assert.ml" 9 128 158
+type(
+  bool -> bool ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw5/assert.ml" 9 128 159 "hw5/assert.ml" 9 128 164
+type(
+  bool
+)
+"hw5/assert.ml" 9 128 155 "hw5/assert.ml" 9 128 164
+type(
+  bool ref
+)
+"hw5/assert.ml" 11 166 170 "hw5/assert.ml" 11 166 185
+type(
+  unit -> unit
+)
+ident(
+  def stop_on_failure "hw5/assert.ml" 13 221 221 "hw5/assert.ml" 1 0 -1
+)
+"hw5/assert.ml" 11 166 186 "hw5/assert.ml" 11 166 188
+type(
+  unit
+)
+"hw5/assert.ml" 11 166 191 "hw5/assert.ml" 11 166 211
+type(
+  bool ref
+)
+ident(
+  int_ref stop_on_failure_flag "hw5/assert.ml" 9 128 132 "hw5/assert.ml" 9 128 152
+)
+"hw5/assert.ml" 11 166 212 "hw5/assert.ml" 11 166 214
+type(
+  bool ref -> bool -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"hw5/assert.ml" 11 166 215 "hw5/assert.ml" 11 166 219
+type(
+  bool
+)
+"hw5/assert.ml" 11 166 191 "hw5/assert.ml" 11 166 219
+type(
+  unit
+)
+"hw5/assert.ml" 13 221 225 "hw5/assert.ml" 13 221 235
+type(
+  string -> unit
+)
+ident(
+  def error_mesg "hw5/assert.ml" 17 317 317 "hw5/assert.ml" 1 0 -1
+)
+"hw5/assert.ml" 13 221 237 "hw5/assert.ml" 13 221 238
+type(
+  string
+)
+ident(
+  def s "hw5/assert.ml" 14 250 252 "hw5/assert.ml" 15 269 315
+)
+"hw5/assert.ml" 14 250 252 "hw5/assert.ml" 14 250 265
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw5/assert.ml" 14 250 266 "hw5/assert.ml" 14 250 267
+type(
+  string
+)
+ident(
+  int_ref s "hw5/assert.ml" 13 221 237 "hw5/assert.ml" 13 221 238
+)
+"hw5/assert.ml" 14 250 252 "hw5/assert.ml" 14 250 267
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/assert.ml" 15 269 274 "hw5/assert.ml" 15 269 275
+type(
+  bool ref -> bool
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw5/assert.ml" 15 269 275 "hw5/assert.ml" 15 269 295
+type(
+  bool ref
+)
+ident(
+  int_ref stop_on_failure_flag "hw5/assert.ml" 9 128 132 "hw5/assert.ml" 9 128 152
+)
+"hw5/assert.ml" 15 269 274 "hw5/assert.ml" 15 269 295
+type(
+  bool
+)
+"hw5/assert.ml" 15 269 301 "hw5/assert.ml" 15 269 305
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"hw5/assert.ml" 15 269 306 "hw5/assert.ml" 15 269 307
+type(
+  int
+)
+"hw5/assert.ml" 15 269 301 "hw5/assert.ml" 15 269 307
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/assert.ml" 15 269 313 "hw5/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw5/assert.ml" 15 269 271 "hw5/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw5/assert.ml" 14 250 252 "hw5/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw5/assert.ml" 19 360 364 "hw5/assert.ml" 19 360 374
+type(
+  string -> (unit -> 'a) -> 'a -> unit
+)
+ident(
+  def assert_eqf "hw5/assert.ml" 37 1024 1024 "hw5/assert.ml" 1 0 -1
+)
+"hw5/assert.ml" 19 360 376 "hw5/assert.ml" 19 360 379
+type(
+  string
+)
+ident(
+  def msg "hw5/assert.ml" 19 360 389 "hw5/assert.ml" 34 1003 1018
+)
+"hw5/assert.ml" 19 360 389 "hw5/assert.ml" 19 360 399
+type(
+  unit -> 'a
+)
+ident(
+  def actual_fcn "hw5/assert.ml" 19 360 400 "hw5/assert.ml" 34 1003 1018
+)
+"hw5/assert.ml" 19 360 400 "hw5/assert.ml" 19 360 408
+type(
+  'a
+)
+ident(
+  def expected "hw5/assert.ml" 19 360 409 "hw5/assert.ml" 34 1003 1018
+)
+"hw5/assert.ml" 20 418 424 "hw5/assert.ml" 20 418 425
+type(
+  unit
+)
+"hw5/assert.ml" 20 418 428 "hw5/assert.ml" 20 418 440
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"hw5/assert.ml" 20 418 442 "hw5/assert.ml" 20 418 453
+type(
+  string
+)
+"hw5/assert.ml" 20 418 453 "hw5/assert.ml" 20 418 454
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 20 418 454 "hw5/assert.ml" 20 418 457
+type(
+  string
+)
+ident(
+  int_ref msg "hw5/assert.ml" 19 360 376 "hw5/assert.ml" 19 360 379
+)
+"hw5/assert.ml" 20 418 457 "hw5/assert.ml" 20 418 458
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 20 418 458 "hw5/assert.ml" 20 418 465
+type(
+  string
+)
+"hw5/assert.ml" 20 418 454 "hw5/assert.ml" 20 418 465
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 20 418 441 "hw5/assert.ml" 20 418 466
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 20 418 428 "hw5/assert.ml" 20 418 466
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/assert.ml" 21 471 477 "hw5/assert.ml" 21 471 478
+type(
+  unit
+)
+"hw5/assert.ml" 21 471 481 "hw5/assert.ml" 21 471 490
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.flush_all
+)
+"hw5/assert.ml" 21 471 491 "hw5/assert.ml" 21 471 493
+type(
+  unit
+)
+"hw5/assert.ml" 21 471 481 "hw5/assert.ml" 21 471 493
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/assert.ml" 22 497 503 "hw5/assert.ml" 22 497 510
+type(
+  result
+)
+ident(
+  def outcome "hw5/assert.ml" 26 675 677 "hw5/assert.ml" 34 1003 1018
+)
+"hw5/assert.ml" 22 497 520 "hw5/assert.ml" 22 497 528
+type(
+  'a
+)
+ident(
+  int_ref expected "hw5/assert.ml" 19 360 400 "hw5/assert.ml" 19 360 408
+)
+"hw5/assert.ml" 22 497 529 "hw5/assert.ml" 22 497 530
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw5/assert.ml" 22 497 532 "hw5/assert.ml" 22 497 542
+type(
+  unit -> 'a
+)
+ident(
+  int_ref actual_fcn "hw5/assert.ml" 19 360 389 "hw5/assert.ml" 19 360 399
+)
+"hw5/assert.ml" 22 497 543 "hw5/assert.ml" 22 497 545
+type(
+  unit
+)
+"hw5/assert.ml" 22 497 531 "hw5/assert.ml" 22 497 546
+call(
+  stack
+)
+type(
+  'a
+)
+"hw5/assert.ml" 22 497 520 "hw5/assert.ml" 22 497 546
+type(
+  bool
+)
+"hw5/assert.ml" 22 497 552 "hw5/assert.ml" 22 497 556
+type(
+  result
+)
+"hw5/assert.ml" 22 497 562 "hw5/assert.ml" 22 497 566
+type(
+  result
+)
+"hw5/assert.ml" 22 497 517 "hw5/assert.ml" 22 497 566
+type(
+  result
+)
+"hw5/assert.ml" 23 568 597 "hw5/assert.ml" 23 568 598
+type(
+  string
+)
+ident(
+  def s "hw5/assert.ml" 23 568 602 "hw5/assert.ml" 23 568 607
+)
+"hw5/assert.ml" 23 568 589 "hw5/assert.ml" 23 568 598
+type(
+  exn
+)
+"hw5/assert.ml" 23 568 606 "hw5/assert.ml" 23 568 607
+type(
+  string
+)
+ident(
+  int_ref s "hw5/assert.ml" 23 568 597 "hw5/assert.ml" 23 568 598
+)
+"hw5/assert.ml" 23 568 602 "hw5/assert.ml" 23 568 607
+type(
+  result
+)
+"hw5/assert.ml" 24 608 629 "hw5/assert.ml" 24 608 630
+type(
+  exn
+)
+ident(
+  def e "hw5/assert.ml" 24 608 642 "hw5/assert.ml" 24 608 668
+)
+"hw5/assert.ml" 24 608 647 "hw5/assert.ml" 24 608 665
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"hw5/assert.ml" 24 608 666 "hw5/assert.ml" 24 608 667
+type(
+  exn
+)
+ident(
+  int_ref e "hw5/assert.ml" 24 608 629 "hw5/assert.ml" 24 608 630
+)
+"hw5/assert.ml" 24 608 646 "hw5/assert.ml" 24 608 668
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 24 608 642 "hw5/assert.ml" 24 608 668
+type(
+  result
+)
+"hw5/assert.ml" 22 497 513 "hw5/assert.ml" 24 608 668
+type(
+  result
+)
+"hw5/assert.ml" 26 675 689 "hw5/assert.ml" 26 675 696
+type(
+  result
+)
+ident(
+  int_ref outcome "hw5/assert.ml" 22 497 503 "hw5/assert.ml" 22 497 510
+)
+"hw5/assert.ml" 27 703 718 "hw5/assert.ml" 27 703 722
+type(
+  result
+)
+"hw5/assert.ml" 27 703 726 "hw5/assert.ml" 27 703 739
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw5/assert.ml" 27 703 740 "hw5/assert.ml" 27 703 756
+type(
+  string
+)
+"hw5/assert.ml" 27 703 726 "hw5/assert.ml" 27 703 756
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/assert.ml" 28 757 772 "hw5/assert.ml" 28 757 776
+type(
+  result
+)
+"hw5/assert.ml" 29 780 796 "hw5/assert.ml" 29 780 809
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"hw5/assert.ml" 29 780 810 "hw5/assert.ml" 29 780 812
+type(
+  unit
+)
+"hw5/assert.ml" 29 780 796 "hw5/assert.ml" 29 780 812
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/assert.ml" 30 814 830 "hw5/assert.ml" 30 814 840
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw5/assert.ml" 13 221 225 "hw5/assert.ml" 13 221 235
+)
+"hw5/assert.ml" 30 814 842 "hw5/assert.ml" 30 814 857
+type(
+  string
+)
+"hw5/assert.ml" 30 814 857 "hw5/assert.ml" 30 814 858
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 30 814 858 "hw5/assert.ml" 30 814 861
+type(
+  string
+)
+ident(
+  int_ref msg "hw5/assert.ml" 19 360 376 "hw5/assert.ml" 19 360 379
+)
+"hw5/assert.ml" 30 814 861 "hw5/assert.ml" 30 814 862
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 30 814 862 "hw5/assert.ml" 30 814 866
+type(
+  string
+)
+"hw5/assert.ml" 30 814 858 "hw5/assert.ml" 30 814 866
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 30 814 841 "hw5/assert.ml" 30 814 867
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 30 814 830 "hw5/assert.ml" 30 814 867
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/assert.ml" 29 780 796 "hw5/assert.ml" 30 814 867
+type(
+  unit
+)
+"hw5/assert.ml" 31 868 887 "hw5/assert.ml" 31 868 888
+type(
+  string
+)
+ident(
+  def s "hw5/assert.ml" 32 893 909 "hw5/assert.ml" 33 927 1002
+)
+"hw5/assert.ml" 31 868 883 "hw5/assert.ml" 31 868 888
+type(
+  result
+)
+"hw5/assert.ml" 32 893 909 "hw5/assert.ml" 32 893 922
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"hw5/assert.ml" 32 893 923 "hw5/assert.ml" 32 893 925
+type(
+  unit
+)
+"hw5/assert.ml" 32 893 909 "hw5/assert.ml" 32 893 925
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/assert.ml" 33 927 943 "hw5/assert.ml" 33 927 953
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw5/assert.ml" 13 221 225 "hw5/assert.ml" 13 221 235
+)
+"hw5/assert.ml" 33 927 955 "hw5/assert.ml" 33 927 970
+type(
+  string
+)
+"hw5/assert.ml" 33 927 970 "hw5/assert.ml" 33 927 971
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 33 927 971 "hw5/assert.ml" 33 927 974
+type(
+  string
+)
+ident(
+  int_ref msg "hw5/assert.ml" 19 360 376 "hw5/assert.ml" 19 360 379
+)
+"hw5/assert.ml" 33 927 974 "hw5/assert.ml" 33 927 975
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 33 927 975 "hw5/assert.ml" 33 927 989
+type(
+  string
+)
+"hw5/assert.ml" 33 927 990 "hw5/assert.ml" 33 927 991
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 33 927 992 "hw5/assert.ml" 33 927 993
+type(
+  string
+)
+ident(
+  int_ref s "hw5/assert.ml" 31 868 887 "hw5/assert.ml" 31 868 888
+)
+"hw5/assert.ml" 33 927 994 "hw5/assert.ml" 33 927 995
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 33 927 996 "hw5/assert.ml" 33 927 1001
+type(
+  string
+)
+"hw5/assert.ml" 33 927 992 "hw5/assert.ml" 33 927 1001
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 33 927 975 "hw5/assert.ml" 33 927 1001
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 33 927 971 "hw5/assert.ml" 33 927 1001
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 33 927 954 "hw5/assert.ml" 33 927 1002
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 33 927 943 "hw5/assert.ml" 33 927 1002
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/assert.ml" 32 893 909 "hw5/assert.ml" 33 927 1002
+type(
+  unit
+)
+"hw5/assert.ml" 26 675 677 "hw5/assert.ml" 34 1003 1018
+type(
+  unit
+)
+"hw5/assert.ml" 22 497 499 "hw5/assert.ml" 34 1003 1018
+type(
+  unit
+)
+"hw5/assert.ml" 21 471 473 "hw5/assert.ml" 34 1003 1018
+type(
+  unit
+)
+"hw5/assert.ml" 20 418 420 "hw5/assert.ml" 34 1003 1018
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/assert.ml" 37 1024 1028 "hw5/assert.ml" 37 1024 1037
+type(
+  string -> 'a -> 'a -> unit
+)
+ident(
+  def assert_eq "hw5/assert.ml" 40 1122 1122 "hw5/assert.ml" 1 0 -1
+)
+"hw5/assert.ml" 37 1024 1039 "hw5/assert.ml" 37 1024 1042
+type(
+  string
+)
+ident(
+  def msg "hw5/assert.ml" 37 1024 1051 "hw5/assert.ml" 38 1076 1120
+)
+"hw5/assert.ml" 37 1024 1051 "hw5/assert.ml" 37 1024 1057
+type(
+  'a
+)
+ident(
+  def actual "hw5/assert.ml" 37 1024 1058 "hw5/assert.ml" 38 1076 1120
+)
+"hw5/assert.ml" 37 1024 1058 "hw5/assert.ml" 37 1024 1066
+type(
+  'a
+)
+ident(
+  def expected "hw5/assert.ml" 37 1024 1067 "hw5/assert.ml" 38 1076 1120
+)
+"hw5/assert.ml" 38 1076 1078 "hw5/assert.ml" 38 1076 1088
+type(
+  string -> (unit -> 'a) -> 'a -> unit
+)
+ident(
+  int_ref assert_eqf "hw5/assert.ml" 19 360 364 "hw5/assert.ml" 19 360 374
+)
+"hw5/assert.ml" 38 1076 1089 "hw5/assert.ml" 38 1076 1092
+type(
+  string
+)
+ident(
+  int_ref msg "hw5/assert.ml" 37 1024 1039 "hw5/assert.ml" 37 1024 1042
+)
+"hw5/assert.ml" 38 1076 1098 "hw5/assert.ml" 38 1076 1100
+type(
+  unit
+)
+"hw5/assert.ml" 38 1076 1104 "hw5/assert.ml" 38 1076 1110
+type(
+  'a
+)
+ident(
+  int_ref actual "hw5/assert.ml" 37 1024 1051 "hw5/assert.ml" 37 1024 1057
+)
+"hw5/assert.ml" 38 1076 1093 "hw5/assert.ml" 38 1076 1111
+type(
+  unit -> 'a
+)
+"hw5/assert.ml" 38 1076 1112 "hw5/assert.ml" 38 1076 1120
+type(
+  'a
+)
+ident(
+  int_ref expected "hw5/assert.ml" 37 1024 1058 "hw5/assert.ml" 37 1024 1066
+)
+"hw5/assert.ml" 38 1076 1078 "hw5/assert.ml" 38 1076 1120
+call(
+  tail
+)
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/assert.ml" 40 1122 1126 "hw5/assert.ml" 40 1122 1134
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  def run_test "hw5/assert.ml" 42 1166 1166 "hw5/assert.ml" 1 0 -1
+)
+"hw5/assert.ml" 40 1122 1135 "hw5/assert.ml" 40 1122 1138
+type(
+  string
+)
+ident(
+  def msg "hw5/assert.ml" 40 1122 1139 "hw5/assert.ml" 40 1122 1164
+)
+"hw5/assert.ml" 40 1122 1139 "hw5/assert.ml" 40 1122 1140
+type(
+  unit -> bool
+)
+ident(
+  def f "hw5/assert.ml" 40 1122 1143 "hw5/assert.ml" 40 1122 1164
+)
+"hw5/assert.ml" 40 1122 1143 "hw5/assert.ml" 40 1122 1153
+type(
+  string -> (unit -> bool) -> bool -> unit
+)
+ident(
+  int_ref assert_eqf "hw5/assert.ml" 19 360 364 "hw5/assert.ml" 19 360 374
+)
+"hw5/assert.ml" 40 1122 1154 "hw5/assert.ml" 40 1122 1157
+type(
+  string
+)
+ident(
+  int_ref msg "hw5/assert.ml" 40 1122 1135 "hw5/assert.ml" 40 1122 1138
+)
+"hw5/assert.ml" 40 1122 1158 "hw5/assert.ml" 40 1122 1159
+type(
+  unit -> bool
+)
+ident(
+  int_ref f "hw5/assert.ml" 40 1122 1139 "hw5/assert.ml" 40 1122 1140
+)
+"hw5/assert.ml" 40 1122 1160 "hw5/assert.ml" 40 1122 1164
+type(
+  bool
+)
+"hw5/assert.ml" 40 1122 1143 "hw5/assert.ml" 40 1122 1164
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/assert.ml" 42 1166 1170 "hw5/assert.ml" 42 1166 1186
+type(
+  string -> (unit -> 'a) -> unit
+)
+ident(
+  def run_failing_test "hw5/assert.ml" 50 1464 1533 "hw5/assert.ml" 1 0 -1
+)
+"hw5/assert.ml" 42 1166 1187 "hw5/assert.ml" 42 1166 1190
+type(
+  string
+)
+ident(
+  def msg "hw5/assert.ml" 42 1166 1191 "hw5/assert.ml" 50 1464 1533
+)
+"hw5/assert.ml" 42 1166 1191 "hw5/assert.ml" 42 1166 1192
+type(
+  unit -> 'a
+)
+ident(
+  def f "hw5/assert.ml" 43 1196 1198 "hw5/assert.ml" 50 1464 1533
+)
+"hw5/assert.ml" 43 1196 1202 "hw5/assert.ml" 43 1196 1203
+type(
+  unit
+)
+"hw5/assert.ml" 43 1196 1206 "hw5/assert.ml" 43 1196 1218
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"hw5/assert.ml" 43 1196 1220 "hw5/assert.ml" 43 1196 1231
+type(
+  string
+)
+"hw5/assert.ml" 43 1196 1231 "hw5/assert.ml" 43 1196 1232
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 43 1196 1232 "hw5/assert.ml" 43 1196 1235
+type(
+  string
+)
+ident(
+  int_ref msg "hw5/assert.ml" 42 1166 1187 "hw5/assert.ml" 42 1166 1190
+)
+"hw5/assert.ml" 43 1196 1235 "hw5/assert.ml" 43 1196 1236
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/assert.ml" 43 1196 1236 "hw5/assert.ml" 43 1196 1243
+type(
+  string
+)
+"hw5/assert.ml" 43 1196 1232 "hw5/assert.ml" 43 1196 1243
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 43 1196 1219 "hw5/assert.ml" 43 1196 1244
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/assert.ml" 43 1196 1206 "hw5/assert.ml" 43 1196 1244
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/assert.ml" 44 1248 1254 "hw5/assert.ml" 44 1248 1255
+type(
+  unit
+)
+"hw5/assert.ml" 44 1248 1258 "hw5/assert.ml" 44 1248 1267
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.flush_all
+)
+"hw5/assert.ml" 44 1248 1268 "hw5/assert.ml" 44 1248 1270
+type(
+  unit
+)
+"hw5/assert.ml" 44 1248 1258 "hw5/assert.ml" 44 1248 1270
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/assert.ml" 45 1274 1280 "hw5/assert.ml" 45 1274 1286
+type(
+  result
+)
+ident(
+  def result "hw5/assert.ml" 47 1340 1342 "hw5/assert.ml" 50 1464 1533
+)
+"hw5/assert.ml" 45 1274 1295 "hw5/assert.ml" 45 1274 1301
+type(
+  'a -> unit
+)
+ident(
+  ext_ref Pervasives.ignore
+)
+"hw5/assert.ml" 45 1274 1303 "hw5/assert.ml" 45 1274 1304
+type(
+  unit -> 'a
+)
+ident(
+  int_ref f "hw5/assert.ml" 42 1166 1191 "hw5/assert.ml" 42 1166 1192
+)
+"hw5/assert.ml" 45 1274 1305 "hw5/assert.ml" 45 1274 1307
+type(
+  unit
+)
+"hw5/assert.ml" 45 1274 1302 "hw5/assert.ml" 45 1274 1308
+call(
+  stack
+)
+type(
+  'a
+)
+"hw5/assert.ml" 45 1274 1295 "hw5/assert.ml" 45 1274 1308
+type(
+  unit
+)
+"hw5/assert.ml" 45 1274 1311 "hw5/assert.ml" 45 1274 1315
+type(
+  result
+)
+"hw5/assert.ml" 45 1274 1294 "hw5/assert.ml" 45 1274 1316
+type(
+  result
+)
+"hw5/assert.ml" 46 1322 1326 "hw5/assert.ml" 46 1322 1327
+type(
+  exn
+)
+"hw5/assert.ml" 46 1322 1331 "hw5/assert.ml" 46 1322 1335
+type(
+  result
+)
+"hw5/assert.ml" 45 1274 1289 "hw5/assert.ml" 46 1322 1336
+type(
+  result
+)
+"hw5/assert.ml" 47 1340 1348 "hw5/assert.ml" 47 1340 1354
+type(
+  result
+)
+ident(
+  int_ref result "hw5/assert.ml" 45 1274 1280 "hw5/assert.ml" 45 1274 1286
+)
+"hw5/assert.ml" 48 1361 1365 "hw5/assert.ml" 48 1361 1369
+type(
+  result
+)
+"hw5/assert.ml" 48 1361 1373 "hw5/assert.ml" 48 1361 1386
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw5/assert.ml" 48 1361 1387 "hw5/assert.ml" 48 1361 1403
+type(
+  string
+)
+"hw5/assert.ml" 48 1361 1373 "hw5/assert.ml" 48 1361 1403
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/assert.ml" 49 1404 1408 "hw5/assert.ml" 49 1404 1412
+type(
+  result
+)
+"hw5/assert.ml" 49 1404 1416 "hw5/assert.ml" 49 1404 1426
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw5/assert.ml" 13 221 225 "hw5/assert.ml" 13 221 235
+)
+"hw5/assert.ml" 49 1404 1427 "hw5/assert.ml" 49 1404 1462
+type(
+  string
+)
+"hw5/assert.ml" 49 1404 1416 "hw5/assert.ml" 49 1404 1462
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/assert.ml" 50 1464 1472 "hw5/assert.ml" 50 1464 1473
+type(
+  string
+)
+ident(
+  def s "hw5/assert.ml" 50 1464 1477 "hw5/assert.ml" 50 1464 1533
+)
+"hw5/assert.ml" 50 1464 1468 "hw5/assert.ml" 50 1464 1473
+type(
+  result
+)
+"hw5/assert.ml" 50 1464 1477 "hw5/assert.ml" 50 1464 1487
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw5/assert.ml" 13 221 225 "hw5/assert.ml" 13 221 235
+)
+"hw5/assert.ml" 50 1464 1488 "hw5/assert.ml" 50 1464 1533
+type(
+  string
+)
+"hw5/assert.ml" 50 1464 1477 "hw5/assert.ml" 50 1464 1533
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/assert.ml" 47 1340 1342 "hw5/assert.ml" 50 1464 1533
+type(
+  unit
+)
+"hw5/assert.ml" 45 1274 1276 "hw5/assert.ml" 50 1464 1533
+type(
+  unit
+)
+"hw5/assert.ml" 44 1248 1250 "hw5/assert.ml" 50 1464 1533
+type(
+  unit
+)
+"hw5/assert.ml" 43 1196 1198 "hw5/assert.ml" 50 1464 1533
+type(
+  unit
+)

@@ -1,0 +1,2199 @@
+"hw4/graph.ml" 60 1928 1932 "hw4/graph.ml" 60 1928 1933
+type(
+  string graph
+)
+ident(
+  def g "hw4/graph.ml" 67 2177 2177 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 61 1951 1953 "hw4/graph.ml" 61 1951 1956
+type(
+  string node list -> string graph
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 61 1951 1964 "hw4/graph.ml" 61 1951 1967
+type(
+  string
+)
+"hw4/graph.ml" 61 1951 1974 "hw4/graph.ml" 61 1951 1977
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 61 1951 1979 "hw4/graph.ml" 61 1951 1982
+type(
+  string
+)
+"hw4/graph.ml" 61 1951 1983 "hw4/graph.ml" 61 1951 1986
+type(
+  string
+)
+"hw4/graph.ml" 61 1951 1978 "hw4/graph.ml" 61 1951 1987
+type(
+  string list
+)
+"hw4/graph.ml" 61 1951 1974 "hw4/graph.ml" 61 1951 1987
+type(
+  string list ref
+)
+"hw4/graph.ml" 61 1951 1958 "hw4/graph.ml" 61 1951 1988
+type(
+  string node
+)
+"hw4/graph.ml" 62 1990 2003 "hw4/graph.ml" 62 1990 2006
+type(
+  string
+)
+"hw4/graph.ml" 62 1990 2013 "hw4/graph.ml" 62 1990 2016
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 62 1990 2018 "hw4/graph.ml" 62 1990 2021
+type(
+  string
+)
+"hw4/graph.ml" 62 1990 2022 "hw4/graph.ml" 62 1990 2025
+type(
+  string
+)
+"hw4/graph.ml" 62 1990 2017 "hw4/graph.ml" 62 1990 2026
+type(
+  string list
+)
+"hw4/graph.ml" 62 1990 2013 "hw4/graph.ml" 62 1990 2026
+type(
+  string list ref
+)
+"hw4/graph.ml" 62 1990 1997 "hw4/graph.ml" 62 1990 2027
+type(
+  string node
+)
+"hw4/graph.ml" 63 2029 2042 "hw4/graph.ml" 63 2029 2045
+type(
+  string
+)
+"hw4/graph.ml" 63 2029 2052 "hw4/graph.ml" 63 2029 2055
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 63 2029 2057 "hw4/graph.ml" 63 2029 2060
+type(
+  string
+)
+"hw4/graph.ml" 63 2029 2061 "hw4/graph.ml" 63 2029 2064
+type(
+  string
+)
+"hw4/graph.ml" 63 2029 2056 "hw4/graph.ml" 63 2029 2065
+type(
+  string list
+)
+"hw4/graph.ml" 63 2029 2052 "hw4/graph.ml" 63 2029 2065
+type(
+  string list ref
+)
+"hw4/graph.ml" 63 2029 2036 "hw4/graph.ml" 63 2029 2066
+type(
+  string node
+)
+"hw4/graph.ml" 64 2068 2081 "hw4/graph.ml" 64 2068 2084
+type(
+  string
+)
+"hw4/graph.ml" 64 2068 2091 "hw4/graph.ml" 64 2068 2094
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 64 2068 2096 "hw4/graph.ml" 64 2068 2099
+type(
+  string
+)
+"hw4/graph.ml" 64 2068 2100 "hw4/graph.ml" 64 2068 2103
+type(
+  string
+)
+"hw4/graph.ml" 64 2068 2095 "hw4/graph.ml" 64 2068 2104
+type(
+  string list
+)
+"hw4/graph.ml" 64 2068 2091 "hw4/graph.ml" 64 2068 2104
+type(
+  string list ref
+)
+"hw4/graph.ml" 64 2068 2075 "hw4/graph.ml" 64 2068 2105
+type(
+  string node
+)
+"hw4/graph.ml" 61 1951 1957 "hw4/graph.ml" 64 2068 2106
+type(
+  string node list
+)
+"hw4/graph.ml" 61 1951 1953 "hw4/graph.ml" 64 2068 2106
+type(
+  string graph
+)
+type(
+  string graph
+)
+"hw4/graph.ml" 67 2177 2181 "hw4/graph.ml" 67 2177 2194
+type(
+  'a -> 'a graph -> bool
+)
+ident(
+  def contains_node "hw4/graph.ml" 71 2311 2311 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 67 2177 2196 "hw4/graph.ml" 67 2177 2200
+type(
+  'a
+)
+ident(
+  def name "hw4/graph.ml" 67 2177 2205 "hw4/graph.ml" 68 2227 2278
+)
+"hw4/graph.ml" 67 2177 2206 "hw4/graph.ml" 67 2177 2207
+type(
+  'a graph
+)
+ident(
+  def g "hw4/graph.ml" 67 2177 2218 "hw4/graph.ml" 68 2227 2278
+)
+"hw4/graph.ml" 68 2227 2229 "hw4/graph.ml" 68 2227 2240
+type(
+  ('a node -> bool) -> 'a node list -> bool
+)
+ident(
+  ext_ref List.exists
+)
+"hw4/graph.ml" 68 2227 2247 "hw4/graph.ml" 68 2227 2248
+type(
+  'a node
+)
+ident(
+  def n "hw4/graph.ml" 68 2227 2261 "hw4/graph.ml" 68 2227 2274
+)
+"hw4/graph.ml" 68 2227 2261 "hw4/graph.ml" 68 2227 2262
+type(
+  'a node
+)
+ident(
+  int_ref n "hw4/graph.ml" 68 2227 2247 "hw4/graph.ml" 68 2227 2248
+)
+"hw4/graph.ml" 68 2227 2261 "hw4/graph.ml" 68 2227 2267
+type(
+  'a
+)
+"hw4/graph.ml" 68 2227 2268 "hw4/graph.ml" 68 2227 2269
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/graph.ml" 68 2227 2270 "hw4/graph.ml" 68 2227 2274
+type(
+  'a
+)
+ident(
+  int_ref name "hw4/graph.ml" 67 2177 2196 "hw4/graph.ml" 67 2177 2200
+)
+"hw4/graph.ml" 68 2227 2261 "hw4/graph.ml" 68 2227 2274
+type(
+  bool
+)
+"hw4/graph.ml" 68 2227 2241 "hw4/graph.ml" 68 2227 2275
+type(
+  'a node -> bool
+)
+"hw4/graph.ml" 68 2227 2276 "hw4/graph.ml" 68 2227 2277
+type(
+  'a graph -> 'a node list
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw4/graph.ml" 68 2227 2277 "hw4/graph.ml" 68 2227 2278
+type(
+  'a graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 67 2177 2206 "hw4/graph.ml" 67 2177 2207
+)
+"hw4/graph.ml" 68 2227 2276 "hw4/graph.ml" 68 2227 2278
+type(
+  'a node list
+)
+"hw4/graph.ml" 68 2227 2229 "hw4/graph.ml" 68 2227 2278
+call(
+  tail
+)
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/graph.ml" 71 2311 2315 "hw4/graph.ml" 71 2311 2321
+type(
+  'a -> 'a graph -> 'a node
+)
+ident(
+  def lookup "hw4/graph.ml" 75 2444 2444 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 71 2311 2323 "hw4/graph.ml" 71 2311 2327
+type(
+  'a
+)
+ident(
+  def name "hw4/graph.ml" 71 2311 2332 "hw4/graph.ml" 72 2357 2406
+)
+"hw4/graph.ml" 71 2311 2333 "hw4/graph.ml" 71 2311 2334
+type(
+  'a graph
+)
+ident(
+  def g "hw4/graph.ml" 71 2311 2345 "hw4/graph.ml" 72 2357 2406
+)
+"hw4/graph.ml" 72 2357 2359 "hw4/graph.ml" 72 2357 2368
+type(
+  ('a node -> bool) -> 'a node list -> 'a node
+)
+ident(
+  ext_ref List.find
+)
+"hw4/graph.ml" 72 2357 2375 "hw4/graph.ml" 72 2357 2376
+type(
+  'a node
+)
+ident(
+  def n "hw4/graph.ml" 72 2357 2389 "hw4/graph.ml" 72 2357 2402
+)
+"hw4/graph.ml" 72 2357 2389 "hw4/graph.ml" 72 2357 2390
+type(
+  'a node
+)
+ident(
+  int_ref n "hw4/graph.ml" 72 2357 2375 "hw4/graph.ml" 72 2357 2376
+)
+"hw4/graph.ml" 72 2357 2389 "hw4/graph.ml" 72 2357 2395
+type(
+  'a
+)
+"hw4/graph.ml" 72 2357 2396 "hw4/graph.ml" 72 2357 2397
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/graph.ml" 72 2357 2398 "hw4/graph.ml" 72 2357 2402
+type(
+  'a
+)
+ident(
+  int_ref name "hw4/graph.ml" 71 2311 2323 "hw4/graph.ml" 71 2311 2327
+)
+"hw4/graph.ml" 72 2357 2389 "hw4/graph.ml" 72 2357 2402
+type(
+  bool
+)
+"hw4/graph.ml" 72 2357 2369 "hw4/graph.ml" 72 2357 2403
+type(
+  'a node -> bool
+)
+"hw4/graph.ml" 72 2357 2404 "hw4/graph.ml" 72 2357 2405
+type(
+  'a graph -> 'a node list
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw4/graph.ml" 72 2357 2405 "hw4/graph.ml" 72 2357 2406
+type(
+  'a graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 71 2311 2333 "hw4/graph.ml" 71 2311 2334
+)
+"hw4/graph.ml" 72 2357 2404 "hw4/graph.ml" 72 2357 2406
+type(
+  'a node list
+)
+"hw4/graph.ml" 72 2357 2359 "hw4/graph.ml" 72 2357 2406
+call(
+  tail
+)
+type(
+  'a node
+)
+type(
+  'a node
+)
+"hw4/graph.ml" 75 2444 2448 "hw4/graph.ml" 75 2444 2451
+type(
+  'a -> 'a graph -> unit
+)
+ident(
+  def add "hw4/graph.ml" 85 2736 2736 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 75 2444 2453 "hw4/graph.ml" 75 2444 2457
+type(
+  'a
+)
+ident(
+  def name "hw4/graph.ml" 75 2444 2462 "hw4/graph.ml" 76 2484 2519
+)
+"hw4/graph.ml" 75 2444 2463 "hw4/graph.ml" 75 2444 2464
+type(
+  'a graph
+)
+ident(
+  def g "hw4/graph.ml" 75 2444 2475 "hw4/graph.ml" 76 2484 2519
+)
+"hw4/graph.ml" 76 2484 2486 "hw4/graph.ml" 76 2484 2487
+type(
+  'a graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 75 2444 2463 "hw4/graph.ml" 75 2444 2464
+)
+"hw4/graph.ml" 76 2484 2488 "hw4/graph.ml" 76 2484 2490
+type(
+  'a graph -> 'a node list -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"hw4/graph.ml" 76 2484 2497 "hw4/graph.ml" 76 2484 2501
+type(
+  'a
+)
+ident(
+  int_ref name "hw4/graph.ml" 75 2444 2453 "hw4/graph.ml" 75 2444 2457
+)
+"hw4/graph.ml" 76 2484 2508 "hw4/graph.ml" 76 2484 2511
+type(
+  'a list -> 'a list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 76 2484 2512 "hw4/graph.ml" 76 2484 2514
+type(
+  'a list
+)
+"hw4/graph.ml" 76 2484 2508 "hw4/graph.ml" 76 2484 2514
+type(
+  'a list ref
+)
+"hw4/graph.ml" 76 2484 2491 "hw4/graph.ml" 76 2484 2515
+type(
+  'a node
+)
+"hw4/graph.ml" 76 2484 2517 "hw4/graph.ml" 76 2484 2518
+type(
+  'a graph -> 'a node list
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw4/graph.ml" 76 2484 2518 "hw4/graph.ml" 76 2484 2519
+type(
+  'a graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 75 2444 2463 "hw4/graph.ml" 75 2444 2464
+)
+"hw4/graph.ml" 76 2484 2517 "hw4/graph.ml" 76 2484 2519
+type(
+  'a node list
+)
+"hw4/graph.ml" 76 2484 2491 "hw4/graph.ml" 76 2484 2519
+type(
+  'a node list
+)
+"hw4/graph.ml" 76 2484 2486 "hw4/graph.ml" 76 2484 2519
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/graph.ml" 85 2736 2744 "hw4/graph.ml" 85 2736 2755
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  def valid_edges "hw4/graph.ml" 85 2736 2736 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 85 2736 2757 "hw4/graph.ml" 85 2736 2759
+type(
+  'a list
+)
+ident(
+  def es "hw4/graph.ml" 85 2736 2769 "hw4/graph.ml" 86 2796 2850
+)
+"hw4/graph.ml" 85 2736 2770 "hw4/graph.ml" 85 2736 2774
+type(
+  'a list
+)
+ident(
+  def seen "hw4/graph.ml" 85 2736 2784 "hw4/graph.ml" 86 2796 2850
+)
+"hw4/graph.ml" 86 2796 2798 "hw4/graph.ml" 86 2796 2809
+type(
+  ('a -> bool) -> 'a list -> 'a list
+)
+ident(
+  ext_ref List.filter
+)
+"hw4/graph.ml" 86 2796 2816 "hw4/graph.ml" 86 2796 2817
+type(
+  'a
+)
+ident(
+  def e "hw4/graph.ml" 86 2796 2825 "hw4/graph.ml" 86 2796 2846
+)
+"hw4/graph.ml" 86 2796 2825 "hw4/graph.ml" 86 2796 2828
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/graph.ml" 86 2796 2830 "hw4/graph.ml" 86 2796 2838
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"hw4/graph.ml" 86 2796 2839 "hw4/graph.ml" 86 2796 2840
+type(
+  'a
+)
+ident(
+  int_ref e "hw4/graph.ml" 86 2796 2816 "hw4/graph.ml" 86 2796 2817
+)
+"hw4/graph.ml" 86 2796 2841 "hw4/graph.ml" 86 2796 2845
+type(
+  'a list
+)
+ident(
+  int_ref seen "hw4/graph.ml" 85 2736 2770 "hw4/graph.ml" 85 2736 2774
+)
+"hw4/graph.ml" 86 2796 2829 "hw4/graph.ml" 86 2796 2846
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/graph.ml" 86 2796 2825 "hw4/graph.ml" 86 2796 2846
+type(
+  bool
+)
+"hw4/graph.ml" 86 2796 2810 "hw4/graph.ml" 86 2796 2847
+type(
+  'a -> bool
+)
+"hw4/graph.ml" 86 2796 2848 "hw4/graph.ml" 86 2796 2850
+type(
+  'a list
+)
+ident(
+  int_ref es "hw4/graph.ml" 85 2736 2757 "hw4/graph.ml" 85 2736 2759
+)
+"hw4/graph.ml" 86 2796 2798 "hw4/graph.ml" 86 2796 2850
+call(
+  tail
+)
+type(
+  'a list
+)
+type(
+  'a list
+)
+"hw4/graph.ml" 88 2852 2860 "hw4/graph.ml" 88 2852 2871
+type(
+  'a node list -> 'a list -> 'a list -> bool
+)
+ident(
+  def valid_nodes "hw4/graph.ml" 88 2852 2852 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 88 2852 2873 "hw4/graph.ml" 88 2852 2875
+type(
+  'a node list
+)
+ident(
+  def ns "hw4/graph.ml" 88 2852 2890 "hw4/graph.ml" 98 3242 3247
+)
+"hw4/graph.ml" 88 2852 2891 "hw4/graph.ml" 88 2852 2895
+type(
+  'a list
+)
+ident(
+  def seen "hw4/graph.ml" 88 2852 2905 "hw4/graph.ml" 98 3242 3247
+)
+"hw4/graph.ml" 88 2852 2906 "hw4/graph.ml" 88 2852 2910
+type(
+  'a list
+)
+ident(
+  def need "hw4/graph.ml" 88 2852 2920 "hw4/graph.ml" 98 3242 3247
+)
+"hw4/graph.ml" 89 2929 2943 "hw4/graph.ml" 89 2929 2945
+type(
+  'a node list
+)
+ident(
+  int_ref ns "hw4/graph.ml" 88 2852 2873 "hw4/graph.ml" 88 2852 2875
+)
+"hw4/graph.ml" 90 2951 2957 "hw4/graph.ml" 90 2951 2959
+type(
+  'a node list
+)
+"hw4/graph.ml" 90 2951 2963 "hw4/graph.ml" 90 2951 2967
+type(
+  'a list
+)
+ident(
+  int_ref need "hw4/graph.ml" 88 2852 2906 "hw4/graph.ml" 88 2852 2910
+)
+"hw4/graph.ml" 90 2951 2968 "hw4/graph.ml" 90 2951 2969
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/graph.ml" 90 2951 2970 "hw4/graph.ml" 90 2951 2972
+type(
+  'a list
+)
+"hw4/graph.ml" 90 2951 2963 "hw4/graph.ml" 90 2951 2972
+type(
+  bool
+)
+"hw4/graph.ml" 91 2973 2979 "hw4/graph.ml" 91 2973 2980
+type(
+  'a node
+)
+ident(
+  def n "hw4/graph.ml" 92 2988 2996 "hw4/graph.ml" 97 3195 3241
+)
+"hw4/graph.ml" 91 2973 2982 "hw4/graph.ml" 91 2973 2984
+type(
+  'a node list
+)
+ident(
+  def ns "hw4/graph.ml" 92 2988 2996 "hw4/graph.ml" 97 3195 3241
+)
+"hw4/graph.ml" 91 2973 2979 "hw4/graph.ml" 91 2973 2984
+type(
+  'a node list
+)
+"hw4/graph.ml" 92 2988 2997 "hw4/graph.ml" 92 2988 3000
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/graph.ml" 92 2988 3002 "hw4/graph.ml" 92 2988 3010
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"hw4/graph.ml" 92 2988 3011 "hw4/graph.ml" 92 2988 3012
+type(
+  'a node
+)
+ident(
+  int_ref n "hw4/graph.ml" 91 2973 2979 "hw4/graph.ml" 91 2973 2980
+)
+"hw4/graph.ml" 92 2988 3011 "hw4/graph.ml" 92 2988 3017
+type(
+  'a
+)
+"hw4/graph.ml" 92 2988 3018 "hw4/graph.ml" 92 2988 3022
+type(
+  'a list
+)
+ident(
+  int_ref seen "hw4/graph.ml" 88 2852 2891 "hw4/graph.ml" 88 2852 2895
+)
+"hw4/graph.ml" 92 2988 3001 "hw4/graph.ml" 92 2988 3023
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/graph.ml" 92 2988 2996 "hw4/graph.ml" 92 2988 3024
+type(
+  bool
+)
+"hw4/graph.ml" 92 2988 3025 "hw4/graph.ml" 92 2988 3027
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw4/graph.ml" 93 3028 3042 "hw4/graph.ml" 93 3028 3047
+type(
+  'a list
+)
+ident(
+  def need' "hw4/graph.ml" 94 3088 3098 "hw4/graph.ml" 97 3195 3241
+)
+"hw4/graph.ml" 93 3028 3050 "hw4/graph.ml" 93 3028 3061
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref valid_edges "hw4/graph.ml" 85 2736 2744 "hw4/graph.ml" 85 2736 2755
+)
+"hw4/graph.ml" 93 3028 3062 "hw4/graph.ml" 93 3028 3063
+type(
+  'a list ref -> 'a list
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw4/graph.ml" 93 3028 3064 "hw4/graph.ml" 93 3028 3065
+type(
+  'a node
+)
+ident(
+  int_ref n "hw4/graph.ml" 91 2973 2979 "hw4/graph.ml" 91 2973 2980
+)
+"hw4/graph.ml" 93 3028 3063 "hw4/graph.ml" 93 3028 3072
+type(
+  'a list ref
+)
+"hw4/graph.ml" 93 3028 3062 "hw4/graph.ml" 93 3028 3072
+type(
+  'a list
+)
+"hw4/graph.ml" 93 3028 3074 "hw4/graph.ml" 93 3028 3078
+type(
+  'a list
+)
+ident(
+  int_ref seen "hw4/graph.ml" 88 2852 2891 "hw4/graph.ml" 88 2852 2895
+)
+"hw4/graph.ml" 93 3028 3078 "hw4/graph.ml" 93 3028 3079
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"hw4/graph.ml" 93 3028 3079 "hw4/graph.ml" 93 3028 3083
+type(
+  'a list
+)
+ident(
+  int_ref need "hw4/graph.ml" 88 2852 2906 "hw4/graph.ml" 88 2852 2910
+)
+"hw4/graph.ml" 93 3028 3073 "hw4/graph.ml" 93 3028 3084
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw4/graph.ml" 93 3028 3050 "hw4/graph.ml" 93 3028 3084
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw4/graph.ml" 94 3088 3102 "hw4/graph.ml" 94 3088 3106
+type(
+  'a list
+)
+ident(
+  def need "hw4/graph.ml" 97 3195 3207 "hw4/graph.ml" 97 3195 3241
+)
+"hw4/graph.ml" 94 3088 3109 "hw4/graph.ml" 94 3088 3120
+type(
+  ('a -> bool) -> 'a list -> 'a list
+)
+ident(
+  ext_ref List.filter
+)
+"hw4/graph.ml" 95 3122 3140 "hw4/graph.ml" 95 3122 3144
+type(
+  'a
+)
+ident(
+  def name "hw4/graph.ml" 95 3122 3152 "hw4/graph.ml" 95 3122 3166
+)
+"hw4/graph.ml" 95 3122 3152 "hw4/graph.ml" 95 3122 3156
+type(
+  'a
+)
+ident(
+  int_ref name "hw4/graph.ml" 95 3122 3140 "hw4/graph.ml" 95 3122 3144
+)
+"hw4/graph.ml" 95 3122 3157 "hw4/graph.ml" 95 3122 3159
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"hw4/graph.ml" 95 3122 3160 "hw4/graph.ml" 95 3122 3161
+type(
+  'a node
+)
+ident(
+  int_ref n "hw4/graph.ml" 91 2973 2979 "hw4/graph.ml" 91 2973 2980
+)
+"hw4/graph.ml" 95 3122 3160 "hw4/graph.ml" 95 3122 3166
+type(
+  'a
+)
+"hw4/graph.ml" 95 3122 3152 "hw4/graph.ml" 95 3122 3166
+type(
+  bool
+)
+"hw4/graph.ml" 95 3122 3134 "hw4/graph.ml" 95 3122 3167
+type(
+  'a -> bool
+)
+"hw4/graph.ml" 95 3122 3169 "hw4/graph.ml" 95 3122 3174
+type(
+  'a list
+)
+ident(
+  int_ref need' "hw4/graph.ml" 93 3028 3042 "hw4/graph.ml" 93 3028 3047
+)
+"hw4/graph.ml" 95 3122 3174 "hw4/graph.ml" 95 3122 3175
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"hw4/graph.ml" 95 3122 3175 "hw4/graph.ml" 95 3122 3179
+type(
+  'a list
+)
+ident(
+  int_ref need "hw4/graph.ml" 88 2852 2906 "hw4/graph.ml" 88 2852 2910
+)
+"hw4/graph.ml" 95 3122 3168 "hw4/graph.ml" 95 3122 3180
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw4/graph.ml" 94 3088 3109 "hw4/graph.ml" 95 3122 3180
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw4/graph.ml" 97 3195 3207 "hw4/graph.ml" 97 3195 3218
+type(
+  'a node list -> 'a list -> 'a list -> bool
+)
+ident(
+  int_ref valid_nodes "hw4/graph.ml" 88 2852 2860 "hw4/graph.ml" 88 2852 2871
+)
+"hw4/graph.ml" 97 3195 3219 "hw4/graph.ml" 97 3195 3221
+type(
+  'a node list
+)
+ident(
+  int_ref ns "hw4/graph.ml" 91 2973 2982 "hw4/graph.ml" 91 2973 2984
+)
+"hw4/graph.ml" 97 3195 3223 "hw4/graph.ml" 97 3195 3224
+type(
+  'a node
+)
+ident(
+  int_ref n "hw4/graph.ml" 91 2973 2979 "hw4/graph.ml" 91 2973 2980
+)
+"hw4/graph.ml" 97 3195 3223 "hw4/graph.ml" 97 3195 3229
+type(
+  'a
+)
+"hw4/graph.ml" 97 3195 3231 "hw4/graph.ml" 97 3195 3235
+type(
+  'a list
+)
+ident(
+  int_ref seen "hw4/graph.ml" 88 2852 2891 "hw4/graph.ml" 88 2852 2895
+)
+"hw4/graph.ml" 97 3195 3222 "hw4/graph.ml" 97 3195 3236
+type(
+  'a list
+)
+"hw4/graph.ml" 97 3195 3237 "hw4/graph.ml" 97 3195 3241
+type(
+  'a list
+)
+ident(
+  int_ref need "hw4/graph.ml" 94 3088 3102 "hw4/graph.ml" 94 3088 3106
+)
+"hw4/graph.ml" 97 3195 3207 "hw4/graph.ml" 97 3195 3241
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/graph.ml" 94 3088 3098 "hw4/graph.ml" 97 3195 3241
+type(
+  bool
+)
+"hw4/graph.ml" 93 3028 3038 "hw4/graph.ml" 97 3195 3241
+type(
+  bool
+)
+"hw4/graph.ml" 92 2988 2996 "hw4/graph.ml" 97 3195 3241
+type(
+  bool
+)
+"hw4/graph.ml" 89 2929 2931 "hw4/graph.ml" 98 3242 3247
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/graph.ml" 100 3249 3253 "hw4/graph.ml" 100 3249 3258
+type(
+  'a graph -> bool
+)
+ident(
+  def valid "hw4/graph.ml" 103 3305 3305 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 100 3249 3260 "hw4/graph.ml" 100 3249 3261
+type(
+  'a graph
+)
+ident(
+  def g "hw4/graph.ml" 100 3249 3272 "hw4/graph.ml" 101 3281 3303
+)
+"hw4/graph.ml" 101 3281 3283 "hw4/graph.ml" 101 3281 3294
+type(
+  'a node list -> 'a list -> 'a list -> bool
+)
+ident(
+  int_ref valid_nodes "hw4/graph.ml" 88 2852 2860 "hw4/graph.ml" 88 2852 2871
+)
+"hw4/graph.ml" 101 3281 3295 "hw4/graph.ml" 101 3281 3296
+type(
+  'a graph -> 'a node list
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw4/graph.ml" 101 3281 3296 "hw4/graph.ml" 101 3281 3297
+type(
+  'a graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 100 3249 3260 "hw4/graph.ml" 100 3249 3261
+)
+"hw4/graph.ml" 101 3281 3295 "hw4/graph.ml" 101 3281 3297
+type(
+  'a node list
+)
+"hw4/graph.ml" 101 3281 3298 "hw4/graph.ml" 101 3281 3300
+type(
+  'a list
+)
+"hw4/graph.ml" 101 3281 3301 "hw4/graph.ml" 101 3281 3303
+type(
+  'a list
+)
+"hw4/graph.ml" 101 3281 3283 "hw4/graph.ml" 101 3281 3303
+call(
+  tail
+)
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/graph.ml" 103 3305 3309 "hw4/graph.ml" 103 3305 3322
+type(
+  unit -> string graph
+)
+ident(
+  def invalid_graph "hw4/graph.ml" 106 3386 3386 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 103 3305 3323 "hw4/graph.ml" 103 3305 3325
+type(
+  unit
+)
+"hw4/graph.ml" 104 3343 3345 "hw4/graph.ml" 104 3343 3353
+type(
+  string -> string graph
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/graph.ml" 104 3343 3354 "hw4/graph.ml" 104 3343 3384
+type(
+  string
+)
+"hw4/graph.ml" 104 3343 3345 "hw4/graph.ml" 104 3343 3384
+call(
+  tail
+)
+type(
+  string graph
+)
+type(
+  string graph
+)
+"hw4/graph.ml" 106 3386 3390 "hw4/graph.ml" 106 3386 3394
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/graph.ml" 108 3425 3428 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 106 3386 3395 "hw4/graph.ml" 106 3386 3397
+type(
+  unit
+)
+"hw4/graph.ml" 107 3408 3410 "hw4/graph.ml" 107 3408 3414
+type(
+  bool
+)
+"hw4/graph.ml" 107 3408 3415 "hw4/graph.ml" 107 3408 3416
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/graph.ml" 107 3408 3417 "hw4/graph.ml" 107 3408 3422
+type(
+  string graph -> bool
+)
+ident(
+  int_ref valid "hw4/graph.ml" 100 3249 3253 "hw4/graph.ml" 100 3249 3258
+)
+"hw4/graph.ml" 107 3408 3423 "hw4/graph.ml" 107 3408 3424
+type(
+  string graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 60 1928 1932 "hw4/graph.ml" 60 1928 1933
+)
+"hw4/graph.ml" 107 3408 3417 "hw4/graph.ml" 107 3408 3424
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/graph.ml" 107 3408 3410 "hw4/graph.ml" 107 3408 3424
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/graph.ml" 108 3425 3428 "hw4/graph.ml" 108 3425 3436
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/graph.ml" 108 3425 3437 "hw4/graph.ml" 108 3425 3446
+type(
+  string
+)
+"hw4/graph.ml" 108 3425 3447 "hw4/graph.ml" 108 3425 3451
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/graph.ml" 106 3386 3390 "hw4/graph.ml" 106 3386 3394
+)
+"hw4/graph.ml" 108 3425 3428 "hw4/graph.ml" 108 3425 3451
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/graph.ml" 110 3453 3457 "hw4/graph.ml" 110 3453 3461
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/graph.ml" 112 3510 3513 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 110 3453 3462 "hw4/graph.ml" 110 3453 3464
+type(
+  unit
+)
+"hw4/graph.ml" 111 3475 3477 "hw4/graph.ml" 111 3475 3482
+type(
+  bool
+)
+"hw4/graph.ml" 111 3475 3483 "hw4/graph.ml" 111 3475 3484
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/graph.ml" 111 3475 3485 "hw4/graph.ml" 111 3475 3490
+type(
+  string graph -> bool
+)
+ident(
+  int_ref valid "hw4/graph.ml" 100 3249 3253 "hw4/graph.ml" 100 3249 3258
+)
+"hw4/graph.ml" 111 3475 3492 "hw4/graph.ml" 111 3475 3505
+type(
+  unit -> string graph
+)
+ident(
+  int_ref invalid_graph "hw4/graph.ml" 103 3305 3309 "hw4/graph.ml" 103 3305 3322
+)
+"hw4/graph.ml" 111 3475 3506 "hw4/graph.ml" 111 3475 3508
+type(
+  unit
+)
+"hw4/graph.ml" 111 3475 3491 "hw4/graph.ml" 111 3475 3509
+call(
+  stack
+)
+type(
+  string graph
+)
+"hw4/graph.ml" 111 3475 3485 "hw4/graph.ml" 111 3475 3509
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/graph.ml" 111 3475 3477 "hw4/graph.ml" 111 3475 3509
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/graph.ml" 112 3510 3513 "hw4/graph.ml" 112 3510 3521
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/graph.ml" 112 3510 3522 "hw4/graph.ml" 112 3510 3543
+type(
+  string
+)
+"hw4/graph.ml" 112 3510 3544 "hw4/graph.ml" 112 3510 3548
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/graph.ml" 110 3453 3457 "hw4/graph.ml" 110 3453 3461
+)
+"hw4/graph.ml" 112 3510 3513 "hw4/graph.ml" 112 3510 3548
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/graph.ml" 119 3681 3685 "hw4/graph.ml" 119 3681 3689
+type(
+  'a -> 'a -> 'a graph -> unit
+)
+ident(
+  def link "hw4/graph.ml" 125 3862 3862 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 119 3681 3691 "hw4/graph.ml" 119 3681 3694
+type(
+  'a
+)
+ident(
+  def src "hw4/graph.ml" 119 3681 3699 "hw4/graph.ml" 120 3730 3762
+)
+"hw4/graph.ml" 119 3681 3700 "hw4/graph.ml" 119 3681 3703
+type(
+  'a
+)
+ident(
+  def tgt "hw4/graph.ml" 119 3681 3708 "hw4/graph.ml" 120 3730 3762
+)
+"hw4/graph.ml" 119 3681 3709 "hw4/graph.ml" 119 3681 3710
+type(
+  'a graph
+)
+ident(
+  def g "hw4/graph.ml" 119 3681 3721 "hw4/graph.ml" 120 3730 3762
+)
+"hw4/graph.ml" 120 3730 3732 "hw4/graph.ml" 120 3730 3740
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/graph.ml" 120 3730 3741 "hw4/graph.ml" 120 3730 3762
+type(
+  string
+)
+"hw4/graph.ml" 120 3730 3732 "hw4/graph.ml" 120 3730 3762
+call(
+  tail
+)
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/graph.ml" 125 3862 3866 "hw4/graph.ml" 125 3862 3872
+type(
+  'a -> 'a graph -> unit
+)
+ident(
+  def remove "hw4/graph.ml" 129 3942 3942 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 125 3862 3874 "hw4/graph.ml" 125 3862 3878
+type(
+  'a
+)
+ident(
+  def name "hw4/graph.ml" 125 3862 3883 "hw4/graph.ml" 126 3905 3939
+)
+"hw4/graph.ml" 125 3862 3884 "hw4/graph.ml" 125 3862 3885
+type(
+  'a graph
+)
+ident(
+  def g "hw4/graph.ml" 125 3862 3896 "hw4/graph.ml" 126 3905 3939
+)
+"hw4/graph.ml" 126 3905 3907 "hw4/graph.ml" 126 3905 3915
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/graph.ml" 126 3905 3916 "hw4/graph.ml" 126 3905 3939
+type(
+  string
+)
+"hw4/graph.ml" 126 3905 3907 "hw4/graph.ml" 126 3905 3939
+call(
+  tail
+)
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/graph.ml" 129 3942 3946 "hw4/graph.ml" 129 3942 3950
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/graph.ml" 140 4281 4284 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 129 3942 3951 "hw4/graph.ml" 129 3942 3953
+type(
+  unit
+)
+"hw4/graph.ml" 130 3964 3970 "hw4/graph.ml" 130 3964 3971
+type(
+  string graph
+)
+ident(
+  def g "hw4/graph.ml" 135 4160 4162 "hw4/graph.ml" 139 4245 4280
+)
+"hw4/graph.ml" 131 3989 3994 "hw4/graph.ml" 131 3989 3997
+type(
+  string node list -> string graph
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 131 3989 4005 "hw4/graph.ml" 131 3989 4008
+type(
+  string
+)
+"hw4/graph.ml" 131 3989 4015 "hw4/graph.ml" 131 3989 4018
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 131 3989 4020 "hw4/graph.ml" 131 3989 4023
+type(
+  string
+)
+"hw4/graph.ml" 131 3989 4024 "hw4/graph.ml" 131 3989 4027
+type(
+  string
+)
+"hw4/graph.ml" 131 3989 4019 "hw4/graph.ml" 131 3989 4028
+type(
+  string list
+)
+"hw4/graph.ml" 131 3989 4015 "hw4/graph.ml" 131 3989 4028
+type(
+  string list ref
+)
+"hw4/graph.ml" 131 3989 3999 "hw4/graph.ml" 131 3989 4029
+type(
+  string node
+)
+"hw4/graph.ml" 132 4031 4047 "hw4/graph.ml" 132 4031 4050
+type(
+  string
+)
+"hw4/graph.ml" 132 4031 4057 "hw4/graph.ml" 132 4031 4060
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 132 4031 4062 "hw4/graph.ml" 132 4031 4065
+type(
+  string
+)
+"hw4/graph.ml" 132 4031 4066 "hw4/graph.ml" 132 4031 4069
+type(
+  string
+)
+"hw4/graph.ml" 132 4031 4061 "hw4/graph.ml" 132 4031 4070
+type(
+  string list
+)
+"hw4/graph.ml" 132 4031 4057 "hw4/graph.ml" 132 4031 4070
+type(
+  string list ref
+)
+"hw4/graph.ml" 132 4031 4041 "hw4/graph.ml" 132 4031 4071
+type(
+  string node
+)
+"hw4/graph.ml" 133 4073 4089 "hw4/graph.ml" 133 4073 4092
+type(
+  string
+)
+"hw4/graph.ml" 133 4073 4099 "hw4/graph.ml" 133 4073 4102
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 133 4073 4104 "hw4/graph.ml" 133 4073 4107
+type(
+  string
+)
+"hw4/graph.ml" 133 4073 4108 "hw4/graph.ml" 133 4073 4111
+type(
+  string
+)
+"hw4/graph.ml" 133 4073 4103 "hw4/graph.ml" 133 4073 4112
+type(
+  string list
+)
+"hw4/graph.ml" 133 4073 4099 "hw4/graph.ml" 133 4073 4112
+type(
+  string list ref
+)
+"hw4/graph.ml" 133 4073 4083 "hw4/graph.ml" 133 4073 4113
+type(
+  string node
+)
+"hw4/graph.ml" 134 4115 4131 "hw4/graph.ml" 134 4115 4134
+type(
+  string
+)
+"hw4/graph.ml" 134 4115 4141 "hw4/graph.ml" 134 4115 4144
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 134 4115 4146 "hw4/graph.ml" 134 4115 4149
+type(
+  string
+)
+"hw4/graph.ml" 134 4115 4150 "hw4/graph.ml" 134 4115 4153
+type(
+  string
+)
+"hw4/graph.ml" 134 4115 4145 "hw4/graph.ml" 134 4115 4154
+type(
+  string list
+)
+"hw4/graph.ml" 134 4115 4141 "hw4/graph.ml" 134 4115 4154
+type(
+  string list ref
+)
+"hw4/graph.ml" 134 4115 4125 "hw4/graph.ml" 134 4115 4155
+type(
+  string node
+)
+"hw4/graph.ml" 131 3989 3998 "hw4/graph.ml" 134 4115 4156
+type(
+  string node list
+)
+"hw4/graph.ml" 131 3989 3994 "hw4/graph.ml" 134 4115 4156
+type(
+  string graph
+)
+type(
+  string graph
+)
+"hw4/graph.ml" 135 4160 4162 "hw4/graph.ml" 135 4160 4168
+type(
+  string -> string graph -> unit
+)
+ident(
+  int_ref remove "hw4/graph.ml" 125 3862 3866 "hw4/graph.ml" 125 3862 3872
+)
+"hw4/graph.ml" 135 4160 4169 "hw4/graph.ml" 135 4160 4172
+type(
+  string
+)
+"hw4/graph.ml" 135 4160 4173 "hw4/graph.ml" 135 4160 4174
+type(
+  string graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 130 3964 3970 "hw4/graph.ml" 130 3964 3971
+)
+"hw4/graph.ml" 135 4160 4162 "hw4/graph.ml" 135 4160 4174
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/graph.ml" 137 4179 4188 "hw4/graph.ml" 137 4179 4191
+type(
+  string
+)
+"hw4/graph.ml" 137 4179 4198 "hw4/graph.ml" 137 4179 4201
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 137 4179 4203 "hw4/graph.ml" 137 4179 4206
+type(
+  string
+)
+"hw4/graph.ml" 137 4179 4207 "hw4/graph.ml" 137 4179 4210
+type(
+  string
+)
+"hw4/graph.ml" 137 4179 4202 "hw4/graph.ml" 137 4179 4211
+type(
+  string list
+)
+"hw4/graph.ml" 137 4179 4198 "hw4/graph.ml" 137 4179 4211
+type(
+  string list ref
+)
+"hw4/graph.ml" 137 4179 4182 "hw4/graph.ml" 137 4179 4212
+type(
+  string node
+)
+"hw4/graph.ml" 138 4214 4223 "hw4/graph.ml" 138 4214 4226
+type(
+  string
+)
+"hw4/graph.ml" 138 4214 4233 "hw4/graph.ml" 138 4214 4236
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 138 4214 4238 "hw4/graph.ml" 138 4214 4241
+type(
+  string
+)
+"hw4/graph.ml" 138 4214 4237 "hw4/graph.ml" 138 4214 4242
+type(
+  string list
+)
+"hw4/graph.ml" 138 4214 4233 "hw4/graph.ml" 138 4214 4242
+type(
+  string list ref
+)
+"hw4/graph.ml" 138 4214 4217 "hw4/graph.ml" 138 4214 4243
+type(
+  string node
+)
+"hw4/graph.ml" 139 4245 4254 "hw4/graph.ml" 139 4245 4257
+type(
+  string
+)
+"hw4/graph.ml" 139 4245 4264 "hw4/graph.ml" 139 4245 4267
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 139 4245 4269 "hw4/graph.ml" 139 4245 4272
+type(
+  string
+)
+"hw4/graph.ml" 139 4245 4268 "hw4/graph.ml" 139 4245 4273
+type(
+  string list
+)
+"hw4/graph.ml" 139 4245 4264 "hw4/graph.ml" 139 4245 4273
+type(
+  string list ref
+)
+"hw4/graph.ml" 139 4245 4248 "hw4/graph.ml" 139 4245 4274
+type(
+  string node
+)
+"hw4/graph.ml" 137 4179 4181 "hw4/graph.ml" 139 4245 4275
+type(
+  string node list
+)
+"hw4/graph.ml" 139 4245 4276 "hw4/graph.ml" 139 4245 4277
+type(
+  string node list -> string node list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/graph.ml" 139 4245 4278 "hw4/graph.ml" 139 4245 4279
+type(
+  string graph -> string node list
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw4/graph.ml" 139 4245 4279 "hw4/graph.ml" 139 4245 4280
+type(
+  string graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 130 3964 3970 "hw4/graph.ml" 130 3964 3971
+)
+"hw4/graph.ml" 139 4245 4278 "hw4/graph.ml" 139 4245 4280
+type(
+  string node list
+)
+"hw4/graph.ml" 137 4179 4181 "hw4/graph.ml" 139 4245 4280
+type(
+  bool
+)
+"hw4/graph.ml" 135 4160 4162 "hw4/graph.ml" 139 4245 4280
+type(
+  bool
+)
+"hw4/graph.ml" 130 3964 3966 "hw4/graph.ml" 139 4245 4280
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/graph.ml" 140 4281 4284 "hw4/graph.ml" 140 4281 4292
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/graph.ml" 140 4281 4293 "hw4/graph.ml" 140 4281 4303
+type(
+  string
+)
+"hw4/graph.ml" 140 4281 4304 "hw4/graph.ml" 140 4281 4308
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/graph.ml" 129 3942 3946 "hw4/graph.ml" 129 3942 3950
+)
+"hw4/graph.ml" 140 4281 4284 "hw4/graph.ml" 140 4281 4308
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/graph.ml" 154 4673 4681 "hw4/graph.ml" 154 4673 4688
+type(
+  'a node list -> 'a list -> 'a graph -> 'a list
+)
+ident(
+  def dfs_aux "hw4/graph.ml" 154 4673 4673 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 154 4673 4690 "hw4/graph.ml" 154 4673 4695
+type(
+  'a node list
+)
+ident(
+  def stack "hw4/graph.ml" 154 4673 4710 "hw4/graph.ml" 155 4750 4783
+)
+"hw4/graph.ml" 154 4673 4711 "hw4/graph.ml" 154 4673 4715
+type(
+  'a list
+)
+ident(
+  def seen "hw4/graph.ml" 154 4673 4725 "hw4/graph.ml" 155 4750 4783
+)
+"hw4/graph.ml" 154 4673 4726 "hw4/graph.ml" 154 4673 4727
+type(
+  'a graph
+)
+ident(
+  def g "hw4/graph.ml" 154 4673 4738 "hw4/graph.ml" 155 4750 4783
+)
+"hw4/graph.ml" 155 4750 4750 "hw4/graph.ml" 155 4750 4758
+type(
+  string -> 'a list
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw4/graph.ml" 155 4750 4759 "hw4/graph.ml" 155 4750 4783
+type(
+  string
+)
+"hw4/graph.ml" 155 4750 4750 "hw4/graph.ml" 155 4750 4783
+call(
+  tail
+)
+type(
+  'a list
+)
+type(
+  'a list
+)
+"hw4/graph.ml" 157 4785 4789 "hw4/graph.ml" 157 4785 4792
+type(
+  'a graph -> 'a list
+)
+ident(
+  def dfs "hw4/graph.ml" 163 4893 4893 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 157 4785 4794 "hw4/graph.ml" 157 4785 4795
+type(
+  'a graph
+)
+ident(
+  def g "hw4/graph.ml" 157 4785 4806 "hw4/graph.ml" 161 4886 4891
+)
+"hw4/graph.ml" 158 4818 4832 "hw4/graph.ml" 158 4818 4833
+type(
+  'a graph -> 'a node list
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw4/graph.ml" 158 4818 4833 "hw4/graph.ml" 158 4818 4834
+type(
+  'a graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 157 4785 4794 "hw4/graph.ml" 157 4785 4795
+)
+"hw4/graph.ml" 158 4818 4832 "hw4/graph.ml" 158 4818 4834
+type(
+  'a node list
+)
+"hw4/graph.ml" 159 4840 4846 "hw4/graph.ml" 159 4840 4848
+type(
+  'a node list
+)
+"hw4/graph.ml" 159 4840 4852 "hw4/graph.ml" 159 4840 4854
+type(
+  'a list
+)
+"hw4/graph.ml" 160 4855 4861 "hw4/graph.ml" 160 4855 4862
+type(
+  'a node
+)
+ident(
+  def n "hw4/graph.ml" 160 4855 4869 "hw4/graph.ml" 160 4855 4885
+)
+"hw4/graph.ml" 160 4855 4864 "hw4/graph.ml" 160 4855 4865
+type(
+  'a node list
+)
+"hw4/graph.ml" 160 4855 4861 "hw4/graph.ml" 160 4855 4865
+type(
+  'a node list
+)
+"hw4/graph.ml" 160 4855 4869 "hw4/graph.ml" 160 4855 4876
+type(
+  'a node list -> 'a list -> 'a graph -> 'a list
+)
+ident(
+  int_ref dfs_aux "hw4/graph.ml" 154 4673 4681 "hw4/graph.ml" 154 4673 4688
+)
+"hw4/graph.ml" 160 4855 4878 "hw4/graph.ml" 160 4855 4879
+type(
+  'a node
+)
+ident(
+  int_ref n "hw4/graph.ml" 160 4855 4861 "hw4/graph.ml" 160 4855 4862
+)
+"hw4/graph.ml" 160 4855 4877 "hw4/graph.ml" 160 4855 4880
+type(
+  'a node list
+)
+"hw4/graph.ml" 160 4855 4881 "hw4/graph.ml" 160 4855 4883
+type(
+  'a list
+)
+"hw4/graph.ml" 160 4855 4884 "hw4/graph.ml" 160 4855 4885
+type(
+  'a graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 157 4785 4794 "hw4/graph.ml" 157 4785 4795
+)
+"hw4/graph.ml" 160 4855 4869 "hw4/graph.ml" 160 4855 4885
+call(
+  tail
+)
+type(
+  'a list
+)
+"hw4/graph.ml" 158 4818 4820 "hw4/graph.ml" 161 4886 4891
+type(
+  'a list
+)
+type(
+  'a list
+)
+"hw4/graph.ml" 163 4893 4897 "hw4/graph.ml" 163 4893 4901
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/graph.ml" 170 5139 5142 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 163 4893 4902 "hw4/graph.ml" 163 4893 4904
+type(
+  unit
+)
+"hw4/graph.ml" 164 4915 4921 "hw4/graph.ml" 164 4915 4922
+type(
+  string graph
+)
+ident(
+  def g "hw4/graph.ml" 169 5111 5113 "hw4/graph.ml" 169 5111 5138
+)
+"hw4/graph.ml" 165 4940 4945 "hw4/graph.ml" 165 4940 4948
+type(
+  string node list -> string graph
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 165 4940 4956 "hw4/graph.ml" 165 4940 4959
+type(
+  string
+)
+"hw4/graph.ml" 165 4940 4966 "hw4/graph.ml" 165 4940 4969
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 165 4940 4971 "hw4/graph.ml" 165 4940 4974
+type(
+  string
+)
+"hw4/graph.ml" 165 4940 4975 "hw4/graph.ml" 165 4940 4978
+type(
+  string
+)
+"hw4/graph.ml" 165 4940 4970 "hw4/graph.ml" 165 4940 4979
+type(
+  string list
+)
+"hw4/graph.ml" 165 4940 4966 "hw4/graph.ml" 165 4940 4979
+type(
+  string list ref
+)
+"hw4/graph.ml" 165 4940 4950 "hw4/graph.ml" 165 4940 4980
+type(
+  string node
+)
+"hw4/graph.ml" 166 4982 4998 "hw4/graph.ml" 166 4982 5001
+type(
+  string
+)
+"hw4/graph.ml" 166 4982 5008 "hw4/graph.ml" 166 4982 5011
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 166 4982 5013 "hw4/graph.ml" 166 4982 5016
+type(
+  string
+)
+"hw4/graph.ml" 166 4982 5017 "hw4/graph.ml" 166 4982 5020
+type(
+  string
+)
+"hw4/graph.ml" 166 4982 5012 "hw4/graph.ml" 166 4982 5021
+type(
+  string list
+)
+"hw4/graph.ml" 166 4982 5008 "hw4/graph.ml" 166 4982 5021
+type(
+  string list ref
+)
+"hw4/graph.ml" 166 4982 4992 "hw4/graph.ml" 166 4982 5022
+type(
+  string node
+)
+"hw4/graph.ml" 167 5024 5040 "hw4/graph.ml" 167 5024 5043
+type(
+  string
+)
+"hw4/graph.ml" 167 5024 5050 "hw4/graph.ml" 167 5024 5053
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 167 5024 5055 "hw4/graph.ml" 167 5024 5058
+type(
+  string
+)
+"hw4/graph.ml" 167 5024 5059 "hw4/graph.ml" 167 5024 5062
+type(
+  string
+)
+"hw4/graph.ml" 167 5024 5054 "hw4/graph.ml" 167 5024 5063
+type(
+  string list
+)
+"hw4/graph.ml" 167 5024 5050 "hw4/graph.ml" 167 5024 5063
+type(
+  string list ref
+)
+"hw4/graph.ml" 167 5024 5034 "hw4/graph.ml" 167 5024 5064
+type(
+  string node
+)
+"hw4/graph.ml" 168 5066 5082 "hw4/graph.ml" 168 5066 5085
+type(
+  string
+)
+"hw4/graph.ml" 168 5066 5092 "hw4/graph.ml" 168 5066 5095
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 168 5066 5097 "hw4/graph.ml" 168 5066 5100
+type(
+  string
+)
+"hw4/graph.ml" 168 5066 5101 "hw4/graph.ml" 168 5066 5104
+type(
+  string
+)
+"hw4/graph.ml" 168 5066 5096 "hw4/graph.ml" 168 5066 5105
+type(
+  string list
+)
+"hw4/graph.ml" 168 5066 5092 "hw4/graph.ml" 168 5066 5105
+type(
+  string list ref
+)
+"hw4/graph.ml" 168 5066 5076 "hw4/graph.ml" 168 5066 5106
+type(
+  string node
+)
+"hw4/graph.ml" 165 4940 4949 "hw4/graph.ml" 168 5066 5107
+type(
+  string node list
+)
+"hw4/graph.ml" 165 4940 4945 "hw4/graph.ml" 168 5066 5107
+type(
+  string graph
+)
+type(
+  string graph
+)
+"hw4/graph.ml" 169 5111 5114 "hw4/graph.ml" 169 5111 5117
+type(
+  string
+)
+"hw4/graph.ml" 169 5111 5118 "hw4/graph.ml" 169 5111 5121
+type(
+  string
+)
+"hw4/graph.ml" 169 5111 5122 "hw4/graph.ml" 169 5111 5125
+type(
+  string
+)
+"hw4/graph.ml" 169 5111 5126 "hw4/graph.ml" 169 5111 5129
+type(
+  string
+)
+"hw4/graph.ml" 169 5111 5113 "hw4/graph.ml" 169 5111 5130
+type(
+  string list
+)
+"hw4/graph.ml" 169 5111 5131 "hw4/graph.ml" 169 5111 5132
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/graph.ml" 169 5111 5133 "hw4/graph.ml" 169 5111 5136
+type(
+  string graph -> string list
+)
+ident(
+  int_ref dfs "hw4/graph.ml" 157 4785 4789 "hw4/graph.ml" 157 4785 4792
+)
+"hw4/graph.ml" 169 5111 5137 "hw4/graph.ml" 169 5111 5138
+type(
+  string graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 164 4915 4921 "hw4/graph.ml" 164 4915 4922
+)
+"hw4/graph.ml" 169 5111 5133 "hw4/graph.ml" 169 5111 5138
+call(
+  stack
+)
+type(
+  string list
+)
+"hw4/graph.ml" 169 5111 5113 "hw4/graph.ml" 169 5111 5138
+type(
+  bool
+)
+"hw4/graph.ml" 164 4915 4917 "hw4/graph.ml" 169 5111 5138
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/graph.ml" 170 5139 5142 "hw4/graph.ml" 170 5139 5150
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/graph.ml" 170 5139 5151 "hw4/graph.ml" 170 5139 5162
+type(
+  string
+)
+"hw4/graph.ml" 170 5139 5163 "hw4/graph.ml" 170 5139 5167
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/graph.ml" 163 4893 4897 "hw4/graph.ml" 163 4893 4901
+)
+"hw4/graph.ml" 170 5139 5142 "hw4/graph.ml" 170 5139 5167
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/graph.ml" 172 5169 5173 "hw4/graph.ml" 172 5169 5177
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/graph.ml" 179 5414 5417 "hw4/graph.ml" 1 0 -1
+)
+"hw4/graph.ml" 172 5169 5178 "hw4/graph.ml" 172 5169 5180
+type(
+  unit
+)
+"hw4/graph.ml" 173 5191 5196 "hw4/graph.ml" 173 5191 5197
+type(
+  string graph
+)
+ident(
+  def g "hw4/graph.ml" 178 5386 5388 "hw4/graph.ml" 178 5386 5413
+)
+"hw4/graph.ml" 174 5215 5220 "hw4/graph.ml" 174 5215 5223
+type(
+  string node list -> string graph
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 174 5215 5231 "hw4/graph.ml" 174 5215 5234
+type(
+  string
+)
+"hw4/graph.ml" 174 5215 5241 "hw4/graph.ml" 174 5215 5244
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 174 5215 5246 "hw4/graph.ml" 174 5215 5249
+type(
+  string
+)
+"hw4/graph.ml" 174 5215 5250 "hw4/graph.ml" 174 5215 5253
+type(
+  string
+)
+"hw4/graph.ml" 174 5215 5245 "hw4/graph.ml" 174 5215 5254
+type(
+  string list
+)
+"hw4/graph.ml" 174 5215 5241 "hw4/graph.ml" 174 5215 5254
+type(
+  string list ref
+)
+"hw4/graph.ml" 174 5215 5225 "hw4/graph.ml" 174 5215 5255
+type(
+  string node
+)
+"hw4/graph.ml" 175 5257 5273 "hw4/graph.ml" 175 5257 5276
+type(
+  string
+)
+"hw4/graph.ml" 175 5257 5283 "hw4/graph.ml" 175 5257 5286
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 175 5257 5288 "hw4/graph.ml" 175 5257 5291
+type(
+  string
+)
+"hw4/graph.ml" 175 5257 5292 "hw4/graph.ml" 175 5257 5295
+type(
+  string
+)
+"hw4/graph.ml" 175 5257 5287 "hw4/graph.ml" 175 5257 5296
+type(
+  string list
+)
+"hw4/graph.ml" 175 5257 5283 "hw4/graph.ml" 175 5257 5296
+type(
+  string list ref
+)
+"hw4/graph.ml" 175 5257 5267 "hw4/graph.ml" 175 5257 5297
+type(
+  string node
+)
+"hw4/graph.ml" 176 5299 5315 "hw4/graph.ml" 176 5299 5318
+type(
+  string
+)
+"hw4/graph.ml" 176 5299 5325 "hw4/graph.ml" 176 5299 5328
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 176 5299 5330 "hw4/graph.ml" 176 5299 5333
+type(
+  string
+)
+"hw4/graph.ml" 176 5299 5334 "hw4/graph.ml" 176 5299 5337
+type(
+  string
+)
+"hw4/graph.ml" 176 5299 5329 "hw4/graph.ml" 176 5299 5338
+type(
+  string list
+)
+"hw4/graph.ml" 176 5299 5325 "hw4/graph.ml" 176 5299 5338
+type(
+  string list ref
+)
+"hw4/graph.ml" 176 5299 5309 "hw4/graph.ml" 176 5299 5339
+type(
+  string node
+)
+"hw4/graph.ml" 177 5341 5357 "hw4/graph.ml" 177 5341 5360
+type(
+  string
+)
+"hw4/graph.ml" 177 5341 5367 "hw4/graph.ml" 177 5341 5370
+type(
+  string list -> string list ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/graph.ml" 177 5341 5372 "hw4/graph.ml" 177 5341 5375
+type(
+  string
+)
+"hw4/graph.ml" 177 5341 5376 "hw4/graph.ml" 177 5341 5379
+type(
+  string
+)
+"hw4/graph.ml" 177 5341 5371 "hw4/graph.ml" 177 5341 5380
+type(
+  string list
+)
+"hw4/graph.ml" 177 5341 5367 "hw4/graph.ml" 177 5341 5380
+type(
+  string list ref
+)
+"hw4/graph.ml" 177 5341 5351 "hw4/graph.ml" 177 5341 5381
+type(
+  string node
+)
+"hw4/graph.ml" 174 5215 5224 "hw4/graph.ml" 177 5341 5382
+type(
+  string node list
+)
+"hw4/graph.ml" 174 5215 5220 "hw4/graph.ml" 177 5341 5382
+type(
+  string graph
+)
+type(
+  string graph
+)
+"hw4/graph.ml" 178 5386 5389 "hw4/graph.ml" 178 5386 5392
+type(
+  string
+)
+"hw4/graph.ml" 178 5386 5393 "hw4/graph.ml" 178 5386 5396
+type(
+  string
+)
+"hw4/graph.ml" 178 5386 5397 "hw4/graph.ml" 178 5386 5400
+type(
+  string
+)
+"hw4/graph.ml" 178 5386 5401 "hw4/graph.ml" 178 5386 5404
+type(
+  string
+)
+"hw4/graph.ml" 178 5386 5388 "hw4/graph.ml" 178 5386 5405
+type(
+  string list
+)
+"hw4/graph.ml" 178 5386 5406 "hw4/graph.ml" 178 5386 5407
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/graph.ml" 178 5386 5408 "hw4/graph.ml" 178 5386 5411
+type(
+  string graph -> string list
+)
+ident(
+  int_ref dfs "hw4/graph.ml" 157 4785 4789 "hw4/graph.ml" 157 4785 4792
+)
+"hw4/graph.ml" 178 5386 5412 "hw4/graph.ml" 178 5386 5413
+type(
+  string graph
+)
+ident(
+  int_ref g "hw4/graph.ml" 173 5191 5196 "hw4/graph.ml" 173 5191 5197
+)
+"hw4/graph.ml" 178 5386 5408 "hw4/graph.ml" 178 5386 5413
+call(
+  stack
+)
+type(
+  string list
+)
+"hw4/graph.ml" 178 5386 5388 "hw4/graph.ml" 178 5386 5413
+type(
+  bool
+)
+"hw4/graph.ml" 173 5191 5192 "hw4/graph.ml" 178 5386 5413
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/graph.ml" 179 5414 5417 "hw4/graph.ml" 179 5414 5425
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/graph.ml" 179 5414 5426 "hw4/graph.ml" 179 5414 5437
+type(
+  string
+)
+"hw4/graph.ml" 179 5414 5438 "hw4/graph.ml" 179 5414 5442
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/graph.ml" 172 5169 5173 "hw4/graph.ml" 172 5169 5177
+)
+"hw4/graph.ml" 179 5414 5417 "hw4/graph.ml" 179 5414 5442
+call(
+  stack
+)
+type(
+  unit
+)

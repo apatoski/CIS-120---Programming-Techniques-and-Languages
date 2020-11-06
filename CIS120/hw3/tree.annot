@@ -1,0 +1,2935 @@
+"hw3/tree.ml" 30 1017 1021 "hw3/tree.ml" 30 1017 1033
+type(
+  int tree
+)
+ident(
+  def evample_tree "hw3/tree.ml" 44 1245 1245 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 31 1046 1060 "hw3/tree.ml" 31 1046 1065
+type(
+  int tree
+)
+"hw3/tree.ml" 31 1046 1067 "hw3/tree.ml" 31 1046 1068
+type(
+  int
+)
+"hw3/tree.ml" 31 1046 1070 "hw3/tree.ml" 31 1046 1075
+type(
+  int tree
+)
+"hw3/tree.ml" 31 1046 1054 "hw3/tree.ml" 31 1046 1076
+type(
+  int tree
+)
+"hw3/tree.ml" 31 1046 1078 "hw3/tree.ml" 31 1046 1079
+type(
+  int
+)
+"hw3/tree.ml" 31 1046 1087 "hw3/tree.ml" 31 1046 1092
+type(
+  int tree
+)
+"hw3/tree.ml" 31 1046 1094 "hw3/tree.ml" 31 1046 1095
+type(
+  int
+)
+"hw3/tree.ml" 31 1046 1097 "hw3/tree.ml" 31 1046 1102
+type(
+  int tree
+)
+"hw3/tree.ml" 31 1046 1081 "hw3/tree.ml" 31 1046 1103
+type(
+  int tree
+)
+"hw3/tree.ml" 31 1046 1048 "hw3/tree.ml" 31 1046 1104
+type(
+  int tree
+)
+type(
+  int tree
+)
+"hw3/tree.ml" 44 1245 1249 "hw3/tree.ml" 44 1245 1258
+type(
+  int tree
+)
+ident(
+  def your_tree "hw3/tree.ml" 77 1850 1850 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 49 1298 1310 "hw3/tree.ml" 49 1298 1315
+type(
+  int tree
+)
+"hw3/tree.ml" 49 1298 1316 "hw3/tree.ml" 49 1298 1317
+type(
+  int
+)
+"hw3/tree.ml" 49 1298 1318 "hw3/tree.ml" 49 1298 1323
+type(
+  int tree
+)
+"hw3/tree.ml" 49 1298 1304 "hw3/tree.ml" 49 1298 1324
+type(
+  int tree
+)
+"hw3/tree.ml" 50 1326 1332 "hw3/tree.ml" 50 1326 1333
+type(
+  int
+)
+"hw3/tree.ml" 53 1354 1368 "hw3/tree.ml" 53 1354 1373
+type(
+  int tree
+)
+"hw3/tree.ml" 53 1354 1374 "hw3/tree.ml" 53 1354 1375
+type(
+  int
+)
+"hw3/tree.ml" 53 1354 1376 "hw3/tree.ml" 53 1354 1381
+type(
+  int tree
+)
+"hw3/tree.ml" 53 1354 1362 "hw3/tree.ml" 53 1354 1382
+type(
+  int tree
+)
+"hw3/tree.ml" 54 1384 1392 "hw3/tree.ml" 54 1384 1393
+type(
+  int
+)
+"hw3/tree.ml" 55 1395 1409 "hw3/tree.ml" 55 1395 1414
+type(
+  int tree
+)
+"hw3/tree.ml" 55 1395 1415 "hw3/tree.ml" 55 1395 1416
+type(
+  int
+)
+"hw3/tree.ml" 55 1395 1417 "hw3/tree.ml" 55 1395 1422
+type(
+  int tree
+)
+"hw3/tree.ml" 55 1395 1403 "hw3/tree.ml" 55 1395 1423
+type(
+  int tree
+)
+"hw3/tree.ml" 51 1335 1341 "hw3/tree.ml" 56 1424 1431
+type(
+  int tree
+)
+"hw3/tree.ml" 47 1283 1287 "hw3/tree.ml" 57 1432 1437
+type(
+  int tree
+)
+"hw3/tree.ml" 58 1439 1443 "hw3/tree.ml" 58 1439 1444
+type(
+  int
+)
+"hw3/tree.ml" 59 1446 1456 "hw3/tree.ml" 59 1446 1461
+type(
+  int tree
+)
+"hw3/tree.ml" 59 1446 1462 "hw3/tree.ml" 59 1446 1463
+type(
+  int
+)
+"hw3/tree.ml" 59 1446 1464 "hw3/tree.ml" 59 1446 1469
+type(
+  int tree
+)
+"hw3/tree.ml" 59 1446 1450 "hw3/tree.ml" 59 1446 1470
+type(
+  int tree
+)
+"hw3/tree.ml" 45 1272 1274 "hw3/tree.ml" 60 1471 1474
+type(
+  int tree
+)
+type(
+  int tree
+)
+"hw3/tree.ml" 77 1850 1858 "hw3/tree.ml" 77 1850 1869
+type(
+  'a tree -> bool
+)
+ident(
+  def is_complete "hw3/tree.ml" 77 1850 1850 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 77 1850 1871 "hw3/tree.ml" 77 1850 1872
+type(
+  'a tree
+)
+ident(
+  def t "hw3/tree.ml" 77 1850 1883 "hw3/tree.ml" 90 2244 2249
+)
+"hw3/tree.ml" 78 1892 1902 "hw3/tree.ml" 78 1892 1907
+type(
+  'a tree -> int
+)
+ident(
+  def depth "hw3/tree.ml" 78 1892 1894 "hw3/tree.ml" 90 2244 2249
+)
+"hw3/tree.ml" 78 1892 1909 "hw3/tree.ml" 78 1892 1910
+type(
+  'a tree
+)
+ident(
+  def t "hw3/tree.ml" 78 1892 1921 "hw3/tree.ml" 83 2046 2053
+)
+"hw3/tree.ml" 80 1939 1951 "hw3/tree.ml" 80 1939 1952
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 78 1892 1909 "hw3/tree.ml" 78 1892 1910
+)
+"hw3/tree.ml" 81 1958 1966 "hw3/tree.ml" 81 1958 1971
+type(
+  'a tree
+)
+"hw3/tree.ml" 81 1958 1986 "hw3/tree.ml" 81 1958 1987
+type(
+  int
+)
+"hw3/tree.ml" 82 1988 2002 "hw3/tree.ml" 82 1988 2004
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 82 1988 2016 "hw3/tree.ml" 82 1988 2045
+)
+"hw3/tree.ml" 82 1988 2006 "hw3/tree.ml" 82 1988 2007
+type(
+  'a
+)
+"hw3/tree.ml" 82 1988 2009 "hw3/tree.ml" 82 1988 2011
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 82 1988 2016 "hw3/tree.ml" 82 1988 2045
+)
+"hw3/tree.ml" 82 1988 1996 "hw3/tree.ml" 82 1988 2012
+type(
+  'a tree
+)
+"hw3/tree.ml" 82 1988 2016 "hw3/tree.ml" 82 1988 2017
+type(
+  int
+)
+"hw3/tree.ml" 82 1988 2018 "hw3/tree.ml" 82 1988 2019
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw3/tree.ml" 82 1988 2020 "hw3/tree.ml" 82 1988 2023
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw3/tree.ml" 82 1988 2025 "hw3/tree.ml" 82 1988 2030
+type(
+  'a tree -> int
+)
+ident(
+  int_ref depth "hw3/tree.ml" 78 1892 1902 "hw3/tree.ml" 78 1892 1907
+)
+"hw3/tree.ml" 82 1988 2031 "hw3/tree.ml" 82 1988 2033
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 82 1988 2002 "hw3/tree.ml" 82 1988 2004
+)
+"hw3/tree.ml" 82 1988 2024 "hw3/tree.ml" 82 1988 2034
+call(
+  stack
+)
+type(
+  int
+)
+"hw3/tree.ml" 82 1988 2036 "hw3/tree.ml" 82 1988 2041
+type(
+  'a tree -> int
+)
+ident(
+  int_ref depth "hw3/tree.ml" 78 1892 1902 "hw3/tree.ml" 78 1892 1907
+)
+"hw3/tree.ml" 82 1988 2042 "hw3/tree.ml" 82 1988 2044
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 82 1988 2009 "hw3/tree.ml" 82 1988 2011
+)
+"hw3/tree.ml" 82 1988 2035 "hw3/tree.ml" 82 1988 2045
+call(
+  stack
+)
+type(
+  int
+)
+"hw3/tree.ml" 82 1988 2020 "hw3/tree.ml" 82 1988 2045
+call(
+  stack
+)
+type(
+  int
+)
+"hw3/tree.ml" 82 1988 2016 "hw3/tree.ml" 82 1988 2045
+type(
+  int
+)
+"hw3/tree.ml" 79 1929 1933 "hw3/tree.ml" 83 2046 2053
+type(
+  int
+)
+type(
+  int
+)
+"hw3/tree.ml" 86 2067 2077 "hw3/tree.ml" 86 2067 2078
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 77 1850 1871 "hw3/tree.ml" 77 1850 1872
+)
+"hw3/tree.ml" 87 2084 2090 "hw3/tree.ml" 87 2084 2095
+type(
+  'a tree
+)
+"hw3/tree.ml" 87 2084 2108 "hw3/tree.ml" 87 2084 2112
+type(
+  bool
+)
+"hw3/tree.ml" 88 2113 2125 "hw3/tree.ml" 88 2113 2127
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 88 2113 2137 "hw3/tree.ml" 89 2170 2243
+)
+"hw3/tree.ml" 88 2113 2128 "hw3/tree.ml" 88 2113 2129
+type(
+  'a
+)
+"hw3/tree.ml" 88 2113 2130 "hw3/tree.ml" 88 2113 2132
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 88 2113 2137 "hw3/tree.ml" 89 2170 2243
+)
+"hw3/tree.ml" 88 2113 2119 "hw3/tree.ml" 88 2113 2133
+type(
+  'a tree
+)
+"hw3/tree.ml" 88 2113 2141 "hw3/tree.ml" 88 2113 2146
+type(
+  'a tree -> int
+)
+ident(
+  int_ref depth "hw3/tree.ml" 78 1892 1902 "hw3/tree.ml" 78 1892 1907
+)
+"hw3/tree.ml" 88 2113 2147 "hw3/tree.ml" 88 2113 2149
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 88 2113 2125 "hw3/tree.ml" 88 2113 2127
+)
+"hw3/tree.ml" 88 2113 2140 "hw3/tree.ml" 88 2113 2150
+call(
+  stack
+)
+type(
+  int
+)
+"hw3/tree.ml" 88 2113 2151 "hw3/tree.ml" 88 2113 2152
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 88 2113 2154 "hw3/tree.ml" 88 2113 2159
+type(
+  'a tree -> int
+)
+ident(
+  int_ref depth "hw3/tree.ml" 78 1892 1902 "hw3/tree.ml" 78 1892 1907
+)
+"hw3/tree.ml" 88 2113 2160 "hw3/tree.ml" 88 2113 2162
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 88 2113 2130 "hw3/tree.ml" 88 2113 2132
+)
+"hw3/tree.ml" 88 2113 2153 "hw3/tree.ml" 88 2113 2163
+call(
+  stack
+)
+type(
+  int
+)
+"hw3/tree.ml" 88 2113 2140 "hw3/tree.ml" 88 2113 2163
+type(
+  bool
+)
+"hw3/tree.ml" 89 2170 2196 "hw3/tree.ml" 89 2170 2207
+type(
+  'a tree -> bool
+)
+ident(
+  int_ref is_complete "hw3/tree.ml" 77 1850 1858 "hw3/tree.ml" 77 1850 1869
+)
+"hw3/tree.ml" 89 2170 2208 "hw3/tree.ml" 89 2170 2210
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 88 2113 2125 "hw3/tree.ml" 88 2113 2127
+)
+"hw3/tree.ml" 89 2170 2195 "hw3/tree.ml" 89 2170 2211
+call(
+  stack
+)
+type(
+  bool
+)
+"hw3/tree.ml" 89 2170 2212 "hw3/tree.ml" 89 2170 2214
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw3/tree.ml" 89 2170 2216 "hw3/tree.ml" 89 2170 2227
+type(
+  'a tree -> bool
+)
+ident(
+  int_ref is_complete "hw3/tree.ml" 77 1850 1858 "hw3/tree.ml" 77 1850 1869
+)
+"hw3/tree.ml" 89 2170 2228 "hw3/tree.ml" 89 2170 2230
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 88 2113 2130 "hw3/tree.ml" 88 2113 2132
+)
+"hw3/tree.ml" 89 2170 2215 "hw3/tree.ml" 89 2170 2231
+call(
+  tail
+)
+type(
+  bool
+)
+"hw3/tree.ml" 89 2170 2194 "hw3/tree.ml" 89 2170 2232
+type(
+  bool
+)
+"hw3/tree.ml" 89 2170 2238 "hw3/tree.ml" 89 2170 2243
+type(
+  bool
+)
+"hw3/tree.ml" 88 2113 2137 "hw3/tree.ml" 89 2170 2243
+type(
+  bool
+)
+"hw3/tree.ml" 85 2059 2061 "hw3/tree.ml" 90 2244 2249
+type(
+  bool
+)
+"hw3/tree.ml" 78 1892 1894 "hw3/tree.ml" 90 2244 2249
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 95 2370 2374 "hw3/tree.ml" 95 2370 2378
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/tree.ml" 97 2411 2414 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 95 2370 2379 "hw3/tree.ml" 95 2370 2381
+type(
+  unit
+)
+"hw3/tree.ml" 96 2391 2393 "hw3/tree.ml" 96 2391 2404
+type(
+  '_a tree -> bool
+)
+ident(
+  int_ref is_complete "hw3/tree.ml" 77 1850 1858 "hw3/tree.ml" 77 1850 1869
+)
+"hw3/tree.ml" 96 2391 2405 "hw3/tree.ml" 96 2391 2410
+type(
+  '_a tree
+)
+"hw3/tree.ml" 96 2391 2393 "hw3/tree.ml" 96 2391 2410
+call(
+  tail
+)
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 97 2411 2414 "hw3/tree.ml" 97 2411 2422
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/tree.ml" 97 2411 2423 "hw3/tree.ml" 97 2411 2447
+type(
+  string
+)
+"hw3/tree.ml" 97 2411 2448 "hw3/tree.ml" 97 2411 2452
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/tree.ml" 95 2370 2374 "hw3/tree.ml" 95 2370 2378
+)
+"hw3/tree.ml" 97 2411 2414 "hw3/tree.ml" 97 2411 2452
+call(
+  stack
+)
+type(
+  unit
+)
+"hw3/tree.ml" 99 2454 2458 "hw3/tree.ml" 99 2454 2462
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/tree.ml" 101 2514 2517 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 99 2454 2463 "hw3/tree.ml" 99 2454 2465
+type(
+  unit
+)
+"hw3/tree.ml" 100 2475 2477 "hw3/tree.ml" 100 2475 2488
+type(
+  int tree -> bool
+)
+ident(
+  int_ref is_complete "hw3/tree.ml" 77 1850 1858 "hw3/tree.ml" 77 1850 1869
+)
+"hw3/tree.ml" 100 2475 2496 "hw3/tree.ml" 100 2475 2501
+type(
+  int tree
+)
+"hw3/tree.ml" 100 2475 2503 "hw3/tree.ml" 100 2475 2504
+type(
+  int
+)
+"hw3/tree.ml" 100 2475 2506 "hw3/tree.ml" 100 2475 2511
+type(
+  int tree
+)
+"hw3/tree.ml" 100 2475 2489 "hw3/tree.ml" 100 2475 2513
+type(
+  int tree
+)
+"hw3/tree.ml" 100 2475 2477 "hw3/tree.ml" 100 2475 2513
+call(
+  tail
+)
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 101 2514 2517 "hw3/tree.ml" 101 2514 2525
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/tree.ml" 101 2514 2527 "hw3/tree.ml" 101 2514 2545
+type(
+  string
+)
+"hw3/tree.ml" 101 2514 2546 "hw3/tree.ml" 101 2514 2550
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/tree.ml" 99 2454 2458 "hw3/tree.ml" 99 2454 2462
+)
+"hw3/tree.ml" 101 2514 2517 "hw3/tree.ml" 101 2514 2550
+call(
+  stack
+)
+type(
+  unit
+)
+"hw3/tree.ml" 103 2552 2556 "hw3/tree.ml" 103 2552 2560
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/tree.ml" 107 2746 2749 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 103 2552 2561 "hw3/tree.ml" 103 2552 2563
+type(
+  unit
+)
+"hw3/tree.ml" 104 2573 2579 "hw3/tree.ml" 104 2573 2586
+type(
+  int tree
+)
+ident(
+  def ev_tree "hw3/tree.ml" 106 2724 2726 "hw3/tree.ml" 106 2724 2745
+)
+"hw3/tree.ml" 104 2573 2607 "hw3/tree.ml" 104 2573 2612
+type(
+  int tree
+)
+"hw3/tree.ml" 104 2573 2614 "hw3/tree.ml" 104 2573 2615
+type(
+  int
+)
+"hw3/tree.ml" 104 2573 2617 "hw3/tree.ml" 104 2573 2622
+type(
+  int tree
+)
+"hw3/tree.ml" 104 2573 2601 "hw3/tree.ml" 104 2573 2623
+type(
+  int tree
+)
+"hw3/tree.ml" 104 2573 2625 "hw3/tree.ml" 104 2573 2627
+type(
+  int
+)
+"hw3/tree.ml" 104 2573 2635 "hw3/tree.ml" 104 2573 2640
+type(
+  int tree
+)
+"hw3/tree.ml" 104 2573 2642 "hw3/tree.ml" 104 2573 2643
+type(
+  int
+)
+"hw3/tree.ml" 104 2573 2645 "hw3/tree.ml" 104 2573 2650
+type(
+  int tree
+)
+"hw3/tree.ml" 104 2573 2629 "hw3/tree.ml" 104 2573 2651
+type(
+  int tree
+)
+"hw3/tree.ml" 104 2573 2595 "hw3/tree.ml" 104 2573 2652
+type(
+  int tree
+)
+"hw3/tree.ml" 105 2654 2658 "hw3/tree.ml" 105 2654 2660
+type(
+  int
+)
+"hw3/tree.ml" 105 2654 2674 "hw3/tree.ml" 105 2654 2679
+type(
+  int tree
+)
+"hw3/tree.ml" 105 2654 2681 "hw3/tree.ml" 105 2654 2682
+type(
+  int
+)
+"hw3/tree.ml" 105 2654 2684 "hw3/tree.ml" 105 2654 2689
+type(
+  int tree
+)
+"hw3/tree.ml" 105 2654 2668 "hw3/tree.ml" 105 2654 2690
+type(
+  int tree
+)
+"hw3/tree.ml" 105 2654 2692 "hw3/tree.ml" 105 2654 2694
+type(
+  int
+)
+"hw3/tree.ml" 105 2654 2702 "hw3/tree.ml" 105 2654 2707
+type(
+  int tree
+)
+"hw3/tree.ml" 105 2654 2709 "hw3/tree.ml" 105 2654 2710
+type(
+  int
+)
+"hw3/tree.ml" 105 2654 2712 "hw3/tree.ml" 105 2654 2717
+type(
+  int tree
+)
+"hw3/tree.ml" 105 2654 2696 "hw3/tree.ml" 105 2654 2718
+type(
+  int tree
+)
+"hw3/tree.ml" 105 2654 2662 "hw3/tree.ml" 105 2654 2719
+type(
+  int tree
+)
+"hw3/tree.ml" 104 2573 2589 "hw3/tree.ml" 105 2654 2720
+type(
+  int tree
+)
+"hw3/tree.ml" 106 2724 2726 "hw3/tree.ml" 106 2724 2737
+type(
+  int tree -> bool
+)
+ident(
+  int_ref is_complete "hw3/tree.ml" 77 1850 1858 "hw3/tree.ml" 77 1850 1869
+)
+"hw3/tree.ml" 106 2724 2738 "hw3/tree.ml" 106 2724 2745
+type(
+  int tree
+)
+ident(
+  int_ref ev_tree "hw3/tree.ml" 104 2573 2579 "hw3/tree.ml" 104 2573 2586
+)
+"hw3/tree.ml" 106 2724 2726 "hw3/tree.ml" 106 2724 2745
+call(
+  tail
+)
+type(
+  bool
+)
+"hw3/tree.ml" 104 2573 2575 "hw3/tree.ml" 106 2724 2745
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 107 2746 2749 "hw3/tree.ml" 107 2746 2757
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/tree.ml" 107 2746 2758 "hw3/tree.ml" 107 2746 2784
+type(
+  string
+)
+"hw3/tree.ml" 107 2746 2785 "hw3/tree.ml" 107 2746 2789
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/tree.ml" 103 2552 2556 "hw3/tree.ml" 103 2552 2560
+)
+"hw3/tree.ml" 107 2746 2749 "hw3/tree.ml" 107 2746 2789
+call(
+  stack
+)
+type(
+  unit
+)
+"hw3/tree.ml" 119 3251 3259 "hw3/tree.ml" 119 3251 3267
+type(
+  'a tree -> 'a
+)
+ident(
+  def tree_max "hw3/tree.ml" 119 3251 3251 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 119 3251 3269 "hw3/tree.ml" 119 3251 3270
+type(
+  'a tree
+)
+ident(
+  def t "hw3/tree.ml" 119 3251 3281 "hw3/tree.ml" 127 3567 3572
+)
+"hw3/tree.ml" 121 3296 3306 "hw3/tree.ml" 121 3296 3307
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 119 3251 3269 "hw3/tree.ml" 119 3251 3270
+)
+"hw3/tree.ml" 122 3313 3319 "hw3/tree.ml" 122 3313 3324
+type(
+  'a tree
+)
+"hw3/tree.ml" 122 3313 3343 "hw3/tree.ml" 122 3313 3351
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw3/tree.ml" 122 3313 3352 "hw3/tree.ml" 122 3313 3363
+type(
+  string
+)
+"hw3/tree.ml" 122 3313 3343 "hw3/tree.ml" 122 3313 3363
+call(
+  tail
+)
+type(
+  'a
+)
+"hw3/tree.ml" 123 3364 3376 "hw3/tree.ml" 123 3364 3381
+type(
+  'a tree
+)
+"hw3/tree.ml" 123 3364 3382 "hw3/tree.ml" 123 3364 3383
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 123 3364 3394 "hw3/tree.ml" 123 3364 3395
+)
+"hw3/tree.ml" 123 3364 3384 "hw3/tree.ml" 123 3364 3389
+type(
+  'a tree
+)
+"hw3/tree.ml" 123 3364 3370 "hw3/tree.ml" 123 3364 3390
+type(
+  'a tree
+)
+"hw3/tree.ml" 123 3364 3394 "hw3/tree.ml" 123 3364 3395
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 123 3364 3382 "hw3/tree.ml" 123 3364 3383
+)
+"hw3/tree.ml" 124 3396 3408 "hw3/tree.ml" 124 3396 3413
+type(
+  'a tree
+)
+"hw3/tree.ml" 124 3396 3414 "hw3/tree.ml" 124 3396 3415
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 124 3396 3426 "hw3/tree.ml" 124 3396 3445
+)
+"hw3/tree.ml" 124 3396 3416 "hw3/tree.ml" 124 3396 3418
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 124 3396 3426 "hw3/tree.ml" 124 3396 3445
+)
+"hw3/tree.ml" 124 3396 3402 "hw3/tree.ml" 124 3396 3419
+type(
+  'a tree
+)
+"hw3/tree.ml" 124 3396 3426 "hw3/tree.ml" 124 3396 3429
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw3/tree.ml" 124 3396 3430 "hw3/tree.ml" 124 3396 3431
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 124 3396 3414 "hw3/tree.ml" 124 3396 3415
+)
+"hw3/tree.ml" 124 3396 3433 "hw3/tree.ml" 124 3396 3441
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref tree_max "hw3/tree.ml" 119 3251 3259 "hw3/tree.ml" 119 3251 3267
+)
+"hw3/tree.ml" 124 3396 3442 "hw3/tree.ml" 124 3396 3444
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 124 3396 3416 "hw3/tree.ml" 124 3396 3418
+)
+"hw3/tree.ml" 124 3396 3432 "hw3/tree.ml" 124 3396 3445
+call(
+  stack
+)
+type(
+  'a
+)
+"hw3/tree.ml" 124 3396 3426 "hw3/tree.ml" 124 3396 3445
+call(
+  tail
+)
+type(
+  'a
+)
+"hw3/tree.ml" 125 3446 3458 "hw3/tree.ml" 125 3446 3460
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 125 3446 3476 "hw3/tree.ml" 125 3446 3495
+)
+"hw3/tree.ml" 125 3446 3461 "hw3/tree.ml" 125 3446 3462
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 125 3446 3476 "hw3/tree.ml" 125 3446 3495
+)
+"hw3/tree.ml" 125 3446 3463 "hw3/tree.ml" 125 3446 3468
+type(
+  'a tree
+)
+"hw3/tree.ml" 125 3446 3452 "hw3/tree.ml" 125 3446 3469
+type(
+  'a tree
+)
+"hw3/tree.ml" 125 3446 3476 "hw3/tree.ml" 125 3446 3479
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw3/tree.ml" 125 3446 3480 "hw3/tree.ml" 125 3446 3481
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 125 3446 3461 "hw3/tree.ml" 125 3446 3462
+)
+"hw3/tree.ml" 125 3446 3483 "hw3/tree.ml" 125 3446 3491
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref tree_max "hw3/tree.ml" 119 3251 3259 "hw3/tree.ml" 119 3251 3267
+)
+"hw3/tree.ml" 125 3446 3492 "hw3/tree.ml" 125 3446 3494
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 125 3446 3458 "hw3/tree.ml" 125 3446 3460
+)
+"hw3/tree.ml" 125 3446 3482 "hw3/tree.ml" 125 3446 3495
+call(
+  stack
+)
+type(
+  'a
+)
+"hw3/tree.ml" 125 3446 3476 "hw3/tree.ml" 125 3446 3495
+call(
+  tail
+)
+type(
+  'a
+)
+"hw3/tree.ml" 126 3496 3508 "hw3/tree.ml" 126 3496 3510
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 126 3496 3526 "hw3/tree.ml" 126 3496 3566
+)
+"hw3/tree.ml" 126 3496 3511 "hw3/tree.ml" 126 3496 3512
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 126 3496 3526 "hw3/tree.ml" 126 3496 3566
+)
+"hw3/tree.ml" 126 3496 3513 "hw3/tree.ml" 126 3496 3515
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 126 3496 3526 "hw3/tree.ml" 126 3496 3566
+)
+"hw3/tree.ml" 126 3496 3502 "hw3/tree.ml" 126 3496 3516
+type(
+  'a tree
+)
+"hw3/tree.ml" 126 3496 3526 "hw3/tree.ml" 126 3496 3529
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw3/tree.ml" 126 3496 3532 "hw3/tree.ml" 126 3496 3535
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw3/tree.ml" 126 3496 3537 "hw3/tree.ml" 126 3496 3545
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref tree_max "hw3/tree.ml" 119 3251 3259 "hw3/tree.ml" 119 3251 3267
+)
+"hw3/tree.ml" 126 3496 3546 "hw3/tree.ml" 126 3496 3548
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 126 3496 3513 "hw3/tree.ml" 126 3496 3515
+)
+"hw3/tree.ml" 126 3496 3536 "hw3/tree.ml" 126 3496 3549
+call(
+  stack
+)
+type(
+  'a
+)
+"hw3/tree.ml" 126 3496 3551 "hw3/tree.ml" 126 3496 3559
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref tree_max "hw3/tree.ml" 119 3251 3259 "hw3/tree.ml" 119 3251 3267
+)
+"hw3/tree.ml" 126 3496 3560 "hw3/tree.ml" 126 3496 3562
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 126 3496 3508 "hw3/tree.ml" 126 3496 3510
+)
+"hw3/tree.ml" 126 3496 3550 "hw3/tree.ml" 126 3496 3563
+call(
+  stack
+)
+type(
+  'a
+)
+"hw3/tree.ml" 126 3496 3530 "hw3/tree.ml" 126 3496 3564
+call(
+  stack
+)
+type(
+  'a
+)
+"hw3/tree.ml" 126 3496 3565 "hw3/tree.ml" 126 3496 3566
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 126 3496 3511 "hw3/tree.ml" 126 3496 3512
+)
+"hw3/tree.ml" 126 3496 3526 "hw3/tree.ml" 126 3496 3566
+call(
+  tail
+)
+type(
+  'a
+)
+"hw3/tree.ml" 120 3288 3290 "hw3/tree.ml" 127 3567 3572
+type(
+  'a
+)
+type(
+  'a
+)
+"hw3/tree.ml" 129 3574 3578 "hw3/tree.ml" 129 3574 3582
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/tree.ml" 131 3617 3620 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 129 3574 3583 "hw3/tree.ml" 129 3574 3585
+type(
+  unit
+)
+"hw3/tree.ml" 130 3595 3597 "hw3/tree.ml" 130 3595 3605
+type(
+  int tree -> int
+)
+ident(
+  int_ref tree_max "hw3/tree.ml" 119 3251 3259 "hw3/tree.ml" 119 3251 3267
+)
+"hw3/tree.ml" 130 3595 3606 "hw3/tree.ml" 130 3595 3611
+type(
+  int tree
+)
+"hw3/tree.ml" 130 3595 3597 "hw3/tree.ml" 130 3595 3611
+call(
+  stack
+)
+type(
+  int
+)
+"hw3/tree.ml" 130 3595 3612 "hw3/tree.ml" 130 3595 3613
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 130 3595 3614 "hw3/tree.ml" 130 3595 3616
+type(
+  int
+)
+"hw3/tree.ml" 130 3595 3597 "hw3/tree.ml" 130 3595 3616
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 131 3617 3620 "hw3/tree.ml" 131 3617 3636
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_failing_test
+)
+"hw3/tree.ml" 131 3617 3637 "hw3/tree.ml" 131 3617 3656
+type(
+  string
+)
+"hw3/tree.ml" 131 3617 3657 "hw3/tree.ml" 131 3617 3661
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/tree.ml" 129 3574 3578 "hw3/tree.ml" 129 3574 3582
+)
+"hw3/tree.ml" 131 3617 3620 "hw3/tree.ml" 131 3617 3661
+call(
+  stack
+)
+type(
+  unit
+)
+"hw3/tree.ml" 133 3663 3667 "hw3/tree.ml" 133 3663 3671
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/tree.ml" 135 3712 3715 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 133 3663 3672 "hw3/tree.ml" 133 3663 3674
+type(
+  unit
+)
+"hw3/tree.ml" 134 3684 3686 "hw3/tree.ml" 134 3684 3694
+type(
+  int tree -> int
+)
+ident(
+  int_ref tree_max "hw3/tree.ml" 119 3251 3259 "hw3/tree.ml" 119 3251 3267
+)
+"hw3/tree.ml" 134 3684 3695 "hw3/tree.ml" 134 3684 3707
+type(
+  int tree
+)
+ident(
+  int_ref evample_tree "hw3/tree.ml" 30 1017 1021 "hw3/tree.ml" 30 1017 1033
+)
+"hw3/tree.ml" 134 3684 3686 "hw3/tree.ml" 134 3684 3707
+call(
+  stack
+)
+type(
+  int
+)
+"hw3/tree.ml" 134 3684 3708 "hw3/tree.ml" 134 3684 3709
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 134 3684 3710 "hw3/tree.ml" 134 3684 3711
+type(
+  int
+)
+"hw3/tree.ml" 134 3684 3686 "hw3/tree.ml" 134 3684 3711
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 135 3712 3715 "hw3/tree.ml" 135 3712 3723
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/tree.ml" 135 3712 3724 "hw3/tree.ml" 135 3712 3750
+type(
+  string
+)
+"hw3/tree.ml" 135 3712 3751 "hw3/tree.ml" 135 3712 3755
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/tree.ml" 133 3663 3667 "hw3/tree.ml" 133 3663 3671
+)
+"hw3/tree.ml" 135 3712 3715 "hw3/tree.ml" 135 3712 3755
+call(
+  stack
+)
+type(
+  unit
+)
+"hw3/tree.ml" 166 5223 5231 "hw3/tree.ml" 166 5223 5237
+type(
+  'a -> 'a tree -> bool
+)
+ident(
+  def lookup "hw3/tree.ml" 166 5223 5223 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 166 5223 5239 "hw3/tree.ml" 166 5223 5240
+type(
+  'a
+)
+ident(
+  def x "hw3/tree.ml" 166 5223 5246 "hw3/tree.ml" 173 5464 5469
+)
+"hw3/tree.ml" 166 5223 5247 "hw3/tree.ml" 166 5223 5248
+type(
+  'a tree
+)
+ident(
+  def t "hw3/tree.ml" 166 5223 5259 "hw3/tree.ml" 173 5464 5469
+)
+"hw3/tree.ml" 168 5276 5286 "hw3/tree.ml" 168 5276 5287
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 166 5223 5247 "hw3/tree.ml" 166 5223 5248
+)
+"hw3/tree.ml" 169 5293 5299 "hw3/tree.ml" 169 5293 5304
+type(
+  'a tree
+)
+"hw3/tree.ml" 169 5293 5317 "hw3/tree.ml" 169 5293 5322
+type(
+  bool
+)
+"hw3/tree.ml" 170 5323 5335 "hw3/tree.ml" 170 5323 5337
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 170 5323 5347 "hw3/tree.ml" 172 5423 5463
+)
+"hw3/tree.ml" 170 5323 5338 "hw3/tree.ml" 170 5323 5339
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 170 5323 5347 "hw3/tree.ml" 172 5423 5463
+)
+"hw3/tree.ml" 170 5323 5340 "hw3/tree.ml" 170 5323 5342
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 170 5323 5347 "hw3/tree.ml" 172 5423 5463
+)
+"hw3/tree.ml" 170 5323 5329 "hw3/tree.ml" 170 5323 5343
+type(
+  'a tree
+)
+"hw3/tree.ml" 170 5323 5350 "hw3/tree.ml" 170 5323 5351
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 166 5223 5239 "hw3/tree.ml" 166 5223 5240
+)
+"hw3/tree.ml" 170 5323 5352 "hw3/tree.ml" 170 5323 5353
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 170 5323 5354 "hw3/tree.ml" 170 5323 5355
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 170 5323 5338 "hw3/tree.ml" 170 5323 5339
+)
+"hw3/tree.ml" 170 5323 5350 "hw3/tree.ml" 170 5323 5355
+type(
+  bool
+)
+"hw3/tree.ml" 170 5323 5361 "hw3/tree.ml" 170 5323 5365
+type(
+  bool
+)
+"hw3/tree.ml" 171 5367 5399 "hw3/tree.ml" 171 5367 5400
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 166 5223 5239 "hw3/tree.ml" 166 5223 5240
+)
+"hw3/tree.ml" 171 5367 5401 "hw3/tree.ml" 171 5367 5402
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"hw3/tree.ml" 171 5367 5403 "hw3/tree.ml" 171 5367 5404
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 170 5323 5338 "hw3/tree.ml" 170 5323 5339
+)
+"hw3/tree.ml" 171 5367 5399 "hw3/tree.ml" 171 5367 5404
+type(
+  bool
+)
+"hw3/tree.ml" 171 5367 5410 "hw3/tree.ml" 171 5367 5416
+type(
+  'a -> 'a tree -> bool
+)
+ident(
+  int_ref lookup "hw3/tree.ml" 166 5223 5231 "hw3/tree.ml" 166 5223 5237
+)
+"hw3/tree.ml" 171 5367 5417 "hw3/tree.ml" 171 5367 5418
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 166 5223 5239 "hw3/tree.ml" 166 5223 5240
+)
+"hw3/tree.ml" 171 5367 5419 "hw3/tree.ml" 171 5367 5421
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 170 5323 5340 "hw3/tree.ml" 170 5323 5342
+)
+"hw3/tree.ml" 171 5367 5410 "hw3/tree.ml" 171 5367 5421
+call(
+  tail
+)
+type(
+  bool
+)
+"hw3/tree.ml" 172 5423 5452 "hw3/tree.ml" 172 5423 5458
+type(
+  'a -> 'a tree -> bool
+)
+ident(
+  int_ref lookup "hw3/tree.ml" 166 5223 5231 "hw3/tree.ml" 166 5223 5237
+)
+"hw3/tree.ml" 172 5423 5459 "hw3/tree.ml" 172 5423 5460
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 166 5223 5239 "hw3/tree.ml" 166 5223 5240
+)
+"hw3/tree.ml" 172 5423 5461 "hw3/tree.ml" 172 5423 5463
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 170 5323 5335 "hw3/tree.ml" 170 5323 5337
+)
+"hw3/tree.ml" 172 5423 5452 "hw3/tree.ml" 172 5423 5463
+call(
+  tail
+)
+type(
+  bool
+)
+"hw3/tree.ml" 171 5367 5396 "hw3/tree.ml" 172 5423 5463
+type(
+  bool
+)
+"hw3/tree.ml" 170 5323 5347 "hw3/tree.ml" 172 5423 5463
+type(
+  bool
+)
+"hw3/tree.ml" 167 5268 5270 "hw3/tree.ml" 173 5464 5469
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 180 5789 5793 "hw3/tree.ml" 180 5789 5797
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/tree.ml" 182 5840 5843 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 180 5789 5798 "hw3/tree.ml" 180 5789 5800
+type(
+  unit
+)
+"hw3/tree.ml" 181 5810 5812 "hw3/tree.ml" 181 5810 5815
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw3/tree.ml" 181 5810 5817 "hw3/tree.ml" 181 5810 5823
+type(
+  int -> int tree -> bool
+)
+ident(
+  int_ref lookup "hw3/tree.ml" 166 5223 5231 "hw3/tree.ml" 166 5223 5237
+)
+"hw3/tree.ml" 181 5810 5824 "hw3/tree.ml" 181 5810 5825
+type(
+  int
+)
+"hw3/tree.ml" 181 5810 5826 "hw3/tree.ml" 181 5810 5838
+type(
+  int tree
+)
+ident(
+  int_ref evample_tree "hw3/tree.ml" 30 1017 1021 "hw3/tree.ml" 30 1017 1033
+)
+"hw3/tree.ml" 181 5810 5816 "hw3/tree.ml" 181 5810 5839
+call(
+  stack
+)
+type(
+  bool
+)
+"hw3/tree.ml" 181 5810 5812 "hw3/tree.ml" 181 5810 5839
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 182 5840 5843 "hw3/tree.ml" 182 5840 5851
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/tree.ml" 182 5840 5852 "hw3/tree.ml" 182 5840 5879
+type(
+  string
+)
+"hw3/tree.ml" 182 5840 5880 "hw3/tree.ml" 182 5840 5884
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/tree.ml" 180 5789 5793 "hw3/tree.ml" 180 5789 5797
+)
+"hw3/tree.ml" 182 5840 5843 "hw3/tree.ml" 182 5840 5884
+call(
+  stack
+)
+type(
+  unit
+)
+"hw3/tree.ml" 188 6040 6048 "hw3/tree.ml" 188 6040 6055
+type(
+  'a tree -> 'a list
+)
+ident(
+  def inorder "hw3/tree.ml" 188 6040 6040 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 188 6040 6057 "hw3/tree.ml" 188 6040 6058
+type(
+  'a tree
+)
+ident(
+  def t "hw3/tree.ml" 188 6040 6069 "hw3/tree.ml" 193 6201 6206
+)
+"hw3/tree.ml" 190 6089 6099 "hw3/tree.ml" 190 6089 6100
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 188 6040 6057 "hw3/tree.ml" 188 6040 6058
+)
+"hw3/tree.ml" 191 6106 6112 "hw3/tree.ml" 191 6106 6117
+type(
+  'a tree
+)
+"hw3/tree.ml" 191 6106 6136 "hw3/tree.ml" 191 6106 6138
+type(
+  'a list
+)
+"hw3/tree.ml" 192 6139 6151 "hw3/tree.ml" 192 6139 6153
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 192 6139 6169 "hw3/tree.ml" 192 6139 6200
+)
+"hw3/tree.ml" 192 6139 6154 "hw3/tree.ml" 192 6139 6155
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 192 6139 6169 "hw3/tree.ml" 192 6139 6200
+)
+"hw3/tree.ml" 192 6139 6156 "hw3/tree.ml" 192 6139 6158
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 192 6139 6169 "hw3/tree.ml" 192 6139 6200
+)
+"hw3/tree.ml" 192 6139 6145 "hw3/tree.ml" 192 6139 6159
+type(
+  'a tree
+)
+"hw3/tree.ml" 192 6139 6170 "hw3/tree.ml" 192 6139 6177
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref inorder "hw3/tree.ml" 188 6040 6048 "hw3/tree.ml" 188 6040 6055
+)
+"hw3/tree.ml" 192 6139 6178 "hw3/tree.ml" 192 6139 6180
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 192 6139 6151 "hw3/tree.ml" 192 6139 6153
+)
+"hw3/tree.ml" 192 6139 6169 "hw3/tree.ml" 192 6139 6181
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw3/tree.ml" 192 6139 6182 "hw3/tree.ml" 192 6139 6183
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"hw3/tree.ml" 192 6139 6185 "hw3/tree.ml" 192 6139 6186
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 192 6139 6154 "hw3/tree.ml" 192 6139 6155
+)
+"hw3/tree.ml" 192 6139 6184 "hw3/tree.ml" 192 6139 6187
+type(
+  'a list
+)
+"hw3/tree.ml" 192 6139 6188 "hw3/tree.ml" 192 6139 6189
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"hw3/tree.ml" 192 6139 6190 "hw3/tree.ml" 192 6139 6197
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref inorder "hw3/tree.ml" 188 6040 6048 "hw3/tree.ml" 188 6040 6055
+)
+"hw3/tree.ml" 192 6139 6198 "hw3/tree.ml" 192 6139 6200
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 192 6139 6156 "hw3/tree.ml" 192 6139 6158
+)
+"hw3/tree.ml" 192 6139 6190 "hw3/tree.ml" 192 6139 6200
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw3/tree.ml" 192 6139 6184 "hw3/tree.ml" 192 6139 6200
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw3/tree.ml" 192 6139 6169 "hw3/tree.ml" 192 6139 6200
+call(
+  tail
+)
+type(
+  'a list
+)
+"hw3/tree.ml" 189 6081 6083 "hw3/tree.ml" 193 6201 6206
+type(
+  'a list
+)
+type(
+  'a list
+)
+"hw3/tree.ml" 198 6284 6292 "hw3/tree.ml" 198 6284 6298
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  def insert "hw3/tree.ml" 198 6284 6284 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 198 6284 6300 "hw3/tree.ml" 198 6284 6301
+type(
+  'a
+)
+ident(
+  def x "hw3/tree.ml" 198 6284 6307 "hw3/tree.ml" 205 6562 6567
+)
+"hw3/tree.ml" 198 6284 6308 "hw3/tree.ml" 198 6284 6309
+type(
+  'a tree
+)
+ident(
+  def t "hw3/tree.ml" 198 6284 6320 "hw3/tree.ml" 205 6562 6567
+)
+"hw3/tree.ml" 200 6340 6350 "hw3/tree.ml" 200 6340 6351
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 198 6284 6308 "hw3/tree.ml" 198 6284 6309
+)
+"hw3/tree.ml" 201 6357 6363 "hw3/tree.ml" 201 6357 6368
+type(
+  'a tree
+)
+"hw3/tree.ml" 201 6357 6386 "hw3/tree.ml" 201 6357 6391
+type(
+  'a tree
+)
+"hw3/tree.ml" 201 6357 6392 "hw3/tree.ml" 201 6357 6393
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 198 6284 6300 "hw3/tree.ml" 198 6284 6301
+)
+"hw3/tree.ml" 201 6357 6394 "hw3/tree.ml" 201 6357 6399
+type(
+  'a tree
+)
+"hw3/tree.ml" 201 6357 6381 "hw3/tree.ml" 201 6357 6400
+type(
+  'a tree
+)
+"hw3/tree.ml" 202 6401 6413 "hw3/tree.ml" 202 6401 6415
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 202 6401 6425 "hw3/tree.ml" 204 6509 6561
+)
+"hw3/tree.ml" 202 6401 6416 "hw3/tree.ml" 202 6401 6417
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 202 6401 6425 "hw3/tree.ml" 204 6509 6561
+)
+"hw3/tree.ml" 202 6401 6418 "hw3/tree.ml" 202 6401 6420
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 202 6401 6425 "hw3/tree.ml" 204 6509 6561
+)
+"hw3/tree.ml" 202 6401 6407 "hw3/tree.ml" 202 6401 6421
+type(
+  'a tree
+)
+"hw3/tree.ml" 202 6401 6428 "hw3/tree.ml" 202 6401 6429
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 202 6401 6416 "hw3/tree.ml" 202 6401 6417
+)
+"hw3/tree.ml" 202 6401 6430 "hw3/tree.ml" 202 6401 6431
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 202 6401 6432 "hw3/tree.ml" 202 6401 6433
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 198 6284 6300 "hw3/tree.ml" 198 6284 6301
+)
+"hw3/tree.ml" 202 6401 6428 "hw3/tree.ml" 202 6401 6433
+type(
+  bool
+)
+"hw3/tree.ml" 202 6401 6439 "hw3/tree.ml" 202 6401 6440
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 198 6284 6308 "hw3/tree.ml" 198 6284 6309
+)
+"hw3/tree.ml" 203 6442 6474 "hw3/tree.ml" 203 6442 6475
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 198 6284 6300 "hw3/tree.ml" 198 6284 6301
+)
+"hw3/tree.ml" 203 6442 6476 "hw3/tree.ml" 203 6442 6477
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw3/tree.ml" 203 6442 6478 "hw3/tree.ml" 203 6442 6479
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 202 6401 6416 "hw3/tree.ml" 202 6401 6417
+)
+"hw3/tree.ml" 203 6442 6474 "hw3/tree.ml" 203 6442 6479
+type(
+  bool
+)
+"hw3/tree.ml" 203 6442 6491 "hw3/tree.ml" 203 6442 6497
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  int_ref insert "hw3/tree.ml" 198 6284 6292 "hw3/tree.ml" 198 6284 6298
+)
+"hw3/tree.ml" 203 6442 6498 "hw3/tree.ml" 203 6442 6499
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 198 6284 6300 "hw3/tree.ml" 198 6284 6301
+)
+"hw3/tree.ml" 203 6442 6500 "hw3/tree.ml" 203 6442 6502
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 202 6401 6413 "hw3/tree.ml" 202 6401 6415
+)
+"hw3/tree.ml" 203 6442 6491 "hw3/tree.ml" 203 6442 6502
+call(
+  stack
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 203 6442 6503 "hw3/tree.ml" 203 6442 6504
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 202 6401 6416 "hw3/tree.ml" 202 6401 6417
+)
+"hw3/tree.ml" 203 6442 6505 "hw3/tree.ml" 203 6442 6507
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 202 6401 6418 "hw3/tree.ml" 202 6401 6420
+)
+"hw3/tree.ml" 203 6442 6485 "hw3/tree.ml" 203 6442 6508
+type(
+  'a tree
+)
+"hw3/tree.ml" 204 6509 6544 "hw3/tree.ml" 204 6509 6546
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 202 6401 6413 "hw3/tree.ml" 202 6401 6415
+)
+"hw3/tree.ml" 204 6509 6547 "hw3/tree.ml" 204 6509 6548
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 202 6401 6416 "hw3/tree.ml" 202 6401 6417
+)
+"hw3/tree.ml" 204 6509 6549 "hw3/tree.ml" 204 6509 6555
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  int_ref insert "hw3/tree.ml" 198 6284 6292 "hw3/tree.ml" 198 6284 6298
+)
+"hw3/tree.ml" 204 6509 6556 "hw3/tree.ml" 204 6509 6557
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 198 6284 6300 "hw3/tree.ml" 198 6284 6301
+)
+"hw3/tree.ml" 204 6509 6558 "hw3/tree.ml" 204 6509 6560
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 202 6401 6418 "hw3/tree.ml" 202 6401 6420
+)
+"hw3/tree.ml" 204 6509 6549 "hw3/tree.ml" 204 6509 6560
+call(
+  stack
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 204 6509 6538 "hw3/tree.ml" 204 6509 6561
+type(
+  'a tree
+)
+"hw3/tree.ml" 203 6442 6471 "hw3/tree.ml" 204 6509 6561
+type(
+  'a tree
+)
+"hw3/tree.ml" 202 6401 6425 "hw3/tree.ml" 204 6509 6561
+type(
+  'a tree
+)
+"hw3/tree.ml" 199 6332 6334 "hw3/tree.ml" 205 6562 6567
+type(
+  'a tree
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 210 6644 6648 "hw3/tree.ml" 210 6644 6660
+type(
+  'a list -> 'a tree
+)
+ident(
+  def tree_of_list "hw3/tree.ml" 219 6906 6906 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 210 6644 6662 "hw3/tree.ml" 210 6644 6663
+type(
+  'a list
+)
+ident(
+  def l "hw3/tree.ml" 210 6644 6674 "hw3/tree.ml" 211 6686 6728
+)
+"hw3/tree.ml" 211 6686 6688 "hw3/tree.ml" 211 6686 6692
+type(
+  ('a -> 'a tree -> 'a tree) -> 'a tree -> 'a list -> 'a tree
+)
+ident(
+  ext_ref HigherOrder.fold
+)
+"hw3/tree.ml" 211 6686 6698 "hw3/tree.ml" 211 6686 6699
+type(
+  'a
+)
+ident(
+  def x "hw3/tree.ml" 211 6686 6700 "hw3/tree.ml" 211 6686 6719
+)
+"hw3/tree.ml" 211 6686 6700 "hw3/tree.ml" 211 6686 6703
+type(
+  'a tree
+)
+ident(
+  def acc "hw3/tree.ml" 211 6686 6707 "hw3/tree.ml" 211 6686 6719
+)
+"hw3/tree.ml" 211 6686 6707 "hw3/tree.ml" 211 6686 6713
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  int_ref insert "hw3/tree.ml" 198 6284 6292 "hw3/tree.ml" 198 6284 6298
+)
+"hw3/tree.ml" 211 6686 6714 "hw3/tree.ml" 211 6686 6715
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 211 6686 6698 "hw3/tree.ml" 211 6686 6699
+)
+"hw3/tree.ml" 211 6686 6716 "hw3/tree.ml" 211 6686 6719
+type(
+  'a tree
+)
+ident(
+  int_ref acc "hw3/tree.ml" 211 6686 6700 "hw3/tree.ml" 211 6686 6703
+)
+"hw3/tree.ml" 211 6686 6707 "hw3/tree.ml" 211 6686 6719
+call(
+  tail
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 211 6686 6693 "hw3/tree.ml" 211 6686 6720
+type(
+  'a -> 'a tree -> 'a tree
+)
+"hw3/tree.ml" 211 6686 6721 "hw3/tree.ml" 211 6686 6726
+type(
+  'a tree
+)
+"hw3/tree.ml" 211 6686 6727 "hw3/tree.ml" 211 6686 6728
+type(
+  'a list
+)
+ident(
+  int_ref l "hw3/tree.ml" 210 6644 6662 "hw3/tree.ml" 210 6644 6663
+)
+"hw3/tree.ml" 211 6686 6688 "hw3/tree.ml" 211 6686 6728
+call(
+  tail
+)
+type(
+  'a tree
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 219 6906 6914 "hw3/tree.ml" 219 6906 6920
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  def delete "hw3/tree.ml" 219 6906 6906 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+type(
+  'a
+)
+ident(
+  def x "hw3/tree.ml" 219 6906 6929 "hw3/tree.ml" 243 7906 7911
+)
+"hw3/tree.ml" 219 6906 6930 "hw3/tree.ml" 219 6906 6931
+type(
+  'a tree
+)
+ident(
+  def t "hw3/tree.ml" 219 6906 6942 "hw3/tree.ml" 243 7906 7911
+)
+"hw3/tree.ml" 220 6954 6964 "hw3/tree.ml" 220 6954 6973
+type(
+  'b tree -> 'b
+)
+ident(
+  def rightmost "hw3/tree.ml" 220 6954 6956 "hw3/tree.ml" 243 7906 7911
+)
+"hw3/tree.ml" 220 6954 6974 "hw3/tree.ml" 220 6954 6975
+type(
+  'b tree
+)
+ident(
+  def t "hw3/tree.ml" 221 6978 6982 "hw3/tree.ml" 226 7148 7155
+)
+"hw3/tree.ml" 222 6988 7000 "hw3/tree.ml" 222 6988 7001
+type(
+  'b tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 220 6954 6974 "hw3/tree.ml" 220 6954 6975
+)
+"hw3/tree.ml" 223 7007 7021 "hw3/tree.ml" 223 7007 7026
+type(
+  'b tree
+)
+"hw3/tree.ml" 223 7007 7027 "hw3/tree.ml" 223 7007 7028
+type(
+  'b
+)
+ident(
+  def v "hw3/tree.ml" 223 7007 7039 "hw3/tree.ml" 223 7007 7040
+)
+"hw3/tree.ml" 223 7007 7029 "hw3/tree.ml" 223 7007 7034
+type(
+  'b tree
+)
+"hw3/tree.ml" 223 7007 7015 "hw3/tree.ml" 223 7007 7035
+type(
+  'b tree
+)
+"hw3/tree.ml" 223 7007 7039 "hw3/tree.ml" 223 7007 7040
+type(
+  'b
+)
+ident(
+  int_ref v "hw3/tree.ml" 223 7007 7027 "hw3/tree.ml" 223 7007 7028
+)
+"hw3/tree.ml" 224 7041 7055 "hw3/tree.ml" 224 7041 7056
+type(
+  'b tree
+)
+"hw3/tree.ml" 224 7041 7057 "hw3/tree.ml" 224 7041 7058
+type(
+  'b
+)
+ident(
+  def v "hw3/tree.ml" 224 7041 7073 "hw3/tree.ml" 224 7041 7085
+)
+"hw3/tree.ml" 224 7041 7059 "hw3/tree.ml" 224 7041 7061
+type(
+  'b tree
+)
+ident(
+  def rt "hw3/tree.ml" 224 7041 7073 "hw3/tree.ml" 224 7041 7085
+)
+"hw3/tree.ml" 224 7041 7049 "hw3/tree.ml" 224 7041 7062
+type(
+  'b tree
+)
+"hw3/tree.ml" 224 7041 7073 "hw3/tree.ml" 224 7041 7082
+type(
+  'b tree -> 'b
+)
+ident(
+  int_ref rightmost "hw3/tree.ml" 220 6954 6964 "hw3/tree.ml" 220 6954 6973
+)
+"hw3/tree.ml" 224 7041 7083 "hw3/tree.ml" 224 7041 7085
+type(
+  'b tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 224 7041 7059 "hw3/tree.ml" 224 7041 7061
+)
+"hw3/tree.ml" 224 7041 7073 "hw3/tree.ml" 224 7041 7085
+call(
+  tail
+)
+type(
+  'b
+)
+"hw3/tree.ml" 225 7086 7094 "hw3/tree.ml" 225 7086 7095
+type(
+  'b tree
+)
+"hw3/tree.ml" 225 7086 7118 "hw3/tree.ml" 225 7086 7126
+type(
+  string -> 'b
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw3/tree.ml" 225 7086 7127 "hw3/tree.ml" 225 7086 7147
+type(
+  string
+)
+"hw3/tree.ml" 225 7086 7118 "hw3/tree.ml" 225 7086 7147
+call(
+  tail
+)
+type(
+  'b
+)
+"hw3/tree.ml" 221 6978 6982 "hw3/tree.ml" 226 7148 7155
+type(
+  'b
+)
+"hw3/tree.ml" 229 7169 7179 "hw3/tree.ml" 229 7169 7180
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 219 6906 6930 "hw3/tree.ml" 219 6906 6931
+)
+"hw3/tree.ml" 230 7186 7192 "hw3/tree.ml" 230 7186 7197
+type(
+  'a tree
+)
+"hw3/tree.ml" 230 7186 7216 "hw3/tree.ml" 230 7186 7221
+type(
+  'a tree
+)
+"hw3/tree.ml" 231 7222 7234 "hw3/tree.ml" 231 7222 7239
+type(
+  'a tree
+)
+"hw3/tree.ml" 231 7222 7240 "hw3/tree.ml" 231 7222 7241
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 231 7222 7252 "hw3/tree.ml" 232 7273 7328
+)
+"hw3/tree.ml" 231 7222 7242 "hw3/tree.ml" 231 7222 7247
+type(
+  'a tree
+)
+"hw3/tree.ml" 231 7222 7228 "hw3/tree.ml" 231 7222 7248
+type(
+  'a tree
+)
+"hw3/tree.ml" 231 7222 7255 "hw3/tree.ml" 231 7222 7256
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 231 7222 7240 "hw3/tree.ml" 231 7222 7241
+)
+"hw3/tree.ml" 231 7222 7257 "hw3/tree.ml" 231 7222 7258
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 231 7222 7259 "hw3/tree.ml" 231 7222 7260
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 231 7222 7255 "hw3/tree.ml" 231 7222 7260
+type(
+  bool
+)
+"hw3/tree.ml" 231 7222 7266 "hw3/tree.ml" 231 7222 7271
+type(
+  'a tree
+)
+"hw3/tree.ml" 232 7273 7314 "hw3/tree.ml" 232 7273 7319
+type(
+  'a tree
+)
+"hw3/tree.ml" 232 7273 7320 "hw3/tree.ml" 232 7273 7321
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 231 7222 7240 "hw3/tree.ml" 231 7222 7241
+)
+"hw3/tree.ml" 232 7273 7322 "hw3/tree.ml" 232 7273 7327
+type(
+  'a tree
+)
+"hw3/tree.ml" 232 7273 7308 "hw3/tree.ml" 232 7273 7328
+type(
+  'a tree
+)
+"hw3/tree.ml" 231 7222 7252 "hw3/tree.ml" 232 7273 7328
+type(
+  'a tree
+)
+"hw3/tree.ml" 233 7330 7342 "hw3/tree.ml" 233 7330 7344
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 233 7330 7360 "hw3/tree.ml" 235 7430 7491
+)
+"hw3/tree.ml" 233 7330 7345 "hw3/tree.ml" 233 7330 7346
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 233 7330 7360 "hw3/tree.ml" 235 7430 7491
+)
+"hw3/tree.ml" 233 7330 7347 "hw3/tree.ml" 233 7330 7352
+type(
+  'a tree
+)
+"hw3/tree.ml" 233 7330 7336 "hw3/tree.ml" 233 7330 7353
+type(
+  'a tree
+)
+"hw3/tree.ml" 233 7330 7363 "hw3/tree.ml" 233 7330 7364
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 233 7330 7345 "hw3/tree.ml" 233 7330 7346
+)
+"hw3/tree.ml" 233 7330 7365 "hw3/tree.ml" 233 7330 7366
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 233 7330 7367 "hw3/tree.ml" 233 7330 7368
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 233 7330 7363 "hw3/tree.ml" 233 7330 7368
+type(
+  bool
+)
+"hw3/tree.ml" 233 7330 7374 "hw3/tree.ml" 233 7330 7376
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 233 7330 7342 "hw3/tree.ml" 233 7330 7344
+)
+"hw3/tree.ml" 234 7378 7416 "hw3/tree.ml" 234 7378 7417
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 234 7378 7418 "hw3/tree.ml" 234 7378 7419
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"hw3/tree.ml" 234 7378 7420 "hw3/tree.ml" 234 7378 7421
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 233 7330 7345 "hw3/tree.ml" 233 7330 7346
+)
+"hw3/tree.ml" 234 7378 7416 "hw3/tree.ml" 234 7378 7421
+type(
+  bool
+)
+"hw3/tree.ml" 234 7378 7427 "hw3/tree.ml" 234 7378 7428
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 219 6906 6930 "hw3/tree.ml" 219 6906 6931
+)
+"hw3/tree.ml" 235 7430 7471 "hw3/tree.ml" 235 7430 7477
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  int_ref delete "hw3/tree.ml" 219 6906 6914 "hw3/tree.ml" 219 6906 6920
+)
+"hw3/tree.ml" 235 7430 7478 "hw3/tree.ml" 235 7430 7479
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 235 7430 7480 "hw3/tree.ml" 235 7430 7482
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 233 7330 7342 "hw3/tree.ml" 233 7330 7344
+)
+"hw3/tree.ml" 235 7430 7471 "hw3/tree.ml" 235 7430 7482
+call(
+  stack
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 235 7430 7483 "hw3/tree.ml" 235 7430 7484
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 233 7330 7345 "hw3/tree.ml" 233 7330 7346
+)
+"hw3/tree.ml" 235 7430 7485 "hw3/tree.ml" 235 7430 7490
+type(
+  'a tree
+)
+"hw3/tree.ml" 235 7430 7465 "hw3/tree.ml" 235 7430 7491
+type(
+  'a tree
+)
+"hw3/tree.ml" 234 7378 7413 "hw3/tree.ml" 235 7430 7491
+type(
+  'a tree
+)
+"hw3/tree.ml" 233 7330 7360 "hw3/tree.ml" 235 7430 7491
+type(
+  'a tree
+)
+"hw3/tree.ml" 236 7492 7504 "hw3/tree.ml" 236 7492 7509
+type(
+  'a tree
+)
+"hw3/tree.ml" 236 7492 7510 "hw3/tree.ml" 236 7492 7511
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 236 7492 7522 "hw3/tree.ml" 238 7591 7652
+)
+"hw3/tree.ml" 236 7492 7512 "hw3/tree.ml" 236 7492 7514
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 236 7492 7522 "hw3/tree.ml" 238 7591 7652
+)
+"hw3/tree.ml" 236 7492 7498 "hw3/tree.ml" 236 7492 7515
+type(
+  'a tree
+)
+"hw3/tree.ml" 236 7492 7525 "hw3/tree.ml" 236 7492 7526
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 236 7492 7510 "hw3/tree.ml" 236 7492 7511
+)
+"hw3/tree.ml" 236 7492 7527 "hw3/tree.ml" 236 7492 7528
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 236 7492 7529 "hw3/tree.ml" 236 7492 7530
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 236 7492 7525 "hw3/tree.ml" 236 7492 7530
+type(
+  bool
+)
+"hw3/tree.ml" 236 7492 7536 "hw3/tree.ml" 236 7492 7538
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 236 7492 7512 "hw3/tree.ml" 236 7492 7514
+)
+"hw3/tree.ml" 237 7539 7577 "hw3/tree.ml" 237 7539 7578
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 237 7539 7579 "hw3/tree.ml" 237 7539 7580
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw3/tree.ml" 237 7539 7581 "hw3/tree.ml" 237 7539 7582
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 236 7492 7510 "hw3/tree.ml" 236 7492 7511
+)
+"hw3/tree.ml" 237 7539 7577 "hw3/tree.ml" 237 7539 7582
+type(
+  bool
+)
+"hw3/tree.ml" 237 7539 7588 "hw3/tree.ml" 237 7539 7589
+type(
+  'a tree
+)
+ident(
+  int_ref t "hw3/tree.ml" 219 6906 6930 "hw3/tree.ml" 219 6906 6931
+)
+"hw3/tree.ml" 238 7591 7632 "hw3/tree.ml" 238 7591 7637
+type(
+  'a tree
+)
+"hw3/tree.ml" 238 7591 7638 "hw3/tree.ml" 238 7591 7639
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 236 7492 7510 "hw3/tree.ml" 236 7492 7511
+)
+"hw3/tree.ml" 238 7591 7640 "hw3/tree.ml" 238 7591 7646
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  int_ref delete "hw3/tree.ml" 219 6906 6914 "hw3/tree.ml" 219 6906 6920
+)
+"hw3/tree.ml" 238 7591 7647 "hw3/tree.ml" 238 7591 7648
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 238 7591 7649 "hw3/tree.ml" 238 7591 7651
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 236 7492 7512 "hw3/tree.ml" 236 7492 7514
+)
+"hw3/tree.ml" 238 7591 7640 "hw3/tree.ml" 238 7591 7651
+call(
+  stack
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 238 7591 7626 "hw3/tree.ml" 238 7591 7652
+type(
+  'a tree
+)
+"hw3/tree.ml" 237 7539 7574 "hw3/tree.ml" 238 7591 7652
+type(
+  'a tree
+)
+"hw3/tree.ml" 236 7492 7522 "hw3/tree.ml" 238 7591 7652
+type(
+  'a tree
+)
+"hw3/tree.ml" 239 7653 7665 "hw3/tree.ml" 239 7653 7667
+type(
+  'a tree
+)
+ident(
+  def lt "hw3/tree.ml" 239 7653 7683 "hw3/tree.ml" 242 7847 7905
+)
+"hw3/tree.ml" 239 7653 7668 "hw3/tree.ml" 239 7653 7669
+type(
+  'a
+)
+ident(
+  def v "hw3/tree.ml" 239 7653 7683 "hw3/tree.ml" 242 7847 7905
+)
+"hw3/tree.ml" 239 7653 7670 "hw3/tree.ml" 239 7653 7672
+type(
+  'a tree
+)
+ident(
+  def rt "hw3/tree.ml" 239 7653 7683 "hw3/tree.ml" 242 7847 7905
+)
+"hw3/tree.ml" 239 7653 7659 "hw3/tree.ml" 239 7653 7673
+type(
+  'a tree
+)
+"hw3/tree.ml" 239 7653 7686 "hw3/tree.ml" 239 7653 7687
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 239 7653 7668 "hw3/tree.ml" 239 7653 7669
+)
+"hw3/tree.ml" 239 7653 7687 "hw3/tree.ml" 239 7653 7688
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 239 7653 7688 "hw3/tree.ml" 239 7653 7689
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 239 7653 7686 "hw3/tree.ml" 239 7653 7689
+type(
+  bool
+)
+"hw3/tree.ml" 240 7696 7731 "hw3/tree.ml" 240 7696 7737
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  int_ref delete "hw3/tree.ml" 219 6906 6914 "hw3/tree.ml" 219 6906 6920
+)
+"hw3/tree.ml" 240 7696 7739 "hw3/tree.ml" 240 7696 7748
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref rightmost "hw3/tree.ml" 220 6954 6964 "hw3/tree.ml" 220 6954 6973
+)
+"hw3/tree.ml" 240 7696 7749 "hw3/tree.ml" 240 7696 7751
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 239 7653 7665 "hw3/tree.ml" 239 7653 7667
+)
+"hw3/tree.ml" 240 7696 7738 "hw3/tree.ml" 240 7696 7752
+call(
+  stack
+)
+type(
+  'a
+)
+"hw3/tree.ml" 240 7696 7753 "hw3/tree.ml" 240 7696 7755
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 239 7653 7665 "hw3/tree.ml" 239 7653 7667
+)
+"hw3/tree.ml" 240 7696 7731 "hw3/tree.ml" 240 7696 7755
+call(
+  stack
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 240 7696 7758 "hw3/tree.ml" 240 7696 7767
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref rightmost "hw3/tree.ml" 220 6954 6964 "hw3/tree.ml" 220 6954 6973
+)
+"hw3/tree.ml" 240 7696 7768 "hw3/tree.ml" 240 7696 7770
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 239 7653 7665 "hw3/tree.ml" 239 7653 7667
+)
+"hw3/tree.ml" 240 7696 7758 "hw3/tree.ml" 240 7696 7770
+call(
+  stack
+)
+type(
+  'a
+)
+"hw3/tree.ml" 240 7696 7772 "hw3/tree.ml" 240 7696 7774
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 239 7653 7670 "hw3/tree.ml" 239 7653 7672
+)
+"hw3/tree.ml" 240 7696 7726 "hw3/tree.ml" 240 7696 7775
+type(
+  'a tree
+)
+"hw3/tree.ml" 241 7776 7814 "hw3/tree.ml" 241 7776 7815
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 241 7776 7815 "hw3/tree.ml" 241 7776 7816
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw3/tree.ml" 241 7776 7816 "hw3/tree.ml" 241 7776 7817
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 239 7653 7668 "hw3/tree.ml" 239 7653 7669
+)
+"hw3/tree.ml" 241 7776 7814 "hw3/tree.ml" 241 7776 7817
+type(
+  bool
+)
+"hw3/tree.ml" 241 7776 7829 "hw3/tree.ml" 241 7776 7835
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  int_ref delete "hw3/tree.ml" 219 6906 6914 "hw3/tree.ml" 219 6906 6920
+)
+"hw3/tree.ml" 241 7776 7836 "hw3/tree.ml" 241 7776 7837
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 241 7776 7838 "hw3/tree.ml" 241 7776 7840
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 239 7653 7665 "hw3/tree.ml" 239 7653 7667
+)
+"hw3/tree.ml" 241 7776 7829 "hw3/tree.ml" 241 7776 7840
+call(
+  stack
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 241 7776 7841 "hw3/tree.ml" 241 7776 7842
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 239 7653 7668 "hw3/tree.ml" 239 7653 7669
+)
+"hw3/tree.ml" 241 7776 7843 "hw3/tree.ml" 241 7776 7845
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 239 7653 7670 "hw3/tree.ml" 239 7653 7672
+)
+"hw3/tree.ml" 241 7776 7823 "hw3/tree.ml" 241 7776 7846
+type(
+  'a tree
+)
+"hw3/tree.ml" 242 7847 7888 "hw3/tree.ml" 242 7847 7890
+type(
+  'a tree
+)
+ident(
+  int_ref lt "hw3/tree.ml" 239 7653 7665 "hw3/tree.ml" 239 7653 7667
+)
+"hw3/tree.ml" 242 7847 7891 "hw3/tree.ml" 242 7847 7892
+type(
+  'a
+)
+ident(
+  int_ref v "hw3/tree.ml" 239 7653 7668 "hw3/tree.ml" 239 7653 7669
+)
+"hw3/tree.ml" 242 7847 7893 "hw3/tree.ml" 242 7847 7899
+type(
+  'a -> 'a tree -> 'a tree
+)
+ident(
+  int_ref delete "hw3/tree.ml" 219 6906 6914 "hw3/tree.ml" 219 6906 6920
+)
+"hw3/tree.ml" 242 7847 7900 "hw3/tree.ml" 242 7847 7901
+type(
+  'a
+)
+ident(
+  int_ref x "hw3/tree.ml" 219 6906 6922 "hw3/tree.ml" 219 6906 6923
+)
+"hw3/tree.ml" 242 7847 7902 "hw3/tree.ml" 242 7847 7904
+type(
+  'a tree
+)
+ident(
+  int_ref rt "hw3/tree.ml" 239 7653 7670 "hw3/tree.ml" 239 7653 7672
+)
+"hw3/tree.ml" 242 7847 7893 "hw3/tree.ml" 242 7847 7904
+call(
+  stack
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 242 7847 7882 "hw3/tree.ml" 242 7847 7905
+type(
+  'a tree
+)
+"hw3/tree.ml" 241 7776 7811 "hw3/tree.ml" 242 7847 7905
+type(
+  'a tree
+)
+"hw3/tree.ml" 239 7653 7683 "hw3/tree.ml" 242 7847 7905
+type(
+  'a tree
+)
+"hw3/tree.ml" 228 7161 7163 "hw3/tree.ml" 243 7906 7911
+type(
+  'a tree
+)
+"hw3/tree.ml" 220 6954 6956 "hw3/tree.ml" 243 7906 7911
+type(
+  'a tree
+)
+type(
+  'a tree
+)
+"hw3/tree.ml" 246 7914 7918 "hw3/tree.ml" 246 7914 7922
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/tree.ml" 248 7975 7978 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 246 7914 7923 "hw3/tree.ml" 246 7914 7925
+type(
+  unit
+)
+"hw3/tree.ml" 247 7935 7937 "hw3/tree.ml" 247 7935 7944
+type(
+  int tree -> int list
+)
+ident(
+  int_ref inorder "hw3/tree.ml" 188 6040 6048 "hw3/tree.ml" 188 6040 6055
+)
+"hw3/tree.ml" 247 7935 7945 "hw3/tree.ml" 247 7935 7956
+type(
+  int tree
+)
+ident(
+  int_ref your_tree "hw3/tree.ml" 44 1245 1249 "hw3/tree.ml" 44 1245 1258
+)
+"hw3/tree.ml" 247 7935 7937 "hw3/tree.ml" 247 7935 7956
+call(
+  stack
+)
+type(
+  int list
+)
+"hw3/tree.ml" 247 7935 7957 "hw3/tree.ml" 247 7935 7958
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 247 7935 7960 "hw3/tree.ml" 247 7935 7961
+type(
+  int
+)
+"hw3/tree.ml" 247 7935 7962 "hw3/tree.ml" 247 7935 7963
+type(
+  int
+)
+"hw3/tree.ml" 247 7935 7964 "hw3/tree.ml" 247 7935 7965
+type(
+  int
+)
+"hw3/tree.ml" 247 7935 7966 "hw3/tree.ml" 247 7935 7967
+type(
+  int
+)
+"hw3/tree.ml" 247 7935 7968 "hw3/tree.ml" 247 7935 7969
+type(
+  int
+)
+"hw3/tree.ml" 247 7935 7970 "hw3/tree.ml" 247 7935 7971
+type(
+  int
+)
+"hw3/tree.ml" 247 7935 7972 "hw3/tree.ml" 247 7935 7973
+type(
+  int
+)
+"hw3/tree.ml" 247 7935 7959 "hw3/tree.ml" 247 7935 7974
+type(
+  int list
+)
+"hw3/tree.ml" 247 7935 7937 "hw3/tree.ml" 247 7935 7974
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 248 7975 7978 "hw3/tree.ml" 248 7975 7986
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/tree.ml" 248 7975 7987 "hw3/tree.ml" 248 7975 8003
+type(
+  string
+)
+"hw3/tree.ml" 248 7975 8004 "hw3/tree.ml" 248 7975 8008
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/tree.ml" 246 7914 7918 "hw3/tree.ml" 246 7914 7922
+)
+"hw3/tree.ml" 248 7975 7978 "hw3/tree.ml" 248 7975 8008
+call(
+  stack
+)
+type(
+  unit
+)
+"hw3/tree.ml" 250 8010 8014 "hw3/tree.ml" 250 8010 8017
+type(
+  int tree
+)
+ident(
+  def bst "hw3/tree.ml" 258 8094 8094 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 253 8039 8046 "hw3/tree.ml" 253 8039 8051
+type(
+  int tree
+)
+"hw3/tree.ml" 253 8039 8052 "hw3/tree.ml" 253 8039 8053
+type(
+  int
+)
+"hw3/tree.ml" 253 8039 8054 "hw3/tree.ml" 253 8039 8059
+type(
+  int tree
+)
+"hw3/tree.ml" 253 8039 8041 "hw3/tree.ml" 253 8039 8060
+type(
+  int tree
+)
+"hw3/tree.ml" 254 8062 8064 "hw3/tree.ml" 254 8062 8065
+type(
+  int
+)
+"hw3/tree.ml" 255 8067 8074 "hw3/tree.ml" 255 8067 8079
+type(
+  int tree
+)
+"hw3/tree.ml" 255 8067 8080 "hw3/tree.ml" 255 8067 8081
+type(
+  int
+)
+"hw3/tree.ml" 255 8067 8082 "hw3/tree.ml" 255 8067 8087
+type(
+  int tree
+)
+"hw3/tree.ml" 255 8067 8069 "hw3/tree.ml" 255 8067 8088
+type(
+  int tree
+)
+"hw3/tree.ml" 251 8032 8032 "hw3/tree.ml" 256 8089 8090
+type(
+  int tree
+)
+type(
+  int tree
+)
+"hw3/tree.ml" 258 8094 8098 "hw3/tree.ml" 258 8094 8102
+type(
+  unit -> bool
+)
+ident(
+  def test "hw3/tree.ml" 266 8180 8183 "hw3/tree.ml" 1 0 -1
+)
+"hw3/tree.ml" 258 8094 8103 "hw3/tree.ml" 258 8094 8105
+type(
+  unit
+)
+"hw3/tree.ml" 259 8115 8117 "hw3/tree.ml" 259 8115 8123
+type(
+  int -> int tree -> int tree
+)
+ident(
+  int_ref delete "hw3/tree.ml" 219 6906 6914 "hw3/tree.ml" 219 6906 6920
+)
+"hw3/tree.ml" 259 8115 8124 "hw3/tree.ml" 259 8115 8125
+type(
+  int
+)
+"hw3/tree.ml" 259 8115 8126 "hw3/tree.ml" 259 8115 8131
+type(
+  int tree
+)
+ident(
+  int_ref bst "hw3/tree.ml" 250 8010 8014 "hw3/tree.ml" 250 8010 8017
+)
+"hw3/tree.ml" 259 8115 8117 "hw3/tree.ml" 259 8115 8131
+call(
+  stack
+)
+type(
+  int tree
+)
+"hw3/tree.ml" 259 8115 8132 "hw3/tree.ml" 259 8115 8133
+type(
+  int tree -> int tree -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw3/tree.ml" 262 8142 8144 "hw3/tree.ml" 262 8142 8149
+type(
+  int tree
+)
+"hw3/tree.ml" 263 8151 8153 "hw3/tree.ml" 263 8151 8154
+type(
+  int
+)
+"hw3/tree.ml" 264 8156 8163 "hw3/tree.ml" 264 8156 8168
+type(
+  int tree
+)
+"hw3/tree.ml" 264 8156 8169 "hw3/tree.ml" 264 8156 8170
+type(
+  int
+)
+"hw3/tree.ml" 264 8156 8171 "hw3/tree.ml" 264 8156 8176
+type(
+  int tree
+)
+"hw3/tree.ml" 264 8156 8158 "hw3/tree.ml" 264 8156 8177
+type(
+  int tree
+)
+"hw3/tree.ml" 260 8135 8135 "hw3/tree.ml" 265 8178 8179
+type(
+  int tree
+)
+"hw3/tree.ml" 259 8115 8117 "hw3/tree.ml" 265 8178 8179
+type(
+  bool
+)
+type(
+  bool
+)
+"hw3/tree.ml" 266 8180 8183 "hw3/tree.ml" 266 8180 8191
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw3/tree.ml" 266 8180 8192 "hw3/tree.ml" 266 8180 8207
+type(
+  string
+)
+"hw3/tree.ml" 266 8180 8208 "hw3/tree.ml" 266 8180 8212
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw3/tree.ml" 258 8094 8098 "hw3/tree.ml" 258 8094 8102
+)
+"hw3/tree.ml" 266 8180 8183 "hw3/tree.ml" 266 8180 8212
+call(
+  stack
+)
+type(
+  unit
+)

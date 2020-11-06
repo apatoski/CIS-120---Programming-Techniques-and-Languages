@@ -1,0 +1,6957 @@
+"hw1/intro.ml" 27 1383 1391 "hw1/intro.ml" 27 1383 1396
+type(
+  int -> int
+)
+ident(
+  def coins "hw1/intro.ml" 27 1383 1383 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 27 1383 1398 "hw1/intro.ml" 27 1383 1404
+type(
+  int
+)
+ident(
+  def amount "hw1/intro.ml" 27 1383 1411 "hw1/intro.ml" 31 1506 1512
+)
+"hw1/intro.ml" 28 1420 1425 "hw1/intro.ml" 28 1420 1426
+type(
+  int
+)
+ident(
+  def d "hw1/intro.ml" 29 1445 1446 "hw1/intro.ml" 31 1506 1512
+)
+"hw1/intro.ml" 28 1420 1429 "hw1/intro.ml" 28 1420 1435
+type(
+  int
+)
+ident(
+  int_ref amount "hw1/intro.ml" 27 1383 1398 "hw1/intro.ml" 27 1383 1404
+)
+"hw1/intro.ml" 28 1420 1436 "hw1/intro.ml" 28 1420 1437
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"hw1/intro.ml" 28 1420 1438 "hw1/intro.ml" 28 1420 1440
+type(
+  int
+)
+"hw1/intro.ml" 28 1420 1429 "hw1/intro.ml" 28 1420 1440
+type(
+  int
+)
+"hw1/intro.ml" 29 1445 1450 "hw1/intro.ml" 29 1445 1451
+type(
+  int
+)
+ident(
+  def n "hw1/intro.ml" 30 1474 1475 "hw1/intro.ml" 31 1506 1512
+)
+"hw1/intro.ml" 29 1445 1455 "hw1/intro.ml" 29 1445 1461
+type(
+  int
+)
+ident(
+  int_ref amount "hw1/intro.ml" 27 1383 1398 "hw1/intro.ml" 27 1383 1404
+)
+"hw1/intro.ml" 29 1445 1461 "hw1/intro.ml" 29 1445 1462
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw1/intro.ml" 29 1445 1462 "hw1/intro.ml" 29 1445 1463
+type(
+  int
+)
+ident(
+  int_ref d "hw1/intro.ml" 28 1420 1425 "hw1/intro.ml" 28 1420 1426
+)
+"hw1/intro.ml" 29 1445 1463 "hw1/intro.ml" 29 1445 1464
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"hw1/intro.ml" 29 1445 1464 "hw1/intro.ml" 29 1445 1466
+type(
+  int
+)
+"hw1/intro.ml" 29 1445 1462 "hw1/intro.ml" 29 1445 1466
+type(
+  int
+)
+"hw1/intro.ml" 29 1445 1454 "hw1/intro.ml" 29 1445 1467
+type(
+  int
+)
+"hw1/intro.ml" 29 1445 1467 "hw1/intro.ml" 29 1445 1468
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"hw1/intro.ml" 29 1445 1468 "hw1/intro.ml" 29 1445 1469
+type(
+  int
+)
+"hw1/intro.ml" 29 1445 1454 "hw1/intro.ml" 29 1445 1469
+type(
+  int
+)
+"hw1/intro.ml" 30 1474 1479 "hw1/intro.ml" 30 1474 1480
+type(
+  int
+)
+ident(
+  def p "hw1/intro.ml" 31 1506 1507 "hw1/intro.ml" 31 1506 1512
+)
+"hw1/intro.ml" 30 1474 1483 "hw1/intro.ml" 30 1474 1489
+type(
+  int
+)
+ident(
+  int_ref amount "hw1/intro.ml" 27 1383 1398 "hw1/intro.ml" 27 1383 1404
+)
+"hw1/intro.ml" 30 1474 1490 "hw1/intro.ml" 30 1474 1491
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw1/intro.ml" 30 1474 1492 "hw1/intro.ml" 30 1474 1493
+type(
+  int
+)
+ident(
+  int_ref d "hw1/intro.ml" 28 1420 1425 "hw1/intro.ml" 28 1420 1426
+)
+"hw1/intro.ml" 30 1474 1493 "hw1/intro.ml" 30 1474 1494
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"hw1/intro.ml" 30 1474 1494 "hw1/intro.ml" 30 1474 1496
+type(
+  int
+)
+"hw1/intro.ml" 30 1474 1492 "hw1/intro.ml" 30 1474 1496
+type(
+  int
+)
+"hw1/intro.ml" 30 1474 1483 "hw1/intro.ml" 30 1474 1496
+type(
+  int
+)
+"hw1/intro.ml" 30 1474 1497 "hw1/intro.ml" 30 1474 1498
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw1/intro.ml" 30 1474 1498 "hw1/intro.ml" 30 1474 1499
+type(
+  int
+)
+ident(
+  int_ref n "hw1/intro.ml" 29 1445 1450 "hw1/intro.ml" 29 1445 1451
+)
+"hw1/intro.ml" 30 1474 1499 "hw1/intro.ml" 30 1474 1500
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"hw1/intro.ml" 30 1474 1500 "hw1/intro.ml" 30 1474 1501
+type(
+  int
+)
+"hw1/intro.ml" 30 1474 1498 "hw1/intro.ml" 30 1474 1501
+type(
+  int
+)
+"hw1/intro.ml" 30 1474 1483 "hw1/intro.ml" 30 1474 1501
+type(
+  int
+)
+"hw1/intro.ml" 31 1506 1507 "hw1/intro.ml" 31 1506 1508
+type(
+  int
+)
+ident(
+  int_ref d "hw1/intro.ml" 28 1420 1425 "hw1/intro.ml" 28 1420 1426
+)
+"hw1/intro.ml" 31 1506 1508 "hw1/intro.ml" 31 1506 1509
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw1/intro.ml" 31 1506 1509 "hw1/intro.ml" 31 1506 1510
+type(
+  int
+)
+ident(
+  int_ref n "hw1/intro.ml" 29 1445 1450 "hw1/intro.ml" 29 1445 1451
+)
+"hw1/intro.ml" 31 1506 1507 "hw1/intro.ml" 31 1506 1510
+type(
+  int
+)
+"hw1/intro.ml" 31 1506 1510 "hw1/intro.ml" 31 1506 1511
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw1/intro.ml" 31 1506 1511 "hw1/intro.ml" 31 1506 1512
+type(
+  int
+)
+ident(
+  int_ref p "hw1/intro.ml" 30 1474 1479 "hw1/intro.ml" 30 1474 1480
+)
+"hw1/intro.ml" 31 1506 1507 "hw1/intro.ml" 31 1506 1512
+type(
+  int
+)
+"hw1/intro.ml" 30 1474 1475 "hw1/intro.ml" 31 1506 1512
+type(
+  int
+)
+"hw1/intro.ml" 29 1445 1446 "hw1/intro.ml" 31 1506 1512
+type(
+  int
+)
+"hw1/intro.ml" 28 1420 1421 "hw1/intro.ml" 31 1506 1512
+type(
+  int
+)
+type(
+  int
+)
+"hw1/intro.ml" 38 1574 1578 "hw1/intro.ml" 38 1574 1582
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 40 1613 1616 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 38 1574 1583 "hw1/intro.ml" 38 1574 1585
+type(
+  unit
+)
+"hw1/intro.ml" 39 1596 1599 "hw1/intro.ml" 39 1596 1604
+type(
+  int -> int
+)
+ident(
+  int_ref coins "hw1/intro.ml" 27 1383 1391 "hw1/intro.ml" 27 1383 1396
+)
+"hw1/intro.ml" 39 1596 1605 "hw1/intro.ml" 39 1596 1606
+type(
+  int
+)
+"hw1/intro.ml" 39 1596 1598 "hw1/intro.ml" 39 1596 1607
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 39 1596 1608 "hw1/intro.ml" 39 1596 1609
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 39 1596 1610 "hw1/intro.ml" 39 1596 1611
+type(
+  int
+)
+"hw1/intro.ml" 39 1596 1598 "hw1/intro.ml" 39 1596 1611
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 40 1613 1616 "hw1/intro.ml" 40 1613 1624
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 40 1613 1625 "hw1/intro.ml" 40 1613 1652
+type(
+  string
+)
+"hw1/intro.ml" 40 1613 1653 "hw1/intro.ml" 40 1613 1657
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 38 1574 1578 "hw1/intro.ml" 38 1574 1582
+)
+"hw1/intro.ml" 40 1613 1616 "hw1/intro.ml" 40 1613 1657
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 42 1661 1665 "hw1/intro.ml" 42 1661 1669
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 44 1702 1705 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 42 1661 1670 "hw1/intro.ml" 42 1661 1672
+type(
+  unit
+)
+"hw1/intro.ml" 43 1683 1686 "hw1/intro.ml" 43 1683 1691
+type(
+  int -> int
+)
+ident(
+  int_ref coins "hw1/intro.ml" 27 1383 1391 "hw1/intro.ml" 27 1383 1396
+)
+"hw1/intro.ml" 43 1683 1692 "hw1/intro.ml" 43 1683 1694
+type(
+  int
+)
+"hw1/intro.ml" 43 1683 1685 "hw1/intro.ml" 43 1683 1695
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 43 1683 1696 "hw1/intro.ml" 43 1683 1697
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 43 1683 1698 "hw1/intro.ml" 43 1683 1700
+type(
+  int
+)
+"hw1/intro.ml" 43 1683 1685 "hw1/intro.ml" 43 1683 1700
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 44 1702 1705 "hw1/intro.ml" 44 1702 1713
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 44 1702 1714 "hw1/intro.ml" 44 1702 1731
+type(
+  string
+)
+"hw1/intro.ml" 44 1702 1732 "hw1/intro.ml" 44 1702 1736
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 42 1661 1665 "hw1/intro.ml" 42 1661 1669
+)
+"hw1/intro.ml" 44 1702 1705 "hw1/intro.ml" 44 1702 1736
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 46 1740 1744 "hw1/intro.ml" 46 1740 1748
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 48 1780 1783 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 46 1740 1749 "hw1/intro.ml" 46 1740 1751
+type(
+  unit
+)
+"hw1/intro.ml" 47 1762 1765 "hw1/intro.ml" 47 1762 1770
+type(
+  int -> int
+)
+ident(
+  int_ref coins "hw1/intro.ml" 27 1383 1391 "hw1/intro.ml" 27 1383 1396
+)
+"hw1/intro.ml" 47 1762 1771 "hw1/intro.ml" 47 1762 1773
+type(
+  int
+)
+"hw1/intro.ml" 47 1762 1764 "hw1/intro.ml" 47 1762 1774
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 47 1762 1775 "hw1/intro.ml" 47 1762 1776
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 47 1762 1777 "hw1/intro.ml" 47 1762 1778
+type(
+  int
+)
+"hw1/intro.ml" 47 1762 1764 "hw1/intro.ml" 47 1762 1778
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 48 1780 1783 "hw1/intro.ml" 48 1780 1791
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 48 1780 1792 "hw1/intro.ml" 48 1780 1798
+type(
+  string
+)
+"hw1/intro.ml" 48 1780 1799 "hw1/intro.ml" 48 1780 1803
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 46 1740 1744 "hw1/intro.ml" 46 1740 1748
+)
+"hw1/intro.ml" 48 1780 1783 "hw1/intro.ml" 48 1780 1803
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 50 1807 1811 "hw1/intro.ml" 50 1807 1815
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 52 1846 1849 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 50 1807 1816 "hw1/intro.ml" 50 1807 1818
+type(
+  unit
+)
+"hw1/intro.ml" 51 1829 1832 "hw1/intro.ml" 51 1829 1837
+type(
+  int -> int
+)
+ident(
+  int_ref coins "hw1/intro.ml" 27 1383 1391 "hw1/intro.ml" 27 1383 1396
+)
+"hw1/intro.ml" 51 1829 1838 "hw1/intro.ml" 51 1829 1839
+type(
+  int
+)
+"hw1/intro.ml" 51 1829 1831 "hw1/intro.ml" 51 1829 1840
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 51 1829 1841 "hw1/intro.ml" 51 1829 1842
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 51 1829 1843 "hw1/intro.ml" 51 1829 1844
+type(
+  int
+)
+"hw1/intro.ml" 51 1829 1831 "hw1/intro.ml" 51 1829 1844
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 52 1846 1849 "hw1/intro.ml" 52 1846 1857
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 52 1846 1858 "hw1/intro.ml" 52 1846 1865
+type(
+  string
+)
+"hw1/intro.ml" 52 1846 1866 "hw1/intro.ml" 52 1846 1870
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 50 1807 1811 "hw1/intro.ml" 50 1807 1815
+)
+"hw1/intro.ml" 52 1846 1849 "hw1/intro.ml" 52 1846 1870
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 53 1872 1876 "hw1/intro.ml" 53 1872 1880
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 55 1911 1914 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 53 1872 1881 "hw1/intro.ml" 53 1872 1883
+type(
+  unit
+)
+"hw1/intro.ml" 54 1894 1897 "hw1/intro.ml" 54 1894 1902
+type(
+  int -> int
+)
+ident(
+  int_ref coins "hw1/intro.ml" 27 1383 1391 "hw1/intro.ml" 27 1383 1396
+)
+"hw1/intro.ml" 54 1894 1903 "hw1/intro.ml" 54 1894 1904
+type(
+  int
+)
+"hw1/intro.ml" 54 1894 1896 "hw1/intro.ml" 54 1894 1905
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 54 1894 1906 "hw1/intro.ml" 54 1894 1907
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 54 1894 1908 "hw1/intro.ml" 54 1894 1909
+type(
+  int
+)
+"hw1/intro.ml" 54 1894 1896 "hw1/intro.ml" 54 1894 1909
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 55 1911 1914 "hw1/intro.ml" 55 1911 1922
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 55 1911 1923 "hw1/intro.ml" 55 1911 1931
+type(
+  string
+)
+"hw1/intro.ml" 55 1911 1932 "hw1/intro.ml" 55 1911 1936
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 53 1872 1876 "hw1/intro.ml" 53 1872 1880
+)
+"hw1/intro.ml" 55 1911 1914 "hw1/intro.ml" 55 1911 1936
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 99 3520 3524 "hw1/intro.ml" 99 3520 3533
+type(
+  string -> string
+)
+ident(
+  def day_after "hw1/intro.ml" 159 5643 5643 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 99 3520 3535 "hw1/intro.ml" 99 3520 3538
+type(
+  string
+)
+ident(
+  def day "hw1/intro.ml" 99 3520 3548 "hw1/intro.ml" 109 3839 3844
+)
+"hw1/intro.ml" 100 3560 3574 "hw1/intro.ml" 100 3560 3577
+type(
+  string
+)
+ident(
+  int_ref day "hw1/intro.ml" 99 3520 3535 "hw1/intro.ml" 99 3520 3538
+)
+"hw1/intro.ml" 101 3584 3588 "hw1/intro.ml" 101 3584 3596
+type(
+  string
+)
+"hw1/intro.ml" 101 3584 3603 "hw1/intro.ml" 101 3584 3612
+type(
+  string
+)
+"hw1/intro.ml" 102 3614 3618 "hw1/intro.ml" 102 3614 3627
+type(
+  string
+)
+"hw1/intro.ml" 102 3614 3633 "hw1/intro.ml" 102 3614 3641
+type(
+  string
+)
+"hw1/intro.ml" 103 3643 3647 "hw1/intro.ml" 103 3643 3658
+type(
+  string
+)
+"hw1/intro.ml" 103 3643 3662 "hw1/intro.ml" 103 3643 3672
+type(
+  string
+)
+"hw1/intro.ml" 104 3674 3678 "hw1/intro.ml" 104 3674 3688
+type(
+  string
+)
+"hw1/intro.ml" 104 3674 3693 "hw1/intro.ml" 104 3674 3701
+type(
+  string
+)
+"hw1/intro.ml" 105 3703 3707 "hw1/intro.ml" 105 3703 3715
+type(
+  string
+)
+"hw1/intro.ml" 105 3703 3722 "hw1/intro.ml" 105 3703 3732
+type(
+  string
+)
+"hw1/intro.ml" 106 3734 3738 "hw1/intro.ml" 106 3734 3748
+type(
+  string
+)
+"hw1/intro.ml" 106 3734 3753 "hw1/intro.ml" 106 3734 3761
+type(
+  string
+)
+"hw1/intro.ml" 107 3763 3767 "hw1/intro.ml" 107 3763 3775
+type(
+  string
+)
+"hw1/intro.ml" 107 3763 3782 "hw1/intro.ml" 107 3763 3790
+type(
+  string
+)
+"hw1/intro.ml" 108 3792 3796 "hw1/intro.ml" 108 3792 3797
+type(
+  string
+)
+"hw1/intro.ml" 108 3792 3811 "hw1/intro.ml" 108 3792 3819
+type(
+  string -> string
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw1/intro.ml" 108 3792 3820 "hw1/intro.ml" 108 3792 3837
+type(
+  string
+)
+"hw1/intro.ml" 108 3792 3811 "hw1/intro.ml" 108 3792 3837
+call(
+  tail
+)
+type(
+  string
+)
+"hw1/intro.ml" 100 3560 3562 "hw1/intro.ml" 109 3839 3844
+type(
+  string
+)
+type(
+  string
+)
+"hw1/intro.ml" 159 5643 5651 "hw1/intro.ml" 159 5643 5669
+type(
+  int -> int -> int -> int
+)
+ident(
+  def maximum_table_area "hw1/intro.ml" 159 5643 5643 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 159 5643 5671 "hw1/intro.ml" 159 5643 5676
+type(
+  int
+)
+ident(
+  def side1 "hw1/intro.ml" 159 5643 5683 "hw1/intro.ml" 160 5718 5771
+)
+"hw1/intro.ml" 159 5643 5684 "hw1/intro.ml" 159 5643 5689
+type(
+  int
+)
+ident(
+  def side2 "hw1/intro.ml" 159 5643 5696 "hw1/intro.ml" 160 5718 5771
+)
+"hw1/intro.ml" 159 5643 5697 "hw1/intro.ml" 159 5643 5702
+type(
+  int
+)
+ident(
+  def side3 "hw1/intro.ml" 159 5643 5709 "hw1/intro.ml" 160 5718 5771
+)
+"hw1/intro.ml" 160 5718 5720 "hw1/intro.ml" 160 5718 5723
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw1/intro.ml" 160 5718 5725 "hw1/intro.ml" 160 5718 5728
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.max
+)
+"hw1/intro.ml" 160 5718 5730 "hw1/intro.ml" 160 5718 5735
+type(
+  int
+)
+ident(
+  int_ref side1 "hw1/intro.ml" 159 5643 5671 "hw1/intro.ml" 159 5643 5676
+)
+"hw1/intro.ml" 160 5718 5735 "hw1/intro.ml" 160 5718 5736
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"hw1/intro.ml" 160 5718 5736 "hw1/intro.ml" 160 5718 5741
+type(
+  int
+)
+ident(
+  int_ref side2 "hw1/intro.ml" 159 5643 5684 "hw1/intro.ml" 159 5643 5689
+)
+"hw1/intro.ml" 160 5718 5729 "hw1/intro.ml" 160 5718 5742
+type(
+  int
+)
+"hw1/intro.ml" 160 5718 5744 "hw1/intro.ml" 160 5718 5749
+type(
+  int
+)
+ident(
+  int_ref side2 "hw1/intro.ml" 159 5643 5684 "hw1/intro.ml" 159 5643 5689
+)
+"hw1/intro.ml" 160 5718 5749 "hw1/intro.ml" 160 5718 5750
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"hw1/intro.ml" 160 5718 5750 "hw1/intro.ml" 160 5718 5755
+type(
+  int
+)
+ident(
+  int_ref side3 "hw1/intro.ml" 159 5643 5697 "hw1/intro.ml" 159 5643 5702
+)
+"hw1/intro.ml" 160 5718 5743 "hw1/intro.ml" 160 5718 5756
+type(
+  int
+)
+"hw1/intro.ml" 160 5718 5724 "hw1/intro.ml" 160 5718 5757
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 160 5718 5759 "hw1/intro.ml" 160 5718 5764
+type(
+  int
+)
+ident(
+  int_ref side3 "hw1/intro.ml" 159 5643 5697 "hw1/intro.ml" 159 5643 5702
+)
+"hw1/intro.ml" 160 5718 5764 "hw1/intro.ml" 160 5718 5765
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"hw1/intro.ml" 160 5718 5765 "hw1/intro.ml" 160 5718 5770
+type(
+  int
+)
+ident(
+  int_ref side1 "hw1/intro.ml" 159 5643 5671 "hw1/intro.ml" 159 5643 5676
+)
+"hw1/intro.ml" 160 5718 5758 "hw1/intro.ml" 160 5718 5771
+type(
+  int
+)
+"hw1/intro.ml" 160 5718 5720 "hw1/intro.ml" 160 5718 5771
+call(
+  tail
+)
+type(
+  int
+)
+type(
+  int
+)
+"hw1/intro.ml" 164 5780 5784 "hw1/intro.ml" 164 5780 5788
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 166 5836 5839 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 164 5780 5789 "hw1/intro.ml" 164 5780 5791
+type(
+  unit
+)
+"hw1/intro.ml" 165 5802 5805 "hw1/intro.ml" 165 5802 5823
+type(
+  int -> int -> int -> int
+)
+ident(
+  int_ref maximum_table_area "hw1/intro.ml" 159 5643 5651 "hw1/intro.ml" 159 5643 5669
+)
+"hw1/intro.ml" 165 5802 5824 "hw1/intro.ml" 165 5802 5825
+type(
+  int
+)
+"hw1/intro.ml" 165 5802 5826 "hw1/intro.ml" 165 5802 5827
+type(
+  int
+)
+"hw1/intro.ml" 165 5802 5828 "hw1/intro.ml" 165 5802 5829
+type(
+  int
+)
+"hw1/intro.ml" 165 5802 5804 "hw1/intro.ml" 165 5802 5830
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 165 5802 5831 "hw1/intro.ml" 165 5802 5832
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 165 5802 5833 "hw1/intro.ml" 165 5802 5834
+type(
+  int
+)
+"hw1/intro.ml" 165 5802 5804 "hw1/intro.ml" 165 5802 5834
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 166 5836 5839 "hw1/intro.ml" 166 5836 5847
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 166 5836 5848 "hw1/intro.ml" 166 5836 5897
+type(
+  string
+)
+"hw1/intro.ml" 166 5836 5898 "hw1/intro.ml" 166 5836 5902
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 164 5780 5784 "hw1/intro.ml" 164 5780 5788
+)
+"hw1/intro.ml" 166 5836 5839 "hw1/intro.ml" 166 5836 5902
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 168 5906 5910 "hw1/intro.ml" 168 5906 5914
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 170 5963 5966 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 168 5906 5915 "hw1/intro.ml" 168 5906 5917
+type(
+  unit
+)
+"hw1/intro.ml" 169 5928 5931 "hw1/intro.ml" 169 5928 5949
+type(
+  int -> int -> int -> int
+)
+ident(
+  int_ref maximum_table_area "hw1/intro.ml" 159 5643 5651 "hw1/intro.ml" 159 5643 5669
+)
+"hw1/intro.ml" 169 5928 5950 "hw1/intro.ml" 169 5928 5951
+type(
+  int
+)
+"hw1/intro.ml" 169 5928 5952 "hw1/intro.ml" 169 5928 5953
+type(
+  int
+)
+"hw1/intro.ml" 169 5928 5954 "hw1/intro.ml" 169 5928 5955
+type(
+  int
+)
+"hw1/intro.ml" 169 5928 5930 "hw1/intro.ml" 169 5928 5956
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 169 5928 5957 "hw1/intro.ml" 169 5928 5958
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 169 5928 5959 "hw1/intro.ml" 169 5928 5961
+type(
+  int
+)
+"hw1/intro.ml" 169 5928 5930 "hw1/intro.ml" 169 5928 5961
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 170 5963 5966 "hw1/intro.ml" 170 5963 5974
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 170 5963 5975 "hw1/intro.ml" 170 5963 6021
+type(
+  string
+)
+"hw1/intro.ml" 170 5963 6022 "hw1/intro.ml" 170 5963 6026
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 168 5906 5910 "hw1/intro.ml" 168 5906 5914
+)
+"hw1/intro.ml" 170 5963 5966 "hw1/intro.ml" 170 5963 6026
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 172 6030 6034 "hw1/intro.ml" 172 6030 6038
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 174 6087 6090 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 172 6030 6039 "hw1/intro.ml" 172 6030 6041
+type(
+  unit
+)
+"hw1/intro.ml" 173 6052 6055 "hw1/intro.ml" 173 6052 6073
+type(
+  int -> int -> int -> int
+)
+ident(
+  int_ref maximum_table_area "hw1/intro.ml" 159 5643 5651 "hw1/intro.ml" 159 5643 5669
+)
+"hw1/intro.ml" 173 6052 6074 "hw1/intro.ml" 173 6052 6075
+type(
+  int
+)
+"hw1/intro.ml" 173 6052 6076 "hw1/intro.ml" 173 6052 6077
+type(
+  int
+)
+"hw1/intro.ml" 173 6052 6078 "hw1/intro.ml" 173 6052 6079
+type(
+  int
+)
+"hw1/intro.ml" 173 6052 6054 "hw1/intro.ml" 173 6052 6080
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 173 6052 6081 "hw1/intro.ml" 173 6052 6082
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 173 6052 6083 "hw1/intro.ml" 173 6052 6085
+type(
+  int
+)
+"hw1/intro.ml" 173 6052 6054 "hw1/intro.ml" 173 6052 6085
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 174 6087 6090 "hw1/intro.ml" 174 6087 6098
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 174 6087 6099 "hw1/intro.ml" 174 6087 6107
+type(
+  string
+)
+"hw1/intro.ml" 174 6087 6108 "hw1/intro.ml" 174 6087 6112
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 172 6030 6034 "hw1/intro.ml" 172 6030 6038
+)
+"hw1/intro.ml" 174 6087 6090 "hw1/intro.ml" 174 6087 6112
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 176 6116 6120 "hw1/intro.ml" 176 6116 6124
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 178 6173 6176 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 176 6116 6125 "hw1/intro.ml" 176 6116 6127
+type(
+  unit
+)
+"hw1/intro.ml" 177 6138 6141 "hw1/intro.ml" 177 6138 6159
+type(
+  int -> int -> int -> int
+)
+ident(
+  int_ref maximum_table_area "hw1/intro.ml" 159 5643 5651 "hw1/intro.ml" 159 5643 5669
+)
+"hw1/intro.ml" 177 6138 6160 "hw1/intro.ml" 177 6138 6161
+type(
+  int
+)
+"hw1/intro.ml" 177 6138 6162 "hw1/intro.ml" 177 6138 6163
+type(
+  int
+)
+"hw1/intro.ml" 177 6138 6164 "hw1/intro.ml" 177 6138 6165
+type(
+  int
+)
+"hw1/intro.ml" 177 6138 6140 "hw1/intro.ml" 177 6138 6166
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 177 6138 6167 "hw1/intro.ml" 177 6138 6168
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 177 6138 6169 "hw1/intro.ml" 177 6138 6171
+type(
+  int
+)
+"hw1/intro.ml" 177 6138 6140 "hw1/intro.ml" 177 6138 6171
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 178 6173 6176 "hw1/intro.ml" 178 6173 6184
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 178 6173 6185 "hw1/intro.ml" 178 6173 6199
+type(
+  string
+)
+"hw1/intro.ml" 178 6173 6200 "hw1/intro.ml" 178 6173 6204
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 176 6116 6120 "hw1/intro.ml" 176 6116 6124
+)
+"hw1/intro.ml" 178 6173 6176 "hw1/intro.ml" 178 6173 6204
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 191 6683 6691 "hw1/intro.ml" 191 6683 6701
+type(
+  int -> string -> int -> int
+)
+ident(
+  def move_robot "hw1/intro.ml" 191 6683 6683 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 191 6683 6703 "hw1/intro.ml" 191 6683 6706
+type(
+  int
+)
+ident(
+  def pos "hw1/intro.ml" 191 6683 6713 "hw1/intro.ml" 193 6817 6859
+)
+"hw1/intro.ml" 191 6683 6714 "hw1/intro.ml" 191 6683 6717
+type(
+  string
+)
+ident(
+  def dir "hw1/intro.ml" 191 6683 6727 "hw1/intro.ml" 193 6817 6859
+)
+"hw1/intro.ml" 191 6683 6728 "hw1/intro.ml" 191 6683 6737
+type(
+  int
+)
+ident(
+  def num_moves "hw1/intro.ml" 191 6683 6744 "hw1/intro.ml" 193 6817 6859
+)
+"hw1/intro.ml" 192 6753 6759 "hw1/intro.ml" 192 6753 6760
+type(
+  int
+)
+ident(
+  def x "hw1/intro.ml" 193 6817 6818 "hw1/intro.ml" 193 6817 6859
+)
+"hw1/intro.ml" 192 6753 6761 "hw1/intro.ml" 192 6753 6764
+type(
+  int
+)
+ident(
+  int_ref pos "hw1/intro.ml" 191 6683 6703 "hw1/intro.ml" 191 6683 6706
+)
+"hw1/intro.ml" 192 6753 6765 "hw1/intro.ml" 192 6753 6766
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw1/intro.ml" 192 6753 6771 "hw1/intro.ml" 192 6753 6774
+type(
+  string
+)
+ident(
+  int_ref dir "hw1/intro.ml" 191 6683 6714 "hw1/intro.ml" 191 6683 6717
+)
+"hw1/intro.ml" 192 6753 6774 "hw1/intro.ml" 192 6753 6775
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 192 6753 6775 "hw1/intro.ml" 192 6753 6784
+type(
+  string
+)
+"hw1/intro.ml" 192 6753 6771 "hw1/intro.ml" 192 6753 6784
+type(
+  bool
+)
+"hw1/intro.ml" 192 6753 6790 "hw1/intro.ml" 192 6753 6791
+type(
+  int
+)
+"hw1/intro.ml" 192 6753 6797 "hw1/intro.ml" 192 6753 6799
+type(
+  int
+)
+"hw1/intro.ml" 192 6753 6767 "hw1/intro.ml" 192 6753 6800
+type(
+  int
+)
+"hw1/intro.ml" 192 6753 6801 "hw1/intro.ml" 192 6753 6802
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"hw1/intro.ml" 192 6753 6803 "hw1/intro.ml" 192 6753 6812
+type(
+  int
+)
+ident(
+  int_ref num_moves "hw1/intro.ml" 191 6683 6728 "hw1/intro.ml" 191 6683 6737
+)
+"hw1/intro.ml" 192 6753 6767 "hw1/intro.ml" 192 6753 6812
+type(
+  int
+)
+"hw1/intro.ml" 192 6753 6761 "hw1/intro.ml" 192 6753 6812
+type(
+  int
+)
+"hw1/intro.ml" 193 6817 6821 "hw1/intro.ml" 193 6817 6822
+type(
+  int
+)
+ident(
+  int_ref x "hw1/intro.ml" 192 6753 6759 "hw1/intro.ml" 192 6753 6760
+)
+"hw1/intro.ml" 193 6817 6822 "hw1/intro.ml" 193 6817 6823
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"hw1/intro.ml" 193 6817 6823 "hw1/intro.ml" 193 6817 6825
+type(
+  int
+)
+"hw1/intro.ml" 193 6817 6821 "hw1/intro.ml" 193 6817 6825
+type(
+  bool
+)
+"hw1/intro.ml" 193 6817 6831 "hw1/intro.ml" 193 6817 6833
+type(
+  int
+)
+"hw1/intro.ml" 193 6817 6842 "hw1/intro.ml" 193 6817 6843
+type(
+  int
+)
+ident(
+  int_ref x "hw1/intro.ml" 192 6753 6759 "hw1/intro.ml" 192 6753 6760
+)
+"hw1/intro.ml" 193 6817 6843 "hw1/intro.ml" 193 6817 6844
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw1/intro.ml" 193 6817 6844 "hw1/intro.ml" 193 6817 6845
+type(
+  int
+)
+"hw1/intro.ml" 193 6817 6842 "hw1/intro.ml" 193 6817 6845
+type(
+  bool
+)
+"hw1/intro.ml" 193 6817 6851 "hw1/intro.ml" 193 6817 6852
+type(
+  int
+)
+"hw1/intro.ml" 193 6817 6858 "hw1/intro.ml" 193 6817 6859
+type(
+  int
+)
+ident(
+  int_ref x "hw1/intro.ml" 192 6753 6759 "hw1/intro.ml" 192 6753 6760
+)
+"hw1/intro.ml" 193 6817 6839 "hw1/intro.ml" 193 6817 6859
+type(
+  int
+)
+"hw1/intro.ml" 193 6817 6818 "hw1/intro.ml" 193 6817 6859
+type(
+  int
+)
+"hw1/intro.ml" 192 6753 6755 "hw1/intro.ml" 193 6817 6859
+type(
+  int
+)
+type(
+  int
+)
+"hw1/intro.ml" 195 6863 6867 "hw1/intro.ml" 195 6863 6871
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 197 6921 6924 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 195 6863 6872 "hw1/intro.ml" 195 6863 6874
+type(
+  unit
+)
+"hw1/intro.ml" 196 6885 6888 "hw1/intro.ml" 196 6885 6898
+type(
+  int -> string -> int -> int
+)
+ident(
+  int_ref move_robot "hw1/intro.ml" 191 6683 6691 "hw1/intro.ml" 191 6683 6701
+)
+"hw1/intro.ml" 196 6885 6899 "hw1/intro.ml" 196 6885 6901
+type(
+  int
+)
+"hw1/intro.ml" 196 6885 6902 "hw1/intro.ml" 196 6885 6911
+type(
+  string
+)
+"hw1/intro.ml" 196 6885 6912 "hw1/intro.ml" 196 6885 6913
+type(
+  int
+)
+"hw1/intro.ml" 196 6885 6887 "hw1/intro.ml" 196 6885 6914
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 196 6885 6915 "hw1/intro.ml" 196 6885 6916
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 196 6885 6917 "hw1/intro.ml" 196 6885 6919
+type(
+  int
+)
+"hw1/intro.ml" 196 6885 6887 "hw1/intro.ml" 196 6885 6919
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 197 6921 6924 "hw1/intro.ml" 197 6921 6932
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 197 6921 6933 "hw1/intro.ml" 197 6921 6963
+type(
+  string
+)
+"hw1/intro.ml" 197 6921 6964 "hw1/intro.ml" 197 6921 6968
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 195 6863 6867 "hw1/intro.ml" 195 6863 6871
+)
+"hw1/intro.ml" 197 6921 6924 "hw1/intro.ml" 197 6921 6968
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 199 6972 6976 "hw1/intro.ml" 199 6972 6980
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 201 7030 7033 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 199 6972 6981 "hw1/intro.ml" 199 6972 6983
+type(
+  unit
+)
+"hw1/intro.ml" 200 6994 6997 "hw1/intro.ml" 200 6994 7007
+type(
+  int -> string -> int -> int
+)
+ident(
+  int_ref move_robot "hw1/intro.ml" 191 6683 6691 "hw1/intro.ml" 191 6683 6701
+)
+"hw1/intro.ml" 200 6994 7008 "hw1/intro.ml" 200 6994 7009
+type(
+  int
+)
+"hw1/intro.ml" 200 6994 7010 "hw1/intro.ml" 200 6994 7020
+type(
+  string
+)
+"hw1/intro.ml" 200 6994 7021 "hw1/intro.ml" 200 6994 7022
+type(
+  int
+)
+"hw1/intro.ml" 200 6994 6996 "hw1/intro.ml" 200 6994 7024
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 200 6994 7025 "hw1/intro.ml" 200 6994 7026
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 200 6994 7027 "hw1/intro.ml" 200 6994 7028
+type(
+  int
+)
+"hw1/intro.ml" 200 6994 6996 "hw1/intro.ml" 200 6994 7028
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 201 7030 7033 "hw1/intro.ml" 201 7030 7041
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 201 7030 7042 "hw1/intro.ml" 201 7030 7077
+type(
+  string
+)
+"hw1/intro.ml" 201 7030 7078 "hw1/intro.ml" 201 7030 7082
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 199 6972 6976 "hw1/intro.ml" 199 6972 6980
+)
+"hw1/intro.ml" 201 7030 7033 "hw1/intro.ml" 201 7030 7082
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 204 7088 7092 "hw1/intro.ml" 204 7088 7096
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 206 7148 7151 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 204 7088 7097 "hw1/intro.ml" 204 7088 7099
+type(
+  unit
+)
+"hw1/intro.ml" 205 7110 7113 "hw1/intro.ml" 205 7110 7123
+type(
+  int -> string -> int -> int
+)
+ident(
+  int_ref move_robot "hw1/intro.ml" 191 6683 6691 "hw1/intro.ml" 191 6683 6701
+)
+"hw1/intro.ml" 205 7110 7124 "hw1/intro.ml" 205 7110 7126
+type(
+  int
+)
+"hw1/intro.ml" 205 7110 7127 "hw1/intro.ml" 205 7110 7136
+type(
+  string
+)
+"hw1/intro.ml" 205 7110 7137 "hw1/intro.ml" 205 7110 7139
+type(
+  int
+)
+"hw1/intro.ml" 205 7110 7112 "hw1/intro.ml" 205 7110 7141
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 205 7110 7142 "hw1/intro.ml" 205 7110 7143
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 205 7110 7144 "hw1/intro.ml" 205 7110 7146
+type(
+  int
+)
+"hw1/intro.ml" 205 7110 7112 "hw1/intro.ml" 205 7110 7146
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 206 7148 7151 "hw1/intro.ml" 206 7148 7159
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 206 7148 7160 "hw1/intro.ml" 206 7148 7178
+type(
+  string
+)
+"hw1/intro.ml" 206 7148 7179 "hw1/intro.ml" 206 7148 7183
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 204 7088 7092 "hw1/intro.ml" 204 7088 7096
+)
+"hw1/intro.ml" 206 7148 7151 "hw1/intro.ml" 206 7148 7183
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 209 7189 7193 "hw1/intro.ml" 209 7189 7197
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 211 7258 7261 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 209 7189 7198 "hw1/intro.ml" 209 7189 7200
+type(
+  unit
+)
+"hw1/intro.ml" 210 7211 7214 "hw1/intro.ml" 210 7211 7224
+type(
+  int -> string -> int -> int
+)
+ident(
+  int_ref move_robot "hw1/intro.ml" 191 6683 6691 "hw1/intro.ml" 191 6683 6701
+)
+"hw1/intro.ml" 210 7211 7225 "hw1/intro.ml" 210 7211 7227
+type(
+  int
+)
+"hw1/intro.ml" 210 7211 7228 "hw1/intro.ml" 210 7211 7246
+type(
+  string
+)
+"hw1/intro.ml" 210 7211 7247 "hw1/intro.ml" 210 7211 7249
+type(
+  int
+)
+"hw1/intro.ml" 210 7211 7213 "hw1/intro.ml" 210 7211 7251
+call(
+  stack
+)
+type(
+  int
+)
+"hw1/intro.ml" 210 7211 7252 "hw1/intro.ml" 210 7211 7253
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 210 7211 7254 "hw1/intro.ml" 210 7211 7256
+type(
+  int
+)
+"hw1/intro.ml" 210 7211 7213 "hw1/intro.ml" 210 7211 7256
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 211 7258 7261 "hw1/intro.ml" 211 7258 7269
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 211 7258 7270 "hw1/intro.ml" 211 7258 7278
+type(
+  string
+)
+"hw1/intro.ml" 211 7258 7279 "hw1/intro.ml" 211 7258 7283
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 209 7189 7193 "hw1/intro.ml" 209 7189 7197
+)
+"hw1/intro.ml" 211 7258 7261 "hw1/intro.ml" 211 7258 7283
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 249 8745 8753 "hw1/intro.ml" 249 8745 8769
+type(
+  int -> string
+)
+ident(
+  def street_direction "hw1/intro.ml" 249 8745 8745 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+type(
+  int
+)
+ident(
+  def st "hw1/intro.ml" 249 8745 8780 "hw1/intro.ml" 257 9115 9125
+)
+"hw1/intro.ml" 250 8792 8797 "hw1/intro.ml" 250 8792 8799
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 250 8792 8799 "hw1/intro.ml" 250 8792 8800
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw1/intro.ml" 250 8792 8800 "hw1/intro.ml" 250 8792 8801
+type(
+  int
+)
+"hw1/intro.ml" 250 8792 8797 "hw1/intro.ml" 250 8792 8801
+type(
+  bool
+)
+"hw1/intro.ml" 250 8792 8802 "hw1/intro.ml" 250 8792 8804
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"hw1/intro.ml" 250 8792 8805 "hw1/intro.ml" 250 8792 8807
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 250 8792 8807 "hw1/intro.ml" 250 8792 8808
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"hw1/intro.ml" 250 8792 8808 "hw1/intro.ml" 250 8792 8810
+type(
+  int
+)
+"hw1/intro.ml" 250 8792 8805 "hw1/intro.ml" 250 8792 8810
+type(
+  bool
+)
+"hw1/intro.ml" 250 8792 8797 "hw1/intro.ml" 250 8792 8810
+type(
+  bool
+)
+"hw1/intro.ml" 250 8792 8816 "hw1/intro.ml" 250 8792 8821
+type(
+  string
+)
+"hw1/intro.ml" 251 8823 8832 "hw1/intro.ml" 251 8823 8834
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 251 8823 8834 "hw1/intro.ml" 251 8823 8835
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 251 8823 8835 "hw1/intro.ml" 251 8823 8837
+type(
+  int
+)
+"hw1/intro.ml" 251 8823 8832 "hw1/intro.ml" 251 8823 8837
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8838 "hw1/intro.ml" 251 8823 8840
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"hw1/intro.ml" 251 8823 8841 "hw1/intro.ml" 251 8823 8843
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 251 8823 8843 "hw1/intro.ml" 251 8823 8844
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 251 8823 8844 "hw1/intro.ml" 251 8823 8846
+type(
+  int
+)
+"hw1/intro.ml" 251 8823 8841 "hw1/intro.ml" 251 8823 8846
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8847 "hw1/intro.ml" 251 8823 8849
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"hw1/intro.ml" 251 8823 8850 "hw1/intro.ml" 251 8823 8852
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 251 8823 8852 "hw1/intro.ml" 251 8823 8853
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 251 8823 8853 "hw1/intro.ml" 251 8823 8855
+type(
+  int
+)
+"hw1/intro.ml" 251 8823 8850 "hw1/intro.ml" 251 8823 8855
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8856 "hw1/intro.ml" 251 8823 8858
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"hw1/intro.ml" 251 8823 8859 "hw1/intro.ml" 251 8823 8861
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 251 8823 8861 "hw1/intro.ml" 251 8823 8862
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 251 8823 8862 "hw1/intro.ml" 251 8823 8864
+type(
+  int
+)
+"hw1/intro.ml" 251 8823 8859 "hw1/intro.ml" 251 8823 8864
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8865 "hw1/intro.ml" 251 8823 8867
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"hw1/intro.ml" 251 8823 8868 "hw1/intro.ml" 251 8823 8870
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 251 8823 8870 "hw1/intro.ml" 251 8823 8871
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 251 8823 8871 "hw1/intro.ml" 251 8823 8873
+type(
+  int
+)
+"hw1/intro.ml" 251 8823 8868 "hw1/intro.ml" 251 8823 8873
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8859 "hw1/intro.ml" 251 8823 8873
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8850 "hw1/intro.ml" 251 8823 8873
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8841 "hw1/intro.ml" 251 8823 8873
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8832 "hw1/intro.ml" 251 8823 8873
+type(
+  bool
+)
+"hw1/intro.ml" 251 8823 8879 "hw1/intro.ml" 251 8823 8883
+type(
+  string
+)
+"hw1/intro.ml" 252 8885 8894 "hw1/intro.ml" 252 8885 8896
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 252 8885 8896 "hw1/intro.ml" 252 8885 8897
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 252 8885 8897 "hw1/intro.ml" 252 8885 8899
+type(
+  int
+)
+"hw1/intro.ml" 252 8885 8894 "hw1/intro.ml" 252 8885 8899
+type(
+  bool
+)
+"hw1/intro.ml" 252 8885 8900 "hw1/intro.ml" 252 8885 8902
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"hw1/intro.ml" 252 8885 8903 "hw1/intro.ml" 252 8885 8905
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 252 8885 8905 "hw1/intro.ml" 252 8885 8906
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 252 8885 8906 "hw1/intro.ml" 252 8885 8908
+type(
+  int
+)
+"hw1/intro.ml" 252 8885 8903 "hw1/intro.ml" 252 8885 8908
+type(
+  bool
+)
+"hw1/intro.ml" 252 8885 8894 "hw1/intro.ml" 252 8885 8908
+type(
+  bool
+)
+"hw1/intro.ml" 252 8885 8914 "hw1/intro.ml" 252 8885 8917
+type(
+  string
+)
+"hw1/intro.ml" 253 8919 8928 "hw1/intro.ml" 253 8919 8930
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 253 8919 8930 "hw1/intro.ml" 253 8919 8931
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 253 8919 8931 "hw1/intro.ml" 253 8919 8933
+type(
+  int
+)
+"hw1/intro.ml" 253 8919 8928 "hw1/intro.ml" 253 8919 8933
+type(
+  bool
+)
+"hw1/intro.ml" 253 8919 8939 "hw1/intro.ml" 253 8919 8942
+type(
+  string
+)
+"hw1/intro.ml" 254 8944 8953 "hw1/intro.ml" 254 8944 8955
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 254 8944 8955 "hw1/intro.ml" 254 8944 8956
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw1/intro.ml" 254 8944 8956 "hw1/intro.ml" 254 8944 8958
+type(
+  int
+)
+"hw1/intro.ml" 254 8944 8953 "hw1/intro.ml" 254 8944 8958
+type(
+  bool
+)
+"hw1/intro.ml" 254 8944 8969 "hw1/intro.ml" 254 8944 8971
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 254 8944 8972 "hw1/intro.ml" 254 8944 8975
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"hw1/intro.ml" 254 8944 8976 "hw1/intro.ml" 254 8944 8977
+type(
+  int
+)
+"hw1/intro.ml" 254 8944 8969 "hw1/intro.ml" 254 8944 8977
+type(
+  int
+)
+"hw1/intro.ml" 254 8944 8977 "hw1/intro.ml" 254 8944 8978
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 254 8944 8978 "hw1/intro.ml" 254 8944 8979
+type(
+  int
+)
+"hw1/intro.ml" 254 8944 8968 "hw1/intro.ml" 254 8944 8980
+type(
+  bool
+)
+"hw1/intro.ml" 254 8944 8986 "hw1/intro.ml" 254 8944 8989
+type(
+  string
+)
+"hw1/intro.ml" 254 8944 8995 "hw1/intro.ml" 254 8944 8998
+type(
+  string
+)
+"hw1/intro.ml" 254 8944 8964 "hw1/intro.ml" 254 8944 8999
+type(
+  string
+)
+"hw1/intro.ml" 255 9001 9010 "hw1/intro.ml" 255 9001 9012
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 255 9001 9012 "hw1/intro.ml" 255 9001 9013
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw1/intro.ml" 255 9001 9013 "hw1/intro.ml" 255 9001 9015
+type(
+  int
+)
+"hw1/intro.ml" 255 9001 9010 "hw1/intro.ml" 255 9001 9015
+type(
+  bool
+)
+"hw1/intro.ml" 255 9001 9026 "hw1/intro.ml" 255 9001 9028
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 255 9001 9029 "hw1/intro.ml" 255 9001 9032
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"hw1/intro.ml" 255 9001 9033 "hw1/intro.ml" 255 9001 9034
+type(
+  int
+)
+"hw1/intro.ml" 255 9001 9026 "hw1/intro.ml" 255 9001 9034
+type(
+  int
+)
+"hw1/intro.ml" 255 9001 9034 "hw1/intro.ml" 255 9001 9035
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 255 9001 9035 "hw1/intro.ml" 255 9001 9036
+type(
+  int
+)
+"hw1/intro.ml" 255 9001 9025 "hw1/intro.ml" 255 9001 9037
+type(
+  bool
+)
+"hw1/intro.ml" 255 9001 9043 "hw1/intro.ml" 255 9001 9046
+type(
+  string
+)
+"hw1/intro.ml" 255 9001 9052 "hw1/intro.ml" 255 9001 9055
+type(
+  string
+)
+"hw1/intro.ml" 255 9001 9021 "hw1/intro.ml" 255 9001 9056
+type(
+  string
+)
+"hw1/intro.ml" 256 9058 9067 "hw1/intro.ml" 256 9058 9069
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 256 9058 9069 "hw1/intro.ml" 256 9058 9070
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw1/intro.ml" 256 9058 9070 "hw1/intro.ml" 256 9058 9072
+type(
+  int
+)
+"hw1/intro.ml" 256 9058 9067 "hw1/intro.ml" 256 9058 9072
+type(
+  bool
+)
+"hw1/intro.ml" 256 9058 9083 "hw1/intro.ml" 256 9058 9085
+type(
+  int
+)
+ident(
+  int_ref st "hw1/intro.ml" 249 8745 8771 "hw1/intro.ml" 249 8745 8773
+)
+"hw1/intro.ml" 256 9058 9086 "hw1/intro.ml" 256 9058 9089
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"hw1/intro.ml" 256 9058 9090 "hw1/intro.ml" 256 9058 9091
+type(
+  int
+)
+"hw1/intro.ml" 256 9058 9083 "hw1/intro.ml" 256 9058 9091
+type(
+  int
+)
+"hw1/intro.ml" 256 9058 9091 "hw1/intro.ml" 256 9058 9092
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 256 9058 9092 "hw1/intro.ml" 256 9058 9093
+type(
+  int
+)
+"hw1/intro.ml" 256 9058 9082 "hw1/intro.ml" 256 9058 9094
+type(
+  bool
+)
+"hw1/intro.ml" 256 9058 9100 "hw1/intro.ml" 256 9058 9103
+type(
+  string
+)
+"hw1/intro.ml" 256 9058 9109 "hw1/intro.ml" 256 9058 9112
+type(
+  string
+)
+"hw1/intro.ml" 256 9058 9078 "hw1/intro.ml" 256 9058 9113
+type(
+  string
+)
+"hw1/intro.ml" 257 9115 9121 "hw1/intro.ml" 257 9115 9125
+type(
+  string
+)
+"hw1/intro.ml" 256 9058 9064 "hw1/intro.ml" 257 9115 9125
+type(
+  string
+)
+"hw1/intro.ml" 255 9001 9007 "hw1/intro.ml" 257 9115 9125
+type(
+  string
+)
+"hw1/intro.ml" 254 8944 8950 "hw1/intro.ml" 257 9115 9125
+type(
+  string
+)
+"hw1/intro.ml" 253 8919 8925 "hw1/intro.ml" 257 9115 9125
+type(
+  string
+)
+"hw1/intro.ml" 252 8885 8891 "hw1/intro.ml" 257 9115 9125
+type(
+  string
+)
+"hw1/intro.ml" 251 8823 8829 "hw1/intro.ml" 257 9115 9125
+type(
+  string
+)
+"hw1/intro.ml" 250 8792 8794 "hw1/intro.ml" 257 9115 9125
+type(
+  string
+)
+type(
+  string
+)
+"hw1/intro.ml" 260 9132 9136 "hw1/intro.ml" 260 9132 9140
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 262 9186 9189 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 260 9132 9141 "hw1/intro.ml" 260 9132 9143
+type(
+  unit
+)
+"hw1/intro.ml" 261 9154 9157 "hw1/intro.ml" 261 9154 9173
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "hw1/intro.ml" 249 8745 8753 "hw1/intro.ml" 249 8745 8769
+)
+"hw1/intro.ml" 261 9154 9174 "hw1/intro.ml" 261 9154 9176
+type(
+  int
+)
+"hw1/intro.ml" 261 9154 9156 "hw1/intro.ml" 261 9154 9177
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 261 9154 9178 "hw1/intro.ml" 261 9154 9179
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 261 9154 9180 "hw1/intro.ml" 261 9154 9184
+type(
+  string
+)
+"hw1/intro.ml" 261 9154 9156 "hw1/intro.ml" 261 9154 9184
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 262 9186 9189 "hw1/intro.ml" 262 9186 9197
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 262 9186 9198 "hw1/intro.ml" 262 9186 9233
+type(
+  string
+)
+"hw1/intro.ml" 262 9186 9234 "hw1/intro.ml" 262 9186 9238
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 260 9132 9136 "hw1/intro.ml" 260 9132 9140
+)
+"hw1/intro.ml" 262 9186 9189 "hw1/intro.ml" 262 9186 9238
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 264 9242 9246 "hw1/intro.ml" 264 9242 9250
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 266 9294 9297 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 264 9242 9251 "hw1/intro.ml" 264 9242 9253
+type(
+  unit
+)
+"hw1/intro.ml" 265 9264 9267 "hw1/intro.ml" 265 9264 9283
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "hw1/intro.ml" 249 8745 8753 "hw1/intro.ml" 249 8745 8769
+)
+"hw1/intro.ml" 265 9264 9284 "hw1/intro.ml" 265 9264 9285
+type(
+  int
+)
+"hw1/intro.ml" 265 9264 9266 "hw1/intro.ml" 265 9264 9286
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 265 9264 9287 "hw1/intro.ml" 265 9264 9288
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 265 9264 9289 "hw1/intro.ml" 265 9264 9292
+type(
+  string
+)
+"hw1/intro.ml" 265 9264 9266 "hw1/intro.ml" 265 9264 9292
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 266 9294 9297 "hw1/intro.ml" 266 9294 9305
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 266 9294 9306 "hw1/intro.ml" 266 9294 9339
+type(
+  string
+)
+"hw1/intro.ml" 266 9294 9340 "hw1/intro.ml" 266 9294 9344
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 264 9242 9246 "hw1/intro.ml" 264 9242 9250
+)
+"hw1/intro.ml" 266 9294 9297 "hw1/intro.ml" 266 9294 9344
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 268 9348 9352 "hw1/intro.ml" 268 9348 9356
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 270 9401 9404 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 268 9348 9357 "hw1/intro.ml" 268 9348 9359
+type(
+  unit
+)
+"hw1/intro.ml" 269 9370 9373 "hw1/intro.ml" 269 9370 9389
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "hw1/intro.ml" 249 8745 8753 "hw1/intro.ml" 249 8745 8769
+)
+"hw1/intro.ml" 269 9370 9390 "hw1/intro.ml" 269 9370 9392
+type(
+  int
+)
+"hw1/intro.ml" 269 9370 9372 "hw1/intro.ml" 269 9370 9393
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 269 9370 9394 "hw1/intro.ml" 269 9370 9395
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 269 9370 9396 "hw1/intro.ml" 269 9370 9399
+type(
+  string
+)
+"hw1/intro.ml" 269 9370 9372 "hw1/intro.ml" 269 9370 9399
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 270 9401 9404 "hw1/intro.ml" 270 9401 9412
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 270 9401 9413 "hw1/intro.ml" 270 9401 9447
+type(
+  string
+)
+"hw1/intro.ml" 270 9401 9448 "hw1/intro.ml" 270 9401 9452
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 268 9348 9352 "hw1/intro.ml" 268 9348 9356
+)
+"hw1/intro.ml" 270 9401 9404 "hw1/intro.ml" 270 9401 9452
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 272 9456 9460 "hw1/intro.ml" 272 9456 9464
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 274 9511 9514 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 272 9456 9465 "hw1/intro.ml" 272 9456 9467
+type(
+  unit
+)
+"hw1/intro.ml" 273 9478 9481 "hw1/intro.ml" 273 9478 9497
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "hw1/intro.ml" 249 8745 8753 "hw1/intro.ml" 249 8745 8769
+)
+"hw1/intro.ml" 273 9478 9498 "hw1/intro.ml" 273 9478 9500
+type(
+  int
+)
+"hw1/intro.ml" 273 9478 9480 "hw1/intro.ml" 273 9478 9501
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 273 9478 9502 "hw1/intro.ml" 273 9478 9503
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 273 9478 9504 "hw1/intro.ml" 273 9478 9509
+type(
+  string
+)
+"hw1/intro.ml" 273 9478 9480 "hw1/intro.ml" 273 9478 9509
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 274 9511 9514 "hw1/intro.ml" 274 9511 9522
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 274 9511 9523 "hw1/intro.ml" 274 9511 9540
+type(
+  string
+)
+"hw1/intro.ml" 274 9511 9541 "hw1/intro.ml" 274 9511 9545
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 272 9456 9460 "hw1/intro.ml" 272 9456 9464
+)
+"hw1/intro.ml" 274 9511 9514 "hw1/intro.ml" 274 9511 9545
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 276 9549 9553 "hw1/intro.ml" 276 9549 9557
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 278 9603 9606 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 276 9549 9558 "hw1/intro.ml" 276 9549 9560
+type(
+  unit
+)
+"hw1/intro.ml" 277 9571 9574 "hw1/intro.ml" 277 9571 9590
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "hw1/intro.ml" 249 8745 8753 "hw1/intro.ml" 249 8745 8769
+)
+"hw1/intro.ml" 277 9571 9591 "hw1/intro.ml" 277 9571 9593
+type(
+  int
+)
+"hw1/intro.ml" 277 9571 9573 "hw1/intro.ml" 277 9571 9594
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 277 9571 9595 "hw1/intro.ml" 277 9571 9596
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 277 9571 9597 "hw1/intro.ml" 277 9571 9601
+type(
+  string
+)
+"hw1/intro.ml" 277 9571 9573 "hw1/intro.ml" 277 9571 9601
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 278 9603 9606 "hw1/intro.ml" 278 9603 9614
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 278 9603 9615 "hw1/intro.ml" 278 9603 9630
+type(
+  string
+)
+"hw1/intro.ml" 278 9603 9631 "hw1/intro.ml" 278 9603 9635
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 276 9549 9553 "hw1/intro.ml" 276 9549 9557
+)
+"hw1/intro.ml" 278 9603 9606 "hw1/intro.ml" 278 9603 9635
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 292 10098 10106 "hw1/intro.ml" 292 10098 10112
+type(
+  bool list -> bool
+)
+ident(
+  def exists "hw1/intro.ml" 292 10098 10098 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 292 10098 10114 "hw1/intro.ml" 292 10098 10119
+type(
+  bool list
+)
+ident(
+  def bools "hw1/intro.ml" 292 10098 10132 "hw1/intro.ml" 295 10178 10202
+)
+"hw1/intro.ml" 293 10142 10150 "hw1/intro.ml" 293 10142 10155
+type(
+  bool list
+)
+ident(
+  int_ref bools "hw1/intro.ml" 292 10098 10114 "hw1/intro.ml" 292 10098 10119
+)
+"hw1/intro.ml" 294 10162 10165 "hw1/intro.ml" 294 10162 10167
+type(
+  bool list
+)
+"hw1/intro.ml" 294 10162 10171 "hw1/intro.ml" 294 10162 10176
+type(
+  bool
+)
+"hw1/intro.ml" 295 10178 10181 "hw1/intro.ml" 295 10178 10182
+type(
+  bool
+)
+ident(
+  def h "hw1/intro.ml" 295 10178 10189 "hw1/intro.ml" 295 10178 10202
+)
+"hw1/intro.ml" 295 10178 10184 "hw1/intro.ml" 295 10178 10185
+type(
+  bool list
+)
+ident(
+  def t "hw1/intro.ml" 295 10178 10189 "hw1/intro.ml" 295 10178 10202
+)
+"hw1/intro.ml" 295 10178 10181 "hw1/intro.ml" 295 10178 10185
+type(
+  bool list
+)
+"hw1/intro.ml" 295 10178 10189 "hw1/intro.ml" 295 10178 10190
+type(
+  bool
+)
+ident(
+  int_ref h "hw1/intro.ml" 295 10178 10181 "hw1/intro.ml" 295 10178 10182
+)
+"hw1/intro.ml" 295 10178 10191 "hw1/intro.ml" 295 10178 10193
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( or )
+)
+"hw1/intro.ml" 295 10178 10194 "hw1/intro.ml" 295 10178 10200
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "hw1/intro.ml" 292 10098 10106 "hw1/intro.ml" 292 10098 10112
+)
+"hw1/intro.ml" 295 10178 10201 "hw1/intro.ml" 295 10178 10202
+type(
+  bool list
+)
+ident(
+  int_ref t "hw1/intro.ml" 295 10178 10184 "hw1/intro.ml" 295 10178 10185
+)
+"hw1/intro.ml" 295 10178 10194 "hw1/intro.ml" 295 10178 10202
+call(
+  tail
+)
+type(
+  bool
+)
+"hw1/intro.ml" 295 10178 10189 "hw1/intro.ml" 295 10178 10202
+type(
+  bool
+)
+"hw1/intro.ml" 293 10142 10144 "hw1/intro.ml" 295 10178 10202
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 297 10206 10210 "hw1/intro.ml" 297 10206 10214
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 299 10263 10266 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 297 10206 10215 "hw1/intro.ml" 297 10206 10217
+type(
+  unit
+)
+"hw1/intro.ml" 298 10228 10231 "hw1/intro.ml" 298 10228 10237
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "hw1/intro.ml" 292 10098 10106 "hw1/intro.ml" 292 10098 10112
+)
+"hw1/intro.ml" 298 10228 10239 "hw1/intro.ml" 298 10228 10244
+type(
+  bool
+)
+"hw1/intro.ml" 298 10228 10246 "hw1/intro.ml" 298 10228 10251
+type(
+  bool
+)
+"hw1/intro.ml" 298 10228 10238 "hw1/intro.ml" 298 10228 10252
+type(
+  bool list
+)
+"hw1/intro.ml" 298 10228 10230 "hw1/intro.ml" 298 10228 10253
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 298 10228 10254 "hw1/intro.ml" 298 10228 10255
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 298 10228 10256 "hw1/intro.ml" 298 10228 10261
+type(
+  bool
+)
+"hw1/intro.ml" 298 10228 10230 "hw1/intro.ml" 298 10228 10261
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 299 10263 10266 "hw1/intro.ml" 299 10263 10274
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 299 10263 10275 "hw1/intro.ml" 299 10263 10293
+type(
+  string
+)
+"hw1/intro.ml" 299 10263 10294 "hw1/intro.ml" 299 10263 10298
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 297 10206 10210 "hw1/intro.ml" 297 10206 10214
+)
+"hw1/intro.ml" 299 10263 10266 "hw1/intro.ml" 299 10263 10298
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 301 10302 10306 "hw1/intro.ml" 301 10302 10310
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 303 10363 10366 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 301 10302 10311 "hw1/intro.ml" 301 10302 10313
+type(
+  unit
+)
+"hw1/intro.ml" 302 10324 10327 "hw1/intro.ml" 302 10324 10333
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "hw1/intro.ml" 292 10098 10106 "hw1/intro.ml" 292 10098 10112
+)
+"hw1/intro.ml" 302 10324 10335 "hw1/intro.ml" 302 10324 10339
+type(
+  bool
+)
+"hw1/intro.ml" 302 10324 10341 "hw1/intro.ml" 302 10324 10346
+type(
+  bool
+)
+"hw1/intro.ml" 302 10324 10348 "hw1/intro.ml" 302 10324 10352
+type(
+  bool
+)
+"hw1/intro.ml" 302 10324 10334 "hw1/intro.ml" 302 10324 10353
+type(
+  bool list
+)
+"hw1/intro.ml" 302 10324 10326 "hw1/intro.ml" 302 10324 10354
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 302 10324 10355 "hw1/intro.ml" 302 10324 10356
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 302 10324 10357 "hw1/intro.ml" 302 10324 10361
+type(
+  bool
+)
+"hw1/intro.ml" 302 10324 10326 "hw1/intro.ml" 302 10324 10361
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 303 10363 10366 "hw1/intro.ml" 303 10363 10374
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 303 10363 10375 "hw1/intro.ml" 303 10363 10397
+type(
+  string
+)
+"hw1/intro.ml" 303 10363 10398 "hw1/intro.ml" 303 10363 10402
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 301 10302 10306 "hw1/intro.ml" 301 10302 10310
+)
+"hw1/intro.ml" 303 10363 10366 "hw1/intro.ml" 303 10363 10402
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 305 10406 10410 "hw1/intro.ml" 305 10406 10414
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 307 10451 10454 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 305 10406 10415 "hw1/intro.ml" 305 10406 10417
+type(
+  unit
+)
+"hw1/intro.ml" 306 10428 10431 "hw1/intro.ml" 306 10428 10437
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "hw1/intro.ml" 292 10098 10106 "hw1/intro.ml" 292 10098 10112
+)
+"hw1/intro.ml" 306 10428 10438 "hw1/intro.ml" 306 10428 10440
+type(
+  bool list
+)
+"hw1/intro.ml" 306 10428 10430 "hw1/intro.ml" 306 10428 10441
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 306 10428 10442 "hw1/intro.ml" 306 10428 10443
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 306 10428 10444 "hw1/intro.ml" 306 10428 10449
+type(
+  bool
+)
+"hw1/intro.ml" 306 10428 10430 "hw1/intro.ml" 306 10428 10449
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 307 10451 10454 "hw1/intro.ml" 307 10451 10462
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 307 10451 10463 "hw1/intro.ml" 307 10451 10475
+type(
+  string
+)
+"hw1/intro.ml" 307 10451 10476 "hw1/intro.ml" 307 10451 10480
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 305 10406 10410 "hw1/intro.ml" 305 10406 10414
+)
+"hw1/intro.ml" 307 10451 10454 "hw1/intro.ml" 307 10451 10480
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 309 10484 10488 "hw1/intro.ml" 309 10484 10492
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 311 10544 10547 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 309 10484 10493 "hw1/intro.ml" 309 10484 10495
+type(
+  unit
+)
+"hw1/intro.ml" 310 10506 10509 "hw1/intro.ml" 310 10506 10515
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "hw1/intro.ml" 292 10098 10106 "hw1/intro.ml" 292 10098 10112
+)
+"hw1/intro.ml" 310 10506 10517 "hw1/intro.ml" 310 10506 10521
+type(
+  bool
+)
+"hw1/intro.ml" 310 10506 10523 "hw1/intro.ml" 310 10506 10527
+type(
+  bool
+)
+"hw1/intro.ml" 310 10506 10529 "hw1/intro.ml" 310 10506 10533
+type(
+  bool
+)
+"hw1/intro.ml" 310 10506 10516 "hw1/intro.ml" 310 10506 10534
+type(
+  bool list
+)
+"hw1/intro.ml" 310 10506 10508 "hw1/intro.ml" 310 10506 10535
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 310 10506 10536 "hw1/intro.ml" 310 10506 10537
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 310 10506 10538 "hw1/intro.ml" 310 10506 10542
+type(
+  bool
+)
+"hw1/intro.ml" 310 10506 10508 "hw1/intro.ml" 310 10506 10542
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 311 10544 10547 "hw1/intro.ml" 311 10544 10555
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 311 10544 10556 "hw1/intro.ml" 311 10544 10566
+type(
+  string
+)
+"hw1/intro.ml" 311 10544 10567 "hw1/intro.ml" 311 10544 10571
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 309 10484 10488 "hw1/intro.ml" 309 10484 10492
+)
+"hw1/intro.ml" 311 10544 10547 "hw1/intro.ml" 311 10544 10571
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 326 11033 11041 "hw1/intro.ml" 326 11033 11045
+type(
+  string -> string list -> string
+)
+ident(
+  def join "hw1/intro.ml" 326 11033 11033 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 326 11033 11047 "hw1/intro.ml" 326 11033 11056
+type(
+  string
+)
+ident(
+  def separator "hw1/intro.ml" 326 11033 11066 "hw1/intro.ml" 329 11126 11195
+)
+"hw1/intro.ml" 326 11033 11067 "hw1/intro.ml" 326 11033 11068
+type(
+  string list
+)
+ident(
+  def l "hw1/intro.ml" 326 11033 11083 "hw1/intro.ml" 329 11126 11195
+)
+"hw1/intro.ml" 327 11095 11103 "hw1/intro.ml" 327 11095 11104
+type(
+  string list
+)
+ident(
+  int_ref l "hw1/intro.ml" 326 11033 11067 "hw1/intro.ml" 326 11033 11068
+)
+"hw1/intro.ml" 328 11111 11114 "hw1/intro.ml" 328 11111 11116
+type(
+  string list
+)
+"hw1/intro.ml" 328 11111 11122 "hw1/intro.ml" 328 11111 11124
+type(
+  string
+)
+"hw1/intro.ml" 329 11126 11129 "hw1/intro.ml" 329 11126 11130
+type(
+  string
+)
+ident(
+  def h "hw1/intro.ml" 329 11126 11137 "hw1/intro.ml" 329 11126 11195
+)
+"hw1/intro.ml" 329 11126 11132 "hw1/intro.ml" 329 11126 11133
+type(
+  string list
+)
+ident(
+  def t "hw1/intro.ml" 329 11126 11137 "hw1/intro.ml" 329 11126 11195
+)
+"hw1/intro.ml" 329 11126 11129 "hw1/intro.ml" 329 11126 11133
+type(
+  string list
+)
+"hw1/intro.ml" 329 11126 11137 "hw1/intro.ml" 329 11126 11138
+type(
+  string
+)
+ident(
+  int_ref h "hw1/intro.ml" 329 11126 11129 "hw1/intro.ml" 329 11126 11130
+)
+"hw1/intro.ml" 329 11126 11139 "hw1/intro.ml" 329 11126 11140
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw1/intro.ml" 329 11126 11146 "hw1/intro.ml" 329 11126 11147
+type(
+  string list
+)
+ident(
+  int_ref t "hw1/intro.ml" 329 11126 11132 "hw1/intro.ml" 329 11126 11133
+)
+"hw1/intro.ml" 329 11126 11147 "hw1/intro.ml" 329 11126 11149
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"hw1/intro.ml" 329 11126 11149 "hw1/intro.ml" 329 11126 11151
+type(
+  string list
+)
+"hw1/intro.ml" 329 11126 11145 "hw1/intro.ml" 329 11126 11152
+type(
+  bool
+)
+"hw1/intro.ml" 329 11126 11158 "hw1/intro.ml" 329 11126 11167
+type(
+  string
+)
+ident(
+  int_ref separator "hw1/intro.ml" 326 11033 11047 "hw1/intro.ml" 326 11033 11056
+)
+"hw1/intro.ml" 329 11126 11173 "hw1/intro.ml" 329 11126 11175
+type(
+  string
+)
+"hw1/intro.ml" 329 11126 11141 "hw1/intro.ml" 329 11126 11176
+type(
+  string
+)
+"hw1/intro.ml" 329 11126 11177 "hw1/intro.ml" 329 11126 11178
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw1/intro.ml" 329 11126 11179 "hw1/intro.ml" 329 11126 11183
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "hw1/intro.ml" 326 11033 11041 "hw1/intro.ml" 326 11033 11045
+)
+"hw1/intro.ml" 329 11126 11184 "hw1/intro.ml" 329 11126 11193
+type(
+  string
+)
+ident(
+  int_ref separator "hw1/intro.ml" 326 11033 11047 "hw1/intro.ml" 326 11033 11056
+)
+"hw1/intro.ml" 329 11126 11194 "hw1/intro.ml" 329 11126 11195
+type(
+  string list
+)
+ident(
+  int_ref t "hw1/intro.ml" 329 11126 11132 "hw1/intro.ml" 329 11126 11133
+)
+"hw1/intro.ml" 329 11126 11179 "hw1/intro.ml" 329 11126 11195
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 329 11126 11141 "hw1/intro.ml" 329 11126 11195
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 329 11126 11137 "hw1/intro.ml" 329 11126 11195
+call(
+  tail
+)
+type(
+  string
+)
+"hw1/intro.ml" 327 11095 11097 "hw1/intro.ml" 329 11126 11195
+type(
+  string
+)
+type(
+  string
+)
+"hw1/intro.ml" 331 11199 11203 "hw1/intro.ml" 331 11199 11207
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 333 11261 11264 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 331 11199 11208 "hw1/intro.ml" 331 11199 11210
+type(
+  unit
+)
+"hw1/intro.ml" 332 11221 11224 "hw1/intro.ml" 332 11221 11228
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "hw1/intro.ml" 326 11033 11041 "hw1/intro.ml" 326 11033 11045
+)
+"hw1/intro.ml" 332 11221 11229 "hw1/intro.ml" 332 11221 11232
+type(
+  string
+)
+"hw1/intro.ml" 332 11221 11234 "hw1/intro.ml" 332 11221 11237
+type(
+  string
+)
+"hw1/intro.ml" 332 11221 11239 "hw1/intro.ml" 332 11221 11242
+type(
+  string
+)
+"hw1/intro.ml" 332 11221 11244 "hw1/intro.ml" 332 11221 11247
+type(
+  string
+)
+"hw1/intro.ml" 332 11221 11233 "hw1/intro.ml" 332 11221 11248
+type(
+  string list
+)
+"hw1/intro.ml" 332 11221 11223 "hw1/intro.ml" 332 11221 11249
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 332 11221 11250 "hw1/intro.ml" 332 11221 11251
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 332 11221 11252 "hw1/intro.ml" 332 11221 11259
+type(
+  string
+)
+"hw1/intro.ml" 332 11221 11223 "hw1/intro.ml" 332 11221 11259
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 333 11261 11264 "hw1/intro.ml" 333 11261 11272
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 333 11261 11273 "hw1/intro.ml" 333 11261 11294
+type(
+  string
+)
+"hw1/intro.ml" 333 11261 11295 "hw1/intro.ml" 333 11261 11299
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 331 11199 11203 "hw1/intro.ml" 331 11199 11207
+)
+"hw1/intro.ml" 333 11261 11264 "hw1/intro.ml" 333 11261 11299
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 335 11303 11307 "hw1/intro.ml" 335 11303 11311
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 337 11363 11366 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 335 11303 11312 "hw1/intro.ml" 335 11303 11314
+type(
+  unit
+)
+"hw1/intro.ml" 336 11325 11328 "hw1/intro.ml" 336 11325 11332
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "hw1/intro.ml" 326 11033 11041 "hw1/intro.ml" 326 11033 11045
+)
+"hw1/intro.ml" 336 11325 11333 "hw1/intro.ml" 336 11325 11335
+type(
+  string
+)
+"hw1/intro.ml" 336 11325 11337 "hw1/intro.ml" 336 11325 11340
+type(
+  string
+)
+"hw1/intro.ml" 336 11325 11342 "hw1/intro.ml" 336 11325 11345
+type(
+  string
+)
+"hw1/intro.ml" 336 11325 11347 "hw1/intro.ml" 336 11325 11350
+type(
+  string
+)
+"hw1/intro.ml" 336 11325 11336 "hw1/intro.ml" 336 11325 11351
+type(
+  string list
+)
+"hw1/intro.ml" 336 11325 11327 "hw1/intro.ml" 336 11325 11352
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 336 11325 11353 "hw1/intro.ml" 336 11325 11354
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 336 11325 11356 "hw1/intro.ml" 336 11325 11361
+type(
+  string
+)
+"hw1/intro.ml" 336 11325 11327 "hw1/intro.ml" 336 11325 11361
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 337 11363 11366 "hw1/intro.ml" 337 11363 11374
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 337 11363 11375 "hw1/intro.ml" 337 11363 11399
+type(
+  string
+)
+"hw1/intro.ml" 337 11363 11400 "hw1/intro.ml" 337 11363 11404
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 335 11303 11307 "hw1/intro.ml" 335 11303 11311
+)
+"hw1/intro.ml" 337 11363 11366 "hw1/intro.ml" 337 11363 11404
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 339 11408 11412 "hw1/intro.ml" 339 11408 11416
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 341 11478 11481 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 339 11408 11417 "hw1/intro.ml" 339 11408 11419
+type(
+  unit
+)
+"hw1/intro.ml" 340 11430 11433 "hw1/intro.ml" 340 11430 11437
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "hw1/intro.ml" 326 11033 11041 "hw1/intro.ml" 326 11033 11045
+)
+"hw1/intro.ml" 340 11430 11438 "hw1/intro.ml" 340 11430 11441
+type(
+  string
+)
+"hw1/intro.ml" 340 11430 11443 "hw1/intro.ml" 340 11430 11446
+type(
+  string
+)
+"hw1/intro.ml" 340 11430 11448 "hw1/intro.ml" 340 11430 11451
+type(
+  string
+)
+"hw1/intro.ml" 340 11430 11453 "hw1/intro.ml" 340 11430 11456
+type(
+  string
+)
+"hw1/intro.ml" 340 11430 11458 "hw1/intro.ml" 340 11430 11461
+type(
+  string
+)
+"hw1/intro.ml" 340 11430 11442 "hw1/intro.ml" 340 11430 11462
+type(
+  string list
+)
+"hw1/intro.ml" 340 11430 11432 "hw1/intro.ml" 340 11430 11463
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 340 11430 11464 "hw1/intro.ml" 340 11430 11465
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 340 11430 11467 "hw1/intro.ml" 340 11430 11476
+type(
+  string
+)
+"hw1/intro.ml" 340 11430 11432 "hw1/intro.ml" 340 11430 11476
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 341 11478 11481 "hw1/intro.ml" 341 11478 11489
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 341 11478 11490 "hw1/intro.ml" 341 11478 11498
+type(
+  string
+)
+"hw1/intro.ml" 341 11478 11499 "hw1/intro.ml" 341 11478 11503
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 339 11408 11412 "hw1/intro.ml" 339 11408 11416
+)
+"hw1/intro.ml" 341 11478 11481 "hw1/intro.ml" 341 11478 11503
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 343 11507 11511 "hw1/intro.ml" 343 11507 11515
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 345 11552 11555 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 343 11507 11516 "hw1/intro.ml" 343 11507 11518
+type(
+  unit
+)
+"hw1/intro.ml" 344 11529 11532 "hw1/intro.ml" 344 11529 11536
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "hw1/intro.ml" 326 11033 11041 "hw1/intro.ml" 326 11033 11045
+)
+"hw1/intro.ml" 344 11529 11537 "hw1/intro.ml" 344 11529 11540
+type(
+  string
+)
+"hw1/intro.ml" 344 11529 11541 "hw1/intro.ml" 344 11529 11543
+type(
+  string list
+)
+"hw1/intro.ml" 344 11529 11531 "hw1/intro.ml" 344 11529 11544
+call(
+  stack
+)
+type(
+  string
+)
+"hw1/intro.ml" 344 11529 11545 "hw1/intro.ml" 344 11529 11546
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 344 11529 11548 "hw1/intro.ml" 344 11529 11550
+type(
+  string
+)
+"hw1/intro.ml" 344 11529 11531 "hw1/intro.ml" 344 11529 11550
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 345 11552 11555 "hw1/intro.ml" 345 11552 11563
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 345 11552 11564 "hw1/intro.ml" 345 11552 11576
+type(
+  string
+)
+"hw1/intro.ml" 345 11552 11577 "hw1/intro.ml" 345 11552 11581
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 343 11507 11511 "hw1/intro.ml" 343 11507 11515
+)
+"hw1/intro.ml" 345 11552 11555 "hw1/intro.ml" 345 11552 11581
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 389 13124 13132 "hw1/intro.ml" 389 13124 13138
+type(
+  string list -> string list -> string list
+)
+ident(
+  def append "hw1/intro.ml" 389 13124 13124 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 389 13124 13140 "hw1/intro.ml" 389 13124 13142
+type(
+  string list
+)
+ident(
+  def l1 "hw1/intro.ml" 389 13124 13157 "hw1/intro.ml" 392 13222 13249
+)
+"hw1/intro.ml" 389 13124 13158 "hw1/intro.ml" 389 13124 13160
+type(
+  string list
+)
+ident(
+  def l2 "hw1/intro.ml" 389 13124 13175 "hw1/intro.ml" 392 13222 13249
+)
+"hw1/intro.ml" 390 13192 13200 "hw1/intro.ml" 390 13192 13202
+type(
+  string list
+)
+ident(
+  int_ref l1 "hw1/intro.ml" 389 13124 13140 "hw1/intro.ml" 389 13124 13142
+)
+"hw1/intro.ml" 391 13209 13212 "hw1/intro.ml" 391 13209 13214
+type(
+  string list
+)
+"hw1/intro.ml" 391 13209 13218 "hw1/intro.ml" 391 13209 13220
+type(
+  string list
+)
+ident(
+  int_ref l2 "hw1/intro.ml" 389 13124 13158 "hw1/intro.ml" 389 13124 13160
+)
+"hw1/intro.ml" 392 13222 13225 "hw1/intro.ml" 392 13222 13226
+type(
+  string
+)
+ident(
+  def h "hw1/intro.ml" 392 13222 13233 "hw1/intro.ml" 392 13222 13249
+)
+"hw1/intro.ml" 392 13222 13228 "hw1/intro.ml" 392 13222 13229
+type(
+  string list
+)
+ident(
+  def t "hw1/intro.ml" 392 13222 13233 "hw1/intro.ml" 392 13222 13249
+)
+"hw1/intro.ml" 392 13222 13225 "hw1/intro.ml" 392 13222 13229
+type(
+  string list
+)
+"hw1/intro.ml" 392 13222 13233 "hw1/intro.ml" 392 13222 13234
+type(
+  string
+)
+ident(
+  int_ref h "hw1/intro.ml" 392 13222 13225 "hw1/intro.ml" 392 13222 13226
+)
+"hw1/intro.ml" 392 13222 13237 "hw1/intro.ml" 392 13222 13243
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "hw1/intro.ml" 389 13124 13132 "hw1/intro.ml" 389 13124 13138
+)
+"hw1/intro.ml" 392 13222 13244 "hw1/intro.ml" 392 13222 13245
+type(
+  string list
+)
+ident(
+  int_ref t "hw1/intro.ml" 392 13222 13228 "hw1/intro.ml" 392 13222 13229
+)
+"hw1/intro.ml" 392 13222 13246 "hw1/intro.ml" 392 13222 13248
+type(
+  string list
+)
+ident(
+  int_ref l2 "hw1/intro.ml" 389 13124 13158 "hw1/intro.ml" 389 13124 13160
+)
+"hw1/intro.ml" 392 13222 13236 "hw1/intro.ml" 392 13222 13249
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 392 13222 13233 "hw1/intro.ml" 392 13222 13249
+type(
+  string list
+)
+"hw1/intro.ml" 390 13192 13194 "hw1/intro.ml" 392 13222 13249
+type(
+  string list
+)
+type(
+  string list
+)
+"hw1/intro.ml" 394 13253 13257 "hw1/intro.ml" 394 13253 13261
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 396 13298 13301 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 394 13253 13262 "hw1/intro.ml" 394 13253 13264
+type(
+  unit
+)
+"hw1/intro.ml" 395 13275 13278 "hw1/intro.ml" 395 13275 13284
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "hw1/intro.ml" 389 13124 13132 "hw1/intro.ml" 389 13124 13138
+)
+"hw1/intro.ml" 395 13275 13285 "hw1/intro.ml" 395 13275 13287
+type(
+  string list
+)
+"hw1/intro.ml" 395 13275 13288 "hw1/intro.ml" 395 13275 13290
+type(
+  string list
+)
+"hw1/intro.ml" 395 13275 13277 "hw1/intro.ml" 395 13275 13291
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 395 13275 13292 "hw1/intro.ml" 395 13275 13293
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 395 13275 13294 "hw1/intro.ml" 395 13275 13296
+type(
+  string list
+)
+"hw1/intro.ml" 395 13275 13277 "hw1/intro.ml" 395 13275 13296
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 396 13298 13301 "hw1/intro.ml" 396 13298 13309
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 396 13298 13310 "hw1/intro.ml" 396 13298 13334
+type(
+  string
+)
+"hw1/intro.ml" 396 13298 13335 "hw1/intro.ml" 396 13298 13339
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 394 13253 13257 "hw1/intro.ml" 394 13253 13261
+)
+"hw1/intro.ml" 396 13298 13301 "hw1/intro.ml" 396 13298 13339
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 398 13343 13347 "hw1/intro.ml" 398 13343 13351
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 400 13412 13415 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 398 13343 13352 "hw1/intro.ml" 398 13343 13354
+type(
+  unit
+)
+"hw1/intro.ml" 399 13365 13368 "hw1/intro.ml" 399 13365 13374
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "hw1/intro.ml" 389 13124 13132 "hw1/intro.ml" 389 13124 13138
+)
+"hw1/intro.ml" 399 13365 13376 "hw1/intro.ml" 399 13365 13379
+type(
+  string
+)
+"hw1/intro.ml" 399 13365 13381 "hw1/intro.ml" 399 13365 13384
+type(
+  string
+)
+"hw1/intro.ml" 399 13365 13375 "hw1/intro.ml" 399 13365 13385
+type(
+  string list
+)
+"hw1/intro.ml" 399 13365 13387 "hw1/intro.ml" 399 13365 13390
+type(
+  string
+)
+"hw1/intro.ml" 399 13365 13386 "hw1/intro.ml" 399 13365 13391
+type(
+  string list
+)
+"hw1/intro.ml" 399 13365 13367 "hw1/intro.ml" 399 13365 13392
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 399 13365 13393 "hw1/intro.ml" 399 13365 13394
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 399 13365 13396 "hw1/intro.ml" 399 13365 13399
+type(
+  string
+)
+"hw1/intro.ml" 399 13365 13401 "hw1/intro.ml" 399 13365 13404
+type(
+  string
+)
+"hw1/intro.ml" 399 13365 13406 "hw1/intro.ml" 399 13365 13409
+type(
+  string
+)
+"hw1/intro.ml" 399 13365 13395 "hw1/intro.ml" 399 13365 13410
+type(
+  string list
+)
+"hw1/intro.ml" 399 13365 13367 "hw1/intro.ml" 399 13365 13410
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 400 13412 13415 "hw1/intro.ml" 400 13412 13423
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 400 13412 13424 "hw1/intro.ml" 400 13412 13450
+type(
+  string
+)
+"hw1/intro.ml" 400 13412 13451 "hw1/intro.ml" 400 13412 13455
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 398 13343 13347 "hw1/intro.ml" 398 13343 13351
+)
+"hw1/intro.ml" 400 13412 13415 "hw1/intro.ml" 400 13412 13455
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 402 13459 13463 "hw1/intro.ml" 402 13459 13467
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 404 13510 13513 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 402 13459 13468 "hw1/intro.ml" 402 13459 13470
+type(
+  unit
+)
+"hw1/intro.ml" 403 13481 13484 "hw1/intro.ml" 403 13481 13490
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "hw1/intro.ml" 389 13124 13132 "hw1/intro.ml" 389 13124 13138
+)
+"hw1/intro.ml" 403 13481 13491 "hw1/intro.ml" 403 13481 13493
+type(
+  string list
+)
+"hw1/intro.ml" 403 13481 13495 "hw1/intro.ml" 403 13481 13498
+type(
+  string
+)
+"hw1/intro.ml" 403 13481 13494 "hw1/intro.ml" 403 13481 13499
+type(
+  string list
+)
+"hw1/intro.ml" 403 13481 13483 "hw1/intro.ml" 403 13481 13500
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 403 13481 13501 "hw1/intro.ml" 403 13481 13502
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 403 13481 13504 "hw1/intro.ml" 403 13481 13507
+type(
+  string
+)
+"hw1/intro.ml" 403 13481 13503 "hw1/intro.ml" 403 13481 13508
+type(
+  string list
+)
+"hw1/intro.ml" 403 13481 13483 "hw1/intro.ml" 403 13481 13508
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 404 13510 13513 "hw1/intro.ml" 404 13510 13521
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 404 13510 13522 "hw1/intro.ml" 404 13510 13535
+type(
+  string
+)
+"hw1/intro.ml" 404 13510 13536 "hw1/intro.ml" 404 13510 13540
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 402 13459 13463 "hw1/intro.ml" 402 13459 13467
+)
+"hw1/intro.ml" 404 13510 13513 "hw1/intro.ml" 404 13510 13540
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 406 13544 13548 "hw1/intro.ml" 406 13544 13552
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 408 13605 13608 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 406 13544 13553 "hw1/intro.ml" 406 13544 13555
+type(
+  unit
+)
+"hw1/intro.ml" 407 13566 13569 "hw1/intro.ml" 407 13566 13575
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "hw1/intro.ml" 389 13124 13132 "hw1/intro.ml" 389 13124 13138
+)
+"hw1/intro.ml" 407 13566 13577 "hw1/intro.ml" 407 13566 13580
+type(
+  string
+)
+"hw1/intro.ml" 407 13566 13582 "hw1/intro.ml" 407 13566 13585
+type(
+  string
+)
+"hw1/intro.ml" 407 13566 13576 "hw1/intro.ml" 407 13566 13586
+type(
+  string list
+)
+"hw1/intro.ml" 407 13566 13587 "hw1/intro.ml" 407 13566 13589
+type(
+  string list
+)
+"hw1/intro.ml" 407 13566 13568 "hw1/intro.ml" 407 13566 13590
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 407 13566 13591 "hw1/intro.ml" 407 13566 13592
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 407 13566 13594 "hw1/intro.ml" 407 13566 13597
+type(
+  string
+)
+"hw1/intro.ml" 407 13566 13599 "hw1/intro.ml" 407 13566 13602
+type(
+  string
+)
+"hw1/intro.ml" 407 13566 13593 "hw1/intro.ml" 407 13566 13603
+type(
+  string list
+)
+"hw1/intro.ml" 407 13566 13568 "hw1/intro.ml" 407 13566 13603
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 408 13605 13608 "hw1/intro.ml" 408 13605 13616
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 408 13605 13617 "hw1/intro.ml" 408 13605 13631
+type(
+  string
+)
+"hw1/intro.ml" 408 13605 13632 "hw1/intro.ml" 408 13605 13636
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 406 13544 13548 "hw1/intro.ml" 406 13544 13552
+)
+"hw1/intro.ml" 408 13605 13608 "hw1/intro.ml" 408 13605 13636
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 416 13862 13870 "hw1/intro.ml" 416 13862 13882
+type(
+  string list -> string -> bool
+)
+ident(
+  def contains_str "hw1/intro.ml" 416 13862 13862 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 416 13862 13884 "hw1/intro.ml" 416 13862 13885
+type(
+  string list
+)
+ident(
+  def l "hw1/intro.ml" 416 13862 13900 "hw1/intro.ml" 419 13957 13998
+)
+"hw1/intro.ml" 416 13862 13901 "hw1/intro.ml" 416 13862 13905
+type(
+  string
+)
+ident(
+  def elem "hw1/intro.ml" 416 13862 13915 "hw1/intro.ml" 419 13957 13998
+)
+"hw1/intro.ml" 417 13925 13933 "hw1/intro.ml" 417 13925 13934
+type(
+  string list
+)
+ident(
+  int_ref l "hw1/intro.ml" 416 13862 13884 "hw1/intro.ml" 416 13862 13885
+)
+"hw1/intro.ml" 418 13941 13944 "hw1/intro.ml" 418 13941 13946
+type(
+  string list
+)
+"hw1/intro.ml" 418 13941 13950 "hw1/intro.ml" 418 13941 13955
+type(
+  bool
+)
+"hw1/intro.ml" 419 13957 13960 "hw1/intro.ml" 419 13957 13961
+type(
+  string
+)
+ident(
+  def h "hw1/intro.ml" 419 13957 13967 "hw1/intro.ml" 419 13957 13998
+)
+"hw1/intro.ml" 419 13957 13963 "hw1/intro.ml" 419 13957 13964
+type(
+  string list
+)
+ident(
+  def t "hw1/intro.ml" 419 13957 13967 "hw1/intro.ml" 419 13957 13998
+)
+"hw1/intro.ml" 419 13957 13960 "hw1/intro.ml" 419 13957 13964
+type(
+  string list
+)
+"hw1/intro.ml" 419 13957 13968 "hw1/intro.ml" 419 13957 13969
+type(
+  string
+)
+ident(
+  int_ref h "hw1/intro.ml" 419 13957 13960 "hw1/intro.ml" 419 13957 13961
+)
+"hw1/intro.ml" 419 13957 13969 "hw1/intro.ml" 419 13957 13970
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 419 13957 13970 "hw1/intro.ml" 419 13957 13974
+type(
+  string
+)
+ident(
+  int_ref elem "hw1/intro.ml" 416 13862 13901 "hw1/intro.ml" 416 13862 13905
+)
+"hw1/intro.ml" 419 13957 13967 "hw1/intro.ml" 419 13957 13975
+type(
+  bool
+)
+"hw1/intro.ml" 419 13957 13976 "hw1/intro.ml" 419 13957 13978
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"hw1/intro.ml" 419 13957 13979 "hw1/intro.ml" 419 13957 13991
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "hw1/intro.ml" 416 13862 13870 "hw1/intro.ml" 416 13862 13882
+)
+"hw1/intro.ml" 419 13957 13992 "hw1/intro.ml" 419 13957 13993
+type(
+  string list
+)
+ident(
+  int_ref t "hw1/intro.ml" 419 13957 13963 "hw1/intro.ml" 419 13957 13964
+)
+"hw1/intro.ml" 419 13957 13994 "hw1/intro.ml" 419 13957 13998
+type(
+  string
+)
+ident(
+  int_ref elem "hw1/intro.ml" 416 13862 13901 "hw1/intro.ml" 416 13862 13905
+)
+"hw1/intro.ml" 419 13957 13979 "hw1/intro.ml" 419 13957 13998
+call(
+  tail
+)
+type(
+  bool
+)
+"hw1/intro.ml" 419 13957 13967 "hw1/intro.ml" 419 13957 13998
+type(
+  bool
+)
+"hw1/intro.ml" 417 13925 13927 "hw1/intro.ml" 419 13957 13998
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 421 14002 14006 "hw1/intro.ml" 421 14002 14010
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 423 14085 14088 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 421 14002 14011 "hw1/intro.ml" 421 14002 14013
+type(
+  unit
+)
+"hw1/intro.ml" 422 14024 14027 "hw1/intro.ml" 422 14024 14039
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "hw1/intro.ml" 416 13862 13870 "hw1/intro.ml" 416 13862 13882
+)
+"hw1/intro.ml" 422 14024 14041 "hw1/intro.ml" 422 14024 14048
+type(
+  string
+)
+"hw1/intro.ml" 422 14024 14050 "hw1/intro.ml" 422 14024 14058
+type(
+  string
+)
+"hw1/intro.ml" 422 14024 14060 "hw1/intro.ml" 422 14024 14065
+type(
+  string
+)
+"hw1/intro.ml" 422 14024 14040 "hw1/intro.ml" 422 14024 14066
+type(
+  string list
+)
+"hw1/intro.ml" 422 14024 14067 "hw1/intro.ml" 422 14024 14075
+type(
+  string
+)
+"hw1/intro.ml" 422 14024 14026 "hw1/intro.ml" 422 14024 14076
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 422 14024 14077 "hw1/intro.ml" 422 14024 14078
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 422 14024 14079 "hw1/intro.ml" 422 14024 14083
+type(
+  bool
+)
+"hw1/intro.ml" 422 14024 14026 "hw1/intro.ml" 422 14024 14083
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 423 14085 14088 "hw1/intro.ml" 423 14085 14096
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 423 14085 14097 "hw1/intro.ml" 423 14085 14128
+type(
+  string
+)
+"hw1/intro.ml" 423 14085 14129 "hw1/intro.ml" 423 14085 14133
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 421 14002 14006 "hw1/intro.ml" 421 14002 14010
+)
+"hw1/intro.ml" 423 14085 14088 "hw1/intro.ml" 423 14085 14133
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 425 14137 14141 "hw1/intro.ml" 425 14137 14145
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 427 14220 14223 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 425 14137 14146 "hw1/intro.ml" 425 14137 14148
+type(
+  unit
+)
+"hw1/intro.ml" 426 14159 14162 "hw1/intro.ml" 426 14159 14174
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "hw1/intro.ml" 416 13862 13870 "hw1/intro.ml" 416 13862 13882
+)
+"hw1/intro.ml" 426 14159 14176 "hw1/intro.ml" 426 14159 14183
+type(
+  string
+)
+"hw1/intro.ml" 426 14159 14185 "hw1/intro.ml" 426 14159 14193
+type(
+  string
+)
+"hw1/intro.ml" 426 14159 14195 "hw1/intro.ml" 426 14159 14200
+type(
+  string
+)
+"hw1/intro.ml" 426 14159 14175 "hw1/intro.ml" 426 14159 14201
+type(
+  string list
+)
+"hw1/intro.ml" 426 14159 14202 "hw1/intro.ml" 426 14159 14209
+type(
+  string
+)
+"hw1/intro.ml" 426 14159 14161 "hw1/intro.ml" 426 14159 14210
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 426 14159 14211 "hw1/intro.ml" 426 14159 14212
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 426 14159 14213 "hw1/intro.ml" 426 14159 14218
+type(
+  bool
+)
+"hw1/intro.ml" 426 14159 14161 "hw1/intro.ml" 426 14159 14218
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 427 14220 14223 "hw1/intro.ml" 427 14220 14231
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 427 14220 14232 "hw1/intro.ml" 427 14220 14262
+type(
+  string
+)
+"hw1/intro.ml" 427 14220 14263 "hw1/intro.ml" 427 14220 14267
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 425 14137 14141 "hw1/intro.ml" 425 14137 14145
+)
+"hw1/intro.ml" 427 14220 14223 "hw1/intro.ml" 427 14220 14267
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 430 14273 14277 "hw1/intro.ml" 430 14273 14281
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 432 14332 14335 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 430 14273 14282 "hw1/intro.ml" 430 14273 14284
+type(
+  unit
+)
+"hw1/intro.ml" 431 14295 14298 "hw1/intro.ml" 431 14295 14310
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "hw1/intro.ml" 416 13862 13870 "hw1/intro.ml" 416 13862 13882
+)
+"hw1/intro.ml" 431 14295 14311 "hw1/intro.ml" 431 14295 14313
+type(
+  string list
+)
+"hw1/intro.ml" 431 14295 14314 "hw1/intro.ml" 431 14295 14321
+type(
+  string
+)
+"hw1/intro.ml" 431 14295 14297 "hw1/intro.ml" 431 14295 14322
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 431 14295 14323 "hw1/intro.ml" 431 14295 14324
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 431 14295 14325 "hw1/intro.ml" 431 14295 14330
+type(
+  bool
+)
+"hw1/intro.ml" 431 14295 14297 "hw1/intro.ml" 431 14295 14330
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 432 14332 14335 "hw1/intro.ml" 432 14332 14343
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 432 14332 14344 "hw1/intro.ml" 432 14332 14369
+type(
+  string
+)
+"hw1/intro.ml" 432 14332 14370 "hw1/intro.ml" 432 14332 14374
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 430 14273 14277 "hw1/intro.ml" 430 14273 14281
+)
+"hw1/intro.ml" 432 14332 14335 "hw1/intro.ml" 432 14332 14374
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 435 14380 14384 "hw1/intro.ml" 435 14380 14388
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 437 14463 14466 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 435 14380 14389 "hw1/intro.ml" 435 14380 14391
+type(
+  unit
+)
+"hw1/intro.ml" 436 14402 14405 "hw1/intro.ml" 436 14402 14417
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "hw1/intro.ml" 416 13862 13870 "hw1/intro.ml" 416 13862 13882
+)
+"hw1/intro.ml" 436 14402 14419 "hw1/intro.ml" 436 14402 14426
+type(
+  string
+)
+"hw1/intro.ml" 436 14402 14428 "hw1/intro.ml" 436 14402 14435
+type(
+  string
+)
+"hw1/intro.ml" 436 14402 14437 "hw1/intro.ml" 436 14402 14444
+type(
+  string
+)
+"hw1/intro.ml" 436 14402 14418 "hw1/intro.ml" 436 14402 14445
+type(
+  string list
+)
+"hw1/intro.ml" 436 14402 14446 "hw1/intro.ml" 436 14402 14453
+type(
+  string
+)
+"hw1/intro.ml" 436 14402 14404 "hw1/intro.ml" 436 14402 14454
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 436 14402 14455 "hw1/intro.ml" 436 14402 14456
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 436 14402 14457 "hw1/intro.ml" 436 14402 14461
+type(
+  bool
+)
+"hw1/intro.ml" 436 14402 14404 "hw1/intro.ml" 436 14402 14461
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 437 14463 14466 "hw1/intro.ml" 437 14463 14474
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 437 14463 14475 "hw1/intro.ml" 437 14463 14502
+type(
+  string
+)
+"hw1/intro.ml" 437 14463 14503 "hw1/intro.ml" 437 14463 14507
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 435 14380 14384 "hw1/intro.ml" 435 14380 14388
+)
+"hw1/intro.ml" 437 14463 14466 "hw1/intro.ml" 437 14463 14507
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 446 14793 14801 "hw1/intro.ml" 446 14793 14809
+type(
+  string list -> string list -> string list
+)
+ident(
+  def dolls_of "hw1/intro.ml" 446 14793 14793 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 446 14793 14811 "hw1/intro.ml" 446 14793 14815
+type(
+  string list
+)
+ident(
+  def toys "hw1/intro.ml" 446 14793 14830 "hw1/intro.ml" 449 14902 14983
+)
+"hw1/intro.ml" 446 14793 14831 "hw1/intro.ml" 446 14793 14836
+type(
+  string list
+)
+ident(
+  def dolls "hw1/intro.ml" 446 14793 14851 "hw1/intro.ml" 449 14902 14983
+)
+"hw1/intro.ml" 447 14868 14876 "hw1/intro.ml" 447 14868 14880
+type(
+  string list
+)
+ident(
+  int_ref toys "hw1/intro.ml" 446 14793 14811 "hw1/intro.ml" 446 14793 14815
+)
+"hw1/intro.ml" 448 14887 14890 "hw1/intro.ml" 448 14887 14892
+type(
+  string list
+)
+"hw1/intro.ml" 448 14887 14898 "hw1/intro.ml" 448 14887 14900
+type(
+  string list
+)
+"hw1/intro.ml" 449 14902 14905 "hw1/intro.ml" 449 14902 14906
+type(
+  string
+)
+ident(
+  def h "hw1/intro.ml" 449 14902 14913 "hw1/intro.ml" 449 14902 14983
+)
+"hw1/intro.ml" 449 14902 14908 "hw1/intro.ml" 449 14902 14909
+type(
+  string list
+)
+ident(
+  def t "hw1/intro.ml" 449 14902 14913 "hw1/intro.ml" 449 14902 14983
+)
+"hw1/intro.ml" 449 14902 14905 "hw1/intro.ml" 449 14902 14909
+type(
+  string list
+)
+"hw1/intro.ml" 449 14902 14916 "hw1/intro.ml" 449 14902 14928
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "hw1/intro.ml" 416 13862 13870 "hw1/intro.ml" 416 13862 13882
+)
+"hw1/intro.ml" 449 14902 14929 "hw1/intro.ml" 449 14902 14934
+type(
+  string list
+)
+ident(
+  int_ref dolls "hw1/intro.ml" 446 14793 14831 "hw1/intro.ml" 446 14793 14836
+)
+"hw1/intro.ml" 449 14902 14935 "hw1/intro.ml" 449 14902 14936
+type(
+  string
+)
+ident(
+  int_ref h "hw1/intro.ml" 449 14902 14905 "hw1/intro.ml" 449 14902 14906
+)
+"hw1/intro.ml" 449 14902 14916 "hw1/intro.ml" 449 14902 14936
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 449 14902 14942 "hw1/intro.ml" 449 14902 14943
+type(
+  string
+)
+ident(
+  int_ref h "hw1/intro.ml" 449 14902 14905 "hw1/intro.ml" 449 14902 14906
+)
+"hw1/intro.ml" 449 14902 14945 "hw1/intro.ml" 449 14902 14953
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "hw1/intro.ml" 446 14793 14801 "hw1/intro.ml" 446 14793 14809
+)
+"hw1/intro.ml" 449 14902 14954 "hw1/intro.ml" 449 14902 14955
+type(
+  string list
+)
+ident(
+  int_ref t "hw1/intro.ml" 449 14902 14908 "hw1/intro.ml" 449 14902 14909
+)
+"hw1/intro.ml" 449 14902 14956 "hw1/intro.ml" 449 14902 14961
+type(
+  string list
+)
+ident(
+  int_ref dolls "hw1/intro.ml" 446 14793 14831 "hw1/intro.ml" 446 14793 14836
+)
+"hw1/intro.ml" 449 14902 14945 "hw1/intro.ml" 449 14902 14961
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 449 14902 14942 "hw1/intro.ml" 449 14902 14961
+type(
+  string list
+)
+"hw1/intro.ml" 449 14902 14967 "hw1/intro.ml" 449 14902 14975
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "hw1/intro.ml" 446 14793 14801 "hw1/intro.ml" 446 14793 14809
+)
+"hw1/intro.ml" 449 14902 14976 "hw1/intro.ml" 449 14902 14977
+type(
+  string list
+)
+ident(
+  int_ref t "hw1/intro.ml" 449 14902 14908 "hw1/intro.ml" 449 14902 14909
+)
+"hw1/intro.ml" 449 14902 14978 "hw1/intro.ml" 449 14902 14983
+type(
+  string list
+)
+ident(
+  int_ref dolls "hw1/intro.ml" 446 14793 14831 "hw1/intro.ml" 446 14793 14836
+)
+"hw1/intro.ml" 449 14902 14967 "hw1/intro.ml" 449 14902 14983
+call(
+  tail
+)
+type(
+  string list
+)
+"hw1/intro.ml" 449 14902 14913 "hw1/intro.ml" 449 14902 14983
+type(
+  string list
+)
+"hw1/intro.ml" 447 14868 14870 "hw1/intro.ml" 449 14902 14983
+type(
+  string list
+)
+type(
+  string list
+)
+"hw1/intro.ml" 452 14989 14993 "hw1/intro.ml" 452 14989 14997
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 454 15085 15088 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 452 14989 14998 "hw1/intro.ml" 452 14989 15000
+type(
+  unit
+)
+"hw1/intro.ml" 453 15011 15014 "hw1/intro.ml" 453 15011 15022
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "hw1/intro.ml" 446 14793 14801 "hw1/intro.ml" 446 14793 14809
+)
+"hw1/intro.ml" 453 15011 15024 "hw1/intro.ml" 453 15011 15031
+type(
+  string
+)
+"hw1/intro.ml" 453 15011 15033 "hw1/intro.ml" 453 15011 15041
+type(
+  string
+)
+"hw1/intro.ml" 453 15011 15043 "hw1/intro.ml" 453 15011 15048
+type(
+  string
+)
+"hw1/intro.ml" 453 15011 15023 "hw1/intro.ml" 453 15011 15049
+type(
+  string list
+)
+"hw1/intro.ml" 453 15011 15051 "hw1/intro.ml" 453 15011 15059
+type(
+  string
+)
+"hw1/intro.ml" 453 15011 15061 "hw1/intro.ml" 453 15011 15068
+type(
+  string
+)
+"hw1/intro.ml" 453 15011 15050 "hw1/intro.ml" 453 15011 15069
+type(
+  string list
+)
+"hw1/intro.ml" 453 15011 15013 "hw1/intro.ml" 453 15011 15070
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 453 15011 15071 "hw1/intro.ml" 453 15011 15072
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 453 15011 15074 "hw1/intro.ml" 453 15011 15082
+type(
+  string
+)
+"hw1/intro.ml" 453 15011 15073 "hw1/intro.ml" 453 15011 15083
+type(
+  string list
+)
+"hw1/intro.ml" 453 15011 15013 "hw1/intro.ml" 453 15011 15083
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 454 15085 15088 "hw1/intro.ml" 454 15085 15096
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 454 15085 15097 "hw1/intro.ml" 454 15085 15126
+type(
+  string
+)
+"hw1/intro.ml" 454 15085 15127 "hw1/intro.ml" 454 15085 15131
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 452 14989 14993 "hw1/intro.ml" 452 14989 14997
+)
+"hw1/intro.ml" 454 15085 15088 "hw1/intro.ml" 454 15085 15131
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 456 15135 15139 "hw1/intro.ml" 456 15135 15143
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 458 15199 15202 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 456 15135 15144 "hw1/intro.ml" 456 15135 15146
+type(
+  unit
+)
+"hw1/intro.ml" 457 15157 15160 "hw1/intro.ml" 457 15157 15168
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "hw1/intro.ml" 446 14793 14801 "hw1/intro.ml" 446 14793 14809
+)
+"hw1/intro.ml" 457 15157 15169 "hw1/intro.ml" 457 15157 15171
+type(
+  string list
+)
+"hw1/intro.ml" 457 15157 15173 "hw1/intro.ml" 457 15157 15181
+type(
+  string
+)
+"hw1/intro.ml" 457 15157 15183 "hw1/intro.ml" 457 15157 15190
+type(
+  string
+)
+"hw1/intro.ml" 457 15157 15172 "hw1/intro.ml" 457 15157 15191
+type(
+  string list
+)
+"hw1/intro.ml" 457 15157 15159 "hw1/intro.ml" 457 15157 15192
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 457 15157 15193 "hw1/intro.ml" 457 15157 15194
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 457 15157 15195 "hw1/intro.ml" 457 15157 15197
+type(
+  string list
+)
+"hw1/intro.ml" 457 15157 15159 "hw1/intro.ml" 457 15157 15197
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 458 15199 15202 "hw1/intro.ml" 458 15199 15210
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 458 15199 15211 "hw1/intro.ml" 458 15199 15236
+type(
+  string
+)
+"hw1/intro.ml" 458 15199 15237 "hw1/intro.ml" 458 15199 15241
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 456 15135 15139 "hw1/intro.ml" 456 15135 15143
+)
+"hw1/intro.ml" 458 15199 15202 "hw1/intro.ml" 458 15199 15241
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 460 15245 15249 "hw1/intro.ml" 460 15245 15253
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 462 15309 15312 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 460 15245 15254 "hw1/intro.ml" 460 15245 15256
+type(
+  unit
+)
+"hw1/intro.ml" 461 15267 15270 "hw1/intro.ml" 461 15267 15278
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "hw1/intro.ml" 446 14793 14801 "hw1/intro.ml" 446 14793 14809
+)
+"hw1/intro.ml" 461 15267 15280 "hw1/intro.ml" 461 15267 15288
+type(
+  string
+)
+"hw1/intro.ml" 461 15267 15290 "hw1/intro.ml" 461 15267 15297
+type(
+  string
+)
+"hw1/intro.ml" 461 15267 15279 "hw1/intro.ml" 461 15267 15298
+type(
+  string list
+)
+"hw1/intro.ml" 461 15267 15299 "hw1/intro.ml" 461 15267 15301
+type(
+  string list
+)
+"hw1/intro.ml" 461 15267 15269 "hw1/intro.ml" 461 15267 15302
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 461 15267 15303 "hw1/intro.ml" 461 15267 15304
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 461 15267 15305 "hw1/intro.ml" 461 15267 15307
+type(
+  string list
+)
+"hw1/intro.ml" 461 15267 15269 "hw1/intro.ml" 461 15267 15307
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 462 15309 15312 "hw1/intro.ml" 462 15309 15320
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 462 15309 15321 "hw1/intro.ml" 462 15309 15347
+type(
+  string
+)
+"hw1/intro.ml" 462 15309 15348 "hw1/intro.ml" 462 15309 15352
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 460 15245 15249 "hw1/intro.ml" 460 15245 15253
+)
+"hw1/intro.ml" 462 15309 15312 "hw1/intro.ml" 462 15309 15352
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 464 15356 15360 "hw1/intro.ml" 464 15356 15364
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 466 15433 15436 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 464 15356 15365 "hw1/intro.ml" 464 15356 15367
+type(
+  unit
+)
+"hw1/intro.ml" 465 15378 15381 "hw1/intro.ml" 465 15378 15389
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "hw1/intro.ml" 446 14793 14801 "hw1/intro.ml" 446 14793 14809
+)
+"hw1/intro.ml" 465 15378 15391 "hw1/intro.ml" 465 15378 15398
+type(
+  string
+)
+"hw1/intro.ml" 465 15378 15400 "hw1/intro.ml" 465 15378 15408
+type(
+  string
+)
+"hw1/intro.ml" 465 15378 15410 "hw1/intro.ml" 465 15378 15415
+type(
+  string
+)
+"hw1/intro.ml" 465 15378 15390 "hw1/intro.ml" 465 15378 15416
+type(
+  string list
+)
+"hw1/intro.ml" 465 15378 15418 "hw1/intro.ml" 465 15378 15424
+type(
+  string
+)
+"hw1/intro.ml" 465 15378 15417 "hw1/intro.ml" 465 15378 15425
+type(
+  string list
+)
+"hw1/intro.ml" 465 15378 15380 "hw1/intro.ml" 465 15378 15426
+call(
+  stack
+)
+type(
+  string list
+)
+"hw1/intro.ml" 465 15378 15427 "hw1/intro.ml" 465 15378 15428
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 465 15378 15429 "hw1/intro.ml" 465 15378 15431
+type(
+  string list
+)
+"hw1/intro.ml" 465 15378 15380 "hw1/intro.ml" 465 15378 15431
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 466 15433 15436 "hw1/intro.ml" 466 15433 15444
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 466 15433 15445 "hw1/intro.ml" 466 15433 15464
+type(
+  string
+)
+"hw1/intro.ml" 466 15433 15465 "hw1/intro.ml" 466 15433 15469
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 464 15356 15360 "hw1/intro.ml" 464 15356 15364
+)
+"hw1/intro.ml" 466 15433 15436 "hw1/intro.ml" 466 15433 15469
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 479 16005 16013 "hw1/intro.ml" 479 16005 16018
+type(
+  int list -> int list -> int list
+)
+ident(
+  def merge "hw1/intro.ml" 479 16005 16005 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 479 16005 16020 "hw1/intro.ml" 479 16005 16022
+type(
+  int list
+)
+ident(
+  def l1 "hw1/intro.ml" 479 16005 16034 "hw1/intro.ml" 482 16091 16116
+)
+"hw1/intro.ml" 479 16005 16035 "hw1/intro.ml" 479 16005 16037
+type(
+  int list
+)
+ident(
+  def l2 "hw1/intro.ml" 479 16005 16049 "hw1/intro.ml" 482 16091 16116
+)
+"hw1/intro.ml" 480 16063 16070 "hw1/intro.ml" 480 16063 16072
+type(
+  int list
+)
+ident(
+  int_ref l1 "hw1/intro.ml" 479 16005 16020 "hw1/intro.ml" 479 16005 16022
+)
+"hw1/intro.ml" 481 16079 16081 "hw1/intro.ml" 481 16079 16083
+type(
+  int list
+)
+"hw1/intro.ml" 481 16079 16087 "hw1/intro.ml" 481 16079 16089
+type(
+  int list
+)
+ident(
+  int_ref l2 "hw1/intro.ml" 479 16005 16035 "hw1/intro.ml" 479 16005 16037
+)
+"hw1/intro.ml" 482 16091 16093 "hw1/intro.ml" 482 16091 16094
+type(
+  int
+)
+ident(
+  def h "hw1/intro.ml" 482 16091 16101 "hw1/intro.ml" 482 16091 16116
+)
+"hw1/intro.ml" 482 16091 16096 "hw1/intro.ml" 482 16091 16097
+type(
+  int list
+)
+ident(
+  def t "hw1/intro.ml" 482 16091 16101 "hw1/intro.ml" 482 16091 16116
+)
+"hw1/intro.ml" 482 16091 16093 "hw1/intro.ml" 482 16091 16097
+type(
+  int list
+)
+"hw1/intro.ml" 482 16091 16101 "hw1/intro.ml" 482 16091 16102
+type(
+  int
+)
+ident(
+  int_ref h "hw1/intro.ml" 482 16091 16093 "hw1/intro.ml" 482 16091 16094
+)
+"hw1/intro.ml" 482 16091 16105 "hw1/intro.ml" 482 16091 16110
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "hw1/intro.ml" 479 16005 16013 "hw1/intro.ml" 479 16005 16018
+)
+"hw1/intro.ml" 482 16091 16111 "hw1/intro.ml" 482 16091 16113
+type(
+  int list
+)
+ident(
+  int_ref l2 "hw1/intro.ml" 479 16005 16035 "hw1/intro.ml" 479 16005 16037
+)
+"hw1/intro.ml" 482 16091 16114 "hw1/intro.ml" 482 16091 16115
+type(
+  int list
+)
+ident(
+  int_ref t "hw1/intro.ml" 482 16091 16096 "hw1/intro.ml" 482 16091 16097
+)
+"hw1/intro.ml" 482 16091 16104 "hw1/intro.ml" 482 16091 16116
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 482 16091 16101 "hw1/intro.ml" 482 16091 16116
+type(
+  int list
+)
+"hw1/intro.ml" 480 16063 16064 "hw1/intro.ml" 482 16091 16116
+type(
+  int list
+)
+type(
+  int list
+)
+"hw1/intro.ml" 484 16120 16124 "hw1/intro.ml" 484 16120 16128
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 486 16206 16209 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 484 16120 16129 "hw1/intro.ml" 484 16120 16131
+type(
+  unit
+)
+"hw1/intro.ml" 485 16142 16145 "hw1/intro.ml" 485 16142 16150
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "hw1/intro.ml" 479 16005 16013 "hw1/intro.ml" 479 16005 16018
+)
+"hw1/intro.ml" 485 16142 16152 "hw1/intro.ml" 485 16142 16153
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16155 "hw1/intro.ml" 485 16142 16156
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16158 "hw1/intro.ml" 485 16142 16159
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16161 "hw1/intro.ml" 485 16142 16162
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16151 "hw1/intro.ml" 485 16142 16163
+type(
+  int list
+)
+"hw1/intro.ml" 485 16142 16165 "hw1/intro.ml" 485 16142 16166
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16168 "hw1/intro.ml" 485 16142 16169
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16171 "hw1/intro.ml" 485 16142 16172
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16174 "hw1/intro.ml" 485 16142 16175
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16164 "hw1/intro.ml" 485 16142 16176
+type(
+  int list
+)
+"hw1/intro.ml" 485 16142 16144 "hw1/intro.ml" 485 16142 16177
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 485 16142 16178 "hw1/intro.ml" 485 16142 16179
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 485 16142 16181 "hw1/intro.ml" 485 16142 16182
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16184 "hw1/intro.ml" 485 16142 16185
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16187 "hw1/intro.ml" 485 16142 16188
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16190 "hw1/intro.ml" 485 16142 16191
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16193 "hw1/intro.ml" 485 16142 16194
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16196 "hw1/intro.ml" 485 16142 16197
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16199 "hw1/intro.ml" 485 16142 16200
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16202 "hw1/intro.ml" 485 16142 16203
+type(
+  int
+)
+"hw1/intro.ml" 485 16142 16180 "hw1/intro.ml" 485 16142 16204
+type(
+  int list
+)
+"hw1/intro.ml" 485 16142 16144 "hw1/intro.ml" 485 16142 16204
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 486 16206 16209 "hw1/intro.ml" 486 16206 16217
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 486 16206 16218 "hw1/intro.ml" 486 16206 16241
+type(
+  string
+)
+"hw1/intro.ml" 486 16206 16242 "hw1/intro.ml" 486 16206 16246
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 484 16120 16124 "hw1/intro.ml" 484 16120 16128
+)
+"hw1/intro.ml" 486 16206 16209 "hw1/intro.ml" 486 16206 16246
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 488 16250 16254 "hw1/intro.ml" 488 16250 16258
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 490 16308 16311 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 488 16250 16259 "hw1/intro.ml" 488 16250 16261
+type(
+  unit
+)
+"hw1/intro.ml" 489 16272 16275 "hw1/intro.ml" 489 16272 16280
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "hw1/intro.ml" 479 16005 16013 "hw1/intro.ml" 479 16005 16018
+)
+"hw1/intro.ml" 489 16272 16281 "hw1/intro.ml" 489 16272 16283
+type(
+  int list
+)
+"hw1/intro.ml" 489 16272 16285 "hw1/intro.ml" 489 16272 16286
+type(
+  int
+)
+"hw1/intro.ml" 489 16272 16288 "hw1/intro.ml" 489 16272 16289
+type(
+  int
+)
+"hw1/intro.ml" 489 16272 16291 "hw1/intro.ml" 489 16272 16292
+type(
+  int
+)
+"hw1/intro.ml" 489 16272 16284 "hw1/intro.ml" 489 16272 16293
+type(
+  int list
+)
+"hw1/intro.ml" 489 16272 16274 "hw1/intro.ml" 489 16272 16294
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 489 16272 16295 "hw1/intro.ml" 489 16272 16296
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 489 16272 16298 "hw1/intro.ml" 489 16272 16299
+type(
+  int
+)
+"hw1/intro.ml" 489 16272 16301 "hw1/intro.ml" 489 16272 16302
+type(
+  int
+)
+"hw1/intro.ml" 489 16272 16304 "hw1/intro.ml" 489 16272 16305
+type(
+  int
+)
+"hw1/intro.ml" 489 16272 16297 "hw1/intro.ml" 489 16272 16306
+type(
+  int list
+)
+"hw1/intro.ml" 489 16272 16274 "hw1/intro.ml" 489 16272 16306
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 490 16308 16311 "hw1/intro.ml" 490 16308 16319
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 490 16308 16320 "hw1/intro.ml" 490 16308 16342
+type(
+  string
+)
+"hw1/intro.ml" 490 16308 16343 "hw1/intro.ml" 490 16308 16347
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 488 16250 16254 "hw1/intro.ml" 488 16250 16258
+)
+"hw1/intro.ml" 490 16308 16311 "hw1/intro.ml" 490 16308 16347
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 492 16351 16355 "hw1/intro.ml" 492 16351 16359
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 494 16395 16398 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 492 16351 16360 "hw1/intro.ml" 492 16351 16362
+type(
+  unit
+)
+"hw1/intro.ml" 493 16373 16376 "hw1/intro.ml" 493 16373 16381
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "hw1/intro.ml" 479 16005 16013 "hw1/intro.ml" 479 16005 16018
+)
+"hw1/intro.ml" 493 16373 16382 "hw1/intro.ml" 493 16373 16384
+type(
+  int list
+)
+"hw1/intro.ml" 493 16373 16385 "hw1/intro.ml" 493 16373 16387
+type(
+  int list
+)
+"hw1/intro.ml" 493 16373 16375 "hw1/intro.ml" 493 16373 16388
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 493 16373 16389 "hw1/intro.ml" 493 16373 16390
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 493 16373 16391 "hw1/intro.ml" 493 16373 16393
+type(
+  int list
+)
+"hw1/intro.ml" 493 16373 16375 "hw1/intro.ml" 493 16373 16393
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 494 16395 16398 "hw1/intro.ml" 494 16395 16406
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 494 16395 16407 "hw1/intro.ml" 494 16395 16430
+type(
+  string
+)
+"hw1/intro.ml" 494 16395 16431 "hw1/intro.ml" 494 16395 16435
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 492 16351 16355 "hw1/intro.ml" 492 16351 16359
+)
+"hw1/intro.ml" 494 16395 16398 "hw1/intro.ml" 494 16395 16435
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 496 16439 16443 "hw1/intro.ml" 496 16439 16447
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 498 16485 16488 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 496 16439 16448 "hw1/intro.ml" 496 16439 16450
+type(
+  unit
+)
+"hw1/intro.ml" 497 16461 16464 "hw1/intro.ml" 497 16461 16469
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "hw1/intro.ml" 479 16005 16013 "hw1/intro.ml" 479 16005 16018
+)
+"hw1/intro.ml" 497 16461 16471 "hw1/intro.ml" 497 16461 16472
+type(
+  int
+)
+"hw1/intro.ml" 497 16461 16470 "hw1/intro.ml" 497 16461 16473
+type(
+  int list
+)
+"hw1/intro.ml" 497 16461 16474 "hw1/intro.ml" 497 16461 16476
+type(
+  int list
+)
+"hw1/intro.ml" 497 16461 16463 "hw1/intro.ml" 497 16461 16477
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 497 16461 16478 "hw1/intro.ml" 497 16461 16479
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 497 16461 16481 "hw1/intro.ml" 497 16461 16482
+type(
+  int
+)
+"hw1/intro.ml" 497 16461 16480 "hw1/intro.ml" 497 16461 16483
+type(
+  int list
+)
+"hw1/intro.ml" 497 16461 16463 "hw1/intro.ml" 497 16461 16483
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 498 16485 16488 "hw1/intro.ml" 498 16485 16496
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 498 16485 16497 "hw1/intro.ml" 498 16485 16528
+type(
+  string
+)
+"hw1/intro.ml" 498 16485 16529 "hw1/intro.ml" 498 16485 16533
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 496 16439 16443 "hw1/intro.ml" 496 16439 16447
+)
+"hw1/intro.ml" 498 16485 16488 "hw1/intro.ml" 498 16485 16533
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 510 16997 17005 "hw1/intro.ml" 510 16997 17014
+type(
+  int list -> bool
+)
+ident(
+  def is_sorted "hw1/intro.ml" 510 16997 16997 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 510 16997 17016 "hw1/intro.ml" 510 16997 17017
+type(
+  int list
+)
+ident(
+  def l "hw1/intro.ml" 510 16997 17029 "hw1/intro.ml" 514 17083 17130
+)
+"hw1/intro.ml" 511 17039 17046 "hw1/intro.ml" 511 17039 17047
+type(
+  int list
+)
+ident(
+  int_ref l "hw1/intro.ml" 510 16997 17016 "hw1/intro.ml" 510 16997 17017
+)
+"hw1/intro.ml" 512 17054 17057 "hw1/intro.ml" 512 17054 17059
+type(
+  int list
+)
+"hw1/intro.ml" 512 17054 17062 "hw1/intro.ml" 512 17054 17066
+type(
+  bool
+)
+"hw1/intro.ml" 513 17068 17072 "hw1/intro.ml" 513 17068 17073
+type(
+  int
+)
+ident(
+  def x "hw1/intro.ml" 513 17068 17077 "hw1/intro.ml" 513 17068 17081
+)
+"hw1/intro.ml" 513 17068 17071 "hw1/intro.ml" 513 17068 17074
+type(
+  int list
+)
+"hw1/intro.ml" 513 17068 17077 "hw1/intro.ml" 513 17068 17081
+type(
+  bool
+)
+"hw1/intro.ml" 514 17083 17086 "hw1/intro.ml" 514 17083 17088
+type(
+  int
+)
+ident(
+  def h1 "hw1/intro.ml" 514 17083 17099 "hw1/intro.ml" 514 17083 17130
+)
+"hw1/intro.ml" 514 17083 17090 "hw1/intro.ml" 514 17083 17092
+type(
+  int
+)
+ident(
+  def h2 "hw1/intro.ml" 514 17083 17099 "hw1/intro.ml" 514 17083 17130
+)
+"hw1/intro.ml" 514 17083 17094 "hw1/intro.ml" 514 17083 17095
+type(
+  int list
+)
+ident(
+  def t "hw1/intro.ml" 514 17083 17099 "hw1/intro.ml" 514 17083 17130
+)
+"hw1/intro.ml" 514 17083 17090 "hw1/intro.ml" 514 17083 17095
+type(
+  int list
+)
+"hw1/intro.ml" 514 17083 17086 "hw1/intro.ml" 514 17083 17095
+type(
+  int list
+)
+"hw1/intro.ml" 514 17083 17100 "hw1/intro.ml" 514 17083 17102
+type(
+  int
+)
+ident(
+  int_ref h2 "hw1/intro.ml" 514 17083 17090 "hw1/intro.ml" 514 17083 17092
+)
+"hw1/intro.ml" 514 17083 17102 "hw1/intro.ml" 514 17083 17104
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"hw1/intro.ml" 514 17083 17104 "hw1/intro.ml" 514 17083 17106
+type(
+  int
+)
+ident(
+  int_ref h1 "hw1/intro.ml" 514 17083 17086 "hw1/intro.ml" 514 17083 17088
+)
+"hw1/intro.ml" 514 17083 17099 "hw1/intro.ml" 514 17083 17107
+type(
+  bool
+)
+"hw1/intro.ml" 514 17083 17108 "hw1/intro.ml" 514 17083 17110
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw1/intro.ml" 514 17083 17112 "hw1/intro.ml" 514 17083 17121
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "hw1/intro.ml" 510 16997 17005 "hw1/intro.ml" 510 16997 17014
+)
+"hw1/intro.ml" 514 17083 17123 "hw1/intro.ml" 514 17083 17125
+type(
+  int
+)
+ident(
+  int_ref h2 "hw1/intro.ml" 514 17083 17090 "hw1/intro.ml" 514 17083 17092
+)
+"hw1/intro.ml" 514 17083 17127 "hw1/intro.ml" 514 17083 17128
+type(
+  int list
+)
+ident(
+  int_ref t "hw1/intro.ml" 514 17083 17094 "hw1/intro.ml" 514 17083 17095
+)
+"hw1/intro.ml" 514 17083 17122 "hw1/intro.ml" 514 17083 17129
+type(
+  int list
+)
+"hw1/intro.ml" 514 17083 17111 "hw1/intro.ml" 514 17083 17130
+call(
+  tail
+)
+type(
+  bool
+)
+"hw1/intro.ml" 514 17083 17099 "hw1/intro.ml" 514 17083 17130
+type(
+  bool
+)
+"hw1/intro.ml" 511 17039 17040 "hw1/intro.ml" 514 17083 17130
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 516 17134 17138 "hw1/intro.ml" 516 17134 17142
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 518 17188 17191 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 516 17134 17143 "hw1/intro.ml" 516 17134 17145
+type(
+  unit
+)
+"hw1/intro.ml" 517 17156 17159 "hw1/intro.ml" 517 17156 17168
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "hw1/intro.ml" 510 16997 17005 "hw1/intro.ml" 510 16997 17014
+)
+"hw1/intro.ml" 517 17156 17170 "hw1/intro.ml" 517 17156 17171
+type(
+  int
+)
+"hw1/intro.ml" 517 17156 17173 "hw1/intro.ml" 517 17156 17174
+type(
+  int
+)
+"hw1/intro.ml" 517 17156 17176 "hw1/intro.ml" 517 17156 17177
+type(
+  int
+)
+"hw1/intro.ml" 517 17156 17169 "hw1/intro.ml" 517 17156 17178
+type(
+  int list
+)
+"hw1/intro.ml" 517 17156 17158 "hw1/intro.ml" 517 17156 17179
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 517 17156 17180 "hw1/intro.ml" 517 17156 17181
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 517 17156 17182 "hw1/intro.ml" 517 17156 17186
+type(
+  bool
+)
+"hw1/intro.ml" 517 17156 17158 "hw1/intro.ml" 517 17156 17186
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 518 17188 17191 "hw1/intro.ml" 518 17188 17199
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 518 17188 17200 "hw1/intro.ml" 518 17188 17223
+type(
+  string
+)
+"hw1/intro.ml" 518 17188 17224 "hw1/intro.ml" 518 17188 17228
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 516 17134 17138 "hw1/intro.ml" 516 17134 17142
+)
+"hw1/intro.ml" 518 17188 17191 "hw1/intro.ml" 518 17188 17228
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 520 17232 17236 "hw1/intro.ml" 520 17232 17240
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 522 17287 17290 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 520 17232 17241 "hw1/intro.ml" 520 17232 17243
+type(
+  unit
+)
+"hw1/intro.ml" 521 17254 17257 "hw1/intro.ml" 521 17254 17266
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "hw1/intro.ml" 510 16997 17005 "hw1/intro.ml" 510 16997 17014
+)
+"hw1/intro.ml" 521 17254 17268 "hw1/intro.ml" 521 17254 17269
+type(
+  int
+)
+"hw1/intro.ml" 521 17254 17271 "hw1/intro.ml" 521 17254 17272
+type(
+  int
+)
+"hw1/intro.ml" 521 17254 17274 "hw1/intro.ml" 521 17254 17275
+type(
+  int
+)
+"hw1/intro.ml" 521 17254 17267 "hw1/intro.ml" 521 17254 17276
+type(
+  int list
+)
+"hw1/intro.ml" 521 17254 17256 "hw1/intro.ml" 521 17254 17277
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 521 17254 17278 "hw1/intro.ml" 521 17254 17279
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 521 17254 17280 "hw1/intro.ml" 521 17254 17285
+type(
+  bool
+)
+"hw1/intro.ml" 521 17254 17256 "hw1/intro.ml" 521 17254 17285
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 522 17287 17290 "hw1/intro.ml" 522 17287 17298
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 522 17287 17299 "hw1/intro.ml" 522 17287 17324
+type(
+  string
+)
+"hw1/intro.ml" 522 17287 17325 "hw1/intro.ml" 522 17287 17329
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 520 17232 17236 "hw1/intro.ml" 520 17232 17240
+)
+"hw1/intro.ml" 522 17287 17290 "hw1/intro.ml" 522 17287 17329
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 524 17333 17337 "hw1/intro.ml" 524 17333 17341
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 526 17392 17395 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 524 17333 17342 "hw1/intro.ml" 524 17333 17344
+type(
+  unit
+)
+"hw1/intro.ml" 525 17355 17358 "hw1/intro.ml" 525 17355 17367
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "hw1/intro.ml" 510 16997 17005 "hw1/intro.ml" 510 16997 17014
+)
+"hw1/intro.ml" 525 17355 17369 "hw1/intro.ml" 525 17355 17370
+type(
+  int
+)
+"hw1/intro.ml" 525 17355 17371 "hw1/intro.ml" 525 17355 17372
+type(
+  int
+)
+"hw1/intro.ml" 525 17355 17373 "hw1/intro.ml" 525 17355 17374
+type(
+  int
+)
+"hw1/intro.ml" 525 17355 17375 "hw1/intro.ml" 525 17355 17376
+type(
+  int
+)
+"hw1/intro.ml" 525 17355 17377 "hw1/intro.ml" 525 17355 17378
+type(
+  int
+)
+"hw1/intro.ml" 525 17355 17379 "hw1/intro.ml" 525 17355 17380
+type(
+  int
+)
+"hw1/intro.ml" 525 17355 17368 "hw1/intro.ml" 525 17355 17381
+type(
+  int list
+)
+"hw1/intro.ml" 525 17355 17357 "hw1/intro.ml" 525 17355 17382
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 525 17355 17383 "hw1/intro.ml" 525 17355 17384
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 525 17355 17385 "hw1/intro.ml" 525 17355 17390
+type(
+  bool
+)
+"hw1/intro.ml" 525 17355 17357 "hw1/intro.ml" 525 17355 17390
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 526 17392 17395 "hw1/intro.ml" 526 17392 17403
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 526 17392 17404 "hw1/intro.ml" 526 17392 17434
+type(
+  string
+)
+"hw1/intro.ml" 526 17392 17435 "hw1/intro.ml" 526 17392 17439
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 524 17333 17337 "hw1/intro.ml" 524 17333 17341
+)
+"hw1/intro.ml" 526 17392 17395 "hw1/intro.ml" 526 17392 17439
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 528 17443 17447 "hw1/intro.ml" 528 17443 17451
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 530 17505 17508 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 528 17443 17452 "hw1/intro.ml" 528 17443 17454
+type(
+  unit
+)
+"hw1/intro.ml" 529 17465 17468 "hw1/intro.ml" 529 17465 17477
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "hw1/intro.ml" 510 16997 17005 "hw1/intro.ml" 510 16997 17014
+)
+"hw1/intro.ml" 529 17465 17479 "hw1/intro.ml" 529 17465 17480
+type(
+  int
+)
+"hw1/intro.ml" 529 17465 17482 "hw1/intro.ml" 529 17465 17483
+type(
+  int
+)
+"hw1/intro.ml" 529 17465 17484 "hw1/intro.ml" 529 17465 17485
+type(
+  int
+)
+"hw1/intro.ml" 529 17465 17486 "hw1/intro.ml" 529 17465 17487
+type(
+  int
+)
+"hw1/intro.ml" 529 17465 17488 "hw1/intro.ml" 529 17465 17489
+type(
+  int
+)
+"hw1/intro.ml" 529 17465 17490 "hw1/intro.ml" 529 17465 17491
+type(
+  int
+)
+"hw1/intro.ml" 529 17465 17492 "hw1/intro.ml" 529 17465 17493
+type(
+  int
+)
+"hw1/intro.ml" 529 17465 17478 "hw1/intro.ml" 529 17465 17494
+type(
+  int list
+)
+"hw1/intro.ml" 529 17465 17467 "hw1/intro.ml" 529 17465 17495
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 529 17465 17496 "hw1/intro.ml" 529 17465 17497
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 529 17465 17498 "hw1/intro.ml" 529 17465 17503
+type(
+  bool
+)
+"hw1/intro.ml" 529 17465 17467 "hw1/intro.ml" 529 17465 17503
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 530 17505 17508 "hw1/intro.ml" 530 17505 17516
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 530 17505 17517 "hw1/intro.ml" 530 17505 17548
+type(
+  string
+)
+"hw1/intro.ml" 530 17505 17549 "hw1/intro.ml" 530 17505 17553
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 528 17443 17447 "hw1/intro.ml" 528 17443 17451
+)
+"hw1/intro.ml" 530 17505 17508 "hw1/intro.ml" 530 17505 17553
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 532 17557 17561 "hw1/intro.ml" 532 17557 17565
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 534 17605 17608 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 532 17557 17566 "hw1/intro.ml" 532 17557 17568
+type(
+  unit
+)
+"hw1/intro.ml" 533 17579 17582 "hw1/intro.ml" 533 17579 17591
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "hw1/intro.ml" 510 16997 17005 "hw1/intro.ml" 510 16997 17014
+)
+"hw1/intro.ml" 533 17579 17593 "hw1/intro.ml" 533 17579 17594
+type(
+  int
+)
+"hw1/intro.ml" 533 17579 17592 "hw1/intro.ml" 533 17579 17595
+type(
+  int list
+)
+"hw1/intro.ml" 533 17579 17581 "hw1/intro.ml" 533 17579 17596
+call(
+  stack
+)
+type(
+  bool
+)
+"hw1/intro.ml" 533 17579 17597 "hw1/intro.ml" 533 17579 17598
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 533 17579 17599 "hw1/intro.ml" 533 17579 17603
+type(
+  bool
+)
+"hw1/intro.ml" 533 17579 17581 "hw1/intro.ml" 533 17579 17603
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 534 17605 17608 "hw1/intro.ml" 534 17605 17616
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 534 17605 17617 "hw1/intro.ml" 534 17605 17637
+type(
+  string
+)
+"hw1/intro.ml" 534 17605 17638 "hw1/intro.ml" 534 17605 17642
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 532 17557 17561 "hw1/intro.ml" 532 17557 17565
+)
+"hw1/intro.ml" 534 17605 17608 "hw1/intro.ml" 534 17605 17642
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 544 17944 17952 "hw1/intro.ml" 544 17944 17964
+type(
+  int list -> int list -> int list
+)
+ident(
+  def merge_sorted "hw1/intro.ml" 544 17944 17944 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 544 17944 17966 "hw1/intro.ml" 544 17944 17968
+type(
+  int list
+)
+ident(
+  def l1 "hw1/intro.ml" 544 17944 17980 "hw1/intro.ml" 552 18198 18202
+)
+"hw1/intro.ml" 544 17944 17981 "hw1/intro.ml" 544 17944 17983
+type(
+  int list
+)
+ident(
+  def l2 "hw1/intro.ml" 544 17944 17995 "hw1/intro.ml" 552 18198 18202
+)
+"hw1/intro.ml" 545 18009 18023 "hw1/intro.ml" 545 18009 18025
+type(
+  int list
+)
+ident(
+  int_ref l1 "hw1/intro.ml" 544 17944 17966 "hw1/intro.ml" 544 17944 17968
+)
+"hw1/intro.ml" 546 18032 18035 "hw1/intro.ml" 546 18032 18037
+type(
+  int list
+)
+"hw1/intro.ml" 546 18032 18041 "hw1/intro.ml" 546 18032 18043
+type(
+  int list
+)
+ident(
+  int_ref l2 "hw1/intro.ml" 544 17944 17981 "hw1/intro.ml" 544 17944 17983
+)
+"hw1/intro.ml" 547 18045 18048 "hw1/intro.ml" 547 18045 18049
+type(
+  int
+)
+ident(
+  def h "hw1/intro.ml" 548 18057 18059 "hw1/intro.ml" 551 18190 18196
+)
+"hw1/intro.ml" 547 18045 18051 "hw1/intro.ml" 547 18045 18052
+type(
+  int list
+)
+ident(
+  def t "hw1/intro.ml" 548 18057 18059 "hw1/intro.ml" 551 18190 18196
+)
+"hw1/intro.ml" 547 18045 18048 "hw1/intro.ml" 547 18045 18052
+type(
+  int list
+)
+"hw1/intro.ml" 548 18057 18071 "hw1/intro.ml" 548 18057 18073
+type(
+  int list
+)
+ident(
+  int_ref l2 "hw1/intro.ml" 544 17944 17981 "hw1/intro.ml" 544 17944 17983
+)
+"hw1/intro.ml" 549 18080 18092 "hw1/intro.ml" 549 18080 18094
+type(
+  int list
+)
+"hw1/intro.ml" 549 18080 18102 "hw1/intro.ml" 549 18080 18104
+type(
+  int list
+)
+ident(
+  int_ref l1 "hw1/intro.ml" 544 17944 17966 "hw1/intro.ml" 544 17944 17968
+)
+"hw1/intro.ml" 550 18106 18113 "hw1/intro.ml" 550 18106 18115
+type(
+  int
+)
+ident(
+  def h2 "hw1/intro.ml" 550 18106 18123 "hw1/intro.ml" 550 18106 18188
+)
+"hw1/intro.ml" 550 18106 18117 "hw1/intro.ml" 550 18106 18119
+type(
+  int list
+)
+ident(
+  def t2 "hw1/intro.ml" 550 18106 18123 "hw1/intro.ml" 550 18106 18188
+)
+"hw1/intro.ml" 550 18106 18113 "hw1/intro.ml" 550 18106 18119
+type(
+  int list
+)
+"hw1/intro.ml" 550 18106 18126 "hw1/intro.ml" 550 18106 18127
+type(
+  int
+)
+ident(
+  int_ref h "hw1/intro.ml" 547 18045 18048 "hw1/intro.ml" 547 18045 18049
+)
+"hw1/intro.ml" 550 18106 18127 "hw1/intro.ml" 550 18106 18128
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw1/intro.ml" 550 18106 18128 "hw1/intro.ml" 550 18106 18130
+type(
+  int
+)
+ident(
+  int_ref h2 "hw1/intro.ml" 550 18106 18113 "hw1/intro.ml" 550 18106 18115
+)
+"hw1/intro.ml" 550 18106 18126 "hw1/intro.ml" 550 18106 18130
+type(
+  bool
+)
+"hw1/intro.ml" 550 18106 18136 "hw1/intro.ml" 550 18106 18137
+type(
+  int
+)
+ident(
+  int_ref h "hw1/intro.ml" 547 18045 18048 "hw1/intro.ml" 547 18045 18049
+)
+"hw1/intro.ml" 550 18106 18140 "hw1/intro.ml" 550 18106 18152
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "hw1/intro.ml" 544 17944 17952 "hw1/intro.ml" 544 17944 17964
+)
+"hw1/intro.ml" 550 18106 18153 "hw1/intro.ml" 550 18106 18154
+type(
+  int list
+)
+ident(
+  int_ref t "hw1/intro.ml" 547 18045 18051 "hw1/intro.ml" 547 18045 18052
+)
+"hw1/intro.ml" 550 18106 18155 "hw1/intro.ml" 550 18106 18157
+type(
+  int list
+)
+ident(
+  int_ref l2 "hw1/intro.ml" 544 17944 17981 "hw1/intro.ml" 544 17944 17983
+)
+"hw1/intro.ml" 550 18106 18139 "hw1/intro.ml" 550 18106 18158
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 550 18106 18136 "hw1/intro.ml" 550 18106 18158
+type(
+  int list
+)
+"hw1/intro.ml" 550 18106 18164 "hw1/intro.ml" 550 18106 18166
+type(
+  int
+)
+ident(
+  int_ref h2 "hw1/intro.ml" 550 18106 18113 "hw1/intro.ml" 550 18106 18115
+)
+"hw1/intro.ml" 550 18106 18169 "hw1/intro.ml" 550 18106 18181
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "hw1/intro.ml" 544 17944 17952 "hw1/intro.ml" 544 17944 17964
+)
+"hw1/intro.ml" 550 18106 18182 "hw1/intro.ml" 550 18106 18184
+type(
+  int list
+)
+ident(
+  int_ref l1 "hw1/intro.ml" 544 17944 17966 "hw1/intro.ml" 544 17944 17968
+)
+"hw1/intro.ml" 550 18106 18185 "hw1/intro.ml" 550 18106 18187
+type(
+  int list
+)
+ident(
+  int_ref t2 "hw1/intro.ml" 550 18106 18117 "hw1/intro.ml" 550 18106 18119
+)
+"hw1/intro.ml" 550 18106 18168 "hw1/intro.ml" 550 18106 18188
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 550 18106 18164 "hw1/intro.ml" 550 18106 18188
+type(
+  int list
+)
+"hw1/intro.ml" 550 18106 18123 "hw1/intro.ml" 550 18106 18188
+type(
+  int list
+)
+"hw1/intro.ml" 548 18057 18059 "hw1/intro.ml" 551 18190 18196
+type(
+  int list
+)
+"hw1/intro.ml" 545 18009 18011 "hw1/intro.ml" 552 18198 18202
+type(
+  int list
+)
+type(
+  int list
+)
+"hw1/intro.ml" 557 18222 18226 "hw1/intro.ml" 557 18222 18230
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 559 18299 18302 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 557 18222 18231 "hw1/intro.ml" 557 18222 18233
+type(
+  unit
+)
+"hw1/intro.ml" 558 18244 18247 "hw1/intro.ml" 558 18244 18259
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "hw1/intro.ml" 544 17944 17952 "hw1/intro.ml" 544 17944 17964
+)
+"hw1/intro.ml" 558 18244 18261 "hw1/intro.ml" 558 18244 18262
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18264 "hw1/intro.ml" 558 18244 18265
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18260 "hw1/intro.ml" 558 18244 18266
+type(
+  int list
+)
+"hw1/intro.ml" 558 18244 18268 "hw1/intro.ml" 558 18244 18269
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18271 "hw1/intro.ml" 558 18244 18272
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18274 "hw1/intro.ml" 558 18244 18276
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18267 "hw1/intro.ml" 558 18244 18277
+type(
+  int list
+)
+"hw1/intro.ml" 558 18244 18246 "hw1/intro.ml" 558 18244 18278
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 558 18244 18279 "hw1/intro.ml" 558 18244 18280
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 558 18244 18282 "hw1/intro.ml" 558 18244 18283
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18285 "hw1/intro.ml" 558 18244 18286
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18288 "hw1/intro.ml" 558 18244 18289
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18291 "hw1/intro.ml" 558 18244 18292
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18294 "hw1/intro.ml" 558 18244 18296
+type(
+  int
+)
+"hw1/intro.ml" 558 18244 18281 "hw1/intro.ml" 558 18244 18297
+type(
+  int list
+)
+"hw1/intro.ml" 558 18244 18246 "hw1/intro.ml" 558 18244 18297
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 559 18299 18302 "hw1/intro.ml" 559 18299 18310
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 559 18299 18311 "hw1/intro.ml" 559 18299 18346
+type(
+  string
+)
+"hw1/intro.ml" 559 18299 18347 "hw1/intro.ml" 559 18299 18351
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 557 18222 18226 "hw1/intro.ml" 557 18222 18230
+)
+"hw1/intro.ml" 559 18299 18302 "hw1/intro.ml" 559 18299 18351
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 561 18355 18359 "hw1/intro.ml" 561 18355 18363
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 563 18436 18439 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 561 18355 18364 "hw1/intro.ml" 561 18355 18366
+type(
+  unit
+)
+"hw1/intro.ml" 562 18377 18380 "hw1/intro.ml" 562 18377 18392
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "hw1/intro.ml" 544 17944 17952 "hw1/intro.ml" 544 17944 17964
+)
+"hw1/intro.ml" 562 18377 18394 "hw1/intro.ml" 562 18377 18395
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18397 "hw1/intro.ml" 562 18377 18398
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18400 "hw1/intro.ml" 562 18377 18401
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18393 "hw1/intro.ml" 562 18377 18402
+type(
+  int list
+)
+"hw1/intro.ml" 562 18377 18404 "hw1/intro.ml" 562 18377 18405
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18407 "hw1/intro.ml" 562 18377 18408
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18410 "hw1/intro.ml" 562 18377 18411
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18403 "hw1/intro.ml" 562 18377 18412
+type(
+  int list
+)
+"hw1/intro.ml" 562 18377 18379 "hw1/intro.ml" 562 18377 18413
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 562 18377 18414 "hw1/intro.ml" 562 18377 18415
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 562 18377 18417 "hw1/intro.ml" 562 18377 18418
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18420 "hw1/intro.ml" 562 18377 18421
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18423 "hw1/intro.ml" 562 18377 18424
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18426 "hw1/intro.ml" 562 18377 18427
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18429 "hw1/intro.ml" 562 18377 18430
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18432 "hw1/intro.ml" 562 18377 18433
+type(
+  int
+)
+"hw1/intro.ml" 562 18377 18416 "hw1/intro.ml" 562 18377 18434
+type(
+  int list
+)
+"hw1/intro.ml" 562 18377 18379 "hw1/intro.ml" 562 18377 18434
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 563 18436 18439 "hw1/intro.ml" 563 18436 18447
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 563 18436 18448 "hw1/intro.ml" 563 18436 18478
+type(
+  string
+)
+"hw1/intro.ml" 563 18436 18479 "hw1/intro.ml" 563 18436 18483
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 561 18355 18359 "hw1/intro.ml" 561 18355 18363
+)
+"hw1/intro.ml" 563 18436 18439 "hw1/intro.ml" 563 18436 18483
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 565 18487 18491 "hw1/intro.ml" 565 18487 18495
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 567 18571 18574 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 565 18487 18496 "hw1/intro.ml" 565 18487 18498
+type(
+  unit
+)
+"hw1/intro.ml" 566 18509 18512 "hw1/intro.ml" 566 18509 18524
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "hw1/intro.ml" 544 17944 17952 "hw1/intro.ml" 544 17944 17964
+)
+"hw1/intro.ml" 566 18509 18526 "hw1/intro.ml" 566 18509 18528
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18529 "hw1/intro.ml" 566 18509 18532
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18533 "hw1/intro.ml" 566 18509 18536
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18525 "hw1/intro.ml" 566 18509 18537
+type(
+  int list
+)
+"hw1/intro.ml" 566 18509 18539 "hw1/intro.ml" 566 18509 18540
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18542 "hw1/intro.ml" 566 18509 18543
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18545 "hw1/intro.ml" 566 18509 18546
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18538 "hw1/intro.ml" 566 18509 18547
+type(
+  int list
+)
+"hw1/intro.ml" 566 18509 18511 "hw1/intro.ml" 566 18509 18548
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 566 18509 18549 "hw1/intro.ml" 566 18509 18550
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 566 18509 18552 "hw1/intro.ml" 566 18509 18553
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18554 "hw1/intro.ml" 566 18509 18555
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18556 "hw1/intro.ml" 566 18509 18557
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18558 "hw1/intro.ml" 566 18509 18560
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18561 "hw1/intro.ml" 566 18509 18564
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18565 "hw1/intro.ml" 566 18509 18568
+type(
+  int
+)
+"hw1/intro.ml" 566 18509 18551 "hw1/intro.ml" 566 18509 18569
+type(
+  int list
+)
+"hw1/intro.ml" 566 18509 18511 "hw1/intro.ml" 566 18509 18569
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 567 18571 18574 "hw1/intro.ml" 567 18571 18582
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 567 18571 18583 "hw1/intro.ml" 567 18571 18608
+type(
+  string
+)
+"hw1/intro.ml" 567 18571 18609 "hw1/intro.ml" 567 18571 18613
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 565 18487 18491 "hw1/intro.ml" 565 18487 18495
+)
+"hw1/intro.ml" 567 18571 18574 "hw1/intro.ml" 567 18571 18613
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 569 18617 18621 "hw1/intro.ml" 569 18617 18625
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 571 18682 18685 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 569 18617 18626 "hw1/intro.ml" 569 18617 18628
+type(
+  unit
+)
+"hw1/intro.ml" 570 18639 18642 "hw1/intro.ml" 570 18639 18654
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "hw1/intro.ml" 544 17944 17952 "hw1/intro.ml" 544 17944 17964
+)
+"hw1/intro.ml" 570 18639 18656 "hw1/intro.ml" 570 18639 18657
+type(
+  int
+)
+"hw1/intro.ml" 570 18639 18659 "hw1/intro.ml" 570 18639 18660
+type(
+  int
+)
+"hw1/intro.ml" 570 18639 18662 "hw1/intro.ml" 570 18639 18663
+type(
+  int
+)
+"hw1/intro.ml" 570 18639 18655 "hw1/intro.ml" 570 18639 18664
+type(
+  int list
+)
+"hw1/intro.ml" 570 18639 18665 "hw1/intro.ml" 570 18639 18667
+type(
+  int list
+)
+"hw1/intro.ml" 570 18639 18641 "hw1/intro.ml" 570 18639 18668
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 570 18639 18669 "hw1/intro.ml" 570 18639 18670
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 570 18639 18672 "hw1/intro.ml" 570 18639 18673
+type(
+  int
+)
+"hw1/intro.ml" 570 18639 18675 "hw1/intro.ml" 570 18639 18676
+type(
+  int
+)
+"hw1/intro.ml" 570 18639 18678 "hw1/intro.ml" 570 18639 18679
+type(
+  int
+)
+"hw1/intro.ml" 570 18639 18671 "hw1/intro.ml" 570 18639 18680
+type(
+  int list
+)
+"hw1/intro.ml" 570 18639 18641 "hw1/intro.ml" 570 18639 18680
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 571 18682 18685 "hw1/intro.ml" 571 18682 18693
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 571 18682 18694 "hw1/intro.ml" 571 18682 18720
+type(
+  string
+)
+"hw1/intro.ml" 571 18682 18721 "hw1/intro.ml" 571 18682 18725
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 569 18617 18621 "hw1/intro.ml" 569 18617 18625
+)
+"hw1/intro.ml" 571 18682 18685 "hw1/intro.ml" 571 18682 18725
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 573 18729 18733 "hw1/intro.ml" 573 18729 18737
+type(
+  unit -> bool
+)
+ident(
+  def test "hw1/intro.ml" 575 18792 18795 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 573 18729 18738 "hw1/intro.ml" 573 18729 18740
+type(
+  unit
+)
+"hw1/intro.ml" 574 18751 18754 "hw1/intro.ml" 574 18751 18766
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "hw1/intro.ml" 544 17944 17952 "hw1/intro.ml" 544 17944 17964
+)
+"hw1/intro.ml" 574 18751 18767 "hw1/intro.ml" 574 18751 18769
+type(
+  int list
+)
+"hw1/intro.ml" 574 18751 18771 "hw1/intro.ml" 574 18751 18772
+type(
+  int
+)
+"hw1/intro.ml" 574 18751 18773 "hw1/intro.ml" 574 18751 18774
+type(
+  int
+)
+"hw1/intro.ml" 574 18751 18775 "hw1/intro.ml" 574 18751 18776
+type(
+  int
+)
+"hw1/intro.ml" 574 18751 18770 "hw1/intro.ml" 574 18751 18777
+type(
+  int list
+)
+"hw1/intro.ml" 574 18751 18753 "hw1/intro.ml" 574 18751 18778
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 574 18751 18779 "hw1/intro.ml" 574 18751 18780
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw1/intro.ml" 574 18751 18782 "hw1/intro.ml" 574 18751 18783
+type(
+  int
+)
+"hw1/intro.ml" 574 18751 18785 "hw1/intro.ml" 574 18751 18786
+type(
+  int
+)
+"hw1/intro.ml" 574 18751 18788 "hw1/intro.ml" 574 18751 18789
+type(
+  int
+)
+"hw1/intro.ml" 574 18751 18781 "hw1/intro.ml" 574 18751 18790
+type(
+  int list
+)
+"hw1/intro.ml" 574 18751 18753 "hw1/intro.ml" 574 18751 18790
+type(
+  bool
+)
+type(
+  bool
+)
+"hw1/intro.ml" 575 18792 18795 "hw1/intro.ml" 575 18792 18803
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw1/intro.ml" 575 18792 18804 "hw1/intro.ml" 575 18792 18829
+type(
+  string
+)
+"hw1/intro.ml" 575 18792 18830 "hw1/intro.ml" 575 18792 18834
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw1/intro.ml" 573 18729 18733 "hw1/intro.ml" 573 18729 18737
+)
+"hw1/intro.ml" 575 18792 18795 "hw1/intro.ml" 575 18792 18834
+call(
+  stack
+)
+type(
+  unit
+)
+"hw1/intro.ml" 612 20233 20237 "hw1/intro.ml" 612 20233 20239
+type(
+  int list
+)
+ident(
+  def ll "hw1/intro.ml" 613 20254 20254 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 612 20233 20244 "hw1/intro.ml" 612 20233 20245
+type(
+  int
+)
+"hw1/intro.ml" 612 20233 20246 "hw1/intro.ml" 612 20233 20247
+type(
+  int
+)
+"hw1/intro.ml" 612 20233 20248 "hw1/intro.ml" 612 20233 20249
+type(
+  int
+)
+"hw1/intro.ml" 612 20233 20250 "hw1/intro.ml" 612 20233 20251
+type(
+  int
+)
+"hw1/intro.ml" 612 20233 20242 "hw1/intro.ml" 612 20233 20252
+type(
+  int list
+)
+"hw1/intro.ml" 613 20254 20262 "hw1/intro.ml" 613 20254 20274
+type(
+  int list -> int list list
+)
+ident(
+  def permutations "hw1/intro.ml" 613 20254 20254 "hw1/intro.ml" 1 0 -1
+)
+"hw1/intro.ml" 613 20254 20276 "hw1/intro.ml" 613 20254 20277
+type(
+  int list
+)
+ident(
+  def l "hw1/intro.ml" 613 20254 20289 "hw1/intro.ml" 616 20376 20405
+)
+"hw1/intro.ml" 614 20308 20313 "hw1/intro.ml" 614 20308 20317
+type(
+  int list -> int list
+)
+ident(
+  def next "hw1/intro.ml" 616 20376 20379 "hw1/intro.ml" 616 20376 20405
+)
+"hw1/intro.ml" 614 20308 20319 "hw1/intro.ml" 614 20308 20320
+type(
+  int list
+)
+ident(
+  def l "hw1/intro.ml" 614 20308 20331 "hw1/intro.ml" 615 20345 20371
+)
+"hw1/intro.ml" 615 20345 20347 "hw1/intro.ml" 615 20345 20355
+type(
+  string -> int list
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"hw1/intro.ml" 615 20345 20356 "hw1/intro.ml" 615 20345 20371
+type(
+  string
+)
+"hw1/intro.ml" 615 20345 20347 "hw1/intro.ml" 615 20345 20371
+call(
+  tail
+)
+type(
+  int list
+)
+type(
+  int list
+)
+"hw1/intro.ml" 616 20376 20379 "hw1/intro.ml" 616 20376 20380
+type(
+  int list
+)
+ident(
+  int_ref l "hw1/intro.ml" 613 20254 20276 "hw1/intro.ml" 613 20254 20277
+)
+"hw1/intro.ml" 616 20376 20383 "hw1/intro.ml" 616 20376 20395
+type(
+  int list -> int list list
+)
+ident(
+  int_ref permutations "hw1/intro.ml" 613 20254 20262 "hw1/intro.ml" 613 20254 20274
+)
+"hw1/intro.ml" 616 20376 20397 "hw1/intro.ml" 616 20376 20401
+type(
+  int list -> int list
+)
+ident(
+  int_ref next "hw1/intro.ml" 614 20308 20313 "hw1/intro.ml" 614 20308 20317
+)
+"hw1/intro.ml" 616 20376 20402 "hw1/intro.ml" 616 20376 20403
+type(
+  int list
+)
+ident(
+  int_ref l "hw1/intro.ml" 613 20254 20276 "hw1/intro.ml" 613 20254 20277
+)
+"hw1/intro.ml" 616 20376 20396 "hw1/intro.ml" 616 20376 20404
+call(
+  stack
+)
+type(
+  int list
+)
+"hw1/intro.ml" 616 20376 20382 "hw1/intro.ml" 616 20376 20405
+call(
+  stack
+)
+type(
+  int list list
+)
+"hw1/intro.ml" 616 20376 20379 "hw1/intro.ml" 616 20376 20405
+type(
+  int list list
+)
+"hw1/intro.ml" 614 20308 20309 "hw1/intro.ml" 616 20376 20405
+type(
+  int list list
+)
+type(
+  int list list
+)
+"hw1/intro.ml" 633 20745 20748 "hw1/intro.ml" 633 20745 20761
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw1/intro.ml" 633 20745 20762 "hw1/intro.ml" 633 20745 20791
+type(
+  string
+)
+"hw1/intro.ml" 633 20745 20748 "hw1/intro.ml" 633 20745 20791
+call(
+  stack
+)
+type(
+  unit
+)

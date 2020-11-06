@@ -1,0 +1,3598 @@
+"hw5/gctx.ml" 28 968 972 "hw5/gctx.ml" 28 968 977
+type(
+  color
+)
+ident(
+  def black "hw5/gctx.ml" 29 1008 1008 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 28 968 993 "hw5/gctx.ml" 28 968 994
+type(
+  int
+)
+"hw5/gctx.ml" 28 968 999 "hw5/gctx.ml" 28 968 1000
+type(
+  int
+)
+"hw5/gctx.ml" 28 968 1005 "hw5/gctx.ml" 28 968 1006
+type(
+  int
+)
+"hw5/gctx.ml" 28 968 990 "hw5/gctx.ml" 28 968 1007
+type(
+  color
+)
+type(
+  color
+)
+"hw5/gctx.ml" 29 1008 1012 "hw5/gctx.ml" 29 1008 1017
+type(
+  color
+)
+ident(
+  def white "hw5/gctx.ml" 30 1050 1050 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 29 1008 1033 "hw5/gctx.ml" 29 1008 1036
+type(
+  int
+)
+"hw5/gctx.ml" 29 1008 1039 "hw5/gctx.ml" 29 1008 1042
+type(
+  int
+)
+"hw5/gctx.ml" 29 1008 1045 "hw5/gctx.ml" 29 1008 1048
+type(
+  int
+)
+"hw5/gctx.ml" 29 1008 1030 "hw5/gctx.ml" 29 1008 1049
+type(
+  color
+)
+type(
+  color
+)
+"hw5/gctx.ml" 30 1050 1054 "hw5/gctx.ml" 30 1050 1057
+type(
+  color
+)
+ident(
+  def red "hw5/gctx.ml" 31 1090 1090 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 30 1050 1075 "hw5/gctx.ml" 30 1050 1078
+type(
+  int
+)
+"hw5/gctx.ml" 30 1050 1081 "hw5/gctx.ml" 30 1050 1082
+type(
+  int
+)
+"hw5/gctx.ml" 30 1050 1087 "hw5/gctx.ml" 30 1050 1088
+type(
+  int
+)
+"hw5/gctx.ml" 30 1050 1072 "hw5/gctx.ml" 30 1050 1089
+type(
+  color
+)
+type(
+  color
+)
+"hw5/gctx.ml" 31 1090 1094 "hw5/gctx.ml" 31 1090 1099
+type(
+  color
+)
+ident(
+  def green "hw5/gctx.ml" 32 1130 1130 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 31 1090 1115 "hw5/gctx.ml" 31 1090 1116
+type(
+  int
+)
+"hw5/gctx.ml" 31 1090 1121 "hw5/gctx.ml" 31 1090 1124
+type(
+  int
+)
+"hw5/gctx.ml" 31 1090 1127 "hw5/gctx.ml" 31 1090 1128
+type(
+  int
+)
+"hw5/gctx.ml" 31 1090 1112 "hw5/gctx.ml" 31 1090 1129
+type(
+  color
+)
+type(
+  color
+)
+"hw5/gctx.ml" 32 1130 1134 "hw5/gctx.ml" 32 1130 1138
+type(
+  color
+)
+ident(
+  def blue "hw5/gctx.ml" 33 1172 1172 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 32 1130 1155 "hw5/gctx.ml" 32 1130 1156
+type(
+  int
+)
+"hw5/gctx.ml" 32 1130 1161 "hw5/gctx.ml" 32 1130 1162
+type(
+  int
+)
+"hw5/gctx.ml" 32 1130 1167 "hw5/gctx.ml" 32 1130 1170
+type(
+  int
+)
+"hw5/gctx.ml" 32 1130 1152 "hw5/gctx.ml" 32 1130 1171
+type(
+  color
+)
+type(
+  color
+)
+"hw5/gctx.ml" 33 1172 1176 "hw5/gctx.ml" 33 1172 1182
+type(
+  color
+)
+ident(
+  def yellow "hw5/gctx.ml" 34 1212 1212 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 33 1172 1197 "hw5/gctx.ml" 33 1172 1200
+type(
+  int
+)
+"hw5/gctx.ml" 33 1172 1203 "hw5/gctx.ml" 33 1172 1206
+type(
+  int
+)
+"hw5/gctx.ml" 33 1172 1209 "hw5/gctx.ml" 33 1172 1210
+type(
+  int
+)
+"hw5/gctx.ml" 33 1172 1194 "hw5/gctx.ml" 33 1172 1211
+type(
+  color
+)
+type(
+  color
+)
+"hw5/gctx.ml" 34 1212 1216 "hw5/gctx.ml" 34 1212 1220
+type(
+  color
+)
+ident(
+  def cyan "hw5/gctx.ml" 35 1254 1254 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 34 1212 1237 "hw5/gctx.ml" 34 1212 1238
+type(
+  int
+)
+"hw5/gctx.ml" 34 1212 1243 "hw5/gctx.ml" 34 1212 1246
+type(
+  int
+)
+"hw5/gctx.ml" 34 1212 1249 "hw5/gctx.ml" 34 1212 1252
+type(
+  int
+)
+"hw5/gctx.ml" 34 1212 1234 "hw5/gctx.ml" 34 1212 1253
+type(
+  color
+)
+type(
+  color
+)
+"hw5/gctx.ml" 35 1254 1258 "hw5/gctx.ml" 35 1254 1265
+type(
+  color
+)
+ident(
+  def magenta "hw5/gctx.ml" 37 1297 1297 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 35 1254 1279 "hw5/gctx.ml" 35 1254 1282
+type(
+  int
+)
+"hw5/gctx.ml" 35 1254 1285 "hw5/gctx.ml" 35 1254 1286
+type(
+  int
+)
+"hw5/gctx.ml" 35 1254 1291 "hw5/gctx.ml" 35 1254 1294
+type(
+  int
+)
+"hw5/gctx.ml" 35 1254 1276 "hw5/gctx.ml" 35 1254 1295
+type(
+  color
+)
+type(
+  color
+)
+"hw5/gctx.ml" 56 1795 1799 "hw5/gctx.ml" 56 1795 1814
+type(
+  bool ref
+)
+ident(
+  def graphics_opened "hw5/gctx.ml" 58 1892 1892 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 56 1795 1830 "hw5/gctx.ml" 56 1795 1835
+type(
+  bool
+)
+"hw5/gctx.ml" 56 1795 1817 "hw5/gctx.ml" 56 1795 1838
+type(
+  bool ref
+)
+"hw5/gctx.ml" 58 1892 1896 "hw5/gctx.ml" 58 1892 1909
+type(
+  unit -> unit
+)
+ident(
+  def open_graphics "hw5/gctx.ml" 69 2271 2271 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 58 1892 1910 "hw5/gctx.ml" 58 1892 1912
+type(
+  unit
+)
+"hw5/gctx.ml" 59 1915 1922 "hw5/gctx.ml" 59 1915 1925
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw5/gctx.ml" 59 1915 1926 "hw5/gctx.ml" 59 1915 1941
+type(
+  bool ref
+)
+ident(
+  int_ref graphics_opened "hw5/gctx.ml" 56 1795 1799 "hw5/gctx.ml" 56 1795 1814
+)
+"hw5/gctx.ml" 59 1915 1926 "hw5/gctx.ml" 59 1915 1950
+type(
+  bool
+)
+"hw5/gctx.ml" 59 1915 1922 "hw5/gctx.ml" 59 1915 1950
+type(
+  bool
+)
+"hw5/gctx.ml" 61 1968 1976 "hw5/gctx.ml" 61 1968 1991
+type(
+  bool ref
+)
+ident(
+  int_ref graphics_opened "hw5/gctx.ml" 56 1795 1799 "hw5/gctx.ml" 56 1795 1814
+)
+"hw5/gctx.ml" 61 1968 2004 "hw5/gctx.ml" 61 1968 2008
+type(
+  bool
+)
+"hw5/gctx.ml" 61 1968 1976 "hw5/gctx.ml" 61 1968 2008
+type(
+  unit
+)
+"hw5/gctx.ml" 62 2010 2018 "hw5/gctx.ml" 62 2010 2037
+type(
+  string -> unit
+)
+ident(
+  ext_ref Graphics.open_graph
+)
+"hw5/gctx.ml" 62 2010 2038 "hw5/gctx.ml" 62 2010 2040
+type(
+  string
+)
+"hw5/gctx.ml" 62 2010 2018 "hw5/gctx.ml" 62 2010 2040
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 63 2083 2091 "hw5/gctx.ml" 63 2083 2116
+type(
+  bool -> unit
+)
+ident(
+  ext_ref Graphics.auto_synchronize
+)
+"hw5/gctx.ml" 63 2083 2117 "hw5/gctx.ml" 63 2083 2122
+type(
+  bool
+)
+"hw5/gctx.ml" 63 2083 2091 "hw5/gctx.ml" 63 2083 2122
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 64 2156 2164 "hw5/gctx.ml" 64 2156 2184
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Graphics.clear_graph
+)
+"hw5/gctx.ml" 64 2156 2185 "hw5/gctx.ml" 64 2156 2187
+type(
+  unit
+)
+"hw5/gctx.ml" 64 2156 2164 "hw5/gctx.ml" 64 2156 2187
+type(
+  unit
+)
+"hw5/gctx.ml" 65 2189 2197 "hw5/gctx.ml" 65 2189 2217
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Graphics.synchronize
+)
+"hw5/gctx.ml" 65 2189 2218 "hw5/gctx.ml" 65 2189 2220
+type(
+  unit
+)
+"hw5/gctx.ml" 65 2189 2197 "hw5/gctx.ml" 65 2189 2220
+type(
+  unit
+)
+"hw5/gctx.ml" 64 2156 2164 "hw5/gctx.ml" 65 2189 2220
+type(
+  unit
+)
+"hw5/gctx.ml" 63 2083 2091 "hw5/gctx.ml" 65 2189 2220
+type(
+  unit
+)
+"hw5/gctx.ml" 62 2010 2018 "hw5/gctx.ml" 65 2189 2220
+type(
+  unit
+)
+"hw5/gctx.ml" 60 1956 1962 "hw5/gctx.ml" 66 2221 2230
+type(
+  unit
+)
+"hw5/gctx.ml" 59 1915 1919 "hw5/gctx.ml" 66 2221 2230
+type(
+  unit
+)
+"hw5/gctx.ml" 69 2271 2275 "hw5/gctx.ml" 69 2271 2284
+type(
+  gctx
+)
+ident(
+  def top_level "hw5/gctx.ml" 80 2509 2509 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 70 2294 2302 "hw5/gctx.ml" 70 2294 2303
+type(
+  int
+)
+"hw5/gctx.ml" 71 2305 2313 "hw5/gctx.ml" 71 2305 2314
+type(
+  int
+)
+"hw5/gctx.ml" 72 2316 2328 "hw5/gctx.ml" 72 2316 2329
+type(
+  int
+)
+"hw5/gctx.ml" 73 2331 2343 "hw5/gctx.ml" 73 2331 2348
+type(
+  color
+)
+ident(
+  int_ref black "hw5/gctx.ml" 28 968 972 "hw5/gctx.ml" 28 968 977
+)
+"hw5/gctx.ml" 70 2294 2296 "hw5/gctx.ml" 74 2350 2356
+type(
+  gctx
+)
+type(
+  gctx
+)
+"hw5/gctx.ml" 80 2509 2513 "hw5/gctx.ml" 80 2509 2522
+type(
+  gctx -> int * int -> gctx
+)
+ident(
+  def translate "hw5/gctx.ml" 84 2660 2660 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 80 2509 2524 "hw5/gctx.ml" 80 2509 2525
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 80 2509 2533 "hw5/gctx.ml" 81 2564 2603
+)
+"hw5/gctx.ml" 80 2509 2535 "hw5/gctx.ml" 80 2509 2537
+type(
+  int
+)
+ident(
+  def dx "hw5/gctx.ml" 80 2509 2555 "hw5/gctx.ml" 81 2564 2603
+)
+"hw5/gctx.ml" 80 2509 2539 "hw5/gctx.ml" 80 2509 2541
+type(
+  int
+)
+ident(
+  def dy "hw5/gctx.ml" 80 2509 2555 "hw5/gctx.ml" 81 2564 2603
+)
+"hw5/gctx.ml" 80 2509 2534 "hw5/gctx.ml" 80 2509 2542
+type(
+  int * int
+)
+"hw5/gctx.ml" 81 2564 2568 "hw5/gctx.ml" 81 2564 2569
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 80 2509 2524 "hw5/gctx.ml" 80 2509 2525
+)
+"hw5/gctx.ml" 81 2564 2579 "hw5/gctx.ml" 81 2564 2580
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 80 2509 2524 "hw5/gctx.ml" 80 2509 2525
+)
+"hw5/gctx.ml" 81 2564 2579 "hw5/gctx.ml" 81 2564 2582
+type(
+  int
+)
+"hw5/gctx.ml" 81 2564 2583 "hw5/gctx.ml" 81 2564 2584
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/gctx.ml" 81 2564 2585 "hw5/gctx.ml" 81 2564 2587
+type(
+  int
+)
+ident(
+  int_ref dx "hw5/gctx.ml" 80 2509 2535 "hw5/gctx.ml" 80 2509 2537
+)
+"hw5/gctx.ml" 81 2564 2579 "hw5/gctx.ml" 81 2564 2587
+type(
+  int
+)
+"hw5/gctx.ml" 81 2564 2593 "hw5/gctx.ml" 81 2564 2594
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 80 2509 2524 "hw5/gctx.ml" 80 2509 2525
+)
+"hw5/gctx.ml" 81 2564 2593 "hw5/gctx.ml" 81 2564 2596
+type(
+  int
+)
+"hw5/gctx.ml" 81 2564 2597 "hw5/gctx.ml" 81 2564 2598
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/gctx.ml" 81 2564 2599 "hw5/gctx.ml" 81 2564 2601
+type(
+  int
+)
+ident(
+  int_ref dy "hw5/gctx.ml" 80 2509 2539 "hw5/gctx.ml" 80 2509 2541
+)
+"hw5/gctx.ml" 81 2564 2593 "hw5/gctx.ml" 81 2564 2601
+type(
+  int
+)
+"hw5/gctx.ml" 81 2564 2566 "hw5/gctx.ml" 81 2564 2603
+type(
+  gctx
+)
+type(
+  gctx
+)
+"hw5/gctx.ml" 84 2660 2664 "hw5/gctx.ml" 84 2660 2674
+type(
+  gctx -> color -> gctx
+)
+ident(
+  def with_color "hw5/gctx.ml" 87 2729 2729 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 84 2660 2676 "hw5/gctx.ml" 84 2660 2677
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 84 2660 2685 "hw5/gctx.ml" 85 2705 2727
+)
+"hw5/gctx.ml" 84 2660 2686 "hw5/gctx.ml" 84 2660 2687
+type(
+  color
+)
+ident(
+  def c "hw5/gctx.ml" 84 2660 2696 "hw5/gctx.ml" 85 2705 2727
+)
+"hw5/gctx.ml" 85 2705 2709 "hw5/gctx.ml" 85 2705 2710
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 84 2660 2676 "hw5/gctx.ml" 84 2660 2677
+)
+"hw5/gctx.ml" 85 2705 2724 "hw5/gctx.ml" 85 2705 2725
+type(
+  color
+)
+ident(
+  int_ref c "hw5/gctx.ml" 84 2660 2686 "hw5/gctx.ml" 84 2660 2687
+)
+"hw5/gctx.ml" 85 2705 2707 "hw5/gctx.ml" 85 2705 2727
+type(
+  gctx
+)
+type(
+  gctx
+)
+"hw5/gctx.ml" 87 2729 2733 "hw5/gctx.ml" 87 2729 2743
+type(
+  gctx -> int -> gctx
+)
+ident(
+  def with_width "hw5/gctx.ml" 96 3006 3006 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 87 2729 2745 "hw5/gctx.ml" 87 2729 2746
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 87 2729 2754 "hw5/gctx.ml" 88 2771 2793
+)
+"hw5/gctx.ml" 87 2729 2755 "hw5/gctx.ml" 87 2729 2756
+type(
+  int
+)
+ident(
+  def w "hw5/gctx.ml" 87 2729 2762 "hw5/gctx.ml" 88 2771 2793
+)
+"hw5/gctx.ml" 88 2771 2775 "hw5/gctx.ml" 88 2771 2776
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 87 2729 2745 "hw5/gctx.ml" 87 2729 2746
+)
+"hw5/gctx.ml" 88 2771 2790 "hw5/gctx.ml" 88 2771 2791
+type(
+  int
+)
+ident(
+  int_ref w "hw5/gctx.ml" 87 2729 2755 "hw5/gctx.ml" 87 2729 2756
+)
+"hw5/gctx.ml" 88 2771 2773 "hw5/gctx.ml" 88 2771 2793
+type(
+  gctx
+)
+type(
+  gctx
+)
+"hw5/gctx.ml" 96 3006 3010 "hw5/gctx.ml" 96 3006 3028
+type(
+  gctx -> unit
+)
+ident(
+  def set_graphics_state "hw5/gctx.ml" 110 3375 3375 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 96 3006 3030 "hw5/gctx.ml" 96 3006 3032
+type(
+  gctx
+)
+ident(
+  def gc "hw5/gctx.ml" 96 3006 3040 "hw5/gctx.ml" 101 3145 3173
+)
+"hw5/gctx.ml" 97 3049 3056 "hw5/gctx.ml" 97 3049 3057
+type(
+  int
+)
+ident(
+  def r "hw5/gctx.ml" 98 3077 3079 "hw5/gctx.ml" 101 3145 3173
+)
+"hw5/gctx.ml" 97 3049 3058 "hw5/gctx.ml" 97 3049 3059
+type(
+  int
+)
+ident(
+  def g "hw5/gctx.ml" 98 3077 3079 "hw5/gctx.ml" 101 3145 3173
+)
+"hw5/gctx.ml" 97 3049 3060 "hw5/gctx.ml" 97 3049 3061
+type(
+  int
+)
+ident(
+  def b "hw5/gctx.ml" 98 3077 3079 "hw5/gctx.ml" 101 3145 3173
+)
+"hw5/gctx.ml" 97 3049 3055 "hw5/gctx.ml" 97 3049 3062
+type(
+  color
+)
+"hw5/gctx.ml" 97 3049 3065 "hw5/gctx.ml" 97 3049 3067
+type(
+  gctx
+)
+ident(
+  int_ref gc "hw5/gctx.ml" 96 3006 3030 "hw5/gctx.ml" 96 3006 3032
+)
+"hw5/gctx.ml" 97 3049 3065 "hw5/gctx.ml" 97 3049 3073
+type(
+  color
+)
+"hw5/gctx.ml" 98 3077 3083 "hw5/gctx.ml" 98 3077 3084
+type(
+  int
+)
+ident(
+  def w "hw5/gctx.ml" 99 3099 3100 "hw5/gctx.ml" 101 3145 3173
+)
+"hw5/gctx.ml" 98 3077 3087 "hw5/gctx.ml" 98 3077 3089
+type(
+  gctx
+)
+ident(
+  int_ref gc "hw5/gctx.ml" 96 3006 3030 "hw5/gctx.ml" 96 3006 3032
+)
+"hw5/gctx.ml" 98 3077 3087 "hw5/gctx.ml" 98 3077 3095
+type(
+  int
+)
+"hw5/gctx.ml" 100 3102 3104 "hw5/gctx.ml" 100 3102 3122
+type(
+  Graphics.color -> unit
+)
+ident(
+  ext_ref Graphics.set_color
+)
+"hw5/gctx.ml" 100 3102 3124 "hw5/gctx.ml" 100 3102 3136
+type(
+  int -> int -> int -> Graphics.color
+)
+ident(
+  ext_ref Graphics.rgb
+)
+"hw5/gctx.ml" 100 3102 3137 "hw5/gctx.ml" 100 3102 3138
+type(
+  int
+)
+ident(
+  int_ref r "hw5/gctx.ml" 97 3049 3056 "hw5/gctx.ml" 97 3049 3057
+)
+"hw5/gctx.ml" 100 3102 3139 "hw5/gctx.ml" 100 3102 3140
+type(
+  int
+)
+ident(
+  int_ref g "hw5/gctx.ml" 97 3049 3058 "hw5/gctx.ml" 97 3049 3059
+)
+"hw5/gctx.ml" 100 3102 3141 "hw5/gctx.ml" 100 3102 3142
+type(
+  int
+)
+ident(
+  int_ref b "hw5/gctx.ml" 97 3049 3060 "hw5/gctx.ml" 97 3049 3061
+)
+"hw5/gctx.ml" 100 3102 3123 "hw5/gctx.ml" 100 3102 3143
+call(
+  stack
+)
+type(
+  Graphics.color
+)
+"hw5/gctx.ml" 100 3102 3104 "hw5/gctx.ml" 100 3102 3143
+type(
+  unit
+)
+"hw5/gctx.ml" 101 3145 3147 "hw5/gctx.ml" 101 3145 3170
+type(
+  int -> unit
+)
+ident(
+  ext_ref Graphics.set_line_width
+)
+"hw5/gctx.ml" 101 3145 3171 "hw5/gctx.ml" 101 3145 3172
+type(
+  int
+)
+ident(
+  int_ref w "hw5/gctx.ml" 98 3077 3083 "hw5/gctx.ml" 98 3077 3084
+)
+"hw5/gctx.ml" 101 3145 3147 "hw5/gctx.ml" 101 3145 3172
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 99 3099 3100 "hw5/gctx.ml" 101 3145 3173
+type(
+  unit
+)
+"hw5/gctx.ml" 98 3077 3079 "hw5/gctx.ml" 101 3145 3173
+type(
+  unit
+)
+"hw5/gctx.ml" 97 3049 3051 "hw5/gctx.ml" 101 3145 3173
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 110 3375 3379 "hw5/gctx.ml" 110 3375 3394
+type(
+  unit -> int
+)
+ident(
+  def graphics_size_x "hw5/gctx.ml" 112 3463 3463 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 110 3375 3395 "hw5/gctx.ml" 110 3375 3397
+type(
+  unit
+)
+"hw5/gctx.ml" 111 3400 3405 "hw5/gctx.ml" 111 3400 3420
+type(
+  bool ref
+)
+ident(
+  int_ref graphics_opened "hw5/gctx.ml" 56 1795 1799 "hw5/gctx.ml" 56 1795 1814
+)
+"hw5/gctx.ml" 111 3400 3405 "hw5/gctx.ml" 111 3400 3429
+type(
+  bool
+)
+"hw5/gctx.ml" 111 3400 3435 "hw5/gctx.ml" 111 3400 3450
+type(
+  unit -> int
+)
+ident(
+  ext_ref Graphics.size_x
+)
+"hw5/gctx.ml" 111 3400 3451 "hw5/gctx.ml" 111 3400 3453
+type(
+  unit
+)
+"hw5/gctx.ml" 111 3400 3435 "hw5/gctx.ml" 111 3400 3453
+type(
+  int
+)
+"hw5/gctx.ml" 111 3400 3459 "hw5/gctx.ml" 111 3400 3462
+type(
+  int
+)
+"hw5/gctx.ml" 111 3400 3402 "hw5/gctx.ml" 111 3400 3462
+type(
+  int
+)
+"hw5/gctx.ml" 112 3463 3467 "hw5/gctx.ml" 112 3463 3482
+type(
+  unit -> int
+)
+ident(
+  def graphics_size_y "hw5/gctx.ml" 125 4211 4211 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 112 3463 3483 "hw5/gctx.ml" 112 3463 3485
+type(
+  unit
+)
+"hw5/gctx.ml" 113 3488 3493 "hw5/gctx.ml" 113 3488 3508
+type(
+  bool ref
+)
+ident(
+  int_ref graphics_opened "hw5/gctx.ml" 56 1795 1799 "hw5/gctx.ml" 56 1795 1814
+)
+"hw5/gctx.ml" 113 3488 3493 "hw5/gctx.ml" 113 3488 3517
+type(
+  bool
+)
+"hw5/gctx.ml" 113 3488 3523 "hw5/gctx.ml" 113 3488 3538
+type(
+  unit -> int
+)
+ident(
+  ext_ref Graphics.size_y
+)
+"hw5/gctx.ml" 113 3488 3539 "hw5/gctx.ml" 113 3488 3541
+type(
+  unit
+)
+"hw5/gctx.ml" 113 3488 3523 "hw5/gctx.ml" 113 3488 3541
+type(
+  int
+)
+"hw5/gctx.ml" 113 3488 3547 "hw5/gctx.ml" 113 3488 3550
+type(
+  int
+)
+"hw5/gctx.ml" 113 3488 3490 "hw5/gctx.ml" 113 3488 3550
+type(
+  int
+)
+"hw5/gctx.ml" 132 4534 4538 "hw5/gctx.ml" 132 4534 4550
+type(
+  gctx -> position -> int * int
+)
+ident(
+  def ocaml_coords "hw5/gctx.ml" 137 4793 4793 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 132 4534 4552 "hw5/gctx.ml" 132 4534 4553
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 132 4534 4561 "hw5/gctx.ml" 133 4596 4643
+)
+"hw5/gctx.ml" 132 4534 4563 "hw5/gctx.ml" 132 4534 4564
+type(
+  int
+)
+ident(
+  def x "hw5/gctx.ml" 132 4534 4580 "hw5/gctx.ml" 133 4596 4643
+)
+"hw5/gctx.ml" 132 4534 4566 "hw5/gctx.ml" 132 4534 4567
+type(
+  int
+)
+ident(
+  def y "hw5/gctx.ml" 132 4534 4580 "hw5/gctx.ml" 133 4596 4643
+)
+"hw5/gctx.ml" 132 4534 4562 "hw5/gctx.ml" 132 4534 4568
+type(
+  position
+)
+"hw5/gctx.ml" 133 4596 4599 "hw5/gctx.ml" 133 4596 4600
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 132 4534 4552 "hw5/gctx.ml" 132 4534 4553
+)
+"hw5/gctx.ml" 133 4596 4599 "hw5/gctx.ml" 133 4596 4602
+type(
+  int
+)
+"hw5/gctx.ml" 133 4596 4603 "hw5/gctx.ml" 133 4596 4604
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/gctx.ml" 133 4596 4605 "hw5/gctx.ml" 133 4596 4606
+type(
+  int
+)
+ident(
+  int_ref x "hw5/gctx.ml" 132 4534 4563 "hw5/gctx.ml" 132 4534 4564
+)
+"hw5/gctx.ml" 133 4596 4599 "hw5/gctx.ml" 133 4596 4606
+type(
+  int
+)
+"hw5/gctx.ml" 133 4596 4608 "hw5/gctx.ml" 133 4596 4623
+type(
+  unit -> int
+)
+ident(
+  int_ref graphics_size_y "hw5/gctx.ml" 112 3463 3467 "hw5/gctx.ml" 112 3463 3482
+)
+"hw5/gctx.ml" 133 4596 4624 "hw5/gctx.ml" 133 4596 4626
+type(
+  unit
+)
+"hw5/gctx.ml" 133 4596 4608 "hw5/gctx.ml" 133 4596 4626
+call(
+  stack
+)
+type(
+  int
+)
+"hw5/gctx.ml" 133 4596 4627 "hw5/gctx.ml" 133 4596 4628
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/gctx.ml" 133 4596 4629 "hw5/gctx.ml" 133 4596 4630
+type(
+  int
+)
+"hw5/gctx.ml" 133 4596 4608 "hw5/gctx.ml" 133 4596 4630
+type(
+  int
+)
+"hw5/gctx.ml" 133 4596 4631 "hw5/gctx.ml" 133 4596 4632
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/gctx.ml" 133 4596 4634 "hw5/gctx.ml" 133 4596 4635
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 132 4534 4552 "hw5/gctx.ml" 132 4534 4553
+)
+"hw5/gctx.ml" 133 4596 4634 "hw5/gctx.ml" 133 4596 4637
+type(
+  int
+)
+"hw5/gctx.ml" 133 4596 4638 "hw5/gctx.ml" 133 4596 4639
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw5/gctx.ml" 133 4596 4640 "hw5/gctx.ml" 133 4596 4641
+type(
+  int
+)
+ident(
+  int_ref y "hw5/gctx.ml" 132 4534 4566 "hw5/gctx.ml" 132 4534 4567
+)
+"hw5/gctx.ml" 133 4596 4633 "hw5/gctx.ml" 133 4596 4642
+type(
+  int
+)
+"hw5/gctx.ml" 133 4596 4608 "hw5/gctx.ml" 133 4596 4642
+type(
+  int
+)
+"hw5/gctx.ml" 133 4596 4598 "hw5/gctx.ml" 133 4596 4643
+type(
+  int * int
+)
+type(
+  int * int
+)
+"hw5/gctx.ml" 137 4793 4797 "hw5/gctx.ml" 137 4793 4809
+type(
+  gctx -> int * int -> position
+)
+ident(
+  def local_coords "hw5/gctx.ml" 147 5009 5009 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 137 4793 4811 "hw5/gctx.ml" 137 4793 4812
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 137 4793 4820 "hw5/gctx.ml" 138 4853 4900
+)
+"hw5/gctx.ml" 137 4793 4822 "hw5/gctx.ml" 137 4793 4823
+type(
+  int
+)
+ident(
+  def x "hw5/gctx.ml" 137 4793 4840 "hw5/gctx.ml" 138 4853 4900
+)
+"hw5/gctx.ml" 137 4793 4825 "hw5/gctx.ml" 137 4793 4826
+type(
+  int
+)
+ident(
+  def y "hw5/gctx.ml" 137 4793 4840 "hw5/gctx.ml" 138 4853 4900
+)
+"hw5/gctx.ml" 137 4793 4821 "hw5/gctx.ml" 137 4793 4827
+type(
+  int * int
+)
+"hw5/gctx.ml" 138 4853 4856 "hw5/gctx.ml" 138 4853 4857
+type(
+  int
+)
+ident(
+  int_ref x "hw5/gctx.ml" 137 4793 4822 "hw5/gctx.ml" 137 4793 4823
+)
+"hw5/gctx.ml" 138 4853 4858 "hw5/gctx.ml" 138 4853 4859
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/gctx.ml" 138 4853 4860 "hw5/gctx.ml" 138 4853 4861
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 137 4793 4811 "hw5/gctx.ml" 137 4793 4812
+)
+"hw5/gctx.ml" 138 4853 4860 "hw5/gctx.ml" 138 4853 4863
+type(
+  int
+)
+"hw5/gctx.ml" 138 4853 4856 "hw5/gctx.ml" 138 4853 4863
+type(
+  int
+)
+"hw5/gctx.ml" 138 4853 4866 "hw5/gctx.ml" 138 4853 4881
+type(
+  unit -> int
+)
+ident(
+  int_ref graphics_size_y "hw5/gctx.ml" 112 3463 3467 "hw5/gctx.ml" 112 3463 3482
+)
+"hw5/gctx.ml" 138 4853 4882 "hw5/gctx.ml" 138 4853 4884
+type(
+  unit
+)
+"hw5/gctx.ml" 138 4853 4866 "hw5/gctx.ml" 138 4853 4884
+call(
+  stack
+)
+type(
+  int
+)
+"hw5/gctx.ml" 138 4853 4885 "hw5/gctx.ml" 138 4853 4886
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/gctx.ml" 138 4853 4887 "hw5/gctx.ml" 138 4853 4888
+type(
+  int
+)
+"hw5/gctx.ml" 138 4853 4866 "hw5/gctx.ml" 138 4853 4888
+type(
+  int
+)
+"hw5/gctx.ml" 138 4853 4889 "hw5/gctx.ml" 138 4853 4890
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/gctx.ml" 138 4853 4891 "hw5/gctx.ml" 138 4853 4892
+type(
+  int
+)
+ident(
+  int_ref y "hw5/gctx.ml" 137 4793 4825 "hw5/gctx.ml" 137 4793 4826
+)
+"hw5/gctx.ml" 138 4853 4865 "hw5/gctx.ml" 138 4853 4893
+type(
+  int
+)
+"hw5/gctx.ml" 138 4853 4894 "hw5/gctx.ml" 138 4853 4895
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/gctx.ml" 138 4853 4896 "hw5/gctx.ml" 138 4853 4897
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 137 4793 4811 "hw5/gctx.ml" 137 4793 4812
+)
+"hw5/gctx.ml" 138 4853 4896 "hw5/gctx.ml" 138 4853 4899
+type(
+  int
+)
+"hw5/gctx.ml" 138 4853 4865 "hw5/gctx.ml" 138 4853 4899
+type(
+  int
+)
+"hw5/gctx.ml" 138 4853 4855 "hw5/gctx.ml" 138 4853 4900
+type(
+  position
+)
+type(
+  position
+)
+"hw5/gctx.ml" 156 5329 5333 "hw5/gctx.ml" 156 5329 5343
+type(
+  gctx -> position -> unit
+)
+ident(
+  def draw_point "hw5/gctx.ml" 162 5465 5465 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 156 5329 5345 "hw5/gctx.ml" 156 5329 5346
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 156 5329 5354 "hw5/gctx.ml" 160 5441 5462
+)
+"hw5/gctx.ml" 156 5329 5355 "hw5/gctx.ml" 156 5329 5356
+type(
+  position
+)
+ident(
+  def p "hw5/gctx.ml" 156 5329 5368 "hw5/gctx.ml" 160 5441 5462
+)
+"hw5/gctx.ml" 157 5377 5379 "hw5/gctx.ml" 157 5377 5397
+type(
+  gctx -> unit
+)
+ident(
+  int_ref set_graphics_state "hw5/gctx.ml" 96 3006 3010 "hw5/gctx.ml" 96 3006 3028
+)
+"hw5/gctx.ml" 157 5377 5398 "hw5/gctx.ml" 157 5377 5399
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 156 5329 5345 "hw5/gctx.ml" 156 5329 5346
+)
+"hw5/gctx.ml" 157 5377 5379 "hw5/gctx.ml" 157 5377 5399
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 158 5401 5408 "hw5/gctx.ml" 158 5401 5410
+type(
+  int
+)
+ident(
+  def x1 "hw5/gctx.ml" 160 5441 5443 "hw5/gctx.ml" 160 5441 5462
+)
+"hw5/gctx.ml" 158 5401 5412 "hw5/gctx.ml" 158 5401 5414
+type(
+  int
+)
+ident(
+  def y1 "hw5/gctx.ml" 160 5441 5443 "hw5/gctx.ml" 160 5441 5462
+)
+"hw5/gctx.ml" 158 5401 5407 "hw5/gctx.ml" 158 5401 5415
+type(
+  int * int
+)
+"hw5/gctx.ml" 158 5401 5418 "hw5/gctx.ml" 158 5401 5430
+type(
+  gctx -> position -> int * int
+)
+ident(
+  int_ref ocaml_coords "hw5/gctx.ml" 132 4534 4538 "hw5/gctx.ml" 132 4534 4550
+)
+"hw5/gctx.ml" 158 5401 5431 "hw5/gctx.ml" 158 5401 5432
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 156 5329 5345 "hw5/gctx.ml" 156 5329 5346
+)
+"hw5/gctx.ml" 158 5401 5433 "hw5/gctx.ml" 158 5401 5434
+type(
+  position
+)
+ident(
+  int_ref p "hw5/gctx.ml" 156 5329 5355 "hw5/gctx.ml" 156 5329 5356
+)
+"hw5/gctx.ml" 158 5401 5418 "hw5/gctx.ml" 158 5401 5434
+call(
+  stack
+)
+type(
+  int * int
+)
+"hw5/gctx.ml" 160 5441 5443 "hw5/gctx.ml" 160 5441 5456
+type(
+  int -> int -> unit
+)
+ident(
+  ext_ref Graphics.plot
+)
+"hw5/gctx.ml" 160 5441 5457 "hw5/gctx.ml" 160 5441 5459
+type(
+  int
+)
+ident(
+  int_ref x1 "hw5/gctx.ml" 158 5401 5408 "hw5/gctx.ml" 158 5401 5410
+)
+"hw5/gctx.ml" 160 5441 5460 "hw5/gctx.ml" 160 5441 5462
+type(
+  int
+)
+ident(
+  int_ref y1 "hw5/gctx.ml" 158 5401 5412 "hw5/gctx.ml" 158 5401 5414
+)
+"hw5/gctx.ml" 160 5441 5443 "hw5/gctx.ml" 160 5441 5462
+type(
+  unit
+)
+"hw5/gctx.ml" 158 5401 5403 "hw5/gctx.ml" 160 5441 5462
+type(
+  unit
+)
+"hw5/gctx.ml" 157 5377 5379 "hw5/gctx.ml" 160 5441 5462
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 162 5465 5469 "hw5/gctx.ml" 162 5465 5480
+type(
+  gctx -> position list -> unit
+)
+ident(
+  def draw_points "hw5/gctx.ml" 166 5576 5576 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 162 5465 5482 "hw5/gctx.ml" 162 5465 5483
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 162 5465 5491 "hw5/gctx.ml" 164 5544 5573
+)
+"hw5/gctx.ml" 162 5465 5492 "hw5/gctx.ml" 162 5465 5494
+type(
+  position list
+)
+ident(
+  def pl "hw5/gctx.ml" 162 5465 5511 "hw5/gctx.ml" 164 5544 5573
+)
+"hw5/gctx.ml" 163 5520 5522 "hw5/gctx.ml" 163 5520 5540
+type(
+  gctx -> unit
+)
+ident(
+  int_ref set_graphics_state "hw5/gctx.ml" 96 3006 3010 "hw5/gctx.ml" 96 3006 3028
+)
+"hw5/gctx.ml" 163 5520 5541 "hw5/gctx.ml" 163 5520 5542
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 162 5465 5482 "hw5/gctx.ml" 162 5465 5483
+)
+"hw5/gctx.ml" 163 5520 5522 "hw5/gctx.ml" 163 5520 5542
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 164 5544 5546 "hw5/gctx.ml" 164 5544 5555
+type(
+  (position -> unit) -> position list -> unit
+)
+ident(
+  ext_ref List.iter
+)
+"hw5/gctx.ml" 164 5544 5557 "hw5/gctx.ml" 164 5544 5567
+type(
+  gctx -> position -> unit
+)
+ident(
+  int_ref draw_point "hw5/gctx.ml" 156 5329 5333 "hw5/gctx.ml" 156 5329 5343
+)
+"hw5/gctx.ml" 164 5544 5568 "hw5/gctx.ml" 164 5544 5569
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 162 5465 5482 "hw5/gctx.ml" 162 5465 5483
+)
+"hw5/gctx.ml" 164 5544 5556 "hw5/gctx.ml" 164 5544 5570
+call(
+  stack
+)
+type(
+  position -> unit
+)
+"hw5/gctx.ml" 164 5544 5571 "hw5/gctx.ml" 164 5544 5573
+type(
+  position list
+)
+ident(
+  int_ref pl "hw5/gctx.ml" 162 5465 5492 "hw5/gctx.ml" 162 5465 5494
+)
+"hw5/gctx.ml" 164 5544 5546 "hw5/gctx.ml" 164 5544 5573
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 163 5520 5522 "hw5/gctx.ml" 164 5544 5573
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 166 5576 5580 "hw5/gctx.ml" 166 5576 5589
+type(
+  gctx -> position -> position -> unit
+)
+ident(
+  def draw_line "hw5/gctx.ml" 174 5831 5831 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 166 5576 5591 "hw5/gctx.ml" 166 5576 5592
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 166 5576 5600 "hw5/gctx.ml" 171 5764 5787
+)
+"hw5/gctx.ml" 166 5576 5601 "hw5/gctx.ml" 166 5576 5603
+type(
+  position
+)
+ident(
+  def p1 "hw5/gctx.ml" 166 5576 5615 "hw5/gctx.ml" 171 5764 5787
+)
+"hw5/gctx.ml" 166 5576 5616 "hw5/gctx.ml" 166 5576 5618
+type(
+  position
+)
+ident(
+  def p2 "hw5/gctx.ml" 166 5576 5630 "hw5/gctx.ml" 171 5764 5787
+)
+"hw5/gctx.ml" 167 5639 5641 "hw5/gctx.ml" 167 5639 5659
+type(
+  gctx -> unit
+)
+ident(
+  int_ref set_graphics_state "hw5/gctx.ml" 96 3006 3010 "hw5/gctx.ml" 96 3006 3028
+)
+"hw5/gctx.ml" 167 5639 5660 "hw5/gctx.ml" 167 5639 5661
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 166 5576 5591 "hw5/gctx.ml" 166 5576 5592
+)
+"hw5/gctx.ml" 167 5639 5641 "hw5/gctx.ml" 167 5639 5661
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 168 5663 5670 "hw5/gctx.ml" 168 5663 5672
+type(
+  int
+)
+ident(
+  def x1 "hw5/gctx.ml" 169 5701 5703 "hw5/gctx.ml" 171 5764 5787
+)
+"hw5/gctx.ml" 168 5663 5674 "hw5/gctx.ml" 168 5663 5676
+type(
+  int
+)
+ident(
+  def y1 "hw5/gctx.ml" 169 5701 5703 "hw5/gctx.ml" 171 5764 5787
+)
+"hw5/gctx.ml" 168 5663 5669 "hw5/gctx.ml" 168 5663 5677
+type(
+  int * int
+)
+"hw5/gctx.ml" 168 5663 5680 "hw5/gctx.ml" 168 5663 5692
+type(
+  gctx -> position -> int * int
+)
+ident(
+  int_ref ocaml_coords "hw5/gctx.ml" 132 4534 4538 "hw5/gctx.ml" 132 4534 4550
+)
+"hw5/gctx.ml" 168 5663 5693 "hw5/gctx.ml" 168 5663 5694
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 166 5576 5591 "hw5/gctx.ml" 166 5576 5592
+)
+"hw5/gctx.ml" 168 5663 5695 "hw5/gctx.ml" 168 5663 5697
+type(
+  position
+)
+ident(
+  int_ref p1 "hw5/gctx.ml" 166 5576 5601 "hw5/gctx.ml" 166 5576 5603
+)
+"hw5/gctx.ml" 168 5663 5680 "hw5/gctx.ml" 168 5663 5697
+call(
+  stack
+)
+type(
+  int * int
+)
+"hw5/gctx.ml" 169 5701 5708 "hw5/gctx.ml" 169 5701 5710
+type(
+  int
+)
+ident(
+  def x2 "hw5/gctx.ml" 170 5739 5741 "hw5/gctx.ml" 171 5764 5787
+)
+"hw5/gctx.ml" 169 5701 5712 "hw5/gctx.ml" 169 5701 5714
+type(
+  int
+)
+ident(
+  def y2 "hw5/gctx.ml" 170 5739 5741 "hw5/gctx.ml" 171 5764 5787
+)
+"hw5/gctx.ml" 169 5701 5707 "hw5/gctx.ml" 169 5701 5715
+type(
+  int * int
+)
+"hw5/gctx.ml" 169 5701 5718 "hw5/gctx.ml" 169 5701 5730
+type(
+  gctx -> position -> int * int
+)
+ident(
+  int_ref ocaml_coords "hw5/gctx.ml" 132 4534 4538 "hw5/gctx.ml" 132 4534 4550
+)
+"hw5/gctx.ml" 169 5701 5731 "hw5/gctx.ml" 169 5701 5732
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 166 5576 5591 "hw5/gctx.ml" 166 5576 5592
+)
+"hw5/gctx.ml" 169 5701 5733 "hw5/gctx.ml" 169 5701 5735
+type(
+  position
+)
+ident(
+  int_ref p2 "hw5/gctx.ml" 166 5576 5616 "hw5/gctx.ml" 166 5576 5618
+)
+"hw5/gctx.ml" 169 5701 5718 "hw5/gctx.ml" 169 5701 5735
+call(
+  stack
+)
+type(
+  int * int
+)
+"hw5/gctx.ml" 170 5739 5741 "hw5/gctx.ml" 170 5739 5756
+type(
+  int -> int -> unit
+)
+ident(
+  ext_ref Graphics.moveto
+)
+"hw5/gctx.ml" 170 5739 5757 "hw5/gctx.ml" 170 5739 5759
+type(
+  int
+)
+ident(
+  int_ref x1 "hw5/gctx.ml" 168 5663 5670 "hw5/gctx.ml" 168 5663 5672
+)
+"hw5/gctx.ml" 170 5739 5760 "hw5/gctx.ml" 170 5739 5762
+type(
+  int
+)
+ident(
+  int_ref y1 "hw5/gctx.ml" 168 5663 5674 "hw5/gctx.ml" 168 5663 5676
+)
+"hw5/gctx.ml" 170 5739 5741 "hw5/gctx.ml" 170 5739 5762
+type(
+  unit
+)
+"hw5/gctx.ml" 171 5764 5766 "hw5/gctx.ml" 171 5764 5781
+type(
+  int -> int -> unit
+)
+ident(
+  ext_ref Graphics.lineto
+)
+"hw5/gctx.ml" 171 5764 5782 "hw5/gctx.ml" 171 5764 5784
+type(
+  int
+)
+ident(
+  int_ref x2 "hw5/gctx.ml" 169 5701 5708 "hw5/gctx.ml" 169 5701 5710
+)
+"hw5/gctx.ml" 171 5764 5785 "hw5/gctx.ml" 171 5764 5787
+type(
+  int
+)
+ident(
+  int_ref y2 "hw5/gctx.ml" 169 5701 5712 "hw5/gctx.ml" 169 5701 5714
+)
+"hw5/gctx.ml" 171 5764 5766 "hw5/gctx.ml" 171 5764 5787
+type(
+  unit
+)
+"hw5/gctx.ml" 170 5739 5741 "hw5/gctx.ml" 171 5764 5787
+type(
+  unit
+)
+"hw5/gctx.ml" 169 5701 5703 "hw5/gctx.ml" 171 5764 5787
+type(
+  unit
+)
+"hw5/gctx.ml" 168 5663 5665 "hw5/gctx.ml" 171 5764 5787
+type(
+  unit
+)
+"hw5/gctx.ml" 167 5639 5641 "hw5/gctx.ml" 171 5764 5787
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 174 5831 5835 "hw5/gctx.ml" 174 5831 5846
+type(
+  gctx -> position -> string -> unit
+)
+ident(
+  def draw_string "hw5/gctx.ml" 186 6338 6338 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 174 5831 5848 "hw5/gctx.ml" 174 5831 5849
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 174 5831 5857 "hw5/gctx.ml" 180 6078 6102
+)
+"hw5/gctx.ml" 174 5831 5858 "hw5/gctx.ml" 174 5831 5859
+type(
+  position
+)
+ident(
+  def p "hw5/gctx.ml" 174 5831 5871 "hw5/gctx.ml" 180 6078 6102
+)
+"hw5/gctx.ml" 174 5831 5872 "hw5/gctx.ml" 174 5831 5873
+type(
+  string
+)
+ident(
+  def s "hw5/gctx.ml" 174 5831 5883 "hw5/gctx.ml" 180 6078 6102
+)
+"hw5/gctx.ml" 175 5892 5894 "hw5/gctx.ml" 175 5892 5912
+type(
+  gctx -> unit
+)
+ident(
+  int_ref set_graphics_state "hw5/gctx.ml" 96 3006 3010 "hw5/gctx.ml" 96 3006 3028
+)
+"hw5/gctx.ml" 175 5892 5913 "hw5/gctx.ml" 175 5892 5914
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 174 5831 5848 "hw5/gctx.ml" 174 5831 5849
+)
+"hw5/gctx.ml" 175 5892 5894 "hw5/gctx.ml" 175 5892 5914
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 176 5916 5923 "hw5/gctx.ml" 176 5916 5924
+type(
+  int
+)
+"hw5/gctx.ml" 176 5916 5926 "hw5/gctx.ml" 176 5916 5932
+type(
+  int
+)
+ident(
+  def height "hw5/gctx.ml" 177 5960 5962 "hw5/gctx.ml" 180 6078 6102
+)
+"hw5/gctx.ml" 176 5916 5922 "hw5/gctx.ml" 176 5916 5933
+type(
+  int * int
+)
+"hw5/gctx.ml" 176 5916 5936 "hw5/gctx.ml" 176 5916 5954
+type(
+  string -> int * int
+)
+ident(
+  ext_ref Graphics.text_size
+)
+"hw5/gctx.ml" 176 5916 5955 "hw5/gctx.ml" 176 5916 5956
+type(
+  string
+)
+ident(
+  int_ref s "hw5/gctx.ml" 174 5831 5872 "hw5/gctx.ml" 174 5831 5873
+)
+"hw5/gctx.ml" 176 5916 5936 "hw5/gctx.ml" 176 5916 5956
+type(
+  int * int
+)
+"hw5/gctx.ml" 177 5960 5967 "hw5/gctx.ml" 177 5960 5968
+type(
+  int
+)
+ident(
+  def x "hw5/gctx.ml" 179 6044 6046 "hw5/gctx.ml" 180 6078 6102
+)
+"hw5/gctx.ml" 177 5960 5970 "hw5/gctx.ml" 177 5960 5971
+type(
+  int
+)
+ident(
+  def y "hw5/gctx.ml" 179 6044 6046 "hw5/gctx.ml" 180 6078 6102
+)
+"hw5/gctx.ml" 177 5960 5966 "hw5/gctx.ml" 177 5960 5972
+type(
+  int * int
+)
+"hw5/gctx.ml" 177 5960 5975 "hw5/gctx.ml" 177 5960 5987
+type(
+  gctx -> position -> int * int
+)
+ident(
+  int_ref ocaml_coords "hw5/gctx.ml" 132 4534 4538 "hw5/gctx.ml" 132 4534 4550
+)
+"hw5/gctx.ml" 177 5960 5988 "hw5/gctx.ml" 177 5960 5989
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 174 5831 5848 "hw5/gctx.ml" 174 5831 5849
+)
+"hw5/gctx.ml" 177 5960 5990 "hw5/gctx.ml" 177 5960 5991
+type(
+  position
+)
+ident(
+  int_ref p "hw5/gctx.ml" 174 5831 5858 "hw5/gctx.ml" 174 5831 5859
+)
+"hw5/gctx.ml" 177 5960 5975 "hw5/gctx.ml" 177 5960 5991
+call(
+  stack
+)
+type(
+  int * int
+)
+"hw5/gctx.ml" 179 6044 6046 "hw5/gctx.ml" 179 6044 6061
+type(
+  int -> int -> unit
+)
+ident(
+  ext_ref Graphics.moveto
+)
+"hw5/gctx.ml" 179 6044 6062 "hw5/gctx.ml" 179 6044 6063
+type(
+  int
+)
+ident(
+  int_ref x "hw5/gctx.ml" 177 5960 5967 "hw5/gctx.ml" 177 5960 5968
+)
+"hw5/gctx.ml" 179 6044 6065 "hw5/gctx.ml" 179 6044 6066
+type(
+  int
+)
+ident(
+  int_ref y "hw5/gctx.ml" 177 5960 5970 "hw5/gctx.ml" 177 5960 5971
+)
+"hw5/gctx.ml" 179 6044 6067 "hw5/gctx.ml" 179 6044 6068
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/gctx.ml" 179 6044 6069 "hw5/gctx.ml" 179 6044 6075
+type(
+  int
+)
+ident(
+  int_ref height "hw5/gctx.ml" 176 5916 5926 "hw5/gctx.ml" 176 5916 5932
+)
+"hw5/gctx.ml" 179 6044 6064 "hw5/gctx.ml" 179 6044 6076
+type(
+  int
+)
+"hw5/gctx.ml" 179 6044 6046 "hw5/gctx.ml" 179 6044 6076
+type(
+  unit
+)
+"hw5/gctx.ml" 180 6078 6080 "hw5/gctx.ml" 180 6078 6100
+type(
+  string -> unit
+)
+ident(
+  ext_ref Graphics.draw_string
+)
+"hw5/gctx.ml" 180 6078 6101 "hw5/gctx.ml" 180 6078 6102
+type(
+  string
+)
+ident(
+  int_ref s "hw5/gctx.ml" 174 5831 5872 "hw5/gctx.ml" 174 5831 5873
+)
+"hw5/gctx.ml" 180 6078 6080 "hw5/gctx.ml" 180 6078 6102
+type(
+  unit
+)
+"hw5/gctx.ml" 179 6044 6046 "hw5/gctx.ml" 180 6078 6102
+type(
+  unit
+)
+"hw5/gctx.ml" 177 5960 5962 "hw5/gctx.ml" 180 6078 6102
+type(
+  unit
+)
+"hw5/gctx.ml" 176 5916 5918 "hw5/gctx.ml" 180 6078 6102
+type(
+  unit
+)
+"hw5/gctx.ml" 175 5892 5894 "hw5/gctx.ml" 180 6078 6102
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 186 6338 6342 "hw5/gctx.ml" 186 6338 6351
+type(
+  gctx -> position -> dimension -> unit
+)
+ident(
+  def draw_rect "hw5/gctx.ml" 193 6603 6603 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 186 6338 6353 "hw5/gctx.ml" 186 6338 6354
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 186 6338 6362 "hw5/gctx.ml" 189 6468 6498
+)
+"hw5/gctx.ml" 186 6338 6363 "hw5/gctx.ml" 186 6338 6365
+type(
+  position
+)
+ident(
+  def p1 "hw5/gctx.ml" 186 6338 6377 "hw5/gctx.ml" 189 6468 6498
+)
+"hw5/gctx.ml" 186 6338 6379 "hw5/gctx.ml" 186 6338 6380
+type(
+  int
+)
+ident(
+  def w "hw5/gctx.ml" 186 6338 6397 "hw5/gctx.ml" 189 6468 6498
+)
+"hw5/gctx.ml" 186 6338 6382 "hw5/gctx.ml" 186 6338 6383
+type(
+  int
+)
+ident(
+  def h "hw5/gctx.ml" 186 6338 6397 "hw5/gctx.ml" 189 6468 6498
+)
+"hw5/gctx.ml" 186 6338 6378 "hw5/gctx.ml" 186 6338 6384
+type(
+  dimension
+)
+"hw5/gctx.ml" 187 6406 6408 "hw5/gctx.ml" 187 6406 6426
+type(
+  gctx -> unit
+)
+ident(
+  int_ref set_graphics_state "hw5/gctx.ml" 96 3006 3010 "hw5/gctx.ml" 96 3006 3028
+)
+"hw5/gctx.ml" 187 6406 6427 "hw5/gctx.ml" 187 6406 6428
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 186 6338 6353 "hw5/gctx.ml" 186 6338 6354
+)
+"hw5/gctx.ml" 187 6406 6408 "hw5/gctx.ml" 187 6406 6428
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 188 6430 6437 "hw5/gctx.ml" 188 6430 6439
+type(
+  int
+)
+ident(
+  def x1 "hw5/gctx.ml" 189 6468 6470 "hw5/gctx.ml" 189 6468 6498
+)
+"hw5/gctx.ml" 188 6430 6441 "hw5/gctx.ml" 188 6430 6443
+type(
+  int
+)
+ident(
+  def y1 "hw5/gctx.ml" 189 6468 6470 "hw5/gctx.ml" 189 6468 6498
+)
+"hw5/gctx.ml" 188 6430 6436 "hw5/gctx.ml" 188 6430 6444
+type(
+  int * int
+)
+"hw5/gctx.ml" 188 6430 6447 "hw5/gctx.ml" 188 6430 6459
+type(
+  gctx -> position -> int * int
+)
+ident(
+  int_ref ocaml_coords "hw5/gctx.ml" 132 4534 4538 "hw5/gctx.ml" 132 4534 4550
+)
+"hw5/gctx.ml" 188 6430 6460 "hw5/gctx.ml" 188 6430 6461
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 186 6338 6353 "hw5/gctx.ml" 186 6338 6354
+)
+"hw5/gctx.ml" 188 6430 6462 "hw5/gctx.ml" 188 6430 6464
+type(
+  position
+)
+ident(
+  int_ref p1 "hw5/gctx.ml" 186 6338 6363 "hw5/gctx.ml" 186 6338 6365
+)
+"hw5/gctx.ml" 188 6430 6447 "hw5/gctx.ml" 188 6430 6464
+call(
+  stack
+)
+type(
+  int * int
+)
+"hw5/gctx.ml" 189 6468 6470 "hw5/gctx.ml" 189 6468 6488
+type(
+  int -> int -> int -> int -> unit
+)
+ident(
+  ext_ref Graphics.draw_rect
+)
+"hw5/gctx.ml" 189 6468 6489 "hw5/gctx.ml" 189 6468 6491
+type(
+  int
+)
+ident(
+  int_ref x1 "hw5/gctx.ml" 188 6430 6437 "hw5/gctx.ml" 188 6430 6439
+)
+"hw5/gctx.ml" 189 6468 6492 "hw5/gctx.ml" 189 6468 6494
+type(
+  int
+)
+ident(
+  int_ref y1 "hw5/gctx.ml" 188 6430 6441 "hw5/gctx.ml" 188 6430 6443
+)
+"hw5/gctx.ml" 189 6468 6495 "hw5/gctx.ml" 189 6468 6496
+type(
+  int
+)
+ident(
+  int_ref w "hw5/gctx.ml" 186 6338 6379 "hw5/gctx.ml" 186 6338 6380
+)
+"hw5/gctx.ml" 189 6468 6497 "hw5/gctx.ml" 189 6468 6498
+type(
+  int
+)
+ident(
+  int_ref h "hw5/gctx.ml" 186 6338 6382 "hw5/gctx.ml" 186 6338 6383
+)
+"hw5/gctx.ml" 189 6468 6470 "hw5/gctx.ml" 189 6468 6498
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 188 6430 6432 "hw5/gctx.ml" 189 6468 6498
+type(
+  unit
+)
+"hw5/gctx.ml" 187 6406 6408 "hw5/gctx.ml" 189 6468 6498
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 193 6603 6607 "hw5/gctx.ml" 193 6603 6616
+type(
+  gctx -> position -> dimension -> unit
+)
+ident(
+  def fill_rect "hw5/gctx.ml" 201 6916 6916 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 193 6603 6618 "hw5/gctx.ml" 193 6603 6619
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 193 6603 6627 "hw5/gctx.ml" 196 6731 6759
+)
+"hw5/gctx.ml" 193 6603 6628 "hw5/gctx.ml" 193 6603 6630
+type(
+  position
+)
+ident(
+  def p1 "hw5/gctx.ml" 193 6603 6642 "hw5/gctx.ml" 196 6731 6759
+)
+"hw5/gctx.ml" 193 6603 6644 "hw5/gctx.ml" 193 6603 6645
+type(
+  int
+)
+ident(
+  def w "hw5/gctx.ml" 193 6603 6662 "hw5/gctx.ml" 196 6731 6759
+)
+"hw5/gctx.ml" 193 6603 6647 "hw5/gctx.ml" 193 6603 6648
+type(
+  int
+)
+ident(
+  def h "hw5/gctx.ml" 193 6603 6662 "hw5/gctx.ml" 196 6731 6759
+)
+"hw5/gctx.ml" 193 6603 6643 "hw5/gctx.ml" 193 6603 6649
+type(
+  dimension
+)
+"hw5/gctx.ml" 194 6671 6673 "hw5/gctx.ml" 194 6671 6691
+type(
+  gctx -> unit
+)
+ident(
+  int_ref set_graphics_state "hw5/gctx.ml" 96 3006 3010 "hw5/gctx.ml" 96 3006 3028
+)
+"hw5/gctx.ml" 194 6671 6692 "hw5/gctx.ml" 194 6671 6693
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 193 6603 6618 "hw5/gctx.ml" 193 6603 6619
+)
+"hw5/gctx.ml" 194 6671 6673 "hw5/gctx.ml" 194 6671 6693
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 195 6695 6702 "hw5/gctx.ml" 195 6695 6703
+type(
+  int
+)
+ident(
+  def x "hw5/gctx.ml" 196 6731 6733 "hw5/gctx.ml" 196 6731 6759
+)
+"hw5/gctx.ml" 195 6695 6705 "hw5/gctx.ml" 195 6695 6706
+type(
+  int
+)
+ident(
+  def y "hw5/gctx.ml" 196 6731 6733 "hw5/gctx.ml" 196 6731 6759
+)
+"hw5/gctx.ml" 195 6695 6701 "hw5/gctx.ml" 195 6695 6707
+type(
+  int * int
+)
+"hw5/gctx.ml" 195 6695 6710 "hw5/gctx.ml" 195 6695 6722
+type(
+  gctx -> position -> int * int
+)
+ident(
+  int_ref ocaml_coords "hw5/gctx.ml" 132 4534 4538 "hw5/gctx.ml" 132 4534 4550
+)
+"hw5/gctx.ml" 195 6695 6723 "hw5/gctx.ml" 195 6695 6724
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 193 6603 6618 "hw5/gctx.ml" 193 6603 6619
+)
+"hw5/gctx.ml" 195 6695 6725 "hw5/gctx.ml" 195 6695 6727
+type(
+  position
+)
+ident(
+  int_ref p1 "hw5/gctx.ml" 193 6603 6628 "hw5/gctx.ml" 193 6603 6630
+)
+"hw5/gctx.ml" 195 6695 6710 "hw5/gctx.ml" 195 6695 6727
+call(
+  stack
+)
+type(
+  int * int
+)
+"hw5/gctx.ml" 196 6731 6733 "hw5/gctx.ml" 196 6731 6751
+type(
+  int -> int -> int -> int -> unit
+)
+ident(
+  ext_ref Graphics.fill_rect
+)
+"hw5/gctx.ml" 196 6731 6752 "hw5/gctx.ml" 196 6731 6753
+type(
+  int
+)
+ident(
+  int_ref x "hw5/gctx.ml" 195 6695 6702 "hw5/gctx.ml" 195 6695 6703
+)
+"hw5/gctx.ml" 196 6731 6754 "hw5/gctx.ml" 196 6731 6755
+type(
+  int
+)
+ident(
+  int_ref y "hw5/gctx.ml" 195 6695 6705 "hw5/gctx.ml" 195 6695 6706
+)
+"hw5/gctx.ml" 196 6731 6756 "hw5/gctx.ml" 196 6731 6757
+type(
+  int
+)
+ident(
+  int_ref w "hw5/gctx.ml" 193 6603 6644 "hw5/gctx.ml" 193 6603 6645
+)
+"hw5/gctx.ml" 196 6731 6758 "hw5/gctx.ml" 196 6731 6759
+type(
+  int
+)
+ident(
+  int_ref h "hw5/gctx.ml" 193 6603 6647 "hw5/gctx.ml" 193 6603 6648
+)
+"hw5/gctx.ml" 196 6731 6733 "hw5/gctx.ml" 196 6731 6759
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 195 6695 6697 "hw5/gctx.ml" 196 6731 6759
+type(
+  unit
+)
+"hw5/gctx.ml" 194 6671 6673 "hw5/gctx.ml" 196 6731 6759
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 201 6916 6920 "hw5/gctx.ml" 201 6916 6932
+type(
+  gctx -> position -> int -> int -> unit
+)
+ident(
+  def draw_ellipse "hw5/gctx.ml" 209 7134 7134 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 201 6916 6934 "hw5/gctx.ml" 201 6916 6935
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 201 6916 6943 "hw5/gctx.ml" 204 7045 7078
+)
+"hw5/gctx.ml" 201 6916 6944 "hw5/gctx.ml" 201 6916 6945
+type(
+  position
+)
+ident(
+  def p "hw5/gctx.ml" 201 6916 6957 "hw5/gctx.ml" 204 7045 7078
+)
+"hw5/gctx.ml" 201 6916 6958 "hw5/gctx.ml" 201 6916 6960
+type(
+  int
+)
+ident(
+  def rx "hw5/gctx.ml" 201 6916 6967 "hw5/gctx.ml" 204 7045 7078
+)
+"hw5/gctx.ml" 201 6916 6968 "hw5/gctx.ml" 201 6916 6970
+type(
+  int
+)
+ident(
+  def ry "hw5/gctx.ml" 201 6916 6977 "hw5/gctx.ml" 204 7045 7078
+)
+"hw5/gctx.ml" 202 6986 6988 "hw5/gctx.ml" 202 6986 7006
+type(
+  gctx -> unit
+)
+ident(
+  int_ref set_graphics_state "hw5/gctx.ml" 96 3006 3010 "hw5/gctx.ml" 96 3006 3028
+)
+"hw5/gctx.ml" 202 6986 7007 "hw5/gctx.ml" 202 6986 7008
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 201 6916 6934 "hw5/gctx.ml" 201 6916 6935
+)
+"hw5/gctx.ml" 202 6986 6988 "hw5/gctx.ml" 202 6986 7008
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 203 7010 7017 "hw5/gctx.ml" 203 7010 7018
+type(
+  int
+)
+ident(
+  def x "hw5/gctx.ml" 204 7045 7047 "hw5/gctx.ml" 204 7045 7078
+)
+"hw5/gctx.ml" 203 7010 7020 "hw5/gctx.ml" 203 7010 7021
+type(
+  int
+)
+ident(
+  def y "hw5/gctx.ml" 204 7045 7047 "hw5/gctx.ml" 204 7045 7078
+)
+"hw5/gctx.ml" 203 7010 7016 "hw5/gctx.ml" 203 7010 7022
+type(
+  int * int
+)
+"hw5/gctx.ml" 203 7010 7025 "hw5/gctx.ml" 203 7010 7037
+type(
+  gctx -> position -> int * int
+)
+ident(
+  int_ref ocaml_coords "hw5/gctx.ml" 132 4534 4538 "hw5/gctx.ml" 132 4534 4550
+)
+"hw5/gctx.ml" 203 7010 7038 "hw5/gctx.ml" 203 7010 7039
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 201 6916 6934 "hw5/gctx.ml" 201 6916 6935
+)
+"hw5/gctx.ml" 203 7010 7040 "hw5/gctx.ml" 203 7010 7041
+type(
+  position
+)
+ident(
+  int_ref p "hw5/gctx.ml" 201 6916 6944 "hw5/gctx.ml" 201 6916 6945
+)
+"hw5/gctx.ml" 203 7010 7025 "hw5/gctx.ml" 203 7010 7041
+call(
+  stack
+)
+type(
+  int * int
+)
+"hw5/gctx.ml" 204 7045 7047 "hw5/gctx.ml" 204 7045 7068
+type(
+  int -> int -> int -> int -> unit
+)
+ident(
+  ext_ref Graphics.draw_ellipse
+)
+"hw5/gctx.ml" 204 7045 7069 "hw5/gctx.ml" 204 7045 7070
+type(
+  int
+)
+ident(
+  int_ref x "hw5/gctx.ml" 203 7010 7017 "hw5/gctx.ml" 203 7010 7018
+)
+"hw5/gctx.ml" 204 7045 7071 "hw5/gctx.ml" 204 7045 7072
+type(
+  int
+)
+ident(
+  int_ref y "hw5/gctx.ml" 203 7010 7020 "hw5/gctx.ml" 203 7010 7021
+)
+"hw5/gctx.ml" 204 7045 7073 "hw5/gctx.ml" 204 7045 7075
+type(
+  int
+)
+ident(
+  int_ref rx "hw5/gctx.ml" 201 6916 6958 "hw5/gctx.ml" 201 6916 6960
+)
+"hw5/gctx.ml" 204 7045 7076 "hw5/gctx.ml" 204 7045 7078
+type(
+  int
+)
+ident(
+  int_ref ry "hw5/gctx.ml" 201 6916 6968 "hw5/gctx.ml" 201 6916 6970
+)
+"hw5/gctx.ml" 204 7045 7047 "hw5/gctx.ml" 204 7045 7078
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 203 7010 7012 "hw5/gctx.ml" 204 7045 7078
+type(
+  unit
+)
+"hw5/gctx.ml" 202 6986 6988 "hw5/gctx.ml" 204 7045 7078
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 209 7134 7138 "hw5/gctx.ml" 209 7134 7147
+type(
+  string -> dimension
+)
+ident(
+  def text_size "hw5/gctx.ml" 228 7882 7882 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 209 7134 7149 "hw5/gctx.ml" 209 7134 7153
+type(
+  string
+)
+ident(
+  def text "hw5/gctx.ml" 209 7134 7163 "hw5/gctx.ml" 214 7446 7471
+)
+"hw5/gctx.ml" 213 7426 7428 "hw5/gctx.ml" 213 7426 7441
+type(
+  unit -> unit
+)
+ident(
+  int_ref open_graphics "hw5/gctx.ml" 58 1892 1896 "hw5/gctx.ml" 58 1892 1909
+)
+"hw5/gctx.ml" 213 7426 7442 "hw5/gctx.ml" 213 7426 7444
+type(
+  unit
+)
+"hw5/gctx.ml" 213 7426 7428 "hw5/gctx.ml" 213 7426 7444
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/gctx.ml" 214 7446 7448 "hw5/gctx.ml" 214 7446 7466
+type(
+  string -> dimension
+)
+ident(
+  ext_ref Graphics.text_size
+)
+"hw5/gctx.ml" 214 7446 7467 "hw5/gctx.ml" 214 7446 7471
+type(
+  string
+)
+ident(
+  int_ref text "hw5/gctx.ml" 209 7134 7149 "hw5/gctx.ml" 209 7134 7153
+)
+"hw5/gctx.ml" 214 7446 7448 "hw5/gctx.ml" 214 7446 7471
+type(
+  dimension
+)
+"hw5/gctx.ml" 213 7426 7428 "hw5/gctx.ml" 214 7446 7471
+type(
+  dimension
+)
+type(
+  dimension
+)
+"hw5/gctx.ml" 236 8222 8226 "hw5/gctx.ml" 236 8222 8246
+type(
+  event_type -> string
+)
+ident(
+  def string_of_event_type "hw5/gctx.ml" 248 8592 8592 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 236 8222 8248 "hw5/gctx.ml" 236 8222 8250
+type(
+  event_type
+)
+ident(
+  def et "hw5/gctx.ml" 236 8222 8265 "hw5/gctx.ml" 243 8479 8484
+)
+"hw5/gctx.ml" 237 8276 8290 "hw5/gctx.ml" 237 8276 8292
+type(
+  event_type
+)
+ident(
+  int_ref et "hw5/gctx.ml" 236 8222 8248 "hw5/gctx.ml" 236 8222 8250
+)
+"hw5/gctx.ml" 238 8298 8313 "hw5/gctx.ml" 238 8298 8314
+type(
+  char
+)
+ident(
+  def k "hw5/gctx.ml" 238 8298 8318 "hw5/gctx.ml" 238 8298 8352
+)
+"hw5/gctx.ml" 238 8298 8304 "hw5/gctx.ml" 238 8298 8314
+type(
+  event_type
+)
+"hw5/gctx.ml" 238 8298 8318 "hw5/gctx.ml" 238 8298 8332
+type(
+  string
+)
+"hw5/gctx.ml" 238 8298 8333 "hw5/gctx.ml" 238 8298 8334
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 238 8298 8336 "hw5/gctx.ml" 238 8298 8347
+type(
+  int -> char -> string
+)
+ident(
+  ext_ref String.make
+)
+"hw5/gctx.ml" 238 8298 8348 "hw5/gctx.ml" 238 8298 8349
+type(
+  int
+)
+"hw5/gctx.ml" 238 8298 8350 "hw5/gctx.ml" 238 8298 8351
+type(
+  char
+)
+ident(
+  int_ref k "hw5/gctx.ml" 238 8298 8313 "hw5/gctx.ml" 238 8298 8314
+)
+"hw5/gctx.ml" 238 8298 8335 "hw5/gctx.ml" 238 8298 8352
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 238 8298 8318 "hw5/gctx.ml" 238 8298 8352
+call(
+  tail
+)
+type(
+  string
+)
+"hw5/gctx.ml" 239 8353 8359 "hw5/gctx.ml" 239 8353 8368
+type(
+  event_type
+)
+"hw5/gctx.ml" 239 8353 8373 "hw5/gctx.ml" 239 8353 8384
+type(
+  string
+)
+"hw5/gctx.ml" 240 8385 8391 "hw5/gctx.ml" 240 8385 8400
+type(
+  event_type
+)
+"hw5/gctx.ml" 240 8385 8405 "hw5/gctx.ml" 240 8385 8416
+type(
+  string
+)
+"hw5/gctx.ml" 241 8417 8423 "hw5/gctx.ml" 241 8417 8430
+type(
+  event_type
+)
+"hw5/gctx.ml" 241 8417 8437 "hw5/gctx.ml" 241 8417 8446
+type(
+  string
+)
+"hw5/gctx.ml" 242 8447 8453 "hw5/gctx.ml" 242 8447 8462
+type(
+  event_type
+)
+"hw5/gctx.ml" 242 8447 8467 "hw5/gctx.ml" 242 8447 8478
+type(
+  string
+)
+"hw5/gctx.ml" 237 8276 8278 "hw5/gctx.ml" 243 8479 8484
+type(
+  string
+)
+type(
+  string
+)
+"hw5/gctx.ml" 251 8670 8674 "hw5/gctx.ml" 251 8670 8684
+type(
+  event -> event_type
+)
+ident(
+  def event_type "hw5/gctx.ml" 256 8780 8780 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 251 8670 8686 "hw5/gctx.ml" 251 8670 8687
+type(
+  event
+)
+ident(
+  def e "hw5/gctx.ml" 251 8670 8696 "hw5/gctx.ml" 252 8711 8718
+)
+"hw5/gctx.ml" 252 8711 8713 "hw5/gctx.ml" 252 8711 8716
+type(
+  event -> event_type
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"hw5/gctx.ml" 252 8711 8717 "hw5/gctx.ml" 252 8711 8718
+type(
+  event
+)
+ident(
+  int_ref e "hw5/gctx.ml" 251 8670 8686 "hw5/gctx.ml" 251 8670 8687
+)
+"hw5/gctx.ml" 252 8711 8713 "hw5/gctx.ml" 252 8711 8718
+type(
+  event_type
+)
+type(
+  event_type
+)
+"hw5/gctx.ml" 256 8780 8784 "hw5/gctx.ml" 256 8780 8793
+type(
+  event -> gctx -> position
+)
+ident(
+  def event_pos "hw5/gctx.ml" 260 8891 8891 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 256 8780 8795 "hw5/gctx.ml" 256 8780 8796
+type(
+  event
+)
+ident(
+  def e "hw5/gctx.ml" 256 8780 8805 "hw5/gctx.ml" 257 8829 8853
+)
+"hw5/gctx.ml" 256 8780 8806 "hw5/gctx.ml" 256 8780 8807
+type(
+  gctx
+)
+ident(
+  def g "hw5/gctx.ml" 256 8780 8816 "hw5/gctx.ml" 257 8829 8853
+)
+"hw5/gctx.ml" 257 8829 8831 "hw5/gctx.ml" 257 8829 8843
+type(
+  gctx -> position -> position
+)
+ident(
+  int_ref local_coords "hw5/gctx.ml" 137 4793 4797 "hw5/gctx.ml" 137 4793 4809
+)
+"hw5/gctx.ml" 257 8829 8844 "hw5/gctx.ml" 257 8829 8845
+type(
+  gctx
+)
+ident(
+  int_ref g "hw5/gctx.ml" 256 8780 8806 "hw5/gctx.ml" 256 8780 8807
+)
+"hw5/gctx.ml" 257 8829 8847 "hw5/gctx.ml" 257 8829 8850
+type(
+  event -> position
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"hw5/gctx.ml" 257 8829 8851 "hw5/gctx.ml" 257 8829 8852
+type(
+  event
+)
+ident(
+  int_ref e "hw5/gctx.ml" 256 8780 8795 "hw5/gctx.ml" 256 8780 8796
+)
+"hw5/gctx.ml" 257 8829 8846 "hw5/gctx.ml" 257 8829 8853
+type(
+  position
+)
+"hw5/gctx.ml" 257 8829 8831 "hw5/gctx.ml" 257 8829 8853
+call(
+  tail
+)
+type(
+  position
+)
+type(
+  position
+)
+"hw5/gctx.ml" 260 8891 8895 "hw5/gctx.ml" 260 8891 8910
+type(
+  event -> string
+)
+ident(
+  def string_of_event "hw5/gctx.ml" 265 9069 9069 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 260 8891 8913 "hw5/gctx.ml" 260 8891 8915
+type(
+  event_type
+)
+ident(
+  def ty "hw5/gctx.ml" 260 8891 8933 "hw5/gctx.ml" 262 9007 9028
+)
+"hw5/gctx.ml" 260 8891 8918 "hw5/gctx.ml" 260 8891 8919
+type(
+  int
+)
+ident(
+  def x "hw5/gctx.ml" 260 8891 8933 "hw5/gctx.ml" 262 9007 9028
+)
+"hw5/gctx.ml" 260 8891 8921 "hw5/gctx.ml" 260 8891 8922
+type(
+  int
+)
+ident(
+  def y "hw5/gctx.ml" 260 8891 8933 "hw5/gctx.ml" 262 9007 9028
+)
+"hw5/gctx.ml" 260 8891 8917 "hw5/gctx.ml" 260 8891 8923
+type(
+  position
+)
+"hw5/gctx.ml" 260 8891 8912 "hw5/gctx.ml" 260 8891 8924
+type(
+  event
+)
+"hw5/gctx.ml" 261 8944 8947 "hw5/gctx.ml" 261 8944 8967
+type(
+  event_type -> string
+)
+ident(
+  int_ref string_of_event_type "hw5/gctx.ml" 236 8222 8226 "hw5/gctx.ml" 236 8222 8246
+)
+"hw5/gctx.ml" 261 8944 8968 "hw5/gctx.ml" 261 8944 8970
+type(
+  event_type
+)
+ident(
+  int_ref ty "hw5/gctx.ml" 260 8891 8913 "hw5/gctx.ml" 260 8891 8915
+)
+"hw5/gctx.ml" 261 8944 8946 "hw5/gctx.ml" 261 8944 8971
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 261 8944 8972 "hw5/gctx.ml" 261 8944 8973
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 261 8944 8974 "hw5/gctx.ml" 261 8944 8980
+type(
+  string
+)
+"hw5/gctx.ml" 261 8944 8981 "hw5/gctx.ml" 261 8944 8982
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 261 8944 8984 "hw5/gctx.ml" 261 8944 8997
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"hw5/gctx.ml" 261 8944 8998 "hw5/gctx.ml" 261 8944 8999
+type(
+  int
+)
+ident(
+  int_ref x "hw5/gctx.ml" 260 8891 8918 "hw5/gctx.ml" 260 8891 8919
+)
+"hw5/gctx.ml" 261 8944 8983 "hw5/gctx.ml" 261 8944 9000
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 261 8944 9001 "hw5/gctx.ml" 261 8944 9002
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 261 8944 9003 "hw5/gctx.ml" 261 8944 9006
+type(
+  string
+)
+"hw5/gctx.ml" 262 9007 9009 "hw5/gctx.ml" 262 9007 9010
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 262 9007 9012 "hw5/gctx.ml" 262 9007 9025
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"hw5/gctx.ml" 262 9007 9026 "hw5/gctx.ml" 262 9007 9027
+type(
+  int
+)
+ident(
+  int_ref y "hw5/gctx.ml" 260 8891 8921 "hw5/gctx.ml" 260 8891 8922
+)
+"hw5/gctx.ml" 262 9007 9011 "hw5/gctx.ml" 262 9007 9028
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 261 8944 9003 "hw5/gctx.ml" 262 9007 9028
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 261 8944 8983 "hw5/gctx.ml" 262 9007 9028
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 261 8944 8974 "hw5/gctx.ml" 262 9007 9028
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 261 8944 8946 "hw5/gctx.ml" 262 9007 9028
+call(
+  tail
+)
+type(
+  string
+)
+type(
+  string
+)
+"hw5/gctx.ml" 265 9069 9073 "hw5/gctx.ml" 265 9069 9088
+type(
+  event_type -> position -> event_type * (int * int)
+)
+ident(
+  def make_test_event "hw5/gctx.ml" 269 9167 9167 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 265 9069 9090 "hw5/gctx.ml" 265 9069 9092
+type(
+  event_type
+)
+ident(
+  def et "hw5/gctx.ml" 265 9069 9107 "hw5/gctx.ml" 266 9129 9164
+)
+"hw5/gctx.ml" 265 9069 9109 "hw5/gctx.ml" 265 9069 9110
+type(
+  int
+)
+ident(
+  def x "hw5/gctx.ml" 266 9129 9131 "hw5/gctx.ml" 266 9129 9164
+)
+"hw5/gctx.ml" 265 9069 9112 "hw5/gctx.ml" 265 9069 9113
+type(
+  int
+)
+ident(
+  def y "hw5/gctx.ml" 266 9129 9131 "hw5/gctx.ml" 266 9129 9164
+)
+"hw5/gctx.ml" 265 9069 9108 "hw5/gctx.ml" 265 9069 9114
+type(
+  position
+)
+"hw5/gctx.ml" 266 9129 9132 "hw5/gctx.ml" 266 9129 9134
+type(
+  event_type
+)
+ident(
+  int_ref et "hw5/gctx.ml" 265 9069 9090 "hw5/gctx.ml" 265 9069 9092
+)
+"hw5/gctx.ml" 266 9129 9137 "hw5/gctx.ml" 266 9129 9138
+type(
+  int
+)
+ident(
+  int_ref x "hw5/gctx.ml" 265 9069 9109 "hw5/gctx.ml" 265 9069 9110
+)
+"hw5/gctx.ml" 266 9129 9140 "hw5/gctx.ml" 266 9129 9155
+type(
+  unit -> int
+)
+ident(
+  int_ref graphics_size_y "hw5/gctx.ml" 112 3463 3467 "hw5/gctx.ml" 112 3463 3482
+)
+"hw5/gctx.ml" 266 9129 9156 "hw5/gctx.ml" 266 9129 9158
+type(
+  unit
+)
+"hw5/gctx.ml" 266 9129 9140 "hw5/gctx.ml" 266 9129 9158
+call(
+  stack
+)
+type(
+  int
+)
+"hw5/gctx.ml" 266 9129 9159 "hw5/gctx.ml" 266 9129 9160
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw5/gctx.ml" 266 9129 9161 "hw5/gctx.ml" 266 9129 9162
+type(
+  int
+)
+ident(
+  int_ref y "hw5/gctx.ml" 265 9069 9112 "hw5/gctx.ml" 265 9069 9113
+)
+"hw5/gctx.ml" 266 9129 9140 "hw5/gctx.ml" 266 9129 9162
+type(
+  int
+)
+"hw5/gctx.ml" 266 9129 9136 "hw5/gctx.ml" 266 9129 9163
+type(
+  int * int
+)
+"hw5/gctx.ml" 266 9129 9131 "hw5/gctx.ml" 266 9129 9164
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 269 9167 9171 "hw5/gctx.ml" 269 9167 9187
+type(
+  Graphics.status -> string
+)
+ident(
+  def string_of_status "hw5/gctx.ml" 286 9955 9955 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 269 9167 9189 "hw5/gctx.ml" 269 9167 9190
+type(
+  Graphics.status
+)
+ident(
+  def s "hw5/gctx.ml" 269 9167 9209 "hw5/gctx.ml" 275 9433 9445
+)
+"hw5/gctx.ml" 270 9220 9222 "hw5/gctx.ml" 270 9220 9225
+type(
+  string
+)
+"hw5/gctx.ml" 270 9220 9226 "hw5/gctx.ml" 270 9220 9227
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 270 9220 9229 "hw5/gctx.ml" 270 9220 9242
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"hw5/gctx.ml" 270 9220 9243 "hw5/gctx.ml" 270 9220 9244
+type(
+  Graphics.status
+)
+ident(
+  int_ref s "hw5/gctx.ml" 269 9167 9189 "hw5/gctx.ml" 269 9167 9190
+)
+"hw5/gctx.ml" 270 9220 9243 "hw5/gctx.ml" 270 9220 9261
+type(
+  int
+)
+"hw5/gctx.ml" 270 9220 9228 "hw5/gctx.ml" 270 9220 9262
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 270 9220 9263 "hw5/gctx.ml" 270 9220 9264
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 270 9220 9265 "hw5/gctx.ml" 270 9220 9268
+type(
+  string
+)
+"hw5/gctx.ml" 271 9269 9271 "hw5/gctx.ml" 271 9269 9272
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 271 9269 9274 "hw5/gctx.ml" 271 9269 9287
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"hw5/gctx.ml" 271 9269 9288 "hw5/gctx.ml" 271 9269 9289
+type(
+  Graphics.status
+)
+ident(
+  int_ref s "hw5/gctx.ml" 269 9167 9189 "hw5/gctx.ml" 269 9167 9190
+)
+"hw5/gctx.ml" 271 9269 9288 "hw5/gctx.ml" 271 9269 9306
+type(
+  int
+)
+"hw5/gctx.ml" 271 9269 9273 "hw5/gctx.ml" 271 9269 9307
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 271 9269 9308 "hw5/gctx.ml" 271 9269 9309
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 271 9269 9310 "hw5/gctx.ml" 271 9269 9316
+type(
+  string
+)
+"hw5/gctx.ml" 272 9317 9319 "hw5/gctx.ml" 272 9317 9320
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 272 9317 9322 "hw5/gctx.ml" 272 9317 9336
+type(
+  bool -> string
+)
+ident(
+  ext_ref Pervasives.string_of_bool
+)
+"hw5/gctx.ml" 272 9317 9337 "hw5/gctx.ml" 272 9317 9338
+type(
+  Graphics.status
+)
+ident(
+  int_ref s "hw5/gctx.ml" 269 9167 9189 "hw5/gctx.ml" 269 9167 9190
+)
+"hw5/gctx.ml" 272 9317 9337 "hw5/gctx.ml" 272 9317 9354
+type(
+  bool
+)
+"hw5/gctx.ml" 272 9317 9321 "hw5/gctx.ml" 272 9317 9355
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 273 9356 9358 "hw5/gctx.ml" 273 9356 9359
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 273 9356 9364 "hw5/gctx.ml" 273 9356 9365
+type(
+  Graphics.status
+)
+ident(
+  int_ref s "hw5/gctx.ml" 269 9167 9189 "hw5/gctx.ml" 269 9167 9190
+)
+"hw5/gctx.ml" 273 9356 9364 "hw5/gctx.ml" 273 9356 9385
+type(
+  bool
+)
+"hw5/gctx.ml" 274 9386 9395 "hw5/gctx.ml" 274 9386 9399
+type(
+  string
+)
+"hw5/gctx.ml" 274 9386 9400 "hw5/gctx.ml" 274 9386 9401
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw5/gctx.ml" 274 9386 9403 "hw5/gctx.ml" 274 9386 9414
+type(
+  int -> char -> string
+)
+ident(
+  ext_ref String.make
+)
+"hw5/gctx.ml" 274 9386 9415 "hw5/gctx.ml" 274 9386 9416
+type(
+  int
+)
+"hw5/gctx.ml" 274 9386 9417 "hw5/gctx.ml" 274 9386 9418
+type(
+  Graphics.status
+)
+ident(
+  int_ref s "hw5/gctx.ml" 269 9167 9189 "hw5/gctx.ml" 269 9167 9190
+)
+"hw5/gctx.ml" 274 9386 9417 "hw5/gctx.ml" 274 9386 9431
+type(
+  char
+)
+"hw5/gctx.ml" 274 9386 9402 "hw5/gctx.ml" 274 9386 9432
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 274 9386 9395 "hw5/gctx.ml" 274 9386 9432
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 275 9433 9442 "hw5/gctx.ml" 275 9433 9444
+type(
+  string
+)
+"hw5/gctx.ml" 273 9356 9360 "hw5/gctx.ml" 275 9433 9445
+type(
+  string
+)
+"hw5/gctx.ml" 272 9317 9321 "hw5/gctx.ml" 275 9433 9445
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 271 9269 9310 "hw5/gctx.ml" 275 9433 9445
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 271 9269 9273 "hw5/gctx.ml" 275 9433 9445
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 270 9220 9265 "hw5/gctx.ml" 275 9433 9445
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 270 9220 9228 "hw5/gctx.ml" 275 9433 9445
+call(
+  stack
+)
+type(
+  string
+)
+"hw5/gctx.ml" 270 9220 9222 "hw5/gctx.ml" 275 9433 9445
+call(
+  tail
+)
+type(
+  string
+)
+type(
+  string
+)
+"hw5/gctx.ml" 286 9955 9959 "hw5/gctx.ml" 286 9955 9973
+type(
+  unit -> event
+)
+ident(
+  def wait_for_event "hw5/gctx.ml" 329 11417 11430 "hw5/gctx.ml" 1 0 -1
+)
+"hw5/gctx.ml" 288 9993 9999 "hw5/gctx.ml" 288 9993 10013
+type(
+  Graphics.status
+)
+ident(
+  def initial_status "hw5/gctx.ml" 295 10185 10187 "hw5/gctx.ml" 329 11417 11430
+)
+"hw5/gctx.ml" 289 10034 10058 "hw5/gctx.ml" 289 10034 10059
+type(
+  int
+)
+"hw5/gctx.ml" 290 10061 10085 "hw5/gctx.ml" 290 10061 10086
+type(
+  int
+)
+"hw5/gctx.ml" 291 10088 10109 "hw5/gctx.ml" 291 10088 10112
+type(
+  char
+)
+"hw5/gctx.ml" 292 10114 10138 "hw5/gctx.ml" 292 10114 10143
+type(
+  bool
+)
+"hw5/gctx.ml" 293 10145 10173 "hw5/gctx.ml" 293 10145 10178
+type(
+  bool
+)
+"hw5/gctx.ml" 289 10034 10038 "hw5/gctx.ml" 293 10145 10180
+type(
+  Graphics.status
+)
+type(
+  Graphics.status
+)
+"hw5/gctx.ml" 295 10185 10191 "hw5/gctx.ml" 295 10185 10202
+type(
+  Graphics.status ref
+)
+ident(
+  def last_status "hw5/gctx.ml" 297 10228 10230 "hw5/gctx.ml" 329 11417 11430
+)
+"hw5/gctx.ml" 295 10185 10205 "hw5/gctx.ml" 295 10185 10208
+type(
+  Graphics.status -> Graphics.status ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw5/gctx.ml" 295 10185 10209 "hw5/gctx.ml" 295 10185 10223
+type(
+  Graphics.status
+)
+ident(
+  int_ref initial_status "hw5/gctx.ml" 288 9993 9999 "hw5/gctx.ml" 288 9993 10013
+)
+"hw5/gctx.ml" 295 10185 10205 "hw5/gctx.ml" 295 10185 10223
+type(
+  Graphics.status ref
+)
+"hw5/gctx.ml" 297 10228 10234 "hw5/gctx.ml" 297 10228 10252
+type(
+  Graphics.status -> Graphics.status -> event_type option
+)
+ident(
+  def compute_rich_event "hw5/gctx.ml" 315 10843 10845 "hw5/gctx.ml" 329 11417 11430
+)
+"hw5/gctx.ml" 298 10253 10260 "hw5/gctx.ml" 298 10253 10262
+type(
+  Graphics.status
+)
+ident(
+  def s0 "hw5/gctx.ml" 299 10282 10288 "hw5/gctx.ml" 313 10825 10838
+)
+"hw5/gctx.ml" 299 10282 10289 "hw5/gctx.ml" 299 10282 10291
+type(
+  Graphics.status
+)
+ident(
+  def s1 "hw5/gctx.ml" 299 10282 10311 "hw5/gctx.ml" 313 10825 10838
+)
+"hw5/gctx.ml" 301 10334 10341 "hw5/gctx.ml" 301 10334 10343
+type(
+  Graphics.status
+)
+ident(
+  int_ref s1 "hw5/gctx.ml" 299 10282 10289 "hw5/gctx.ml" 299 10282 10291
+)
+"hw5/gctx.ml" 301 10334 10341 "hw5/gctx.ml" 301 10334 10363
+type(
+  bool
+)
+"hw5/gctx.ml" 301 10334 10384 "hw5/gctx.ml" 301 10334 10386
+type(
+  Graphics.status
+)
+ident(
+  int_ref s1 "hw5/gctx.ml" 299 10282 10289 "hw5/gctx.ml" 299 10282 10291
+)
+"hw5/gctx.ml" 301 10334 10384 "hw5/gctx.ml" 301 10334 10399
+type(
+  char
+)
+"hw5/gctx.ml" 301 10334 10374 "hw5/gctx.ml" 301 10334 10400
+type(
+  event_type
+)
+"hw5/gctx.ml" 301 10334 10369 "hw5/gctx.ml" 301 10334 10400
+type(
+  event_type option
+)
+"hw5/gctx.ml" 302 10401 10413 "hw5/gctx.ml" 302 10401 10415
+type(
+  Graphics.status
+)
+ident(
+  int_ref s0 "hw5/gctx.ml" 298 10253 10260 "hw5/gctx.ml" 298 10253 10262
+)
+"hw5/gctx.ml" 302 10401 10413 "hw5/gctx.ml" 302 10401 10431
+type(
+  bool
+)
+"hw5/gctx.ml" 302 10401 10432 "hw5/gctx.ml" 302 10401 10434
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"hw5/gctx.ml" 302 10401 10435 "hw5/gctx.ml" 302 10401 10437
+type(
+  Graphics.status
+)
+ident(
+  int_ref s1 "hw5/gctx.ml" 299 10282 10289 "hw5/gctx.ml" 299 10282 10291
+)
+"hw5/gctx.ml" 302 10401 10435 "hw5/gctx.ml" 302 10401 10453
+type(
+  bool
+)
+"hw5/gctx.ml" 302 10401 10413 "hw5/gctx.ml" 302 10401 10453
+type(
+  bool
+)
+"hw5/gctx.ml" 305 10506 10517 "hw5/gctx.ml" 305 10506 10519
+type(
+  Graphics.status
+)
+ident(
+  int_ref s1 "hw5/gctx.ml" 299 10282 10289 "hw5/gctx.ml" 299 10282 10291
+)
+"hw5/gctx.ml" 305 10506 10517 "hw5/gctx.ml" 305 10506 10535
+type(
+  bool
+)
+"hw5/gctx.ml" 305 10506 10546 "hw5/gctx.ml" 305 10506 10555
+type(
+  event_type
+)
+"hw5/gctx.ml" 305 10506 10541 "hw5/gctx.ml" 305 10506 10555
+type(
+  event_type option
+)
+"hw5/gctx.ml" 305 10506 10566 "hw5/gctx.ml" 305 10506 10573
+type(
+  event_type
+)
+"hw5/gctx.ml" 305 10506 10561 "hw5/gctx.ml" 305 10506 10573
+type(
+  event_type option
+)
+"hw5/gctx.ml" 304 10494 10500 "hw5/gctx.ml" 306 10574 10583
+type(
+  event_type option
+)
+"hw5/gctx.ml" 307 10584 10597 "hw5/gctx.ml" 307 10584 10599
+type(
+  Graphics.status
+)
+ident(
+  int_ref s0 "hw5/gctx.ml" 298 10253 10260 "hw5/gctx.ml" 298 10253 10262
+)
+"hw5/gctx.ml" 307 10584 10597 "hw5/gctx.ml" 307 10584 10616
+type(
+  int
+)
+"hw5/gctx.ml" 307 10584 10617 "hw5/gctx.ml" 307 10584 10619
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"hw5/gctx.ml" 307 10584 10620 "hw5/gctx.ml" 307 10584 10622
+type(
+  Graphics.status
+)
+ident(
+  int_ref s1 "hw5/gctx.ml" 299 10282 10289 "hw5/gctx.ml" 299 10282 10291
+)
+"hw5/gctx.ml" 307 10584 10620 "hw5/gctx.ml" 307 10584 10639
+type(
+  int
+)
+"hw5/gctx.ml" 307 10584 10596 "hw5/gctx.ml" 307 10584 10641
+type(
+  bool
+)
+"hw5/gctx.ml" 307 10584 10642 "hw5/gctx.ml" 307 10584 10644
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"hw5/gctx.ml" 308 10645 10658 "hw5/gctx.ml" 308 10645 10660
+type(
+  Graphics.status
+)
+ident(
+  int_ref s0 "hw5/gctx.ml" 298 10253 10260 "hw5/gctx.ml" 298 10253 10262
+)
+"hw5/gctx.ml" 308 10645 10658 "hw5/gctx.ml" 308 10645 10677
+type(
+  int
+)
+"hw5/gctx.ml" 308 10645 10678 "hw5/gctx.ml" 308 10645 10680
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"hw5/gctx.ml" 308 10645 10681 "hw5/gctx.ml" 308 10645 10683
+type(
+  Graphics.status
+)
+ident(
+  int_ref s1 "hw5/gctx.ml" 299 10282 10289 "hw5/gctx.ml" 299 10282 10291
+)
+"hw5/gctx.ml" 308 10645 10681 "hw5/gctx.ml" 308 10645 10700
+type(
+  int
+)
+"hw5/gctx.ml" 308 10645 10657 "hw5/gctx.ml" 308 10645 10702
+type(
+  bool
+)
+"hw5/gctx.ml" 307 10584 10596 "hw5/gctx.ml" 308 10645 10702
+type(
+  bool
+)
+"hw5/gctx.ml" 311 10745 10756 "hw5/gctx.ml" 311 10745 10758
+type(
+  Graphics.status
+)
+ident(
+  int_ref s1 "hw5/gctx.ml" 299 10282 10289 "hw5/gctx.ml" 299 10282 10291
+)
+"hw5/gctx.ml" 311 10745 10756 "hw5/gctx.ml" 311 10745 10774
+type(
+  bool
+)
+"hw5/gctx.ml" 311 10745 10785 "hw5/gctx.ml" 311 10745 10794
+type(
+  event_type
+)
+"hw5/gctx.ml" 311 10745 10780 "hw5/gctx.ml" 311 10745 10794
+type(
+  event_type option
+)
+"hw5/gctx.ml" 311 10745 10805 "hw5/gctx.ml" 311 10745 10814
+type(
+  event_type
+)
+"hw5/gctx.ml" 311 10745 10800 "hw5/gctx.ml" 311 10745 10814
+type(
+  event_type option
+)
+"hw5/gctx.ml" 310 10733 10739 "hw5/gctx.ml" 312 10815 10824
+type(
+  event_type option
+)
+"hw5/gctx.ml" 313 10825 10834 "hw5/gctx.ml" 313 10825 10838
+type(
+  event_type option
+)
+"hw5/gctx.ml" 307 10584 10593 "hw5/gctx.ml" 313 10825 10838
+type(
+  event_type option
+)
+"hw5/gctx.ml" 302 10401 10410 "hw5/gctx.ml" 313 10825 10838
+type(
+  event_type option
+)
+"hw5/gctx.ml" 301 10334 10338 "hw5/gctx.ml" 313 10825 10838
+type(
+  event_type option
+)
+type(
+  event_type option
+)
+"hw5/gctx.ml" 315 10843 10849 "hw5/gctx.ml" 315 10843 10851
+type(
+  unit
+)
+"hw5/gctx.ml" 316 10855 10869 "hw5/gctx.ml" 316 10855 10873
+type(
+  unit -> event_type * (int * int)
+)
+ident(
+  def loop "hw5/gctx.ml" 316 10855 10861 "hw5/gctx.ml" 329 11417 11430
+)
+"hw5/gctx.ml" 316 10855 10874 "hw5/gctx.ml" 316 10855 10876
+type(
+  unit
+)
+"hw5/gctx.ml" 317 10879 10891 "hw5/gctx.ml" 317 10879 10897
+type(
+  Graphics.status
+)
+ident(
+  def status "hw5/gctx.ml" 320 11041 11049 "hw5/gctx.ml" 328 11402 11413
+)
+"hw5/gctx.ml" 317 10879 10900 "hw5/gctx.ml" 317 10879 10924
+type(
+  Graphics.event list -> Graphics.status
+)
+ident(
+  ext_ref Graphics.wait_next_event
+)
+"hw5/gctx.ml" 318 10925 10938 "hw5/gctx.ml" 318 10925 10959
+type(
+  Graphics.event
+)
+"hw5/gctx.ml" 318 10925 10961 "hw5/gctx.ml" 318 10925 10981
+type(
+  Graphics.event
+)
+"hw5/gctx.ml" 319 10983 10996 "hw5/gctx.ml" 319 10983 11014
+type(
+  Graphics.event
+)
+"hw5/gctx.ml" 319 10983 11016 "hw5/gctx.ml" 319 10983 11036
+type(
+  Graphics.event
+)
+"hw5/gctx.ml" 318 10925 10937 "hw5/gctx.ml" 319 10983 11037
+type(
+  Graphics.event list
+)
+"hw5/gctx.ml" 317 10879 10900 "hw5/gctx.ml" 319 10983 11037
+type(
+  Graphics.status
+)
+"hw5/gctx.ml" 320 11041 11053 "hw5/gctx.ml" 320 11041 11063
+type(
+  event_type option
+)
+ident(
+  def event_type "hw5/gctx.ml" 321 11108 11116 "hw5/gctx.ml" 328 11402 11413
+)
+"hw5/gctx.ml" 320 11041 11066 "hw5/gctx.ml" 320 11041 11084
+type(
+  Graphics.status -> Graphics.status -> event_type option
+)
+ident(
+  int_ref compute_rich_event "hw5/gctx.ml" 297 10228 10234 "hw5/gctx.ml" 297 10228 10252
+)
+"hw5/gctx.ml" 320 11041 11085 "hw5/gctx.ml" 320 11041 11086
+type(
+  Graphics.status ref -> Graphics.status
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw5/gctx.ml" 320 11041 11086 "hw5/gctx.ml" 320 11041 11097
+type(
+  Graphics.status ref
+)
+ident(
+  int_ref last_status "hw5/gctx.ml" 295 10185 10191 "hw5/gctx.ml" 295 10185 10202
+)
+"hw5/gctx.ml" 320 11041 11085 "hw5/gctx.ml" 320 11041 11097
+type(
+  Graphics.status
+)
+"hw5/gctx.ml" 320 11041 11098 "hw5/gctx.ml" 320 11041 11104
+type(
+  Graphics.status
+)
+ident(
+  int_ref status "hw5/gctx.ml" 317 10879 10891 "hw5/gctx.ml" 317 10879 10897
+)
+"hw5/gctx.ml" 320 11041 11066 "hw5/gctx.ml" 320 11041 11104
+call(
+  stack
+)
+type(
+  event_type option
+)
+"hw5/gctx.ml" 321 11108 11128 "hw5/gctx.ml" 321 11108 11138
+type(
+  event_type option
+)
+ident(
+  int_ref event_type "hw5/gctx.ml" 320 11041 11053 "hw5/gctx.ml" 320 11041 11063
+)
+"hw5/gctx.ml" 322 11144 11156 "hw5/gctx.ml" 322 11144 11160
+type(
+  event_type option
+)
+"hw5/gctx.ml" 322 11144 11165 "hw5/gctx.ml" 322 11144 11176
+type(
+  Graphics.status ref
+)
+ident(
+  int_ref last_status "hw5/gctx.ml" 295 10185 10191 "hw5/gctx.ml" 295 10185 10202
+)
+"hw5/gctx.ml" 322 11144 11177 "hw5/gctx.ml" 322 11144 11179
+type(
+  Graphics.status ref -> Graphics.status -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"hw5/gctx.ml" 322 11144 11180 "hw5/gctx.ml" 322 11144 11186
+type(
+  Graphics.status
+)
+ident(
+  int_ref status "hw5/gctx.ml" 317 10879 10891 "hw5/gctx.ml" 317 10879 10897
+)
+"hw5/gctx.ml" 322 11144 11165 "hw5/gctx.ml" 322 11144 11186
+type(
+  unit
+)
+"hw5/gctx.ml" 322 11144 11188 "hw5/gctx.ml" 322 11144 11192
+type(
+  unit -> event_type * (int * int)
+)
+ident(
+  int_ref loop "hw5/gctx.ml" 316 10855 10869 "hw5/gctx.ml" 316 10855 10873
+)
+"hw5/gctx.ml" 322 11144 11193 "hw5/gctx.ml" 322 11144 11195
+type(
+  unit
+)
+"hw5/gctx.ml" 322 11144 11188 "hw5/gctx.ml" 322 11144 11195
+call(
+  tail
+)
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 322 11144 11164 "hw5/gctx.ml" 322 11144 11196
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 323 11197 11214 "hw5/gctx.ml" 323 11197 11216
+type(
+  event_type
+)
+ident(
+  def ty "hw5/gctx.ml" 324 11220 11234 "hw5/gctx.ml" 327 11379 11401
+)
+"hw5/gctx.ml" 323 11197 11209 "hw5/gctx.ml" 323 11197 11216
+type(
+  event_type option
+)
+"hw5/gctx.ml" 324 11220 11235 "hw5/gctx.ml" 324 11220 11246
+type(
+  Graphics.status ref
+)
+ident(
+  int_ref last_status "hw5/gctx.ml" 295 10185 10191 "hw5/gctx.ml" 295 10185 10202
+)
+"hw5/gctx.ml" 324 11220 11247 "hw5/gctx.ml" 324 11220 11249
+type(
+  Graphics.status ref -> Graphics.status -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"hw5/gctx.ml" 324 11220 11250 "hw5/gctx.ml" 324 11220 11256
+type(
+  Graphics.status
+)
+ident(
+  int_ref status "hw5/gctx.ml" 317 10879 10891 "hw5/gctx.ml" 317 10879 10897
+)
+"hw5/gctx.ml" 324 11220 11235 "hw5/gctx.ml" 324 11220 11256
+type(
+  unit
+)
+"hw5/gctx.ml" 325 11258 11278 "hw5/gctx.ml" 325 11258 11283
+type(
+  event_type * (int * int)
+)
+ident(
+  def event "hw5/gctx.ml" 327 11379 11395 "hw5/gctx.ml" 327 11379 11400
+)
+"hw5/gctx.ml" 325 11258 11287 "hw5/gctx.ml" 325 11258 11289
+type(
+  event_type
+)
+ident(
+  int_ref ty "hw5/gctx.ml" 323 11197 11214 "hw5/gctx.ml" 323 11197 11216
+)
+"hw5/gctx.ml" 325 11258 11292 "hw5/gctx.ml" 325 11258 11298
+type(
+  Graphics.status
+)
+ident(
+  int_ref status "hw5/gctx.ml" 317 10879 10891 "hw5/gctx.ml" 317 10879 10897
+)
+"hw5/gctx.ml" 325 11258 11292 "hw5/gctx.ml" 325 11258 11315
+type(
+  int
+)
+"hw5/gctx.ml" 326 11317 11350 "hw5/gctx.ml" 326 11317 11356
+type(
+  Graphics.status
+)
+ident(
+  int_ref status "hw5/gctx.ml" 317 10879 10891 "hw5/gctx.ml" 317 10879 10897
+)
+"hw5/gctx.ml" 326 11317 11350 "hw5/gctx.ml" 326 11317 11373
+type(
+  int
+)
+"hw5/gctx.ml" 325 11258 11291 "hw5/gctx.ml" 326 11317 11374
+type(
+  int * int
+)
+"hw5/gctx.ml" 325 11258 11286 "hw5/gctx.ml" 326 11317 11375
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 327 11379 11395 "hw5/gctx.ml" 327 11379 11400
+type(
+  event_type * (int * int)
+)
+ident(
+  int_ref event "hw5/gctx.ml" 325 11258 11278 "hw5/gctx.ml" 325 11258 11283
+)
+"hw5/gctx.ml" 325 11258 11274 "hw5/gctx.ml" 327 11379 11400
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 324 11220 11234 "hw5/gctx.ml" 327 11379 11401
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 321 11108 11116 "hw5/gctx.ml" 328 11402 11413
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 320 11041 11049 "hw5/gctx.ml" 328 11402 11413
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 317 10879 10887 "hw5/gctx.ml" 328 11402 11413
+type(
+  event_type * (int * int)
+)
+"hw5/gctx.ml" 329 11417 11423 "hw5/gctx.ml" 329 11417 11427
+type(
+  unit -> event
+)
+ident(
+  int_ref loop "hw5/gctx.ml" 316 10855 10869 "hw5/gctx.ml" 316 10855 10873
+)
+"hw5/gctx.ml" 329 11417 11428 "hw5/gctx.ml" 329 11417 11430
+type(
+  unit
+)
+"hw5/gctx.ml" 329 11417 11423 "hw5/gctx.ml" 329 11417 11430
+call(
+  tail
+)
+type(
+  event
+)
+"hw5/gctx.ml" 316 10855 10861 "hw5/gctx.ml" 329 11417 11430
+type(
+  event
+)
+"hw5/gctx.ml" 315 10843 10845 "hw5/gctx.ml" 329 11417 11430
+type(
+  unit -> event
+)
+"hw5/gctx.ml" 297 10228 10230 "hw5/gctx.ml" 329 11417 11430
+type(
+  unit -> event
+)
+"hw5/gctx.ml" 295 10185 10187 "hw5/gctx.ml" 329 11417 11430
+type(
+  unit -> event
+)
+"hw5/gctx.ml" 288 9993 9995 "hw5/gctx.ml" 329 11417 11430
+type(
+  unit -> event
+)
+type(
+  unit -> event
+)

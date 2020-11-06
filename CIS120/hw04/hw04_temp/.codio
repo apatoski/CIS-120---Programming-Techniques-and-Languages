@@ -1,0 +1,24 @@
+{
+    // Configure your Run and Preview buttons here.
+    // Run button configuration
+    "commands": {
+	"Build Project": "make ",
+	"Run imp": "clear && make runimp",
+	"Run queueTest": "clear && make runqueueTest",	
+	"Run simpleQueue": "clear && make runsimpleQueue",		
+	"Run linkedQueue": "clear && make runlinkedQueue",
+	"Run dequeTest": "clear && make rundequeTest",
+	"Run deque": "clear && make rundeque",
+	"Run graph": "clear && make rungraph",			
+	"Clean Project": "make clean",
+	"Prettify": "ocp-indent -i {{filepath}}",
+	"Zip": "make zip"
+    },
+
+    // Preview button configuration
+    "preview": {
+	"CIS 120": "http://www.cis.upenn.edu/~cis120/current/index.shtml",
+	"Homework Instructions": "https://www.cis.upenn.edu/~cis120/current/hw/hw04/",
+	"Viewer": "https://{{domain3000}}/"
+    }
+}

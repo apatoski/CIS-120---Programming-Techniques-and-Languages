@@ -1,0 +1,1005 @@
+"hw4/assert.ml" 9 128 132 "hw4/assert.ml" 9 128 152
+type(
+  bool ref
+)
+ident(
+  def stop_on_failure_flag "hw4/assert.ml" 11 166 166 "hw4/assert.ml" 1 0 -1
+)
+"hw4/assert.ml" 9 128 155 "hw4/assert.ml" 9 128 158
+type(
+  bool -> bool ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/assert.ml" 9 128 159 "hw4/assert.ml" 9 128 164
+type(
+  bool
+)
+"hw4/assert.ml" 9 128 155 "hw4/assert.ml" 9 128 164
+type(
+  bool ref
+)
+"hw4/assert.ml" 11 166 170 "hw4/assert.ml" 11 166 185
+type(
+  unit -> unit
+)
+ident(
+  def stop_on_failure "hw4/assert.ml" 13 221 221 "hw4/assert.ml" 1 0 -1
+)
+"hw4/assert.ml" 11 166 186 "hw4/assert.ml" 11 166 188
+type(
+  unit
+)
+"hw4/assert.ml" 11 166 191 "hw4/assert.ml" 11 166 211
+type(
+  bool ref
+)
+ident(
+  int_ref stop_on_failure_flag "hw4/assert.ml" 9 128 132 "hw4/assert.ml" 9 128 152
+)
+"hw4/assert.ml" 11 166 212 "hw4/assert.ml" 11 166 214
+type(
+  bool ref -> bool -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"hw4/assert.ml" 11 166 215 "hw4/assert.ml" 11 166 219
+type(
+  bool
+)
+"hw4/assert.ml" 11 166 191 "hw4/assert.ml" 11 166 219
+type(
+  unit
+)
+"hw4/assert.ml" 13 221 225 "hw4/assert.ml" 13 221 235
+type(
+  string -> unit
+)
+ident(
+  def error_mesg "hw4/assert.ml" 17 317 317 "hw4/assert.ml" 1 0 -1
+)
+"hw4/assert.ml" 13 221 237 "hw4/assert.ml" 13 221 238
+type(
+  string
+)
+ident(
+  def s "hw4/assert.ml" 14 250 252 "hw4/assert.ml" 15 269 315
+)
+"hw4/assert.ml" 14 250 252 "hw4/assert.ml" 14 250 265
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw4/assert.ml" 14 250 266 "hw4/assert.ml" 14 250 267
+type(
+  string
+)
+ident(
+  int_ref s "hw4/assert.ml" 13 221 237 "hw4/assert.ml" 13 221 238
+)
+"hw4/assert.ml" 14 250 252 "hw4/assert.ml" 14 250 267
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/assert.ml" 15 269 274 "hw4/assert.ml" 15 269 275
+type(
+  bool ref -> bool
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw4/assert.ml" 15 269 275 "hw4/assert.ml" 15 269 295
+type(
+  bool ref
+)
+ident(
+  int_ref stop_on_failure_flag "hw4/assert.ml" 9 128 132 "hw4/assert.ml" 9 128 152
+)
+"hw4/assert.ml" 15 269 274 "hw4/assert.ml" 15 269 295
+type(
+  bool
+)
+"hw4/assert.ml" 15 269 301 "hw4/assert.ml" 15 269 305
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"hw4/assert.ml" 15 269 306 "hw4/assert.ml" 15 269 307
+type(
+  int
+)
+"hw4/assert.ml" 15 269 301 "hw4/assert.ml" 15 269 307
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/assert.ml" 15 269 313 "hw4/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw4/assert.ml" 15 269 271 "hw4/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw4/assert.ml" 14 250 252 "hw4/assert.ml" 15 269 315
+type(
+  unit
+)
+"hw4/assert.ml" 19 360 364 "hw4/assert.ml" 19 360 374
+type(
+  string -> (unit -> 'a) -> 'a -> unit
+)
+ident(
+  def assert_eqf "hw4/assert.ml" 37 1024 1024 "hw4/assert.ml" 1 0 -1
+)
+"hw4/assert.ml" 19 360 376 "hw4/assert.ml" 19 360 379
+type(
+  string
+)
+ident(
+  def msg "hw4/assert.ml" 19 360 389 "hw4/assert.ml" 34 1003 1018
+)
+"hw4/assert.ml" 19 360 389 "hw4/assert.ml" 19 360 399
+type(
+  unit -> 'a
+)
+ident(
+  def actual_fcn "hw4/assert.ml" 19 360 400 "hw4/assert.ml" 34 1003 1018
+)
+"hw4/assert.ml" 19 360 400 "hw4/assert.ml" 19 360 408
+type(
+  'a
+)
+ident(
+  def expected "hw4/assert.ml" 19 360 409 "hw4/assert.ml" 34 1003 1018
+)
+"hw4/assert.ml" 20 418 424 "hw4/assert.ml" 20 418 425
+type(
+  unit
+)
+"hw4/assert.ml" 20 418 428 "hw4/assert.ml" 20 418 440
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"hw4/assert.ml" 20 418 442 "hw4/assert.ml" 20 418 453
+type(
+  string
+)
+"hw4/assert.ml" 20 418 453 "hw4/assert.ml" 20 418 454
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 20 418 454 "hw4/assert.ml" 20 418 457
+type(
+  string
+)
+ident(
+  int_ref msg "hw4/assert.ml" 19 360 376 "hw4/assert.ml" 19 360 379
+)
+"hw4/assert.ml" 20 418 457 "hw4/assert.ml" 20 418 458
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 20 418 458 "hw4/assert.ml" 20 418 465
+type(
+  string
+)
+"hw4/assert.ml" 20 418 454 "hw4/assert.ml" 20 418 465
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 20 418 441 "hw4/assert.ml" 20 418 466
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 20 418 428 "hw4/assert.ml" 20 418 466
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/assert.ml" 21 471 477 "hw4/assert.ml" 21 471 478
+type(
+  unit
+)
+"hw4/assert.ml" 21 471 481 "hw4/assert.ml" 21 471 490
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.flush_all
+)
+"hw4/assert.ml" 21 471 491 "hw4/assert.ml" 21 471 493
+type(
+  unit
+)
+"hw4/assert.ml" 21 471 481 "hw4/assert.ml" 21 471 493
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/assert.ml" 22 497 503 "hw4/assert.ml" 22 497 510
+type(
+  result
+)
+ident(
+  def outcome "hw4/assert.ml" 26 675 677 "hw4/assert.ml" 34 1003 1018
+)
+"hw4/assert.ml" 22 497 520 "hw4/assert.ml" 22 497 528
+type(
+  'a
+)
+ident(
+  int_ref expected "hw4/assert.ml" 19 360 400 "hw4/assert.ml" 19 360 408
+)
+"hw4/assert.ml" 22 497 529 "hw4/assert.ml" 22 497 530
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/assert.ml" 22 497 532 "hw4/assert.ml" 22 497 542
+type(
+  unit -> 'a
+)
+ident(
+  int_ref actual_fcn "hw4/assert.ml" 19 360 389 "hw4/assert.ml" 19 360 399
+)
+"hw4/assert.ml" 22 497 543 "hw4/assert.ml" 22 497 545
+type(
+  unit
+)
+"hw4/assert.ml" 22 497 531 "hw4/assert.ml" 22 497 546
+call(
+  stack
+)
+type(
+  'a
+)
+"hw4/assert.ml" 22 497 520 "hw4/assert.ml" 22 497 546
+type(
+  bool
+)
+"hw4/assert.ml" 22 497 552 "hw4/assert.ml" 22 497 556
+type(
+  result
+)
+"hw4/assert.ml" 22 497 562 "hw4/assert.ml" 22 497 566
+type(
+  result
+)
+"hw4/assert.ml" 22 497 517 "hw4/assert.ml" 22 497 566
+type(
+  result
+)
+"hw4/assert.ml" 23 568 597 "hw4/assert.ml" 23 568 598
+type(
+  string
+)
+ident(
+  def s "hw4/assert.ml" 23 568 602 "hw4/assert.ml" 23 568 607
+)
+"hw4/assert.ml" 23 568 589 "hw4/assert.ml" 23 568 598
+type(
+  exn
+)
+"hw4/assert.ml" 23 568 606 "hw4/assert.ml" 23 568 607
+type(
+  string
+)
+ident(
+  int_ref s "hw4/assert.ml" 23 568 597 "hw4/assert.ml" 23 568 598
+)
+"hw4/assert.ml" 23 568 602 "hw4/assert.ml" 23 568 607
+type(
+  result
+)
+"hw4/assert.ml" 24 608 629 "hw4/assert.ml" 24 608 630
+type(
+  exn
+)
+ident(
+  def e "hw4/assert.ml" 24 608 642 "hw4/assert.ml" 24 608 668
+)
+"hw4/assert.ml" 24 608 647 "hw4/assert.ml" 24 608 665
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"hw4/assert.ml" 24 608 666 "hw4/assert.ml" 24 608 667
+type(
+  exn
+)
+ident(
+  int_ref e "hw4/assert.ml" 24 608 629 "hw4/assert.ml" 24 608 630
+)
+"hw4/assert.ml" 24 608 646 "hw4/assert.ml" 24 608 668
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 24 608 642 "hw4/assert.ml" 24 608 668
+type(
+  result
+)
+"hw4/assert.ml" 22 497 513 "hw4/assert.ml" 24 608 668
+type(
+  result
+)
+"hw4/assert.ml" 26 675 689 "hw4/assert.ml" 26 675 696
+type(
+  result
+)
+ident(
+  int_ref outcome "hw4/assert.ml" 22 497 503 "hw4/assert.ml" 22 497 510
+)
+"hw4/assert.ml" 27 703 718 "hw4/assert.ml" 27 703 722
+type(
+  result
+)
+"hw4/assert.ml" 27 703 726 "hw4/assert.ml" 27 703 739
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw4/assert.ml" 27 703 740 "hw4/assert.ml" 27 703 756
+type(
+  string
+)
+"hw4/assert.ml" 27 703 726 "hw4/assert.ml" 27 703 756
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/assert.ml" 28 757 772 "hw4/assert.ml" 28 757 776
+type(
+  result
+)
+"hw4/assert.ml" 29 780 796 "hw4/assert.ml" 29 780 809
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"hw4/assert.ml" 29 780 810 "hw4/assert.ml" 29 780 812
+type(
+  unit
+)
+"hw4/assert.ml" 29 780 796 "hw4/assert.ml" 29 780 812
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/assert.ml" 30 814 830 "hw4/assert.ml" 30 814 840
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw4/assert.ml" 13 221 225 "hw4/assert.ml" 13 221 235
+)
+"hw4/assert.ml" 30 814 842 "hw4/assert.ml" 30 814 857
+type(
+  string
+)
+"hw4/assert.ml" 30 814 857 "hw4/assert.ml" 30 814 858
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 30 814 858 "hw4/assert.ml" 30 814 861
+type(
+  string
+)
+ident(
+  int_ref msg "hw4/assert.ml" 19 360 376 "hw4/assert.ml" 19 360 379
+)
+"hw4/assert.ml" 30 814 861 "hw4/assert.ml" 30 814 862
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 30 814 862 "hw4/assert.ml" 30 814 866
+type(
+  string
+)
+"hw4/assert.ml" 30 814 858 "hw4/assert.ml" 30 814 866
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 30 814 841 "hw4/assert.ml" 30 814 867
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 30 814 830 "hw4/assert.ml" 30 814 867
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/assert.ml" 29 780 796 "hw4/assert.ml" 30 814 867
+type(
+  unit
+)
+"hw4/assert.ml" 31 868 887 "hw4/assert.ml" 31 868 888
+type(
+  string
+)
+ident(
+  def s "hw4/assert.ml" 32 893 909 "hw4/assert.ml" 33 927 1002
+)
+"hw4/assert.ml" 31 868 883 "hw4/assert.ml" 31 868 888
+type(
+  result
+)
+"hw4/assert.ml" 32 893 909 "hw4/assert.ml" 32 893 922
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"hw4/assert.ml" 32 893 923 "hw4/assert.ml" 32 893 925
+type(
+  unit
+)
+"hw4/assert.ml" 32 893 909 "hw4/assert.ml" 32 893 925
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/assert.ml" 33 927 943 "hw4/assert.ml" 33 927 953
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw4/assert.ml" 13 221 225 "hw4/assert.ml" 13 221 235
+)
+"hw4/assert.ml" 33 927 955 "hw4/assert.ml" 33 927 970
+type(
+  string
+)
+"hw4/assert.ml" 33 927 970 "hw4/assert.ml" 33 927 971
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 33 927 971 "hw4/assert.ml" 33 927 974
+type(
+  string
+)
+ident(
+  int_ref msg "hw4/assert.ml" 19 360 376 "hw4/assert.ml" 19 360 379
+)
+"hw4/assert.ml" 33 927 974 "hw4/assert.ml" 33 927 975
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 33 927 975 "hw4/assert.ml" 33 927 989
+type(
+  string
+)
+"hw4/assert.ml" 33 927 990 "hw4/assert.ml" 33 927 991
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 33 927 992 "hw4/assert.ml" 33 927 993
+type(
+  string
+)
+ident(
+  int_ref s "hw4/assert.ml" 31 868 887 "hw4/assert.ml" 31 868 888
+)
+"hw4/assert.ml" 33 927 994 "hw4/assert.ml" 33 927 995
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 33 927 996 "hw4/assert.ml" 33 927 1001
+type(
+  string
+)
+"hw4/assert.ml" 33 927 992 "hw4/assert.ml" 33 927 1001
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 33 927 975 "hw4/assert.ml" 33 927 1001
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 33 927 971 "hw4/assert.ml" 33 927 1001
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 33 927 954 "hw4/assert.ml" 33 927 1002
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 33 927 943 "hw4/assert.ml" 33 927 1002
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/assert.ml" 32 893 909 "hw4/assert.ml" 33 927 1002
+type(
+  unit
+)
+"hw4/assert.ml" 26 675 677 "hw4/assert.ml" 34 1003 1018
+type(
+  unit
+)
+"hw4/assert.ml" 22 497 499 "hw4/assert.ml" 34 1003 1018
+type(
+  unit
+)
+"hw4/assert.ml" 21 471 473 "hw4/assert.ml" 34 1003 1018
+type(
+  unit
+)
+"hw4/assert.ml" 20 418 420 "hw4/assert.ml" 34 1003 1018
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/assert.ml" 37 1024 1028 "hw4/assert.ml" 37 1024 1037
+type(
+  string -> 'a -> 'a -> unit
+)
+ident(
+  def assert_eq "hw4/assert.ml" 40 1122 1122 "hw4/assert.ml" 1 0 -1
+)
+"hw4/assert.ml" 37 1024 1039 "hw4/assert.ml" 37 1024 1042
+type(
+  string
+)
+ident(
+  def msg "hw4/assert.ml" 37 1024 1051 "hw4/assert.ml" 38 1076 1120
+)
+"hw4/assert.ml" 37 1024 1051 "hw4/assert.ml" 37 1024 1057
+type(
+  'a
+)
+ident(
+  def actual "hw4/assert.ml" 37 1024 1058 "hw4/assert.ml" 38 1076 1120
+)
+"hw4/assert.ml" 37 1024 1058 "hw4/assert.ml" 37 1024 1066
+type(
+  'a
+)
+ident(
+  def expected "hw4/assert.ml" 37 1024 1067 "hw4/assert.ml" 38 1076 1120
+)
+"hw4/assert.ml" 38 1076 1078 "hw4/assert.ml" 38 1076 1088
+type(
+  string -> (unit -> 'a) -> 'a -> unit
+)
+ident(
+  int_ref assert_eqf "hw4/assert.ml" 19 360 364 "hw4/assert.ml" 19 360 374
+)
+"hw4/assert.ml" 38 1076 1089 "hw4/assert.ml" 38 1076 1092
+type(
+  string
+)
+ident(
+  int_ref msg "hw4/assert.ml" 37 1024 1039 "hw4/assert.ml" 37 1024 1042
+)
+"hw4/assert.ml" 38 1076 1098 "hw4/assert.ml" 38 1076 1100
+type(
+  unit
+)
+"hw4/assert.ml" 38 1076 1104 "hw4/assert.ml" 38 1076 1110
+type(
+  'a
+)
+ident(
+  int_ref actual "hw4/assert.ml" 37 1024 1051 "hw4/assert.ml" 37 1024 1057
+)
+"hw4/assert.ml" 38 1076 1093 "hw4/assert.ml" 38 1076 1111
+type(
+  unit -> 'a
+)
+"hw4/assert.ml" 38 1076 1112 "hw4/assert.ml" 38 1076 1120
+type(
+  'a
+)
+ident(
+  int_ref expected "hw4/assert.ml" 37 1024 1058 "hw4/assert.ml" 37 1024 1066
+)
+"hw4/assert.ml" 38 1076 1078 "hw4/assert.ml" 38 1076 1120
+call(
+  tail
+)
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/assert.ml" 40 1122 1126 "hw4/assert.ml" 40 1122 1134
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  def run_test "hw4/assert.ml" 42 1166 1166 "hw4/assert.ml" 1 0 -1
+)
+"hw4/assert.ml" 40 1122 1135 "hw4/assert.ml" 40 1122 1138
+type(
+  string
+)
+ident(
+  def msg "hw4/assert.ml" 40 1122 1139 "hw4/assert.ml" 40 1122 1164
+)
+"hw4/assert.ml" 40 1122 1139 "hw4/assert.ml" 40 1122 1140
+type(
+  unit -> bool
+)
+ident(
+  def f "hw4/assert.ml" 40 1122 1143 "hw4/assert.ml" 40 1122 1164
+)
+"hw4/assert.ml" 40 1122 1143 "hw4/assert.ml" 40 1122 1153
+type(
+  string -> (unit -> bool) -> bool -> unit
+)
+ident(
+  int_ref assert_eqf "hw4/assert.ml" 19 360 364 "hw4/assert.ml" 19 360 374
+)
+"hw4/assert.ml" 40 1122 1154 "hw4/assert.ml" 40 1122 1157
+type(
+  string
+)
+ident(
+  int_ref msg "hw4/assert.ml" 40 1122 1135 "hw4/assert.ml" 40 1122 1138
+)
+"hw4/assert.ml" 40 1122 1158 "hw4/assert.ml" 40 1122 1159
+type(
+  unit -> bool
+)
+ident(
+  int_ref f "hw4/assert.ml" 40 1122 1139 "hw4/assert.ml" 40 1122 1140
+)
+"hw4/assert.ml" 40 1122 1160 "hw4/assert.ml" 40 1122 1164
+type(
+  bool
+)
+"hw4/assert.ml" 40 1122 1143 "hw4/assert.ml" 40 1122 1164
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/assert.ml" 42 1166 1170 "hw4/assert.ml" 42 1166 1186
+type(
+  string -> (unit -> 'a) -> unit
+)
+ident(
+  def run_failing_test "hw4/assert.ml" 50 1464 1533 "hw4/assert.ml" 1 0 -1
+)
+"hw4/assert.ml" 42 1166 1187 "hw4/assert.ml" 42 1166 1190
+type(
+  string
+)
+ident(
+  def msg "hw4/assert.ml" 42 1166 1191 "hw4/assert.ml" 50 1464 1533
+)
+"hw4/assert.ml" 42 1166 1191 "hw4/assert.ml" 42 1166 1192
+type(
+  unit -> 'a
+)
+ident(
+  def f "hw4/assert.ml" 43 1196 1198 "hw4/assert.ml" 50 1464 1533
+)
+"hw4/assert.ml" 43 1196 1202 "hw4/assert.ml" 43 1196 1203
+type(
+  unit
+)
+"hw4/assert.ml" 43 1196 1206 "hw4/assert.ml" 43 1196 1218
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"hw4/assert.ml" 43 1196 1220 "hw4/assert.ml" 43 1196 1231
+type(
+  string
+)
+"hw4/assert.ml" 43 1196 1231 "hw4/assert.ml" 43 1196 1232
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 43 1196 1232 "hw4/assert.ml" 43 1196 1235
+type(
+  string
+)
+ident(
+  int_ref msg "hw4/assert.ml" 42 1166 1187 "hw4/assert.ml" 42 1166 1190
+)
+"hw4/assert.ml" 43 1196 1235 "hw4/assert.ml" 43 1196 1236
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw4/assert.ml" 43 1196 1236 "hw4/assert.ml" 43 1196 1243
+type(
+  string
+)
+"hw4/assert.ml" 43 1196 1232 "hw4/assert.ml" 43 1196 1243
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 43 1196 1219 "hw4/assert.ml" 43 1196 1244
+call(
+  stack
+)
+type(
+  string
+)
+"hw4/assert.ml" 43 1196 1206 "hw4/assert.ml" 43 1196 1244
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/assert.ml" 44 1248 1254 "hw4/assert.ml" 44 1248 1255
+type(
+  unit
+)
+"hw4/assert.ml" 44 1248 1258 "hw4/assert.ml" 44 1248 1267
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.flush_all
+)
+"hw4/assert.ml" 44 1248 1268 "hw4/assert.ml" 44 1248 1270
+type(
+  unit
+)
+"hw4/assert.ml" 44 1248 1258 "hw4/assert.ml" 44 1248 1270
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/assert.ml" 45 1274 1280 "hw4/assert.ml" 45 1274 1286
+type(
+  result
+)
+ident(
+  def result "hw4/assert.ml" 47 1340 1342 "hw4/assert.ml" 50 1464 1533
+)
+"hw4/assert.ml" 45 1274 1295 "hw4/assert.ml" 45 1274 1301
+type(
+  'a -> unit
+)
+ident(
+  ext_ref Pervasives.ignore
+)
+"hw4/assert.ml" 45 1274 1303 "hw4/assert.ml" 45 1274 1304
+type(
+  unit -> 'a
+)
+ident(
+  int_ref f "hw4/assert.ml" 42 1166 1191 "hw4/assert.ml" 42 1166 1192
+)
+"hw4/assert.ml" 45 1274 1305 "hw4/assert.ml" 45 1274 1307
+type(
+  unit
+)
+"hw4/assert.ml" 45 1274 1302 "hw4/assert.ml" 45 1274 1308
+call(
+  stack
+)
+type(
+  'a
+)
+"hw4/assert.ml" 45 1274 1295 "hw4/assert.ml" 45 1274 1308
+type(
+  unit
+)
+"hw4/assert.ml" 45 1274 1311 "hw4/assert.ml" 45 1274 1315
+type(
+  result
+)
+"hw4/assert.ml" 45 1274 1294 "hw4/assert.ml" 45 1274 1316
+type(
+  result
+)
+"hw4/assert.ml" 46 1322 1326 "hw4/assert.ml" 46 1322 1327
+type(
+  exn
+)
+"hw4/assert.ml" 46 1322 1331 "hw4/assert.ml" 46 1322 1335
+type(
+  result
+)
+"hw4/assert.ml" 45 1274 1289 "hw4/assert.ml" 46 1322 1336
+type(
+  result
+)
+"hw4/assert.ml" 47 1340 1348 "hw4/assert.ml" 47 1340 1354
+type(
+  result
+)
+ident(
+  int_ref result "hw4/assert.ml" 45 1274 1280 "hw4/assert.ml" 45 1274 1286
+)
+"hw4/assert.ml" 48 1361 1365 "hw4/assert.ml" 48 1361 1369
+type(
+  result
+)
+"hw4/assert.ml" 48 1361 1373 "hw4/assert.ml" 48 1361 1386
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw4/assert.ml" 48 1361 1387 "hw4/assert.ml" 48 1361 1403
+type(
+  string
+)
+"hw4/assert.ml" 48 1361 1373 "hw4/assert.ml" 48 1361 1403
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/assert.ml" 49 1404 1408 "hw4/assert.ml" 49 1404 1412
+type(
+  result
+)
+"hw4/assert.ml" 49 1404 1416 "hw4/assert.ml" 49 1404 1426
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw4/assert.ml" 13 221 225 "hw4/assert.ml" 13 221 235
+)
+"hw4/assert.ml" 49 1404 1427 "hw4/assert.ml" 49 1404 1462
+type(
+  string
+)
+"hw4/assert.ml" 49 1404 1416 "hw4/assert.ml" 49 1404 1462
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/assert.ml" 50 1464 1472 "hw4/assert.ml" 50 1464 1473
+type(
+  string
+)
+ident(
+  def s "hw4/assert.ml" 50 1464 1477 "hw4/assert.ml" 50 1464 1533
+)
+"hw4/assert.ml" 50 1464 1468 "hw4/assert.ml" 50 1464 1473
+type(
+  result
+)
+"hw4/assert.ml" 50 1464 1477 "hw4/assert.ml" 50 1464 1487
+type(
+  string -> unit
+)
+ident(
+  int_ref error_mesg "hw4/assert.ml" 13 221 225 "hw4/assert.ml" 13 221 235
+)
+"hw4/assert.ml" 50 1464 1488 "hw4/assert.ml" 50 1464 1533
+type(
+  string
+)
+"hw4/assert.ml" 50 1464 1477 "hw4/assert.ml" 50 1464 1533
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/assert.ml" 47 1340 1342 "hw4/assert.ml" 50 1464 1533
+type(
+  unit
+)
+"hw4/assert.ml" 45 1274 1276 "hw4/assert.ml" 50 1464 1533
+type(
+  unit
+)
+"hw4/assert.ml" 44 1248 1250 "hw4/assert.ml" 50 1464 1533
+type(
+  unit
+)
+"hw4/assert.ml" 43 1196 1198 "hw4/assert.ml" 50 1464 1533
+type(
+  unit
+)

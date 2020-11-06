@@ -1,0 +1,4180 @@
+"hw4/imp.ml" 27 935 943 "hw4/imp.ml" 27 935 948
+type(
+  'k -> ('k * 'v) list -> 'v option
+)
+ident(
+  def assoc "hw4/imp.ml" 27 935 935 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 27 935 950 "hw4/imp.ml" 27 935 951
+type(
+  'k
+)
+ident(
+  def k "hw4/imp.ml" 27 935 957 "hw4/imp.ml" 32 1097 1102
+)
+"hw4/imp.ml" 27 935 958 "hw4/imp.ml" 27 935 959
+type(
+  ('k * 'v) list
+)
+ident(
+  def l "hw4/imp.ml" 27 935 977 "hw4/imp.ml" 32 1097 1102
+)
+"hw4/imp.ml" 29 999 1009 "hw4/imp.ml" 29 999 1010
+type(
+  ('k * 'v) list
+)
+ident(
+  int_ref l "hw4/imp.ml" 27 935 958 "hw4/imp.ml" 27 935 959
+)
+"hw4/imp.ml" 30 1016 1022 "hw4/imp.ml" 30 1016 1024
+type(
+  ('k * 'v) list
+)
+"hw4/imp.ml" 30 1016 1036 "hw4/imp.ml" 30 1016 1040
+type(
+  'v option
+)
+"hw4/imp.ml" 31 1041 1048 "hw4/imp.ml" 31 1041 1050
+type(
+  'k
+)
+ident(
+  def hk "hw4/imp.ml" 31 1041 1061 "hw4/imp.ml" 31 1041 1096
+)
+"hw4/imp.ml" 31 1041 1051 "hw4/imp.ml" 31 1041 1053
+type(
+  'v
+)
+ident(
+  def hv "hw4/imp.ml" 31 1041 1061 "hw4/imp.ml" 31 1041 1096
+)
+"hw4/imp.ml" 31 1041 1047 "hw4/imp.ml" 31 1041 1054
+type(
+  'k * 'v
+)
+"hw4/imp.ml" 31 1041 1056 "hw4/imp.ml" 31 1041 1057
+type(
+  ('k * 'v) list
+)
+ident(
+  def l "hw4/imp.ml" 31 1041 1061 "hw4/imp.ml" 31 1041 1096
+)
+"hw4/imp.ml" 31 1041 1047 "hw4/imp.ml" 31 1041 1057
+type(
+  ('k * 'v) list
+)
+"hw4/imp.ml" 31 1041 1064 "hw4/imp.ml" 31 1041 1065
+type(
+  'k
+)
+ident(
+  int_ref k "hw4/imp.ml" 27 935 950 "hw4/imp.ml" 27 935 951
+)
+"hw4/imp.ml" 31 1041 1065 "hw4/imp.ml" 31 1041 1066
+type(
+  'k -> 'k -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 31 1041 1066 "hw4/imp.ml" 31 1041 1068
+type(
+  'k
+)
+ident(
+  int_ref hk "hw4/imp.ml" 31 1041 1048 "hw4/imp.ml" 31 1041 1050
+)
+"hw4/imp.ml" 31 1041 1064 "hw4/imp.ml" 31 1041 1068
+type(
+  bool
+)
+"hw4/imp.ml" 31 1041 1079 "hw4/imp.ml" 31 1041 1081
+type(
+  'v
+)
+ident(
+  int_ref hv "hw4/imp.ml" 31 1041 1051 "hw4/imp.ml" 31 1041 1053
+)
+"hw4/imp.ml" 31 1041 1074 "hw4/imp.ml" 31 1041 1081
+type(
+  'v option
+)
+"hw4/imp.ml" 31 1041 1087 "hw4/imp.ml" 31 1041 1092
+type(
+  'k -> ('k * 'v) list -> 'v option
+)
+ident(
+  int_ref assoc "hw4/imp.ml" 27 935 943 "hw4/imp.ml" 27 935 948
+)
+"hw4/imp.ml" 31 1041 1093 "hw4/imp.ml" 31 1041 1094
+type(
+  'k
+)
+ident(
+  int_ref k "hw4/imp.ml" 27 935 950 "hw4/imp.ml" 27 935 951
+)
+"hw4/imp.ml" 31 1041 1095 "hw4/imp.ml" 31 1041 1096
+type(
+  ('k * 'v) list
+)
+ident(
+  int_ref l "hw4/imp.ml" 31 1041 1056 "hw4/imp.ml" 31 1041 1057
+)
+"hw4/imp.ml" 31 1041 1087 "hw4/imp.ml" 31 1041 1096
+call(
+  tail
+)
+type(
+  'v option
+)
+"hw4/imp.ml" 31 1041 1061 "hw4/imp.ml" 31 1041 1096
+type(
+  'v option
+)
+"hw4/imp.ml" 28 991 993 "hw4/imp.ml" 32 1097 1102
+type(
+  'v option
+)
+type(
+  'v option
+)
+"hw4/imp.ml" 34 1104 1108 "hw4/imp.ml" 34 1104 1112
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 36 1153 1156 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 34 1104 1113 "hw4/imp.ml" 34 1104 1115
+type(
+  unit
+)
+"hw4/imp.ml" 35 1125 1127 "hw4/imp.ml" 35 1125 1132
+type(
+  int -> (int * int) list -> int option
+)
+ident(
+  int_ref assoc "hw4/imp.ml" 27 935 943 "hw4/imp.ml" 27 935 948
+)
+"hw4/imp.ml" 35 1125 1133 "hw4/imp.ml" 35 1125 1134
+type(
+  int
+)
+"hw4/imp.ml" 35 1125 1137 "hw4/imp.ml" 35 1125 1138
+type(
+  int
+)
+"hw4/imp.ml" 35 1125 1140 "hw4/imp.ml" 35 1125 1141
+type(
+  int
+)
+"hw4/imp.ml" 35 1125 1136 "hw4/imp.ml" 35 1125 1142
+type(
+  int * int
+)
+"hw4/imp.ml" 35 1125 1135 "hw4/imp.ml" 35 1125 1143
+type(
+  (int * int) list
+)
+"hw4/imp.ml" 35 1125 1127 "hw4/imp.ml" 35 1125 1143
+call(
+  stack
+)
+type(
+  int option
+)
+"hw4/imp.ml" 35 1125 1144 "hw4/imp.ml" 35 1125 1145
+type(
+  int option -> int option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 35 1125 1151 "hw4/imp.ml" 35 1125 1152
+type(
+  int
+)
+"hw4/imp.ml" 35 1125 1146 "hw4/imp.ml" 35 1125 1152
+type(
+  int option
+)
+"hw4/imp.ml" 35 1125 1127 "hw4/imp.ml" 35 1125 1152
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 36 1153 1156 "hw4/imp.ml" 36 1153 1164
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 36 1153 1165 "hw4/imp.ml" 36 1153 1183
+type(
+  string
+)
+"hw4/imp.ml" 36 1153 1184 "hw4/imp.ml" 36 1153 1188
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 34 1104 1108 "hw4/imp.ml" 34 1104 1112
+)
+"hw4/imp.ml" 36 1153 1156 "hw4/imp.ml" 36 1153 1188
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 38 1190 1194 "hw4/imp.ml" 38 1190 1198
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 40 1237 1240 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 38 1190 1199 "hw4/imp.ml" 38 1190 1201
+type(
+  unit
+)
+"hw4/imp.ml" 39 1211 1213 "hw4/imp.ml" 39 1211 1218
+type(
+  int -> (int * int) list -> int option
+)
+ident(
+  int_ref assoc "hw4/imp.ml" 27 935 943 "hw4/imp.ml" 27 935 948
+)
+"hw4/imp.ml" 39 1211 1219 "hw4/imp.ml" 39 1211 1220
+type(
+  int
+)
+"hw4/imp.ml" 39 1211 1223 "hw4/imp.ml" 39 1211 1224
+type(
+  int
+)
+"hw4/imp.ml" 39 1211 1226 "hw4/imp.ml" 39 1211 1227
+type(
+  int
+)
+"hw4/imp.ml" 39 1211 1222 "hw4/imp.ml" 39 1211 1228
+type(
+  int * int
+)
+"hw4/imp.ml" 39 1211 1221 "hw4/imp.ml" 39 1211 1229
+type(
+  (int * int) list
+)
+"hw4/imp.ml" 39 1211 1213 "hw4/imp.ml" 39 1211 1229
+call(
+  stack
+)
+type(
+  int option
+)
+"hw4/imp.ml" 39 1211 1230 "hw4/imp.ml" 39 1211 1231
+type(
+  int option -> int option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 39 1211 1232 "hw4/imp.ml" 39 1211 1236
+type(
+  int option
+)
+"hw4/imp.ml" 39 1211 1213 "hw4/imp.ml" 39 1211 1236
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 40 1237 1240 "hw4/imp.ml" 40 1237 1248
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 40 1237 1249 "hw4/imp.ml" 40 1237 1267
+type(
+  string
+)
+"hw4/imp.ml" 40 1237 1268 "hw4/imp.ml" 40 1237 1272
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 38 1190 1194 "hw4/imp.ml" 38 1190 1198
+)
+"hw4/imp.ml" 40 1237 1240 "hw4/imp.ml" 40 1237 1272
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 45 1370 1374 "hw4/imp.ml" 45 1370 1385
+type(
+  'a option option -> 'a option
+)
+ident(
+  def join_option "hw4/imp.ml" 53 1526 1526 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 45 1370 1387 "hw4/imp.ml" 45 1370 1388
+type(
+  'a option option
+)
+ident(
+  def x "hw4/imp.ml" 45 1370 1409 "hw4/imp.ml" 51 1519 1524
+)
+"hw4/imp.ml" 47 1431 1441 "hw4/imp.ml" 47 1431 1442
+type(
+  'a option option
+)
+ident(
+  int_ref x "hw4/imp.ml" 45 1370 1387 "hw4/imp.ml" 45 1370 1388
+)
+"hw4/imp.ml" 48 1448 1454 "hw4/imp.ml" 48 1448 1458
+type(
+  'a option option
+)
+"hw4/imp.ml" 48 1448 1469 "hw4/imp.ml" 48 1448 1473
+type(
+  'a option
+)
+"hw4/imp.ml" 49 1474 1485 "hw4/imp.ml" 49 1474 1489
+type(
+  'a option
+)
+"hw4/imp.ml" 49 1474 1480 "hw4/imp.ml" 49 1474 1489
+type(
+  'a option option
+)
+"hw4/imp.ml" 49 1474 1493 "hw4/imp.ml" 49 1474 1497
+type(
+  'a option
+)
+"hw4/imp.ml" 50 1498 1509 "hw4/imp.ml" 50 1498 1510
+type(
+  'a option
+)
+ident(
+  def v "hw4/imp.ml" 50 1498 1517 "hw4/imp.ml" 50 1498 1518
+)
+"hw4/imp.ml" 50 1498 1504 "hw4/imp.ml" 50 1498 1510
+type(
+  'a option option
+)
+"hw4/imp.ml" 50 1498 1517 "hw4/imp.ml" 50 1498 1518
+type(
+  'a option
+)
+ident(
+  int_ref v "hw4/imp.ml" 50 1498 1509 "hw4/imp.ml" 50 1498 1510
+)
+"hw4/imp.ml" 46 1423 1425 "hw4/imp.ml" 51 1519 1524
+type(
+  'a option
+)
+type(
+  'a option
+)
+"hw4/imp.ml" 53 1526 1530 "hw4/imp.ml" 53 1526 1534
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 55 1586 1589 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 53 1526 1535 "hw4/imp.ml" 53 1526 1537
+type(
+  unit
+)
+"hw4/imp.ml" 54 1547 1549 "hw4/imp.ml" 54 1547 1560
+type(
+  int option option -> int option
+)
+ident(
+  int_ref join_option "hw4/imp.ml" 45 1370 1374 "hw4/imp.ml" 45 1370 1385
+)
+"hw4/imp.ml" 54 1547 1573 "hw4/imp.ml" 54 1547 1574
+type(
+  int
+)
+"hw4/imp.ml" 54 1547 1567 "hw4/imp.ml" 54 1547 1575
+type(
+  int option
+)
+"hw4/imp.ml" 54 1547 1561 "hw4/imp.ml" 54 1547 1576
+type(
+  int option option
+)
+"hw4/imp.ml" 54 1547 1549 "hw4/imp.ml" 54 1547 1576
+call(
+  stack
+)
+type(
+  int option
+)
+"hw4/imp.ml" 54 1547 1577 "hw4/imp.ml" 54 1547 1578
+type(
+  int option -> int option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 54 1547 1584 "hw4/imp.ml" 54 1547 1585
+type(
+  int
+)
+"hw4/imp.ml" 54 1547 1579 "hw4/imp.ml" 54 1547 1585
+type(
+  int option
+)
+"hw4/imp.ml" 54 1547 1549 "hw4/imp.ml" 54 1547 1585
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 55 1586 1589 "hw4/imp.ml" 55 1586 1597
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 55 1586 1598 "hw4/imp.ml" 55 1586 1611
+type(
+  string
+)
+"hw4/imp.ml" 55 1586 1612 "hw4/imp.ml" 55 1586 1616
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 53 1526 1530 "hw4/imp.ml" 53 1526 1534
+)
+"hw4/imp.ml" 55 1586 1589 "hw4/imp.ml" 55 1586 1616
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 59 1747 1755 "hw4/imp.ml" 59 1747 1765
+type(
+  'a option list -> 'a list
+)
+ident(
+  def cat_option "hw4/imp.ml" 59 1747 1747 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 59 1747 1767 "hw4/imp.ml" 59 1747 1768
+type(
+  'a option list
+)
+ident(
+  def x "hw4/imp.ml" 59 1747 1787 "hw4/imp.ml" 65 1924 1929
+)
+"hw4/imp.ml" 61 1807 1817 "hw4/imp.ml" 61 1807 1818
+type(
+  'a option list
+)
+ident(
+  int_ref x "hw4/imp.ml" 59 1747 1767 "hw4/imp.ml" 59 1747 1768
+)
+"hw4/imp.ml" 62 1824 1830 "hw4/imp.ml" 62 1824 1832
+type(
+  'a option list
+)
+"hw4/imp.ml" 62 1824 1845 "hw4/imp.ml" 62 1824 1847
+type(
+  'a list
+)
+"hw4/imp.ml" 63 1848 1860 "hw4/imp.ml" 63 1848 1861
+type(
+  'a
+)
+ident(
+  def x "hw4/imp.ml" 63 1848 1869 "hw4/imp.ml" 63 1848 1886
+)
+"hw4/imp.ml" 63 1848 1854 "hw4/imp.ml" 63 1848 1862
+type(
+  'a option
+)
+"hw4/imp.ml" 63 1848 1864 "hw4/imp.ml" 63 1848 1865
+type(
+  'a option list
+)
+ident(
+  def t "hw4/imp.ml" 63 1848 1869 "hw4/imp.ml" 63 1848 1886
+)
+"hw4/imp.ml" 63 1848 1854 "hw4/imp.ml" 63 1848 1865
+type(
+  'a option list
+)
+"hw4/imp.ml" 63 1848 1869 "hw4/imp.ml" 63 1848 1870
+type(
+  'a
+)
+ident(
+  int_ref x "hw4/imp.ml" 63 1848 1860 "hw4/imp.ml" 63 1848 1861
+)
+"hw4/imp.ml" 63 1848 1873 "hw4/imp.ml" 63 1848 1883
+type(
+  'a option list -> 'a list
+)
+ident(
+  int_ref cat_option "hw4/imp.ml" 59 1747 1755 "hw4/imp.ml" 59 1747 1765
+)
+"hw4/imp.ml" 63 1848 1884 "hw4/imp.ml" 63 1848 1885
+type(
+  'a option list
+)
+ident(
+  int_ref t "hw4/imp.ml" 63 1848 1864 "hw4/imp.ml" 63 1848 1865
+)
+"hw4/imp.ml" 63 1848 1872 "hw4/imp.ml" 63 1848 1886
+call(
+  stack
+)
+type(
+  'a list
+)
+"hw4/imp.ml" 63 1848 1869 "hw4/imp.ml" 63 1848 1886
+type(
+  'a list
+)
+"hw4/imp.ml" 64 1887 1893 "hw4/imp.ml" 64 1887 1894
+type(
+  'a option
+)
+"hw4/imp.ml" 64 1887 1896 "hw4/imp.ml" 64 1887 1897
+type(
+  'a option list
+)
+ident(
+  def t "hw4/imp.ml" 64 1887 1911 "hw4/imp.ml" 64 1887 1923
+)
+"hw4/imp.ml" 64 1887 1893 "hw4/imp.ml" 64 1887 1897
+type(
+  'a option list
+)
+"hw4/imp.ml" 64 1887 1911 "hw4/imp.ml" 64 1887 1921
+type(
+  'a option list -> 'a list
+)
+ident(
+  int_ref cat_option "hw4/imp.ml" 59 1747 1755 "hw4/imp.ml" 59 1747 1765
+)
+"hw4/imp.ml" 64 1887 1922 "hw4/imp.ml" 64 1887 1923
+type(
+  'a option list
+)
+ident(
+  int_ref t "hw4/imp.ml" 64 1887 1896 "hw4/imp.ml" 64 1887 1897
+)
+"hw4/imp.ml" 64 1887 1911 "hw4/imp.ml" 64 1887 1923
+call(
+  tail
+)
+type(
+  'a list
+)
+"hw4/imp.ml" 60 1799 1801 "hw4/imp.ml" 65 1924 1929
+type(
+  'a list
+)
+type(
+  'a list
+)
+"hw4/imp.ml" 67 1931 1935 "hw4/imp.ml" 67 1931 1939
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 69 2019 2022 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 67 1931 1940 "hw4/imp.ml" 67 1931 1942
+type(
+  unit
+)
+"hw4/imp.ml" 68 1952 1954 "hw4/imp.ml" 68 1952 1964
+type(
+  int option list -> int list
+)
+ident(
+  int_ref cat_option "hw4/imp.ml" 59 1747 1755 "hw4/imp.ml" 59 1747 1765
+)
+"hw4/imp.ml" 68 1952 1972 "hw4/imp.ml" 68 1952 1973
+type(
+  int
+)
+"hw4/imp.ml" 68 1952 1967 "hw4/imp.ml" 68 1952 1973
+type(
+  int option
+)
+"hw4/imp.ml" 68 1952 1975 "hw4/imp.ml" 68 1952 1979
+type(
+  int option
+)
+"hw4/imp.ml" 68 1952 1986 "hw4/imp.ml" 68 1952 1987
+type(
+  int
+)
+"hw4/imp.ml" 68 1952 1981 "hw4/imp.ml" 68 1952 1987
+type(
+  int option
+)
+"hw4/imp.ml" 68 1952 1994 "hw4/imp.ml" 68 1952 1995
+type(
+  int
+)
+"hw4/imp.ml" 68 1952 1989 "hw4/imp.ml" 68 1952 1995
+type(
+  int option
+)
+"hw4/imp.ml" 68 1952 1997 "hw4/imp.ml" 68 1952 2001
+type(
+  int option
+)
+"hw4/imp.ml" 68 1952 2003 "hw4/imp.ml" 68 1952 2007
+type(
+  int option
+)
+"hw4/imp.ml" 68 1952 1965 "hw4/imp.ml" 68 1952 2008
+type(
+  int option list
+)
+"hw4/imp.ml" 68 1952 1954 "hw4/imp.ml" 68 1952 2008
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/imp.ml" 68 1952 2009 "hw4/imp.ml" 68 1952 2010
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 68 1952 2012 "hw4/imp.ml" 68 1952 2013
+type(
+  int
+)
+"hw4/imp.ml" 68 1952 2014 "hw4/imp.ml" 68 1952 2015
+type(
+  int
+)
+"hw4/imp.ml" 68 1952 2016 "hw4/imp.ml" 68 1952 2017
+type(
+  int
+)
+"hw4/imp.ml" 68 1952 2011 "hw4/imp.ml" 68 1952 2018
+type(
+  int list
+)
+"hw4/imp.ml" 68 1952 1954 "hw4/imp.ml" 68 1952 2018
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 69 2019 2022 "hw4/imp.ml" 69 2019 2030
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 69 2019 2031 "hw4/imp.ml" 69 2019 2043
+type(
+  string
+)
+"hw4/imp.ml" 69 2019 2044 "hw4/imp.ml" 69 2019 2048
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 67 1931 1935 "hw4/imp.ml" 67 1931 1939
+)
+"hw4/imp.ml" 69 2019 2022 "hw4/imp.ml" 69 2019 2048
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 72 2122 2130 "hw4/imp.ml" 72 2122 2147
+type(
+  ('a -> 'b option) -> 'a list -> 'b list
+)
+ident(
+  def partial_transform "hw4/imp.ml" 72 2122 2122 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 72 2122 2149 "hw4/imp.ml" 72 2122 2150
+type(
+  'a -> 'b option
+)
+ident(
+  def f "hw4/imp.ml" 72 2122 2170 "hw4/imp.ml" 81 2418 2423
+)
+"hw4/imp.ml" 72 2122 2171 "hw4/imp.ml" 72 2122 2172
+type(
+  'a list
+)
+ident(
+  def x "hw4/imp.ml" 72 2122 2184 "hw4/imp.ml" 81 2418 2423
+)
+"hw4/imp.ml" 74 2204 2214 "hw4/imp.ml" 74 2204 2215
+type(
+  'a list
+)
+ident(
+  int_ref x "hw4/imp.ml" 72 2122 2171 "hw4/imp.ml" 72 2122 2172
+)
+"hw4/imp.ml" 75 2221 2227 "hw4/imp.ml" 75 2221 2229
+type(
+  'a list
+)
+"hw4/imp.ml" 75 2221 2235 "hw4/imp.ml" 75 2221 2237
+type(
+  'b list
+)
+"hw4/imp.ml" 76 2238 2244 "hw4/imp.ml" 76 2238 2245
+type(
+  'a
+)
+ident(
+  def h "hw4/imp.ml" 76 2238 2253 "hw4/imp.ml" 80 2399 2417
+)
+"hw4/imp.ml" 76 2238 2247 "hw4/imp.ml" 76 2238 2248
+type(
+  'a list
+)
+ident(
+  def t "hw4/imp.ml" 76 2238 2253 "hw4/imp.ml" 80 2399 2417
+)
+"hw4/imp.ml" 76 2238 2244 "hw4/imp.ml" 76 2238 2248
+type(
+  'a list
+)
+"hw4/imp.ml" 77 2259 2282 "hw4/imp.ml" 77 2259 2283
+type(
+  'a -> 'b option
+)
+ident(
+  int_ref f "hw4/imp.ml" 72 2122 2149 "hw4/imp.ml" 72 2122 2150
+)
+"hw4/imp.ml" 77 2259 2284 "hw4/imp.ml" 77 2259 2285
+type(
+  'a
+)
+ident(
+  int_ref h "hw4/imp.ml" 76 2238 2244 "hw4/imp.ml" 76 2238 2245
+)
+"hw4/imp.ml" 77 2259 2282 "hw4/imp.ml" 77 2259 2285
+call(
+  stack
+)
+type(
+  'b option
+)
+"hw4/imp.ml" 78 2291 2310 "hw4/imp.ml" 78 2291 2314
+type(
+  'b option
+)
+"hw4/imp.ml" 78 2291 2320 "hw4/imp.ml" 78 2291 2337
+type(
+  ('a -> 'b option) -> 'a list -> 'b list
+)
+ident(
+  int_ref partial_transform "hw4/imp.ml" 72 2122 2130 "hw4/imp.ml" 72 2122 2147
+)
+"hw4/imp.ml" 78 2291 2338 "hw4/imp.ml" 78 2291 2339
+type(
+  'a -> 'b option
+)
+ident(
+  int_ref f "hw4/imp.ml" 72 2122 2149 "hw4/imp.ml" 72 2122 2150
+)
+"hw4/imp.ml" 78 2291 2340 "hw4/imp.ml" 78 2291 2341
+type(
+  'a list
+)
+ident(
+  int_ref t "hw4/imp.ml" 76 2238 2247 "hw4/imp.ml" 76 2238 2248
+)
+"hw4/imp.ml" 78 2291 2320 "hw4/imp.ml" 78 2291 2341
+call(
+  tail
+)
+type(
+  'b list
+)
+"hw4/imp.ml" 79 2342 2366 "hw4/imp.ml" 79 2342 2367
+type(
+  'b
+)
+ident(
+  def x "hw4/imp.ml" 79 2342 2371 "hw4/imp.ml" 79 2342 2398
+)
+"hw4/imp.ml" 79 2342 2361 "hw4/imp.ml" 79 2342 2367
+type(
+  'b option
+)
+"hw4/imp.ml" 79 2342 2371 "hw4/imp.ml" 79 2342 2372
+type(
+  'b
+)
+ident(
+  int_ref x "hw4/imp.ml" 79 2342 2366 "hw4/imp.ml" 79 2342 2367
+)
+"hw4/imp.ml" 79 2342 2375 "hw4/imp.ml" 79 2342 2392
+type(
+  ('a -> 'b option) -> 'a list -> 'b list
+)
+ident(
+  int_ref partial_transform "hw4/imp.ml" 72 2122 2130 "hw4/imp.ml" 72 2122 2147
+)
+"hw4/imp.ml" 79 2342 2394 "hw4/imp.ml" 79 2342 2395
+type(
+  'a -> 'b option
+)
+ident(
+  int_ref f "hw4/imp.ml" 72 2122 2149 "hw4/imp.ml" 72 2122 2150
+)
+"hw4/imp.ml" 79 2342 2396 "hw4/imp.ml" 79 2342 2397
+type(
+  'a list
+)
+ident(
+  int_ref t "hw4/imp.ml" 76 2238 2247 "hw4/imp.ml" 76 2238 2248
+)
+"hw4/imp.ml" 79 2342 2374 "hw4/imp.ml" 79 2342 2398
+call(
+  stack
+)
+type(
+  'b list
+)
+"hw4/imp.ml" 79 2342 2371 "hw4/imp.ml" 79 2342 2398
+type(
+  'b list
+)
+"hw4/imp.ml" 76 2238 2253 "hw4/imp.ml" 80 2399 2417
+type(
+  'b list
+)
+"hw4/imp.ml" 73 2196 2198 "hw4/imp.ml" 81 2418 2423
+type(
+  'b list
+)
+type(
+  'b list
+)
+"hw4/imp.ml" 83 2425 2429 "hw4/imp.ml" 83 2425 2433
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 86 2548 2551 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 83 2425 2434 "hw4/imp.ml" 83 2425 2436
+type(
+  unit
+)
+"hw4/imp.ml" 84 2446 2452 "hw4/imp.ml" 84 2446 2453
+type(
+  int -> int option
+)
+ident(
+  def f "hw4/imp.ml" 85 2505 2507 "hw4/imp.ml" 85 2505 2547
+)
+"hw4/imp.ml" 84 2446 2460 "hw4/imp.ml" 84 2446 2461
+type(
+  int
+)
+ident(
+  def x "hw4/imp.ml" 84 2446 2465 "hw4/imp.ml" 84 2446 2501
+)
+"hw4/imp.ml" 84 2446 2468 "hw4/imp.ml" 84 2446 2469
+type(
+  int
+)
+ident(
+  int_ref x "hw4/imp.ml" 84 2446 2460 "hw4/imp.ml" 84 2446 2461
+)
+"hw4/imp.ml" 84 2446 2470 "hw4/imp.ml" 84 2446 2471
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"hw4/imp.ml" 84 2446 2472 "hw4/imp.ml" 84 2446 2473
+type(
+  int
+)
+"hw4/imp.ml" 84 2446 2468 "hw4/imp.ml" 84 2446 2473
+type(
+  bool
+)
+"hw4/imp.ml" 84 2446 2485 "hw4/imp.ml" 84 2446 2486
+type(
+  int
+)
+ident(
+  int_ref x "hw4/imp.ml" 84 2446 2460 "hw4/imp.ml" 84 2446 2461
+)
+"hw4/imp.ml" 84 2446 2487 "hw4/imp.ml" 84 2446 2488
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"hw4/imp.ml" 84 2446 2489 "hw4/imp.ml" 84 2446 2490
+type(
+  int
+)
+ident(
+  int_ref x "hw4/imp.ml" 84 2446 2460 "hw4/imp.ml" 84 2446 2461
+)
+"hw4/imp.ml" 84 2446 2484 "hw4/imp.ml" 84 2446 2491
+type(
+  int
+)
+"hw4/imp.ml" 84 2446 2479 "hw4/imp.ml" 84 2446 2491
+type(
+  int option
+)
+"hw4/imp.ml" 84 2446 2497 "hw4/imp.ml" 84 2446 2501
+type(
+  int option
+)
+"hw4/imp.ml" 84 2446 2465 "hw4/imp.ml" 84 2446 2501
+type(
+  int option
+)
+"hw4/imp.ml" 84 2446 2456 "hw4/imp.ml" 84 2446 2501
+type(
+  int -> int option
+)
+"hw4/imp.ml" 85 2505 2507 "hw4/imp.ml" 85 2505 2524
+type(
+  (int -> int option) -> int list -> int list
+)
+ident(
+  int_ref partial_transform "hw4/imp.ml" 72 2122 2130 "hw4/imp.ml" 72 2122 2147
+)
+"hw4/imp.ml" 85 2505 2525 "hw4/imp.ml" 85 2505 2526
+type(
+  int -> int option
+)
+ident(
+  int_ref f "hw4/imp.ml" 84 2446 2452 "hw4/imp.ml" 84 2446 2453
+)
+"hw4/imp.ml" 85 2505 2528 "hw4/imp.ml" 85 2505 2529
+type(
+  int
+)
+"hw4/imp.ml" 85 2505 2531 "hw4/imp.ml" 85 2505 2533
+type(
+  int
+)
+"hw4/imp.ml" 85 2505 2535 "hw4/imp.ml" 85 2505 2536
+type(
+  int
+)
+"hw4/imp.ml" 85 2505 2538 "hw4/imp.ml" 85 2505 2540
+type(
+  int
+)
+"hw4/imp.ml" 85 2505 2527 "hw4/imp.ml" 85 2505 2541
+type(
+  int list
+)
+"hw4/imp.ml" 85 2505 2507 "hw4/imp.ml" 85 2505 2541
+call(
+  stack
+)
+type(
+  int list
+)
+"hw4/imp.ml" 85 2505 2542 "hw4/imp.ml" 85 2505 2543
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 85 2505 2545 "hw4/imp.ml" 85 2505 2546
+type(
+  int
+)
+"hw4/imp.ml" 85 2505 2544 "hw4/imp.ml" 85 2505 2547
+type(
+  int list
+)
+"hw4/imp.ml" 85 2505 2507 "hw4/imp.ml" 85 2505 2547
+type(
+  bool
+)
+"hw4/imp.ml" 84 2446 2448 "hw4/imp.ml" 85 2505 2547
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 86 2548 2551 "hw4/imp.ml" 86 2548 2559
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 86 2548 2560 "hw4/imp.ml" 86 2548 2579
+type(
+  string
+)
+"hw4/imp.ml" 86 2548 2580 "hw4/imp.ml" 86 2548 2584
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 83 2425 2429 "hw4/imp.ml" 83 2425 2433
+)
+"hw4/imp.ml" 86 2548 2551 "hw4/imp.ml" 86 2548 2584
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 96 2989 2997 "hw4/imp.ml" 96 2989 3001
+type(
+  ('a -> unit) -> 'a list -> unit
+)
+ident(
+  def iter "hw4/imp.ml" 96 2989 2989 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 96 2989 3003 "hw4/imp.ml" 96 2989 3004
+type(
+  'a -> unit
+)
+ident(
+  def f "hw4/imp.ml" 96 2989 3018 "hw4/imp.ml" 101 3110 3115
+)
+"hw4/imp.ml" 96 2989 3019 "hw4/imp.ml" 96 2989 3020
+type(
+  'a list
+)
+ident(
+  def l "hw4/imp.ml" 96 2989 3031 "hw4/imp.ml" 101 3110 3115
+)
+"hw4/imp.ml" 98 3048 3058 "hw4/imp.ml" 98 3048 3059
+type(
+  'a list
+)
+ident(
+  int_ref l "hw4/imp.ml" 96 2989 3019 "hw4/imp.ml" 96 2989 3020
+)
+"hw4/imp.ml" 99 3065 3071 "hw4/imp.ml" 99 3065 3073
+type(
+  'a list
+)
+"hw4/imp.ml" 99 3065 3079 "hw4/imp.ml" 99 3065 3081
+type(
+  unit
+)
+"hw4/imp.ml" 100 3082 3088 "hw4/imp.ml" 100 3082 3089
+type(
+  'a
+)
+ident(
+  def h "hw4/imp.ml" 100 3082 3096 "hw4/imp.ml" 100 3082 3109
+)
+"hw4/imp.ml" 100 3082 3091 "hw4/imp.ml" 100 3082 3092
+type(
+  'a list
+)
+ident(
+  def t "hw4/imp.ml" 100 3082 3096 "hw4/imp.ml" 100 3082 3109
+)
+"hw4/imp.ml" 100 3082 3088 "hw4/imp.ml" 100 3082 3092
+type(
+  'a list
+)
+"hw4/imp.ml" 100 3082 3096 "hw4/imp.ml" 100 3082 3097
+type(
+  'a -> unit
+)
+ident(
+  int_ref f "hw4/imp.ml" 96 2989 3003 "hw4/imp.ml" 96 2989 3004
+)
+"hw4/imp.ml" 100 3082 3098 "hw4/imp.ml" 100 3082 3099
+type(
+  'a
+)
+ident(
+  int_ref h "hw4/imp.ml" 100 3082 3088 "hw4/imp.ml" 100 3082 3089
+)
+"hw4/imp.ml" 100 3082 3096 "hw4/imp.ml" 100 3082 3099
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 100 3082 3101 "hw4/imp.ml" 100 3082 3105
+type(
+  ('a -> unit) -> 'a list -> unit
+)
+ident(
+  int_ref iter "hw4/imp.ml" 96 2989 2997 "hw4/imp.ml" 96 2989 3001
+)
+"hw4/imp.ml" 100 3082 3106 "hw4/imp.ml" 100 3082 3107
+type(
+  'a -> unit
+)
+ident(
+  int_ref f "hw4/imp.ml" 96 2989 3003 "hw4/imp.ml" 96 2989 3004
+)
+"hw4/imp.ml" 100 3082 3108 "hw4/imp.ml" 100 3082 3109
+type(
+  'a list
+)
+ident(
+  int_ref t "hw4/imp.ml" 100 3082 3091 "hw4/imp.ml" 100 3082 3092
+)
+"hw4/imp.ml" 100 3082 3101 "hw4/imp.ml" 100 3082 3109
+call(
+  tail
+)
+type(
+  unit
+)
+"hw4/imp.ml" 100 3082 3096 "hw4/imp.ml" 100 3082 3109
+type(
+  unit
+)
+"hw4/imp.ml" 97 3040 3042 "hw4/imp.ml" 101 3110 3115
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/imp.ml" 109 3438 3442 "hw4/imp.ml" 109 3438 3446
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 113 3572 3575 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 109 3438 3447 "hw4/imp.ml" 109 3438 3449
+type(
+  unit
+)
+"hw4/imp.ml" 110 3459 3465 "hw4/imp.ml" 110 3459 3466
+type(
+  int ref list
+)
+ident(
+  def l "hw4/imp.ml" 111 3494 3496 "hw4/imp.ml" 112 3544 3571
+)
+"hw4/imp.ml" 110 3459 3470 "hw4/imp.ml" 110 3459 3473
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/imp.ml" 110 3459 3474 "hw4/imp.ml" 110 3459 3475
+type(
+  int
+)
+"hw4/imp.ml" 110 3459 3470 "hw4/imp.ml" 110 3459 3475
+type(
+  int ref
+)
+"hw4/imp.ml" 110 3459 3477 "hw4/imp.ml" 110 3459 3480
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/imp.ml" 110 3459 3481 "hw4/imp.ml" 110 3459 3482
+type(
+  int
+)
+"hw4/imp.ml" 110 3459 3477 "hw4/imp.ml" 110 3459 3482
+type(
+  int ref
+)
+"hw4/imp.ml" 110 3459 3484 "hw4/imp.ml" 110 3459 3487
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/imp.ml" 110 3459 3488 "hw4/imp.ml" 110 3459 3489
+type(
+  int
+)
+"hw4/imp.ml" 110 3459 3484 "hw4/imp.ml" 110 3459 3489
+type(
+  int ref
+)
+"hw4/imp.ml" 110 3459 3469 "hw4/imp.ml" 110 3459 3490
+type(
+  int ref list
+)
+"hw4/imp.ml" 111 3494 3496 "hw4/imp.ml" 111 3494 3500
+type(
+  (int ref -> unit) -> int ref list -> unit
+)
+ident(
+  int_ref iter "hw4/imp.ml" 96 2989 2997 "hw4/imp.ml" 96 2989 3001
+)
+"hw4/imp.ml" 111 3494 3506 "hw4/imp.ml" 111 3494 3507
+type(
+  int ref
+)
+ident(
+  def r "hw4/imp.ml" 111 3494 3511 "hw4/imp.ml" 111 3494 3539
+)
+"hw4/imp.ml" 111 3494 3511 "hw4/imp.ml" 111 3494 3512
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 111 3494 3506 "hw4/imp.ml" 111 3494 3507
+)
+"hw4/imp.ml" 111 3494 3525 "hw4/imp.ml" 111 3494 3526
+type(
+  int
+)
+"hw4/imp.ml" 111 3494 3527 "hw4/imp.ml" 111 3494 3528
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw4/imp.ml" 111 3494 3529 "hw4/imp.ml" 111 3494 3530
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 111 3494 3506 "hw4/imp.ml" 111 3494 3507
+)
+"hw4/imp.ml" 111 3494 3529 "hw4/imp.ml" 111 3494 3539
+type(
+  int
+)
+"hw4/imp.ml" 111 3494 3525 "hw4/imp.ml" 111 3494 3539
+type(
+  int
+)
+"hw4/imp.ml" 111 3494 3511 "hw4/imp.ml" 111 3494 3539
+type(
+  unit
+)
+"hw4/imp.ml" 111 3494 3501 "hw4/imp.ml" 111 3494 3540
+type(
+  int ref -> unit
+)
+"hw4/imp.ml" 111 3494 3541 "hw4/imp.ml" 111 3494 3542
+type(
+  int ref list
+)
+ident(
+  int_ref l "hw4/imp.ml" 110 3459 3465 "hw4/imp.ml" 110 3459 3466
+)
+"hw4/imp.ml" 111 3494 3496 "hw4/imp.ml" 111 3494 3542
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 112 3544 3546 "hw4/imp.ml" 112 3544 3547
+type(
+  int ref list
+)
+ident(
+  int_ref l "hw4/imp.ml" 110 3459 3465 "hw4/imp.ml" 110 3459 3466
+)
+"hw4/imp.ml" 112 3544 3548 "hw4/imp.ml" 112 3544 3549
+type(
+  int ref list -> int ref list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 112 3544 3551 "hw4/imp.ml" 112 3544 3554
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/imp.ml" 112 3544 3555 "hw4/imp.ml" 112 3544 3556
+type(
+  int
+)
+"hw4/imp.ml" 112 3544 3551 "hw4/imp.ml" 112 3544 3556
+type(
+  int ref
+)
+"hw4/imp.ml" 112 3544 3558 "hw4/imp.ml" 112 3544 3561
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/imp.ml" 112 3544 3562 "hw4/imp.ml" 112 3544 3563
+type(
+  int
+)
+"hw4/imp.ml" 112 3544 3558 "hw4/imp.ml" 112 3544 3563
+type(
+  int ref
+)
+"hw4/imp.ml" 112 3544 3565 "hw4/imp.ml" 112 3544 3568
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw4/imp.ml" 112 3544 3569 "hw4/imp.ml" 112 3544 3570
+type(
+  int
+)
+"hw4/imp.ml" 112 3544 3565 "hw4/imp.ml" 112 3544 3570
+type(
+  int ref
+)
+"hw4/imp.ml" 112 3544 3550 "hw4/imp.ml" 112 3544 3571
+type(
+  int ref list
+)
+"hw4/imp.ml" 112 3544 3546 "hw4/imp.ml" 112 3544 3571
+type(
+  bool
+)
+"hw4/imp.ml" 111 3494 3496 "hw4/imp.ml" 112 3544 3571
+type(
+  bool
+)
+"hw4/imp.ml" 110 3459 3461 "hw4/imp.ml" 112 3544 3571
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 113 3572 3575 "hw4/imp.ml" 113 3572 3583
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 113 3572 3584 "hw4/imp.ml" 113 3572 3605
+type(
+  string
+)
+"hw4/imp.ml" 113 3572 3606 "hw4/imp.ml" 113 3572 3610
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 109 3438 3442 "hw4/imp.ml" 109 3438 3446
+)
+"hw4/imp.ml" 113 3572 3575 "hw4/imp.ml" 113 3572 3610
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 129 4091 4095 "hw4/imp.ml" 129 4091 4103
+type(
+  int ref -> int
+)
+ident(
+  def ref_incr "hw4/imp.ml" 134 4181 4181 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 129 4091 4105 "hw4/imp.ml" 129 4091 4106
+type(
+  int ref
+)
+ident(
+  def x "hw4/imp.ml" 129 4091 4118 "hw4/imp.ml" 132 4177 4179
+)
+"hw4/imp.ml" 130 4126 4131 "hw4/imp.ml" 130 4126 4132
+type(
+  int
+)
+ident(
+  def y "hw4/imp.ml" 131 4148 4149 "hw4/imp.ml" 132 4177 4179
+)
+"hw4/imp.ml" 130 4126 4134 "hw4/imp.ml" 130 4126 4135
+type(
+  int ref
+)
+ident(
+  int_ref x "hw4/imp.ml" 129 4091 4105 "hw4/imp.ml" 129 4091 4106
+)
+"hw4/imp.ml" 130 4126 4134 "hw4/imp.ml" 130 4126 4144
+type(
+  int
+)
+"hw4/imp.ml" 131 4148 4149 "hw4/imp.ml" 131 4148 4150
+type(
+  int ref
+)
+ident(
+  int_ref x "hw4/imp.ml" 129 4091 4105 "hw4/imp.ml" 129 4091 4106
+)
+"hw4/imp.ml" 131 4148 4163 "hw4/imp.ml" 131 4148 4164
+type(
+  int ref
+)
+ident(
+  int_ref x "hw4/imp.ml" 129 4091 4105 "hw4/imp.ml" 129 4091 4106
+)
+"hw4/imp.ml" 131 4148 4163 "hw4/imp.ml" 131 4148 4173
+type(
+  int
+)
+"hw4/imp.ml" 131 4148 4173 "hw4/imp.ml" 131 4148 4174
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw4/imp.ml" 131 4148 4174 "hw4/imp.ml" 131 4148 4175
+type(
+  int
+)
+"hw4/imp.ml" 131 4148 4163 "hw4/imp.ml" 131 4148 4175
+type(
+  int
+)
+"hw4/imp.ml" 131 4148 4149 "hw4/imp.ml" 131 4148 4175
+type(
+  unit
+)
+"hw4/imp.ml" 132 4177 4178 "hw4/imp.ml" 132 4177 4179
+type(
+  int
+)
+ident(
+  int_ref y "hw4/imp.ml" 130 4126 4131 "hw4/imp.ml" 130 4126 4132
+)
+"hw4/imp.ml" 131 4148 4149 "hw4/imp.ml" 132 4177 4179
+type(
+  int
+)
+"hw4/imp.ml" 130 4126 4127 "hw4/imp.ml" 132 4177 4179
+type(
+  int
+)
+type(
+  int
+)
+"hw4/imp.ml" 134 4181 4185 "hw4/imp.ml" 134 4181 4189
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 137 4288 4291 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 134 4181 4190 "hw4/imp.ml" 134 4181 4192
+type(
+  unit
+)
+"hw4/imp.ml" 135 4202 4208 "hw4/imp.ml" 135 4202 4209
+type(
+  int ref
+)
+ident(
+  def r "hw4/imp.ml" 136 4232 4234 "hw4/imp.ml" 136 4232 4287
+)
+"hw4/imp.ml" 135 4202 4225 "hw4/imp.ml" 135 4202 4226
+type(
+  int
+)
+"hw4/imp.ml" 135 4202 4212 "hw4/imp.ml" 135 4202 4228
+type(
+  int ref
+)
+"hw4/imp.ml" 136 4232 4234 "hw4/imp.ml" 136 4232 4242
+type(
+  int ref -> int
+)
+ident(
+  int_ref ref_incr "hw4/imp.ml" 129 4091 4095 "hw4/imp.ml" 129 4091 4103
+)
+"hw4/imp.ml" 136 4232 4243 "hw4/imp.ml" 136 4232 4244
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 135 4202 4208 "hw4/imp.ml" 135 4202 4209
+)
+"hw4/imp.ml" 136 4232 4234 "hw4/imp.ml" 136 4232 4244
+call(
+  stack
+)
+type(
+  int
+)
+"hw4/imp.ml" 136 4232 4245 "hw4/imp.ml" 136 4232 4247
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 136 4232 4248 "hw4/imp.ml" 136 4232 4249
+type(
+  int
+)
+"hw4/imp.ml" 136 4232 4234 "hw4/imp.ml" 136 4232 4249
+type(
+  bool
+)
+"hw4/imp.ml" 136 4232 4250 "hw4/imp.ml" 136 4232 4252
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw4/imp.ml" 136 4232 4253 "hw4/imp.ml" 136 4232 4261
+type(
+  int ref -> int
+)
+ident(
+  int_ref ref_incr "hw4/imp.ml" 129 4091 4095 "hw4/imp.ml" 129 4091 4103
+)
+"hw4/imp.ml" 136 4232 4262 "hw4/imp.ml" 136 4232 4263
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 135 4202 4208 "hw4/imp.ml" 135 4202 4209
+)
+"hw4/imp.ml" 136 4232 4253 "hw4/imp.ml" 136 4232 4263
+call(
+  stack
+)
+type(
+  int
+)
+"hw4/imp.ml" 136 4232 4264 "hw4/imp.ml" 136 4232 4266
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 136 4232 4267 "hw4/imp.ml" 136 4232 4268
+type(
+  int
+)
+"hw4/imp.ml" 136 4232 4253 "hw4/imp.ml" 136 4232 4268
+type(
+  bool
+)
+"hw4/imp.ml" 136 4232 4269 "hw4/imp.ml" 136 4232 4271
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw4/imp.ml" 136 4232 4272 "hw4/imp.ml" 136 4232 4273
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 135 4202 4208 "hw4/imp.ml" 135 4202 4209
+)
+"hw4/imp.ml" 136 4232 4272 "hw4/imp.ml" 136 4232 4282
+type(
+  int
+)
+"hw4/imp.ml" 136 4232 4283 "hw4/imp.ml" 136 4232 4285
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 136 4232 4286 "hw4/imp.ml" 136 4232 4287
+type(
+  int
+)
+"hw4/imp.ml" 136 4232 4272 "hw4/imp.ml" 136 4232 4287
+type(
+  bool
+)
+"hw4/imp.ml" 136 4232 4253 "hw4/imp.ml" 136 4232 4287
+type(
+  bool
+)
+"hw4/imp.ml" 136 4232 4234 "hw4/imp.ml" 136 4232 4287
+type(
+  bool
+)
+"hw4/imp.ml" 135 4202 4204 "hw4/imp.ml" 136 4232 4287
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 137 4288 4291 "hw4/imp.ml" 137 4288 4299
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 137 4288 4300 "hw4/imp.ml" 137 4288 4320
+type(
+  string
+)
+"hw4/imp.ml" 137 4288 4321 "hw4/imp.ml" 137 4288 4325
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 134 4181 4185 "hw4/imp.ml" 134 4181 4189
+)
+"hw4/imp.ml" 137 4288 4291 "hw4/imp.ml" 137 4288 4325
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 141 4396 4400 "hw4/imp.ml" 141 4396 4404
+type(
+  'a ref -> 'a ref -> unit
+)
+ident(
+  def swap "hw4/imp.ml" 147 4512 4512 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 141 4396 4406 "hw4/imp.ml" 141 4396 4407
+type(
+  'a ref
+)
+ident(
+  def x "hw4/imp.ml" 141 4396 4417 "hw4/imp.ml" 144 4491 4509
+)
+"hw4/imp.ml" 141 4396 4418 "hw4/imp.ml" 141 4396 4419
+type(
+  'a ref
+)
+ident(
+  def y "hw4/imp.ml" 141 4396 4429 "hw4/imp.ml" 144 4491 4509
+)
+"hw4/imp.ml" 142 4438 4444 "hw4/imp.ml" 142 4438 4446
+type(
+  'a
+)
+ident(
+  def xc "hw4/imp.ml" 143 4463 4465 "hw4/imp.ml" 144 4491 4509
+)
+"hw4/imp.ml" 142 4438 4449 "hw4/imp.ml" 142 4438 4450
+type(
+  'a ref
+)
+ident(
+  int_ref x "hw4/imp.ml" 141 4396 4406 "hw4/imp.ml" 141 4396 4407
+)
+"hw4/imp.ml" 142 4438 4449 "hw4/imp.ml" 142 4438 4459
+type(
+  'a
+)
+"hw4/imp.ml" 143 4463 4465 "hw4/imp.ml" 143 4463 4466
+type(
+  'a ref
+)
+ident(
+  int_ref x "hw4/imp.ml" 141 4396 4406 "hw4/imp.ml" 141 4396 4407
+)
+"hw4/imp.ml" 143 4463 4479 "hw4/imp.ml" 143 4463 4480
+type(
+  'a ref
+)
+ident(
+  int_ref y "hw4/imp.ml" 141 4396 4418 "hw4/imp.ml" 141 4396 4419
+)
+"hw4/imp.ml" 143 4463 4479 "hw4/imp.ml" 143 4463 4489
+type(
+  'a
+)
+"hw4/imp.ml" 143 4463 4465 "hw4/imp.ml" 143 4463 4489
+type(
+  unit
+)
+"hw4/imp.ml" 144 4491 4493 "hw4/imp.ml" 144 4491 4494
+type(
+  'a ref
+)
+ident(
+  int_ref y "hw4/imp.ml" 141 4396 4418 "hw4/imp.ml" 141 4396 4419
+)
+"hw4/imp.ml" 144 4491 4507 "hw4/imp.ml" 144 4491 4509
+type(
+  'a
+)
+ident(
+  int_ref xc "hw4/imp.ml" 142 4438 4444 "hw4/imp.ml" 142 4438 4446
+)
+"hw4/imp.ml" 144 4491 4493 "hw4/imp.ml" 144 4491 4509
+type(
+  unit
+)
+"hw4/imp.ml" 143 4463 4465 "hw4/imp.ml" 144 4491 4509
+type(
+  unit
+)
+"hw4/imp.ml" 142 4438 4440 "hw4/imp.ml" 144 4491 4509
+type(
+  unit
+)
+type(
+  unit
+)
+"hw4/imp.ml" 147 4512 4516 "hw4/imp.ml" 147 4512 4520
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 152 4657 4660 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 147 4512 4521 "hw4/imp.ml" 147 4512 4523
+type(
+  unit
+)
+"hw4/imp.ml" 148 4533 4539 "hw4/imp.ml" 148 4533 4541
+type(
+  int ref
+)
+ident(
+  def r1 "hw4/imp.ml" 149 4564 4566 "hw4/imp.ml" 151 4619 4656
+)
+"hw4/imp.ml" 148 4533 4557 "hw4/imp.ml" 148 4533 4558
+type(
+  int
+)
+"hw4/imp.ml" 148 4533 4544 "hw4/imp.ml" 148 4533 4560
+type(
+  int ref
+)
+"hw4/imp.ml" 149 4564 4570 "hw4/imp.ml" 149 4564 4572
+type(
+  int ref
+)
+ident(
+  def r2 "hw4/imp.ml" 150 4595 4597 "hw4/imp.ml" 151 4619 4656
+)
+"hw4/imp.ml" 149 4564 4588 "hw4/imp.ml" 149 4564 4589
+type(
+  int
+)
+"hw4/imp.ml" 149 4564 4575 "hw4/imp.ml" 149 4564 4591
+type(
+  int ref
+)
+"hw4/imp.ml" 150 4595 4601 "hw4/imp.ml" 150 4595 4602
+type(
+  unit
+)
+"hw4/imp.ml" 150 4595 4605 "hw4/imp.ml" 150 4595 4609
+type(
+  int ref -> int ref -> unit
+)
+ident(
+  int_ref swap "hw4/imp.ml" 141 4396 4400 "hw4/imp.ml" 141 4396 4404
+)
+"hw4/imp.ml" 150 4595 4610 "hw4/imp.ml" 150 4595 4612
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 148 4533 4539 "hw4/imp.ml" 148 4533 4541
+)
+"hw4/imp.ml" 150 4595 4613 "hw4/imp.ml" 150 4595 4615
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 149 4564 4570 "hw4/imp.ml" 149 4564 4572
+)
+"hw4/imp.ml" 150 4595 4605 "hw4/imp.ml" 150 4595 4615
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 151 4619 4622 "hw4/imp.ml" 151 4619 4623
+type(
+  int
+)
+"hw4/imp.ml" 151 4619 4625 "hw4/imp.ml" 151 4619 4626
+type(
+  int
+)
+"hw4/imp.ml" 151 4619 4621 "hw4/imp.ml" 151 4619 4627
+type(
+  int * int
+)
+"hw4/imp.ml" 151 4619 4628 "hw4/imp.ml" 151 4619 4629
+type(
+  int * int -> int * int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 151 4619 4631 "hw4/imp.ml" 151 4619 4633
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 148 4533 4539 "hw4/imp.ml" 148 4533 4541
+)
+"hw4/imp.ml" 151 4619 4631 "hw4/imp.ml" 151 4619 4642
+type(
+  int
+)
+"hw4/imp.ml" 151 4619 4644 "hw4/imp.ml" 151 4619 4646
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 149 4564 4570 "hw4/imp.ml" 149 4564 4572
+)
+"hw4/imp.ml" 151 4619 4644 "hw4/imp.ml" 151 4619 4655
+type(
+  int
+)
+"hw4/imp.ml" 151 4619 4630 "hw4/imp.ml" 151 4619 4656
+type(
+  int * int
+)
+"hw4/imp.ml" 151 4619 4621 "hw4/imp.ml" 151 4619 4656
+type(
+  bool
+)
+"hw4/imp.ml" 150 4595 4597 "hw4/imp.ml" 151 4619 4656
+type(
+  bool
+)
+"hw4/imp.ml" 149 4564 4566 "hw4/imp.ml" 151 4619 4656
+type(
+  bool
+)
+"hw4/imp.ml" 148 4533 4535 "hw4/imp.ml" 151 4619 4656
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 152 4657 4660 "hw4/imp.ml" 152 4657 4668
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 152 4657 4669 "hw4/imp.ml" 152 4657 4685
+type(
+  string
+)
+"hw4/imp.ml" 152 4657 4686 "hw4/imp.ml" 152 4657 4690
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 147 4512 4516 "hw4/imp.ml" 147 4512 4520
+)
+"hw4/imp.ml" 152 4657 4660 "hw4/imp.ml" 152 4657 4690
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 159 4878 4882 "hw4/imp.ml" 159 4878 4894
+type(
+  'a ref -> 'a ref -> bool
+)
+ident(
+  def refs_aliased "hw4/imp.ml" 162 4940 4940 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 159 4878 4896 "hw4/imp.ml" 159 4878 4898
+type(
+  'a ref
+)
+ident(
+  def r1 "hw4/imp.ml" 159 4878 4908 "hw4/imp.ml" 160 4930 4938
+)
+"hw4/imp.ml" 159 4878 4909 "hw4/imp.ml" 159 4878 4911
+type(
+  'a ref
+)
+ident(
+  def r2 "hw4/imp.ml" 159 4878 4921 "hw4/imp.ml" 160 4930 4938
+)
+"hw4/imp.ml" 160 4930 4932 "hw4/imp.ml" 160 4930 4934
+type(
+  'a ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 159 4878 4896 "hw4/imp.ml" 159 4878 4898
+)
+"hw4/imp.ml" 160 4930 4934 "hw4/imp.ml" 160 4930 4936
+type(
+  'a ref -> 'a ref -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 160 4930 4936 "hw4/imp.ml" 160 4930 4938
+type(
+  'a ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 159 4878 4909 "hw4/imp.ml" 159 4878 4911
+)
+"hw4/imp.ml" 160 4930 4932 "hw4/imp.ml" 160 4930 4938
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 162 4940 4944 "hw4/imp.ml" 162 4940 4948
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 167 5117 5120 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 162 4940 4949 "hw4/imp.ml" 162 4940 4951
+type(
+  unit
+)
+"hw4/imp.ml" 163 4961 4967 "hw4/imp.ml" 163 4961 4969
+type(
+  int ref
+)
+ident(
+  def r1 "hw4/imp.ml" 164 4992 4994 "hw4/imp.ml" 166 5055 5116
+)
+"hw4/imp.ml" 163 4961 4985 "hw4/imp.ml" 163 4961 4986
+type(
+  int
+)
+"hw4/imp.ml" 163 4961 4972 "hw4/imp.ml" 163 4961 4988
+type(
+  int ref
+)
+"hw4/imp.ml" 164 4992 4998 "hw4/imp.ml" 164 4992 5000
+type(
+  int ref
+)
+ident(
+  def r2 "hw4/imp.ml" 165 5023 5025 "hw4/imp.ml" 166 5055 5116
+)
+"hw4/imp.ml" 164 4992 5016 "hw4/imp.ml" 164 4992 5017
+type(
+  int
+)
+"hw4/imp.ml" 164 4992 5003 "hw4/imp.ml" 164 4992 5019
+type(
+  int ref
+)
+"hw4/imp.ml" 165 5023 5029 "hw4/imp.ml" 165 5023 5030
+type(
+  bool
+)
+ident(
+  def b "hw4/imp.ml" 166 5055 5057 "hw4/imp.ml" 166 5055 5116
+)
+"hw4/imp.ml" 165 5023 5033 "hw4/imp.ml" 165 5023 5045
+type(
+  int ref -> int ref -> bool
+)
+ident(
+  int_ref refs_aliased "hw4/imp.ml" 159 4878 4882 "hw4/imp.ml" 159 4878 4894
+)
+"hw4/imp.ml" 165 5023 5046 "hw4/imp.ml" 165 5023 5048
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 163 4961 4967 "hw4/imp.ml" 163 4961 4969
+)
+"hw4/imp.ml" 165 5023 5049 "hw4/imp.ml" 165 5023 5051
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 164 4992 4998 "hw4/imp.ml" 164 4992 5000
+)
+"hw4/imp.ml" 165 5023 5033 "hw4/imp.ml" 165 5023 5051
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 166 5055 5058 "hw4/imp.ml" 166 5055 5063
+type(
+  bool
+)
+"hw4/imp.ml" 166 5055 5065 "hw4/imp.ml" 166 5055 5069
+type(
+  bool
+)
+"hw4/imp.ml" 166 5055 5071 "hw4/imp.ml" 166 5055 5075
+type(
+  bool
+)
+"hw4/imp.ml" 166 5055 5057 "hw4/imp.ml" 166 5055 5076
+type(
+  bool * bool * bool
+)
+"hw4/imp.ml" 166 5055 5077 "hw4/imp.ml" 166 5055 5078
+type(
+  bool * bool * bool -> bool * bool * bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 166 5055 5080 "hw4/imp.ml" 166 5055 5081
+type(
+  bool
+)
+ident(
+  int_ref b "hw4/imp.ml" 165 5023 5029 "hw4/imp.ml" 165 5023 5030
+)
+"hw4/imp.ml" 166 5055 5083 "hw4/imp.ml" 166 5055 5085
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 163 4961 4967 "hw4/imp.ml" 163 4961 4969
+)
+"hw4/imp.ml" 166 5055 5083 "hw4/imp.ml" 166 5055 5094
+type(
+  int
+)
+"hw4/imp.ml" 166 5055 5095 "hw4/imp.ml" 166 5055 5096
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 166 5055 5097 "hw4/imp.ml" 166 5055 5098
+type(
+  int
+)
+"hw4/imp.ml" 166 5055 5083 "hw4/imp.ml" 166 5055 5098
+type(
+  bool
+)
+"hw4/imp.ml" 166 5055 5100 "hw4/imp.ml" 166 5055 5102
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 164 4992 4998 "hw4/imp.ml" 164 4992 5000
+)
+"hw4/imp.ml" 166 5055 5100 "hw4/imp.ml" 166 5055 5111
+type(
+  int
+)
+"hw4/imp.ml" 166 5055 5112 "hw4/imp.ml" 166 5055 5113
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 166 5055 5114 "hw4/imp.ml" 166 5055 5115
+type(
+  int
+)
+"hw4/imp.ml" 166 5055 5100 "hw4/imp.ml" 166 5055 5115
+type(
+  bool
+)
+"hw4/imp.ml" 166 5055 5079 "hw4/imp.ml" 166 5055 5116
+type(
+  bool * bool * bool
+)
+"hw4/imp.ml" 166 5055 5057 "hw4/imp.ml" 166 5055 5116
+type(
+  bool
+)
+"hw4/imp.ml" 165 5023 5025 "hw4/imp.ml" 166 5055 5116
+type(
+  bool
+)
+"hw4/imp.ml" 164 4992 4994 "hw4/imp.ml" 166 5055 5116
+type(
+  bool
+)
+"hw4/imp.ml" 163 4961 4963 "hw4/imp.ml" 166 5055 5116
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 167 5117 5120 "hw4/imp.ml" 167 5117 5128
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 167 5117 5129 "hw4/imp.ml" 167 5117 5176
+type(
+  string
+)
+"hw4/imp.ml" 167 5117 5177 "hw4/imp.ml" 167 5117 5181
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 162 4940 4944 "hw4/imp.ml" 162 4940 4948
+)
+"hw4/imp.ml" 167 5117 5120 "hw4/imp.ml" 167 5117 5181
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 169 5183 5187 "hw4/imp.ml" 169 5183 5191
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 174 5345 5348 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 169 5183 5192 "hw4/imp.ml" 169 5183 5194
+type(
+  unit
+)
+"hw4/imp.ml" 170 5204 5210 "hw4/imp.ml" 170 5204 5212
+type(
+  int ref
+)
+ident(
+  def r1 "hw4/imp.ml" 171 5235 5237 "hw4/imp.ml" 173 5284 5344
+)
+"hw4/imp.ml" 170 5204 5228 "hw4/imp.ml" 170 5204 5229
+type(
+  int
+)
+"hw4/imp.ml" 170 5204 5215 "hw4/imp.ml" 170 5204 5231
+type(
+  int ref
+)
+"hw4/imp.ml" 171 5235 5241 "hw4/imp.ml" 171 5235 5243
+type(
+  int ref
+)
+ident(
+  def r2 "hw4/imp.ml" 172 5252 5254 "hw4/imp.ml" 173 5284 5344
+)
+"hw4/imp.ml" 171 5235 5246 "hw4/imp.ml" 171 5235 5248
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 170 5204 5210 "hw4/imp.ml" 170 5204 5212
+)
+"hw4/imp.ml" 172 5252 5258 "hw4/imp.ml" 172 5252 5259
+type(
+  bool
+)
+ident(
+  def b "hw4/imp.ml" 173 5284 5286 "hw4/imp.ml" 173 5284 5344
+)
+"hw4/imp.ml" 172 5252 5262 "hw4/imp.ml" 172 5252 5274
+type(
+  int ref -> int ref -> bool
+)
+ident(
+  int_ref refs_aliased "hw4/imp.ml" 159 4878 4882 "hw4/imp.ml" 159 4878 4894
+)
+"hw4/imp.ml" 172 5252 5275 "hw4/imp.ml" 172 5252 5277
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 170 5204 5210 "hw4/imp.ml" 170 5204 5212
+)
+"hw4/imp.ml" 172 5252 5278 "hw4/imp.ml" 172 5252 5280
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 171 5235 5241 "hw4/imp.ml" 171 5235 5243
+)
+"hw4/imp.ml" 172 5252 5262 "hw4/imp.ml" 172 5252 5280
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 173 5284 5287 "hw4/imp.ml" 173 5284 5291
+type(
+  bool
+)
+"hw4/imp.ml" 173 5284 5293 "hw4/imp.ml" 173 5284 5297
+type(
+  bool
+)
+"hw4/imp.ml" 173 5284 5299 "hw4/imp.ml" 173 5284 5303
+type(
+  bool
+)
+"hw4/imp.ml" 173 5284 5286 "hw4/imp.ml" 173 5284 5304
+type(
+  bool * bool * bool
+)
+"hw4/imp.ml" 173 5284 5305 "hw4/imp.ml" 173 5284 5306
+type(
+  bool * bool * bool -> bool * bool * bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 173 5284 5308 "hw4/imp.ml" 173 5284 5309
+type(
+  bool
+)
+ident(
+  int_ref b "hw4/imp.ml" 172 5252 5258 "hw4/imp.ml" 172 5252 5259
+)
+"hw4/imp.ml" 173 5284 5311 "hw4/imp.ml" 173 5284 5313
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 170 5204 5210 "hw4/imp.ml" 170 5204 5212
+)
+"hw4/imp.ml" 173 5284 5311 "hw4/imp.ml" 173 5284 5322
+type(
+  int
+)
+"hw4/imp.ml" 173 5284 5323 "hw4/imp.ml" 173 5284 5324
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 173 5284 5325 "hw4/imp.ml" 173 5284 5326
+type(
+  int
+)
+"hw4/imp.ml" 173 5284 5311 "hw4/imp.ml" 173 5284 5326
+type(
+  bool
+)
+"hw4/imp.ml" 173 5284 5328 "hw4/imp.ml" 173 5284 5330
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 171 5235 5241 "hw4/imp.ml" 171 5235 5243
+)
+"hw4/imp.ml" 173 5284 5328 "hw4/imp.ml" 173 5284 5339
+type(
+  int
+)
+"hw4/imp.ml" 173 5284 5340 "hw4/imp.ml" 173 5284 5341
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 173 5284 5342 "hw4/imp.ml" 173 5284 5343
+type(
+  int
+)
+"hw4/imp.ml" 173 5284 5328 "hw4/imp.ml" 173 5284 5343
+type(
+  bool
+)
+"hw4/imp.ml" 173 5284 5307 "hw4/imp.ml" 173 5284 5344
+type(
+  bool * bool * bool
+)
+"hw4/imp.ml" 173 5284 5286 "hw4/imp.ml" 173 5284 5344
+type(
+  bool
+)
+"hw4/imp.ml" 172 5252 5254 "hw4/imp.ml" 173 5284 5344
+type(
+  bool
+)
+"hw4/imp.ml" 171 5235 5237 "hw4/imp.ml" 173 5284 5344
+type(
+  bool
+)
+"hw4/imp.ml" 170 5204 5206 "hw4/imp.ml" 173 5284 5344
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 174 5345 5348 "hw4/imp.ml" 174 5345 5356
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 174 5345 5357 "hw4/imp.ml" 174 5345 5386
+type(
+  string
+)
+"hw4/imp.ml" 174 5345 5387 "hw4/imp.ml" 174 5345 5391
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 169 5183 5187 "hw4/imp.ml" 169 5183 5191
+)
+"hw4/imp.ml" 174 5345 5348 "hw4/imp.ml" 174 5345 5391
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 183 5714 5718 "hw4/imp.ml" 183 5714 5734
+type(
+  int ref -> int ref -> bool
+)
+ident(
+  def int_refs_aliased "hw4/imp.ml" 190 5864 5864 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 183 5714 5736 "hw4/imp.ml" 183 5714 5738
+type(
+  int ref
+)
+ident(
+  def r1 "hw4/imp.ml" 183 5714 5749 "hw4/imp.ml" 187 5859 5861
+)
+"hw4/imp.ml" 183 5714 5750 "hw4/imp.ml" 183 5714 5752
+type(
+  int ref
+)
+ident(
+  def r2 "hw4/imp.ml" 183 5714 5763 "hw4/imp.ml" 187 5859 5861
+)
+"hw4/imp.ml" 184 5772 5774 "hw4/imp.ml" 184 5772 5776
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 183 5714 5736 "hw4/imp.ml" 183 5714 5738
+)
+"hw4/imp.ml" 184 5772 5789 "hw4/imp.ml" 184 5772 5791
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 183 5714 5736 "hw4/imp.ml" 183 5714 5738
+)
+"hw4/imp.ml" 184 5772 5789 "hw4/imp.ml" 184 5772 5800
+type(
+  int
+)
+"hw4/imp.ml" 184 5772 5801 "hw4/imp.ml" 184 5772 5802
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw4/imp.ml" 184 5772 5803 "hw4/imp.ml" 184 5772 5804
+type(
+  int
+)
+"hw4/imp.ml" 184 5772 5789 "hw4/imp.ml" 184 5772 5804
+type(
+  int
+)
+"hw4/imp.ml" 184 5772 5774 "hw4/imp.ml" 184 5772 5804
+type(
+  unit
+)
+"hw4/imp.ml" 185 5806 5811 "hw4/imp.ml" 185 5806 5812
+type(
+  bool
+)
+ident(
+  def p "hw4/imp.ml" 186 5826 5827 "hw4/imp.ml" 187 5859 5861
+)
+"hw4/imp.ml" 185 5806 5816 "hw4/imp.ml" 185 5806 5818
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 183 5714 5736 "hw4/imp.ml" 183 5714 5738
+)
+"hw4/imp.ml" 185 5806 5818 "hw4/imp.ml" 185 5806 5819
+type(
+  int ref -> int ref -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 185 5806 5819 "hw4/imp.ml" 185 5806 5821
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 183 5714 5750 "hw4/imp.ml" 183 5714 5752
+)
+"hw4/imp.ml" 185 5806 5815 "hw4/imp.ml" 185 5806 5822
+type(
+  bool
+)
+"hw4/imp.ml" 186 5826 5827 "hw4/imp.ml" 186 5826 5829
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 183 5714 5736 "hw4/imp.ml" 183 5714 5738
+)
+"hw4/imp.ml" 186 5826 5842 "hw4/imp.ml" 186 5826 5844
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 183 5714 5736 "hw4/imp.ml" 183 5714 5738
+)
+"hw4/imp.ml" 186 5826 5842 "hw4/imp.ml" 186 5826 5853
+type(
+  int
+)
+"hw4/imp.ml" 186 5826 5854 "hw4/imp.ml" 186 5826 5855
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw4/imp.ml" 186 5826 5856 "hw4/imp.ml" 186 5826 5857
+type(
+  int
+)
+"hw4/imp.ml" 186 5826 5842 "hw4/imp.ml" 186 5826 5857
+type(
+  int
+)
+"hw4/imp.ml" 186 5826 5827 "hw4/imp.ml" 186 5826 5857
+type(
+  unit
+)
+"hw4/imp.ml" 187 5859 5860 "hw4/imp.ml" 187 5859 5861
+type(
+  bool
+)
+ident(
+  int_ref p "hw4/imp.ml" 185 5806 5811 "hw4/imp.ml" 185 5806 5812
+)
+"hw4/imp.ml" 186 5826 5827 "hw4/imp.ml" 187 5859 5861
+type(
+  bool
+)
+"hw4/imp.ml" 185 5806 5807 "hw4/imp.ml" 187 5859 5861
+type(
+  bool
+)
+"hw4/imp.ml" 184 5772 5774 "hw4/imp.ml" 187 5859 5861
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 190 5864 5868 "hw4/imp.ml" 190 5864 5872
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 195 6045 6048 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 190 5864 5873 "hw4/imp.ml" 190 5864 5875
+type(
+  unit
+)
+"hw4/imp.ml" 191 5885 5891 "hw4/imp.ml" 191 5885 5893
+type(
+  int ref
+)
+ident(
+  def r1 "hw4/imp.ml" 192 5916 5918 "hw4/imp.ml" 194 5983 6044
+)
+"hw4/imp.ml" 191 5885 5909 "hw4/imp.ml" 191 5885 5910
+type(
+  int
+)
+"hw4/imp.ml" 191 5885 5896 "hw4/imp.ml" 191 5885 5912
+type(
+  int ref
+)
+"hw4/imp.ml" 192 5916 5922 "hw4/imp.ml" 192 5916 5924
+type(
+  int ref
+)
+ident(
+  def r2 "hw4/imp.ml" 193 5947 5949 "hw4/imp.ml" 194 5983 6044
+)
+"hw4/imp.ml" 192 5916 5940 "hw4/imp.ml" 192 5916 5941
+type(
+  int
+)
+"hw4/imp.ml" 192 5916 5927 "hw4/imp.ml" 192 5916 5943
+type(
+  int ref
+)
+"hw4/imp.ml" 193 5947 5953 "hw4/imp.ml" 193 5947 5954
+type(
+  bool
+)
+ident(
+  def b "hw4/imp.ml" 194 5983 5985 "hw4/imp.ml" 194 5983 6044
+)
+"hw4/imp.ml" 193 5947 5957 "hw4/imp.ml" 193 5947 5973
+type(
+  int ref -> int ref -> bool
+)
+ident(
+  int_ref int_refs_aliased "hw4/imp.ml" 183 5714 5718 "hw4/imp.ml" 183 5714 5734
+)
+"hw4/imp.ml" 193 5947 5974 "hw4/imp.ml" 193 5947 5976
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 191 5885 5891 "hw4/imp.ml" 191 5885 5893
+)
+"hw4/imp.ml" 193 5947 5977 "hw4/imp.ml" 193 5947 5979
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 192 5916 5922 "hw4/imp.ml" 192 5916 5924
+)
+"hw4/imp.ml" 193 5947 5957 "hw4/imp.ml" 193 5947 5979
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 194 5983 5986 "hw4/imp.ml" 194 5983 5991
+type(
+  bool
+)
+"hw4/imp.ml" 194 5983 5993 "hw4/imp.ml" 194 5983 5997
+type(
+  bool
+)
+"hw4/imp.ml" 194 5983 5999 "hw4/imp.ml" 194 5983 6003
+type(
+  bool
+)
+"hw4/imp.ml" 194 5983 5985 "hw4/imp.ml" 194 5983 6004
+type(
+  bool * bool * bool
+)
+"hw4/imp.ml" 194 5983 6005 "hw4/imp.ml" 194 5983 6006
+type(
+  bool * bool * bool -> bool * bool * bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 194 5983 6008 "hw4/imp.ml" 194 5983 6009
+type(
+  bool
+)
+ident(
+  int_ref b "hw4/imp.ml" 193 5947 5953 "hw4/imp.ml" 193 5947 5954
+)
+"hw4/imp.ml" 194 5983 6011 "hw4/imp.ml" 194 5983 6013
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 191 5885 5891 "hw4/imp.ml" 191 5885 5893
+)
+"hw4/imp.ml" 194 5983 6011 "hw4/imp.ml" 194 5983 6022
+type(
+  int
+)
+"hw4/imp.ml" 194 5983 6023 "hw4/imp.ml" 194 5983 6024
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 194 5983 6025 "hw4/imp.ml" 194 5983 6026
+type(
+  int
+)
+"hw4/imp.ml" 194 5983 6011 "hw4/imp.ml" 194 5983 6026
+type(
+  bool
+)
+"hw4/imp.ml" 194 5983 6028 "hw4/imp.ml" 194 5983 6030
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 192 5916 5922 "hw4/imp.ml" 192 5916 5924
+)
+"hw4/imp.ml" 194 5983 6028 "hw4/imp.ml" 194 5983 6039
+type(
+  int
+)
+"hw4/imp.ml" 194 5983 6040 "hw4/imp.ml" 194 5983 6041
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 194 5983 6042 "hw4/imp.ml" 194 5983 6043
+type(
+  int
+)
+"hw4/imp.ml" 194 5983 6028 "hw4/imp.ml" 194 5983 6043
+type(
+  bool
+)
+"hw4/imp.ml" 194 5983 6007 "hw4/imp.ml" 194 5983 6044
+type(
+  bool * bool * bool
+)
+"hw4/imp.ml" 194 5983 5985 "hw4/imp.ml" 194 5983 6044
+type(
+  bool
+)
+"hw4/imp.ml" 193 5947 5949 "hw4/imp.ml" 194 5983 6044
+type(
+  bool
+)
+"hw4/imp.ml" 192 5916 5918 "hw4/imp.ml" 194 5983 6044
+type(
+  bool
+)
+"hw4/imp.ml" 191 5885 5887 "hw4/imp.ml" 194 5983 6044
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 195 6045 6048 "hw4/imp.ml" 195 6045 6056
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 195 6045 6057 "hw4/imp.ml" 195 6045 6103
+type(
+  string
+)
+"hw4/imp.ml" 195 6045 6104 "hw4/imp.ml" 195 6045 6108
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 190 5864 5868 "hw4/imp.ml" 190 5864 5872
+)
+"hw4/imp.ml" 195 6045 6048 "hw4/imp.ml" 195 6045 6108
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 197 6110 6114 "hw4/imp.ml" 197 6110 6118
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 202 6276 6279 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 197 6110 6119 "hw4/imp.ml" 197 6110 6121
+type(
+  unit
+)
+"hw4/imp.ml" 198 6131 6137 "hw4/imp.ml" 198 6131 6139
+type(
+  int ref
+)
+ident(
+  def r1 "hw4/imp.ml" 199 6162 6164 "hw4/imp.ml" 201 6215 6275
+)
+"hw4/imp.ml" 198 6131 6155 "hw4/imp.ml" 198 6131 6156
+type(
+  int
+)
+"hw4/imp.ml" 198 6131 6142 "hw4/imp.ml" 198 6131 6158
+type(
+  int ref
+)
+"hw4/imp.ml" 199 6162 6168 "hw4/imp.ml" 199 6162 6170
+type(
+  int ref
+)
+ident(
+  def r2 "hw4/imp.ml" 200 6179 6181 "hw4/imp.ml" 201 6215 6275
+)
+"hw4/imp.ml" 199 6162 6173 "hw4/imp.ml" 199 6162 6175
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 198 6131 6137 "hw4/imp.ml" 198 6131 6139
+)
+"hw4/imp.ml" 200 6179 6185 "hw4/imp.ml" 200 6179 6186
+type(
+  bool
+)
+ident(
+  def b "hw4/imp.ml" 201 6215 6217 "hw4/imp.ml" 201 6215 6275
+)
+"hw4/imp.ml" 200 6179 6189 "hw4/imp.ml" 200 6179 6205
+type(
+  int ref -> int ref -> bool
+)
+ident(
+  int_ref int_refs_aliased "hw4/imp.ml" 183 5714 5718 "hw4/imp.ml" 183 5714 5734
+)
+"hw4/imp.ml" 200 6179 6206 "hw4/imp.ml" 200 6179 6208
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 198 6131 6137 "hw4/imp.ml" 198 6131 6139
+)
+"hw4/imp.ml" 200 6179 6209 "hw4/imp.ml" 200 6179 6211
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 199 6162 6168 "hw4/imp.ml" 199 6162 6170
+)
+"hw4/imp.ml" 200 6179 6189 "hw4/imp.ml" 200 6179 6211
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 201 6215 6218 "hw4/imp.ml" 201 6215 6222
+type(
+  bool
+)
+"hw4/imp.ml" 201 6215 6224 "hw4/imp.ml" 201 6215 6228
+type(
+  bool
+)
+"hw4/imp.ml" 201 6215 6230 "hw4/imp.ml" 201 6215 6234
+type(
+  bool
+)
+"hw4/imp.ml" 201 6215 6217 "hw4/imp.ml" 201 6215 6235
+type(
+  bool * bool * bool
+)
+"hw4/imp.ml" 201 6215 6236 "hw4/imp.ml" 201 6215 6237
+type(
+  bool * bool * bool -> bool * bool * bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 201 6215 6239 "hw4/imp.ml" 201 6215 6240
+type(
+  bool
+)
+ident(
+  int_ref b "hw4/imp.ml" 200 6179 6185 "hw4/imp.ml" 200 6179 6186
+)
+"hw4/imp.ml" 201 6215 6242 "hw4/imp.ml" 201 6215 6244
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 198 6131 6137 "hw4/imp.ml" 198 6131 6139
+)
+"hw4/imp.ml" 201 6215 6242 "hw4/imp.ml" 201 6215 6253
+type(
+  int
+)
+"hw4/imp.ml" 201 6215 6254 "hw4/imp.ml" 201 6215 6255
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 201 6215 6256 "hw4/imp.ml" 201 6215 6257
+type(
+  int
+)
+"hw4/imp.ml" 201 6215 6242 "hw4/imp.ml" 201 6215 6257
+type(
+  bool
+)
+"hw4/imp.ml" 201 6215 6259 "hw4/imp.ml" 201 6215 6261
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 199 6162 6168 "hw4/imp.ml" 199 6162 6170
+)
+"hw4/imp.ml" 201 6215 6259 "hw4/imp.ml" 201 6215 6270
+type(
+  int
+)
+"hw4/imp.ml" 201 6215 6271 "hw4/imp.ml" 201 6215 6272
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 201 6215 6273 "hw4/imp.ml" 201 6215 6274
+type(
+  int
+)
+"hw4/imp.ml" 201 6215 6259 "hw4/imp.ml" 201 6215 6274
+type(
+  bool
+)
+"hw4/imp.ml" 201 6215 6238 "hw4/imp.ml" 201 6215 6275
+type(
+  bool * bool * bool
+)
+"hw4/imp.ml" 201 6215 6217 "hw4/imp.ml" 201 6215 6275
+type(
+  bool
+)
+"hw4/imp.ml" 200 6179 6181 "hw4/imp.ml" 201 6215 6275
+type(
+  bool
+)
+"hw4/imp.ml" 199 6162 6164 "hw4/imp.ml" 201 6215 6275
+type(
+  bool
+)
+"hw4/imp.ml" 198 6131 6133 "hw4/imp.ml" 201 6215 6275
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 202 6276 6279 "hw4/imp.ml" 202 6276 6287
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 202 6276 6288 "hw4/imp.ml" 202 6276 6327
+type(
+  string
+)
+"hw4/imp.ml" 202 6276 6328 "hw4/imp.ml" 202 6276 6332
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 197 6110 6114 "hw4/imp.ml" 197 6110 6118
+)
+"hw4/imp.ml" 202 6276 6279 "hw4/imp.ml" 202 6276 6332
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 212 6833 6841 "hw4/imp.ml" 212 6833 6855
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  def contains_alias "hw4/imp.ml" 212 6833 6833 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 212 6833 6857 "hw4/imp.ml" 212 6833 6858
+type(
+  'a
+)
+ident(
+  def x "hw4/imp.ml" 212 6833 6864 "hw4/imp.ml" 217 6974 6979
+)
+"hw4/imp.ml" 212 6833 6865 "hw4/imp.ml" 212 6833 6866
+type(
+  'a list
+)
+ident(
+  def l "hw4/imp.ml" 212 6833 6877 "hw4/imp.ml" 217 6974 6979
+)
+"hw4/imp.ml" 214 6894 6904 "hw4/imp.ml" 214 6894 6905
+type(
+  'a list
+)
+ident(
+  int_ref l "hw4/imp.ml" 212 6833 6865 "hw4/imp.ml" 212 6833 6866
+)
+"hw4/imp.ml" 215 6911 6917 "hw4/imp.ml" 215 6911 6919
+type(
+  'a list
+)
+"hw4/imp.ml" 215 6911 6925 "hw4/imp.ml" 215 6911 6930
+type(
+  bool
+)
+"hw4/imp.ml" 216 6931 6937 "hw4/imp.ml" 216 6931 6938
+type(
+  'a
+)
+ident(
+  def h "hw4/imp.ml" 216 6931 6945 "hw4/imp.ml" 216 6931 6973
+)
+"hw4/imp.ml" 216 6931 6940 "hw4/imp.ml" 216 6931 6941
+type(
+  'a list
+)
+ident(
+  def t "hw4/imp.ml" 216 6931 6945 "hw4/imp.ml" 216 6931 6973
+)
+"hw4/imp.ml" 216 6931 6937 "hw4/imp.ml" 216 6931 6941
+type(
+  'a list
+)
+"hw4/imp.ml" 216 6931 6946 "hw4/imp.ml" 216 6931 6947
+type(
+  'a
+)
+ident(
+  int_ref x "hw4/imp.ml" 212 6833 6857 "hw4/imp.ml" 212 6833 6858
+)
+"hw4/imp.ml" 216 6931 6947 "hw4/imp.ml" 216 6931 6949
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 216 6931 6949 "hw4/imp.ml" 216 6931 6950
+type(
+  'a
+)
+ident(
+  int_ref h "hw4/imp.ml" 216 6931 6937 "hw4/imp.ml" 216 6931 6938
+)
+"hw4/imp.ml" 216 6931 6945 "hw4/imp.ml" 216 6931 6951
+type(
+  bool
+)
+"hw4/imp.ml" 216 6931 6952 "hw4/imp.ml" 216 6931 6954
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"hw4/imp.ml" 216 6931 6955 "hw4/imp.ml" 216 6931 6969
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  int_ref contains_alias "hw4/imp.ml" 212 6833 6841 "hw4/imp.ml" 212 6833 6855
+)
+"hw4/imp.ml" 216 6931 6970 "hw4/imp.ml" 216 6931 6971
+type(
+  'a
+)
+ident(
+  int_ref x "hw4/imp.ml" 212 6833 6857 "hw4/imp.ml" 212 6833 6858
+)
+"hw4/imp.ml" 216 6931 6972 "hw4/imp.ml" 216 6931 6973
+type(
+  'a list
+)
+ident(
+  int_ref t "hw4/imp.ml" 216 6931 6940 "hw4/imp.ml" 216 6931 6941
+)
+"hw4/imp.ml" 216 6931 6955 "hw4/imp.ml" 216 6931 6973
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/imp.ml" 216 6931 6945 "hw4/imp.ml" 216 6931 6973
+type(
+  bool
+)
+"hw4/imp.ml" 213 6886 6888 "hw4/imp.ml" 217 6974 6979
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 219 6981 6985 "hw4/imp.ml" 219 6981 6989
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 223 7097 7100 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 219 6981 6990 "hw4/imp.ml" 219 6981 6992
+type(
+  unit
+)
+"hw4/imp.ml" 220 7002 7008 "hw4/imp.ml" 220 7002 7010
+type(
+  int ref
+)
+ident(
+  def r1 "hw4/imp.ml" 221 7033 7035 "hw4/imp.ml" 222 7064 7096
+)
+"hw4/imp.ml" 220 7002 7026 "hw4/imp.ml" 220 7002 7027
+type(
+  int
+)
+"hw4/imp.ml" 220 7002 7013 "hw4/imp.ml" 220 7002 7029
+type(
+  int ref
+)
+"hw4/imp.ml" 221 7033 7039 "hw4/imp.ml" 221 7033 7041
+type(
+  int ref
+)
+ident(
+  def r2 "hw4/imp.ml" 222 7064 7066 "hw4/imp.ml" 222 7064 7096
+)
+"hw4/imp.ml" 221 7033 7057 "hw4/imp.ml" 221 7033 7058
+type(
+  int
+)
+"hw4/imp.ml" 221 7033 7044 "hw4/imp.ml" 221 7033 7060
+type(
+  int ref
+)
+"hw4/imp.ml" 222 7064 7066 "hw4/imp.ml" 222 7064 7080
+type(
+  int ref -> int ref list -> bool
+)
+ident(
+  int_ref contains_alias "hw4/imp.ml" 212 6833 6841 "hw4/imp.ml" 212 6833 6855
+)
+"hw4/imp.ml" 222 7064 7081 "hw4/imp.ml" 222 7064 7083
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 220 7002 7008 "hw4/imp.ml" 220 7002 7010
+)
+"hw4/imp.ml" 222 7064 7085 "hw4/imp.ml" 222 7064 7087
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 221 7033 7039 "hw4/imp.ml" 221 7033 7041
+)
+"hw4/imp.ml" 222 7064 7084 "hw4/imp.ml" 222 7064 7088
+type(
+  int ref list
+)
+"hw4/imp.ml" 222 7064 7066 "hw4/imp.ml" 222 7064 7088
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 222 7064 7089 "hw4/imp.ml" 222 7064 7090
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 222 7064 7091 "hw4/imp.ml" 222 7064 7096
+type(
+  bool
+)
+"hw4/imp.ml" 222 7064 7066 "hw4/imp.ml" 222 7064 7096
+type(
+  bool
+)
+"hw4/imp.ml" 221 7033 7035 "hw4/imp.ml" 222 7064 7096
+type(
+  bool
+)
+"hw4/imp.ml" 220 7002 7004 "hw4/imp.ml" 222 7064 7096
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 223 7097 7100 "hw4/imp.ml" 223 7097 7108
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 223 7097 7109 "hw4/imp.ml" 223 7097 7144
+type(
+  string
+)
+"hw4/imp.ml" 223 7097 7145 "hw4/imp.ml" 223 7097 7149
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 219 6981 6985 "hw4/imp.ml" 219 6981 6989
+)
+"hw4/imp.ml" 223 7097 7100 "hw4/imp.ml" 223 7097 7149
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 225 7151 7155 "hw4/imp.ml" 225 7151 7159
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 229 7263 7266 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 225 7151 7160 "hw4/imp.ml" 225 7151 7162
+type(
+  unit
+)
+"hw4/imp.ml" 226 7172 7178 "hw4/imp.ml" 226 7172 7180
+type(
+  int ref
+)
+ident(
+  def r1 "hw4/imp.ml" 227 7203 7205 "hw4/imp.ml" 228 7234 7262
+)
+"hw4/imp.ml" 226 7172 7196 "hw4/imp.ml" 226 7172 7197
+type(
+  int
+)
+"hw4/imp.ml" 226 7172 7183 "hw4/imp.ml" 226 7172 7199
+type(
+  int ref
+)
+"hw4/imp.ml" 227 7203 7209 "hw4/imp.ml" 227 7203 7211
+type(
+  int ref
+)
+ident(
+  def r2 "hw4/imp.ml" 228 7234 7236 "hw4/imp.ml" 228 7234 7262
+)
+"hw4/imp.ml" 227 7203 7227 "hw4/imp.ml" 227 7203 7228
+type(
+  int
+)
+"hw4/imp.ml" 227 7203 7214 "hw4/imp.ml" 227 7203 7230
+type(
+  int ref
+)
+"hw4/imp.ml" 228 7234 7236 "hw4/imp.ml" 228 7234 7250
+type(
+  int ref -> int ref list -> bool
+)
+ident(
+  int_ref contains_alias "hw4/imp.ml" 212 6833 6841 "hw4/imp.ml" 212 6833 6855
+)
+"hw4/imp.ml" 228 7234 7251 "hw4/imp.ml" 228 7234 7253
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 226 7172 7178 "hw4/imp.ml" 226 7172 7180
+)
+"hw4/imp.ml" 228 7234 7255 "hw4/imp.ml" 228 7234 7257
+type(
+  int ref
+)
+ident(
+  int_ref r2 "hw4/imp.ml" 227 7203 7209 "hw4/imp.ml" 227 7203 7211
+)
+"hw4/imp.ml" 228 7234 7259 "hw4/imp.ml" 228 7234 7261
+type(
+  int ref
+)
+ident(
+  int_ref r1 "hw4/imp.ml" 226 7172 7178 "hw4/imp.ml" 226 7172 7180
+)
+"hw4/imp.ml" 228 7234 7254 "hw4/imp.ml" 228 7234 7262
+type(
+  int ref list
+)
+"hw4/imp.ml" 228 7234 7236 "hw4/imp.ml" 228 7234 7262
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/imp.ml" 227 7203 7205 "hw4/imp.ml" 228 7234 7262
+type(
+  bool
+)
+"hw4/imp.ml" 226 7172 7174 "hw4/imp.ml" 228 7234 7262
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 229 7263 7266 "hw4/imp.ml" 229 7263 7274
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 229 7263 7275 "hw4/imp.ml" 229 7263 7304
+type(
+  string
+)
+"hw4/imp.ml" 229 7263 7305 "hw4/imp.ml" 229 7263 7309
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 225 7151 7155 "hw4/imp.ml" 225 7151 7159
+)
+"hw4/imp.ml" 229 7263 7266 "hw4/imp.ml" 229 7263 7309
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 238 7618 7622 "hw4/imp.ml" 238 7618 7643
+type(
+  unit -> bool list
+)
+ident(
+  def equality_test_results "hw4/imp.ml" 241 7720 7720 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 238 7618 7644 "hw4/imp.ml" 238 7618 7646
+type(
+  unit
+)
+"hw4/imp.ml" 239 7661 7664 "hw4/imp.ml" 239 7661 7668
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7669 "hw4/imp.ml" 239 7661 7673
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7674 "hw4/imp.ml" 239 7661 7679
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7680 "hw4/imp.ml" 239 7661 7685
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7686 "hw4/imp.ml" 239 7661 7690
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7691 "hw4/imp.ml" 239 7661 7695
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7696 "hw4/imp.ml" 239 7661 7700
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7701 "hw4/imp.ml" 239 7661 7705
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7706 "hw4/imp.ml" 239 7661 7710
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7711 "hw4/imp.ml" 239 7661 7716
+type(
+  bool
+)
+"hw4/imp.ml" 239 7661 7663 "hw4/imp.ml" 239 7661 7717
+type(
+  bool list
+)
+type(
+  bool list
+)
+"hw4/imp.ml" 241 7720 7724 "hw4/imp.ml" 241 7720 7728
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 256 8058 8061 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 241 7720 7729 "hw4/imp.ml" 241 7720 7731
+type(
+  unit
+)
+"hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+type(
+  int ref
+)
+ident(
+  def r "hw4/imp.ml" 243 7771 7773 "hw4/imp.ml" 255 8027 8057
+)
+"hw4/imp.ml" 242 7741 7764 "hw4/imp.ml" 242 7741 7765
+type(
+  int
+)
+"hw4/imp.ml" 242 7741 7751 "hw4/imp.ml" 242 7741 7767
+type(
+  int ref
+)
+"hw4/imp.ml" 243 7771 7777 "hw4/imp.ml" 243 7771 7778
+type(
+  int ref option
+)
+ident(
+  def o "hw4/imp.ml" 244 7791 7793 "hw4/imp.ml" 255 8027 8057
+)
+"hw4/imp.ml" 243 7771 7786 "hw4/imp.ml" 243 7771 7787
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 243 7771 7781 "hw4/imp.ml" 243 7771 7787
+type(
+  int ref option
+)
+"hw4/imp.ml" 244 7791 7797 "hw4/imp.ml" 244 7791 7798
+type(
+  'a option
+)
+ident(
+  def n "hw4/imp.ml" 245 7809 7811 "hw4/imp.ml" 255 8027 8057
+)
+"hw4/imp.ml" 244 7791 7801 "hw4/imp.ml" 244 7791 7805
+type(
+  'a option
+)
+"hw4/imp.ml" 245 7809 7813 "hw4/imp.ml" 245 7809 7814
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 245 7809 7815 "hw4/imp.ml" 245 7809 7817
+type(
+  int ref -> int ref -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 245 7809 7818 "hw4/imp.ml" 245 7809 7819
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 245 7809 7813 "hw4/imp.ml" 245 7809 7819
+type(
+  bool
+)
+"hw4/imp.ml" 246 7821 7825 "hw4/imp.ml" 246 7821 7826
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 246 7821 7825 "hw4/imp.ml" 246 7821 7835
+type(
+  int
+)
+"hw4/imp.ml" 246 7821 7836 "hw4/imp.ml" 246 7821 7838
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 246 7821 7839 "hw4/imp.ml" 246 7821 7840
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 246 7821 7839 "hw4/imp.ml" 246 7821 7849
+type(
+  int
+)
+"hw4/imp.ml" 246 7821 7825 "hw4/imp.ml" 246 7821 7849
+type(
+  bool
+)
+"hw4/imp.ml" 247 7851 7860 "hw4/imp.ml" 247 7851 7861
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 247 7851 7855 "hw4/imp.ml" 247 7851 7861
+type(
+  int ref option
+)
+"hw4/imp.ml" 247 7851 7862 "hw4/imp.ml" 247 7851 7864
+type(
+  int ref option -> int ref option -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 247 7851 7870 "hw4/imp.ml" 247 7851 7871
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 247 7851 7865 "hw4/imp.ml" 247 7851 7871
+type(
+  int ref option
+)
+"hw4/imp.ml" 247 7851 7855 "hw4/imp.ml" 247 7851 7871
+type(
+  bool
+)
+"hw4/imp.ml" 248 7873 7882 "hw4/imp.ml" 248 7873 7883
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 248 7873 7877 "hw4/imp.ml" 248 7873 7883
+type(
+  int ref option
+)
+"hw4/imp.ml" 248 7873 7884 "hw4/imp.ml" 248 7873 7886
+type(
+  int ref option -> int ref option -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 248 7873 7887 "hw4/imp.ml" 248 7873 7888
+type(
+  int ref option
+)
+ident(
+  int_ref o "hw4/imp.ml" 243 7771 7777 "hw4/imp.ml" 243 7771 7778
+)
+"hw4/imp.ml" 248 7873 7877 "hw4/imp.ml" 248 7873 7888
+type(
+  bool
+)
+"hw4/imp.ml" 249 7890 7894 "hw4/imp.ml" 249 7890 7895
+type(
+  int ref option
+)
+ident(
+  int_ref o "hw4/imp.ml" 243 7771 7777 "hw4/imp.ml" 243 7771 7778
+)
+"hw4/imp.ml" 249 7890 7896 "hw4/imp.ml" 249 7890 7898
+type(
+  int ref option -> int ref option -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 249 7890 7899 "hw4/imp.ml" 249 7890 7900
+type(
+  int ref option
+)
+ident(
+  int_ref o "hw4/imp.ml" 243 7771 7777 "hw4/imp.ml" 243 7771 7778
+)
+"hw4/imp.ml" 249 7890 7894 "hw4/imp.ml" 249 7890 7900
+type(
+  bool
+)
+"hw4/imp.ml" 250 7902 7906 "hw4/imp.ml" 250 7902 7910
+type(
+  '_b option
+)
+"hw4/imp.ml" 250 7902 7911 "hw4/imp.ml" 250 7902 7913
+type(
+  '_b option -> '_b option -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 250 7902 7914 "hw4/imp.ml" 250 7902 7918
+type(
+  '_b option
+)
+"hw4/imp.ml" 250 7902 7906 "hw4/imp.ml" 250 7902 7918
+type(
+  bool
+)
+"hw4/imp.ml" 251 7920 7924 "hw4/imp.ml" 251 7920 7925
+type(
+  '_c option
+)
+ident(
+  int_ref n "hw4/imp.ml" 244 7791 7797 "hw4/imp.ml" 244 7791 7798
+)
+"hw4/imp.ml" 251 7920 7926 "hw4/imp.ml" 251 7920 7928
+type(
+  '_c option -> '_c option -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 251 7920 7929 "hw4/imp.ml" 251 7920 7933
+type(
+  '_c option
+)
+"hw4/imp.ml" 251 7920 7924 "hw4/imp.ml" 251 7920 7933
+type(
+  bool
+)
+"hw4/imp.ml" 252 7935 7939 "hw4/imp.ml" 252 7935 7953
+type(
+  int ref option -> int ref option list -> bool
+)
+ident(
+  int_ref contains_alias "hw4/imp.ml" 212 6833 6841 "hw4/imp.ml" 212 6833 6855
+)
+"hw4/imp.ml" 252 7935 7954 "hw4/imp.ml" 252 7935 7955
+type(
+  int ref option
+)
+ident(
+  int_ref o "hw4/imp.ml" 243 7771 7777 "hw4/imp.ml" 243 7771 7778
+)
+"hw4/imp.ml" 252 7935 7957 "hw4/imp.ml" 252 7935 7958
+type(
+  int ref option
+)
+ident(
+  int_ref o "hw4/imp.ml" 243 7771 7777 "hw4/imp.ml" 243 7771 7778
+)
+"hw4/imp.ml" 252 7935 7956 "hw4/imp.ml" 252 7935 7959
+type(
+  int ref option list
+)
+"hw4/imp.ml" 252 7935 7939 "hw4/imp.ml" 252 7935 7959
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 253 7961 7965 "hw4/imp.ml" 253 7961 7979
+type(
+  '_d option -> '_d option list -> bool
+)
+ident(
+  int_ref contains_alias "hw4/imp.ml" 212 6833 6841 "hw4/imp.ml" 212 6833 6855
+)
+"hw4/imp.ml" 253 7961 7980 "hw4/imp.ml" 253 7961 7984
+type(
+  '_d option
+)
+"hw4/imp.ml" 253 7961 7986 "hw4/imp.ml" 253 7961 7987
+type(
+  '_d option
+)
+ident(
+  int_ref n "hw4/imp.ml" 244 7791 7797 "hw4/imp.ml" 244 7791 7798
+)
+"hw4/imp.ml" 253 7961 7985 "hw4/imp.ml" 253 7961 7988
+type(
+  '_d option list
+)
+"hw4/imp.ml" 253 7961 7965 "hw4/imp.ml" 253 7961 7988
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 254 7990 7994 "hw4/imp.ml" 254 7990 8008
+type(
+  int ref option -> int ref option list -> bool
+)
+ident(
+  int_ref contains_alias "hw4/imp.ml" 212 6833 6841 "hw4/imp.ml" 212 6833 6855
+)
+"hw4/imp.ml" 254 7990 8015 "hw4/imp.ml" 254 7990 8016
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 254 7990 8009 "hw4/imp.ml" 254 7990 8017
+type(
+  int ref option
+)
+"hw4/imp.ml" 254 7990 8024 "hw4/imp.ml" 254 7990 8025
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 242 7741 7747 "hw4/imp.ml" 242 7741 7748
+)
+"hw4/imp.ml" 254 7990 8019 "hw4/imp.ml" 254 7990 8025
+type(
+  int ref option
+)
+"hw4/imp.ml" 254 7990 8018 "hw4/imp.ml" 254 7990 8026
+type(
+  int ref option list
+)
+"hw4/imp.ml" 254 7990 7994 "hw4/imp.ml" 254 7990 8026
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 245 7809 7811 "hw4/imp.ml" 255 8027 8030
+type(
+  bool list
+)
+"hw4/imp.ml" 255 8027 8031 "hw4/imp.ml" 255 8027 8032
+type(
+  bool list -> bool list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw4/imp.ml" 255 8027 8033 "hw4/imp.ml" 255 8027 8054
+type(
+  unit -> bool list
+)
+ident(
+  int_ref equality_test_results "hw4/imp.ml" 238 7618 7622 "hw4/imp.ml" 238 7618 7643
+)
+"hw4/imp.ml" 255 8027 8055 "hw4/imp.ml" 255 8027 8057
+type(
+  unit
+)
+"hw4/imp.ml" 255 8027 8033 "hw4/imp.ml" 255 8027 8057
+call(
+  stack
+)
+type(
+  bool list
+)
+"hw4/imp.ml" 245 7809 7811 "hw4/imp.ml" 255 8027 8057
+type(
+  bool
+)
+"hw4/imp.ml" 244 7791 7793 "hw4/imp.ml" 255 8027 8057
+type(
+  bool
+)
+"hw4/imp.ml" 243 7771 7773 "hw4/imp.ml" 255 8027 8057
+type(
+  bool
+)
+"hw4/imp.ml" 242 7741 7743 "hw4/imp.ml" 255 8027 8057
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 256 8058 8061 "hw4/imp.ml" 256 8058 8069
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 256 8058 8070 "hw4/imp.ml" 256 8058 8107
+type(
+  string
+)
+"hw4/imp.ml" 256 8058 8108 "hw4/imp.ml" 256 8058 8112
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 241 7720 7724 "hw4/imp.ml" 241 7720 7728
+)
+"hw4/imp.ml" 256 8058 8061 "hw4/imp.ml" 256 8058 8112
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 260 8239 8247 "hw4/imp.ml" 260 8239 8268
+type(
+  'a -> 'a option list -> bool
+)
+ident(
+  def contains_alias_option "hw4/imp.ml" 260 8239 8239 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 260 8239 8270 "hw4/imp.ml" 260 8239 8271
+type(
+  'a
+)
+ident(
+  def x "hw4/imp.ml" 260 8239 8277 "hw4/imp.ml" 269 8525 8529
+)
+"hw4/imp.ml" 260 8239 8278 "hw4/imp.ml" 260 8239 8279
+type(
+  'a option list
+)
+ident(
+  def l "hw4/imp.ml" 260 8239 8297 "hw4/imp.ml" 269 8525 8529
+)
+"hw4/imp.ml" 262 8313 8322 "hw4/imp.ml" 262 8313 8323
+type(
+  'a option list
+)
+ident(
+  int_ref l "hw4/imp.ml" 260 8239 8278 "hw4/imp.ml" 260 8239 8279
+)
+"hw4/imp.ml" 263 8329 8334 "hw4/imp.ml" 263 8329 8336
+type(
+  'a option list
+)
+"hw4/imp.ml" 263 8329 8343 "hw4/imp.ml" 263 8329 8348
+type(
+  bool
+)
+"hw4/imp.ml" 264 8349 8354 "hw4/imp.ml" 264 8349 8355
+type(
+  'a option
+)
+ident(
+  def h "hw4/imp.ml" 264 8349 8363 "hw4/imp.ml" 268 8507 8524
+)
+"hw4/imp.ml" 264 8349 8357 "hw4/imp.ml" 264 8349 8358
+type(
+  'a option list
+)
+ident(
+  def t "hw4/imp.ml" 264 8349 8363 "hw4/imp.ml" 268 8507 8524
+)
+"hw4/imp.ml" 264 8349 8354 "hw4/imp.ml" 264 8349 8358
+type(
+  'a option list
+)
+"hw4/imp.ml" 265 8369 8390 "hw4/imp.ml" 265 8369 8391
+type(
+  'a option
+)
+ident(
+  int_ref h "hw4/imp.ml" 264 8349 8354 "hw4/imp.ml" 264 8349 8355
+)
+"hw4/imp.ml" 266 8397 8414 "hw4/imp.ml" 266 8397 8418
+type(
+  'a option
+)
+"hw4/imp.ml" 266 8397 8424 "hw4/imp.ml" 266 8397 8429
+type(
+  bool
+)
+"hw4/imp.ml" 267 8430 8452 "hw4/imp.ml" 267 8430 8453
+type(
+  'a
+)
+ident(
+  def v "hw4/imp.ml" 267 8430 8457 "hw4/imp.ml" 267 8430 8505
+)
+"hw4/imp.ml" 267 8430 8447 "hw4/imp.ml" 267 8430 8453
+type(
+  'a option
+)
+"hw4/imp.ml" 267 8430 8460 "hw4/imp.ml" 267 8430 8461
+type(
+  'a
+)
+ident(
+  int_ref v "hw4/imp.ml" 267 8430 8452 "hw4/imp.ml" 267 8430 8453
+)
+"hw4/imp.ml" 267 8430 8461 "hw4/imp.ml" 267 8430 8463
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"hw4/imp.ml" 267 8430 8463 "hw4/imp.ml" 267 8430 8464
+type(
+  'a
+)
+ident(
+  int_ref x "hw4/imp.ml" 260 8239 8270 "hw4/imp.ml" 260 8239 8271
+)
+"hw4/imp.ml" 267 8430 8460 "hw4/imp.ml" 267 8430 8464
+type(
+  bool
+)
+"hw4/imp.ml" 267 8430 8470 "hw4/imp.ml" 267 8430 8474
+type(
+  bool
+)
+"hw4/imp.ml" 267 8430 8480 "hw4/imp.ml" 267 8430 8501
+type(
+  'a -> 'a option list -> bool
+)
+ident(
+  int_ref contains_alias_option "hw4/imp.ml" 260 8239 8247 "hw4/imp.ml" 260 8239 8268
+)
+"hw4/imp.ml" 267 8430 8502 "hw4/imp.ml" 267 8430 8503
+type(
+  'a
+)
+ident(
+  int_ref x "hw4/imp.ml" 260 8239 8270 "hw4/imp.ml" 260 8239 8271
+)
+"hw4/imp.ml" 267 8430 8504 "hw4/imp.ml" 267 8430 8505
+type(
+  'a option list
+)
+ident(
+  int_ref t "hw4/imp.ml" 264 8349 8357 "hw4/imp.ml" 264 8349 8358
+)
+"hw4/imp.ml" 267 8430 8480 "hw4/imp.ml" 267 8430 8505
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/imp.ml" 267 8430 8457 "hw4/imp.ml" 267 8430 8505
+type(
+  bool
+)
+"hw4/imp.ml" 264 8349 8363 "hw4/imp.ml" 268 8507 8524
+type(
+  bool
+)
+"hw4/imp.ml" 261 8306 8307 "hw4/imp.ml" 269 8525 8529
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 271 8531 8535 "hw4/imp.ml" 271 8531 8539
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 275 8634 8637 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 271 8531 8540 "hw4/imp.ml" 271 8531 8542
+type(
+  unit
+)
+"hw4/imp.ml" 272 8552 8558 "hw4/imp.ml" 272 8552 8559
+type(
+  int ref
+)
+ident(
+  def r "hw4/imp.ml" 273 8582 8584 "hw4/imp.ml" 274 8603 8633
+)
+"hw4/imp.ml" 272 8552 8575 "hw4/imp.ml" 272 8552 8576
+type(
+  int
+)
+"hw4/imp.ml" 272 8552 8562 "hw4/imp.ml" 272 8552 8578
+type(
+  int ref
+)
+"hw4/imp.ml" 273 8582 8588 "hw4/imp.ml" 273 8582 8590
+type(
+  int ref option
+)
+ident(
+  def o1 "hw4/imp.ml" 274 8603 8605 "hw4/imp.ml" 274 8603 8633
+)
+"hw4/imp.ml" 273 8582 8598 "hw4/imp.ml" 273 8582 8599
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 272 8552 8558 "hw4/imp.ml" 272 8552 8559
+)
+"hw4/imp.ml" 273 8582 8593 "hw4/imp.ml" 273 8582 8599
+type(
+  int ref option
+)
+"hw4/imp.ml" 274 8603 8605 "hw4/imp.ml" 274 8603 8626
+type(
+  int ref -> int ref option list -> bool
+)
+ident(
+  int_ref contains_alias_option "hw4/imp.ml" 260 8239 8247 "hw4/imp.ml" 260 8239 8268
+)
+"hw4/imp.ml" 274 8603 8627 "hw4/imp.ml" 274 8603 8628
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 272 8552 8558 "hw4/imp.ml" 272 8552 8559
+)
+"hw4/imp.ml" 274 8603 8630 "hw4/imp.ml" 274 8603 8632
+type(
+  int ref option
+)
+ident(
+  int_ref o1 "hw4/imp.ml" 273 8582 8588 "hw4/imp.ml" 273 8582 8590
+)
+"hw4/imp.ml" 274 8603 8629 "hw4/imp.ml" 274 8603 8633
+type(
+  int ref option list
+)
+"hw4/imp.ml" 274 8603 8605 "hw4/imp.ml" 274 8603 8633
+call(
+  tail
+)
+type(
+  bool
+)
+"hw4/imp.ml" 273 8582 8584 "hw4/imp.ml" 274 8603 8633
+type(
+  bool
+)
+"hw4/imp.ml" 272 8552 8554 "hw4/imp.ml" 274 8603 8633
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 275 8634 8637 "hw4/imp.ml" 275 8634 8645
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 275 8634 8646 "hw4/imp.ml" 275 8634 8674
+type(
+  string
+)
+"hw4/imp.ml" 275 8634 8675 "hw4/imp.ml" 275 8634 8679
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 271 8531 8535 "hw4/imp.ml" 271 8531 8539
+)
+"hw4/imp.ml" 275 8634 8637 "hw4/imp.ml" 275 8634 8679
+call(
+  stack
+)
+type(
+  unit
+)
+"hw4/imp.ml" 277 8681 8685 "hw4/imp.ml" 277 8681 8689
+type(
+  unit -> bool
+)
+ident(
+  def test "hw4/imp.ml" 281 8803 8806 "hw4/imp.ml" 1 0 -1
+)
+"hw4/imp.ml" 277 8681 8690 "hw4/imp.ml" 277 8681 8692
+type(
+  unit
+)
+"hw4/imp.ml" 278 8702 8708 "hw4/imp.ml" 278 8702 8709
+type(
+  int ref
+)
+ident(
+  def r "hw4/imp.ml" 279 8732 8734 "hw4/imp.ml" 280 8766 8802
+)
+"hw4/imp.ml" 278 8702 8725 "hw4/imp.ml" 278 8702 8726
+type(
+  int
+)
+"hw4/imp.ml" 278 8702 8712 "hw4/imp.ml" 278 8702 8728
+type(
+  int ref
+)
+"hw4/imp.ml" 279 8732 8738 "hw4/imp.ml" 279 8732 8740
+type(
+  int ref option
+)
+ident(
+  def o2 "hw4/imp.ml" 280 8766 8768 "hw4/imp.ml" 280 8766 8802
+)
+"hw4/imp.ml" 279 8732 8760 "hw4/imp.ml" 279 8732 8761
+type(
+  int
+)
+"hw4/imp.ml" 279 8732 8748 "hw4/imp.ml" 279 8732 8762
+type(
+  int ref
+)
+"hw4/imp.ml" 279 8732 8743 "hw4/imp.ml" 279 8732 8762
+type(
+  int ref option
+)
+"hw4/imp.ml" 280 8766 8768 "hw4/imp.ml" 280 8766 8771
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw4/imp.ml" 280 8766 8773 "hw4/imp.ml" 280 8766 8794
+type(
+  int ref -> int ref option list -> bool
+)
+ident(
+  int_ref contains_alias_option "hw4/imp.ml" 260 8239 8247 "hw4/imp.ml" 260 8239 8268
+)
+"hw4/imp.ml" 280 8766 8795 "hw4/imp.ml" 280 8766 8796
+type(
+  int ref
+)
+ident(
+  int_ref r "hw4/imp.ml" 278 8702 8708 "hw4/imp.ml" 278 8702 8709
+)
+"hw4/imp.ml" 280 8766 8798 "hw4/imp.ml" 280 8766 8800
+type(
+  int ref option
+)
+ident(
+  int_ref o2 "hw4/imp.ml" 279 8732 8738 "hw4/imp.ml" 279 8732 8740
+)
+"hw4/imp.ml" 280 8766 8797 "hw4/imp.ml" 280 8766 8801
+type(
+  int ref option list
+)
+"hw4/imp.ml" 280 8766 8772 "hw4/imp.ml" 280 8766 8802
+call(
+  stack
+)
+type(
+  bool
+)
+"hw4/imp.ml" 280 8766 8768 "hw4/imp.ml" 280 8766 8802
+type(
+  bool
+)
+"hw4/imp.ml" 279 8732 8734 "hw4/imp.ml" 280 8766 8802
+type(
+  bool
+)
+"hw4/imp.ml" 278 8702 8704 "hw4/imp.ml" 280 8766 8802
+type(
+  bool
+)
+type(
+  bool
+)
+"hw4/imp.ml" 281 8803 8806 "hw4/imp.ml" 281 8803 8814
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"hw4/imp.ml" 281 8803 8815 "hw4/imp.ml" 281 8803 8848
+type(
+  string
+)
+"hw4/imp.ml" 281 8803 8849 "hw4/imp.ml" 281 8803 8853
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "hw4/imp.ml" 277 8681 8685 "hw4/imp.ml" 277 8681 8689
+)
+"hw4/imp.ml" 281 8803 8806 "hw4/imp.ml" 281 8803 8853
+call(
+  stack
+)
+type(
+  unit
+)

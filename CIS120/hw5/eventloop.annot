@@ -1,0 +1,240 @@
+"hw5/eventloop.ml" 17 434 438 "hw5/eventloop.ml" 17 434 441
+type(
+  Widget.widget -> unit
+)
+ident(
+  def run "hw5/eventloop.ml" 27 835 844 "hw5/eventloop.ml" 1 0 -1
+)
+"hw5/eventloop.ml" 17 434 443 "hw5/eventloop.ml" 17 434 444
+type(
+  Widget.widget
+)
+ident(
+  def w "hw5/eventloop.ml" 17 434 454 "hw5/eventloop.ml" 27 835 844
+)
+"hw5/eventloop.ml" 18 463 469 "hw5/eventloop.ml" 18 463 470
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/eventloop.ml" 19 524 526 "hw5/eventloop.ml" 27 835 844
+)
+"hw5/eventloop.ml" 18 463 473 "hw5/eventloop.ml" 18 463 487
+type(
+  Gctx.gctx
+)
+ident(
+  ext_ref Gctx.top_level
+)
+"hw5/eventloop.ml" 19 524 526 "hw5/eventloop.ml" 19 524 544
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Gctx.open_graphics
+)
+"hw5/eventloop.ml" 19 524 545 "hw5/eventloop.ml" 19 524 547
+type(
+  unit
+)
+"hw5/eventloop.ml" 19 524 526 "hw5/eventloop.ml" 19 524 547
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/eventloop.ml" 20 549 559 "hw5/eventloop.ml" 20 549 563
+type(
+  unit -> 'a
+)
+ident(
+  def loop "hw5/eventloop.ml" 20 549 551 "hw5/eventloop.ml" 27 835 844
+)
+"hw5/eventloop.ml" 20 549 564 "hw5/eventloop.ml" 20 549 566
+type(
+  unit
+)
+"hw5/eventloop.ml" 21 569 573 "hw5/eventloop.ml" 21 569 593
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Graphics.clear_graph
+)
+"hw5/eventloop.ml" 21 569 594 "hw5/eventloop.ml" 21 569 596
+type(
+  unit
+)
+"hw5/eventloop.ml" 21 569 573 "hw5/eventloop.ml" 21 569 596
+type(
+  unit
+)
+"hw5/eventloop.ml" 22 598 602 "hw5/eventloop.ml" 22 598 603
+type(
+  Widget.widget
+)
+ident(
+  int_ref w "hw5/eventloop.ml" 17 434 443 "hw5/eventloop.ml" 17 434 444
+)
+"hw5/eventloop.ml" 22 598 602 "hw5/eventloop.ml" 22 598 611
+type(
+  Gctx.gctx -> unit
+)
+"hw5/eventloop.ml" 22 598 612 "hw5/eventloop.ml" 22 598 613
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/eventloop.ml" 18 463 469 "hw5/eventloop.ml" 18 463 470
+)
+"hw5/eventloop.ml" 22 598 602 "hw5/eventloop.ml" 22 598 613
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/eventloop.ml" 23 615 619 "hw5/eventloop.ml" 23 615 639
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Graphics.synchronize
+)
+"hw5/eventloop.ml" 23 615 640 "hw5/eventloop.ml" 23 615 642
+type(
+  unit
+)
+"hw5/eventloop.ml" 23 615 619 "hw5/eventloop.ml" 23 615 642
+type(
+  unit
+)
+"hw5/eventloop.ml" 24 684 692 "hw5/eventloop.ml" 24 684 693
+type(
+  Gctx.event
+)
+ident(
+  def e "hw5/eventloop.ml" 25 757 761 "hw5/eventloop.ml" 25 757 782
+)
+"hw5/eventloop.ml" 24 684 696 "hw5/eventloop.ml" 24 684 715
+type(
+  unit -> Gctx.event
+)
+ident(
+  ext_ref Gctx.wait_for_event
+)
+"hw5/eventloop.ml" 24 684 716 "hw5/eventloop.ml" 24 684 718
+type(
+  unit
+)
+"hw5/eventloop.ml" 24 684 696 "hw5/eventloop.ml" 24 684 718
+call(
+  stack
+)
+type(
+  Gctx.event
+)
+"hw5/eventloop.ml" 25 757 761 "hw5/eventloop.ml" 25 757 762
+type(
+  Widget.widget
+)
+ident(
+  int_ref w "hw5/eventloop.ml" 17 434 443 "hw5/eventloop.ml" 17 434 444
+)
+"hw5/eventloop.ml" 25 757 761 "hw5/eventloop.ml" 25 757 769
+type(
+  Gctx.gctx -> Gctx.event -> unit
+)
+"hw5/eventloop.ml" 25 757 770 "hw5/eventloop.ml" 25 757 771
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/eventloop.ml" 18 463 469 "hw5/eventloop.ml" 18 463 470
+)
+"hw5/eventloop.ml" 25 757 772 "hw5/eventloop.ml" 25 757 773
+type(
+  Gctx.event
+)
+ident(
+  int_ref e "hw5/eventloop.ml" 24 684 692 "hw5/eventloop.ml" 24 684 693
+)
+"hw5/eventloop.ml" 25 757 761 "hw5/eventloop.ml" 25 757 773
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/eventloop.ml" 25 757 775 "hw5/eventloop.ml" 25 757 779
+type(
+  unit -> 'a
+)
+ident(
+  int_ref loop "hw5/eventloop.ml" 20 549 559 "hw5/eventloop.ml" 20 549 563
+)
+"hw5/eventloop.ml" 25 757 780 "hw5/eventloop.ml" 25 757 782
+type(
+  unit
+)
+"hw5/eventloop.ml" 25 757 775 "hw5/eventloop.ml" 25 757 782
+call(
+  tail
+)
+type(
+  'a
+)
+"hw5/eventloop.ml" 25 757 761 "hw5/eventloop.ml" 25 757 782
+type(
+  'a
+)
+"hw5/eventloop.ml" 24 684 688 "hw5/eventloop.ml" 25 757 782
+type(
+  'a
+)
+"hw5/eventloop.ml" 23 615 619 "hw5/eventloop.ml" 25 757 782
+type(
+  'a
+)
+"hw5/eventloop.ml" 22 598 602 "hw5/eventloop.ml" 25 757 782
+type(
+  'a
+)
+"hw5/eventloop.ml" 21 569 573 "hw5/eventloop.ml" 25 757 782
+type(
+  'a
+)
+"hw5/eventloop.ml" 27 835 837 "hw5/eventloop.ml" 27 835 841
+type(
+  unit -> unit
+)
+ident(
+  int_ref loop "hw5/eventloop.ml" 20 549 559 "hw5/eventloop.ml" 20 549 563
+)
+"hw5/eventloop.ml" 27 835 842 "hw5/eventloop.ml" 27 835 844
+type(
+  unit
+)
+"hw5/eventloop.ml" 27 835 837 "hw5/eventloop.ml" 27 835 844
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/eventloop.ml" 20 549 551 "hw5/eventloop.ml" 27 835 844
+type(
+  unit
+)
+"hw5/eventloop.ml" 19 524 526 "hw5/eventloop.ml" 27 835 844
+type(
+  unit
+)
+"hw5/eventloop.ml" 18 463 465 "hw5/eventloop.ml" 27 835 844
+type(
+  unit
+)
+type(
+  unit
+)

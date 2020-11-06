@@ -1,0 +1,115 @@
+=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+CIS 120 Game Project Proposal
+PennKey: ailic
+=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+
+===============
+=: The Hungry Cat :=  
+===============
+
+- What game are you planning to implement? If it is a game of your own design,
+  or not especially well-known, provide a 2-3 sentence description of the game.
+
+My game is simple: a cat is chasing a bird. They each have their obstacles (aerial and ground-based);
+the terrain is sidescrolling, but they have a degree of freedom in their movements- 
+(they can go left/right around the window, the cat can jump, the bird can dive). 
+You control the cat and you have to hunt down the bird ASAP.
+
+- What classes and interfaces do you plan to create? How will the different
+  components of your game (the model, the GUI, etc.) interact?
+
+I will probably create two separate classes for the cat and the bird. That will provide a more
+structured coding style, even though there will be just one instance of both. I will also make
+two interfaces for obstacles (aerial and ground obstacle), and I will use that to make various 
+subtypes of obstacles. I will make a IO class for processing the highscores and potentially save games.
+I will also make a JUnit testing class.
+
+My model will consist of two queues of obstacles that are constantly randomly generated;
+instances of player and bird classes; values of positions, speeds; time elapsed etc.
+
+Status bar would be minimal - just a single stopwatch reminding the player to hurry up. The rest of GUI would
+consist of a side-scrolling screen rendering the items from the queue and communicating with the
+model in order to effectively delete obstacles that have already passed. Rudimentary collision 
+detection would enable the cruel, one-hit-equals-death system (cat/bird vs obstacle, cat vs bird).
+
+Testing class would test the model with some hard-coded queues of obstacles to see whether the crude AI 
+and collision detection do a good job. 
+
+I plan to modify mouse/keyboard adapters. 
+
+Bird’s AI would rely on distances to the next aerial obstacle and the position of the cat
+
+
+- What do you think will be the most challenging thing to implement?
+
+Bird’s AI, as it would have to balance avoiding the incoming obstacle with an unpredictable player’s attacks.
+
+====================
+=: Core Concept 1 :=
+====================
+
+Concept 1: Object-oriented stuff
+
+- What specific feature of your game will be implemented using this concept?
+
+the 2 obstacle interfaces
+
+- Why does it make sense to implement this feature with this concept? Justify
+  why this is a non-trivial application of the concept in question.
+
+Because the obstacles will all share their purpose - killing the two players, and their general layout - all will
+be perpendicular to the direction of scrolling; however, they will have different appearances and expected behaviors (jump,crawl under,…).
+
+====================
+=: Core Concept 2 :=
+====================
+
+Concept 2: Collections
+
+- What specific feature of your game will be implemented using this concept?
+
+game model
+
+- Why does it make sense to implement this feature with this concept? Justify
+  why this is a non-trivial application of the concept in question.
+
+queue makes perfect sense for my game, as I would only have to store a handful of obstacles which naturally 
+behave in a FIFO manner. Random generation would also complement this, so I would get an endless obstacle flow with almost 0
+memory consumption. This randomness could be overridden in the case of load game command.
+
+====================
+=: Core Concept 3 :=
+====================
+
+Concept 3: IO
+
+- What specific feature of your game will be implemented using this concept?
+
+IO class
+
+- Why does it make sense to implement this feature with this concept? Justify
+  why this is a non-trivial application of the concept in question.
+
+I could save my model’s state for future load and I could make the game a bit more fun
+with the highscore system. It’s not trivial as I will have to come up with a suitable syntax
+to represent the game state and the highscores with, in the file.
+
+====================
+=: Core Concept 4 :=
+====================
+
+Concept 4: Testing
+
+- What specific feature of your game will be implemented using this concept?
+
+Bird’s AI
+
+- Why does it make sense to implement this feature with this concept? Justify
+  why this is a non-trivial application of the concept in question.
+
+If the bird’s AI is not working properly the game will be too easy. It is essential that,
+if possible (some random generated obstacles or player’s planned moves could doom the bird), 
+bird survives (we are not looking for a perfect AI either, just enough to keep it interesting).
+
+I plan on making some tests where it would be reasonable to expect the bird to survive, and use these tests
+to enhance my heuristic algorithm.

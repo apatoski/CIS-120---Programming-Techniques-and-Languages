@@ -1,0 +1,967 @@
+"hw5/lightbulb.ml" 6 135 139 "hw5/lightbulb.ml" 6 135 157
+type(
+  unit -> Widget.widget
+)
+ident(
+  def mk_state_lightbulb "hw5/lightbulb.ml" 25 673 673 "hw5/lightbulb.ml" 1 0 -1
+)
+"hw5/lightbulb.ml" 6 135 158 "hw5/lightbulb.ml" 6 135 160
+type(
+  unit
+)
+"hw5/lightbulb.ml" 8 173 180 "hw5/lightbulb.ml" 8 173 188
+type(
+  Widget.widget
+)
+ident(
+  def switch_w "hw5/lightbulb.ml" 12 288 290 "hw5/lightbulb.ml" 22 568 598
+)
+"hw5/lightbulb.ml" 8 173 190 "hw5/lightbulb.ml" 8 173 199
+type(
+  bool Widget.value_controller
+)
+ident(
+  def switch_cb "hw5/lightbulb.ml" 12 288 290 "hw5/lightbulb.ml" 22 568 598
+)
+"hw5/lightbulb.ml" 8 173 179 "hw5/lightbulb.ml" 8 173 200
+type(
+  Widget.widget * bool Widget.value_controller
+)
+"hw5/lightbulb.ml" 9 203 208 "hw5/lightbulb.ml" 9 203 223
+type(
+  bool -> string -> Widget.widget * bool Widget.value_controller
+)
+ident(
+  ext_ref Widget.checkbox
+)
+"hw5/lightbulb.ml" 9 203 224 "hw5/lightbulb.ml" 9 203 229
+type(
+  bool
+)
+"hw5/lightbulb.ml" 9 203 230 "hw5/lightbulb.ml" 9 203 243
+type(
+  string
+)
+"hw5/lightbulb.ml" 9 203 208 "hw5/lightbulb.ml" 9 203 243
+call(
+  stack
+)
+type(
+  Widget.widget * bool Widget.value_controller
+)
+"hw5/lightbulb.ml" 12 288 294 "hw5/lightbulb.ml" 12 288 304
+type(
+  Gctx.gctx -> unit
+)
+ident(
+  def paint_bulb "hw5/lightbulb.ml" 20 510 512 "hw5/lightbulb.ml" 22 568 598
+)
+"hw5/lightbulb.ml" 12 288 306 "hw5/lightbulb.ml" 12 288 307
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/lightbulb.ml" 12 288 314 "hw5/lightbulb.ml" 17 459 503
+)
+"hw5/lightbulb.ml" 13 323 331 "hw5/lightbulb.ml" 13 323 336
+type(
+  Gctx.gctx
+)
+ident(
+  def g_new "hw5/lightbulb.ml" 17 459 466 "hw5/lightbulb.ml" 17 459 503
+)
+"hw5/lightbulb.ml" 13 323 339 "hw5/lightbulb.ml" 13 323 354
+type(
+  Gctx.gctx -> Gctx.color -> Gctx.gctx
+)
+ident(
+  ext_ref Gctx.with_color
+)
+"hw5/lightbulb.ml" 13 323 355 "hw5/lightbulb.ml" 13 323 356
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/lightbulb.ml" 12 288 306 "hw5/lightbulb.ml" 12 288 307
+)
+"hw5/lightbulb.ml" 14 357 373 "hw5/lightbulb.ml" 14 357 382
+type(
+  bool Widget.value_controller
+)
+ident(
+  int_ref switch_cb "hw5/lightbulb.ml" 8 173 190 "hw5/lightbulb.ml" 8 173 199
+)
+"hw5/lightbulb.ml" 14 357 373 "hw5/lightbulb.ml" 14 357 392
+type(
+  unit -> bool
+)
+"hw5/lightbulb.ml" 14 357 393 "hw5/lightbulb.ml" 14 357 395
+type(
+  unit
+)
+"hw5/lightbulb.ml" 14 357 373 "hw5/lightbulb.ml" 14 357 395
+call(
+  stack
+)
+type(
+  bool
+)
+"hw5/lightbulb.ml" 15 396 414 "hw5/lightbulb.ml" 15 396 425
+type(
+  Gctx.color
+)
+ident(
+  ext_ref Gctx.yellow
+)
+"hw5/lightbulb.ml" 16 426 444 "hw5/lightbulb.ml" 16 426 454
+type(
+  Gctx.color
+)
+ident(
+  ext_ref Gctx.black
+)
+"hw5/lightbulb.ml" 14 357 369 "hw5/lightbulb.ml" 16 426 455
+type(
+  Gctx.color
+)
+"hw5/lightbulb.ml" 13 323 339 "hw5/lightbulb.ml" 16 426 455
+call(
+  stack
+)
+type(
+  Gctx.gctx
+)
+"hw5/lightbulb.ml" 17 459 466 "hw5/lightbulb.ml" 17 459 480
+type(
+  Gctx.gctx -> Gctx.position -> Gctx.dimension -> unit
+)
+ident(
+  ext_ref Gctx.fill_rect
+)
+"hw5/lightbulb.ml" 17 459 481 "hw5/lightbulb.ml" 17 459 486
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g_new "hw5/lightbulb.ml" 13 323 331 "hw5/lightbulb.ml" 13 323 336
+)
+"hw5/lightbulb.ml" 17 459 488 "hw5/lightbulb.ml" 17 459 489
+type(
+  int
+)
+"hw5/lightbulb.ml" 17 459 491 "hw5/lightbulb.ml" 17 459 493
+type(
+  int
+)
+"hw5/lightbulb.ml" 17 459 487 "hw5/lightbulb.ml" 17 459 494
+type(
+  Gctx.position
+)
+"hw5/lightbulb.ml" 17 459 496 "hw5/lightbulb.ml" 17 459 498
+type(
+  int
+)
+"hw5/lightbulb.ml" 17 459 500 "hw5/lightbulb.ml" 17 459 502
+type(
+  int
+)
+"hw5/lightbulb.ml" 17 459 495 "hw5/lightbulb.ml" 17 459 503
+type(
+  Gctx.dimension
+)
+"hw5/lightbulb.ml" 17 459 466 "hw5/lightbulb.ml" 17 459 503
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/lightbulb.ml" 13 323 327 "hw5/lightbulb.ml" 17 459 503
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/lightbulb.ml" 20 510 517 "hw5/lightbulb.ml" 20 510 521
+type(
+  Widget.widget
+)
+ident(
+  def bulb "hw5/lightbulb.ml" 22 568 572 "hw5/lightbulb.ml" 22 568 598
+)
+"hw5/lightbulb.ml" 20 510 523 "hw5/lightbulb.ml" 20 510 524
+type(
+  Widget.notifier_controller
+)
+"hw5/lightbulb.ml" 20 510 516 "hw5/lightbulb.ml" 20 510 525
+type(
+  Widget.widget * Widget.notifier_controller
+)
+"hw5/lightbulb.ml" 20 510 528 "hw5/lightbulb.ml" 20 510 541
+type(
+  Gctx.dimension ->
+  (Gctx.gctx -> unit) -> Widget.widget * Widget.notifier_controller
+)
+ident(
+  ext_ref Widget.canvas
+)
+"hw5/lightbulb.ml" 20 510 543 "hw5/lightbulb.ml" 20 510 546
+type(
+  int
+)
+"hw5/lightbulb.ml" 20 510 547 "hw5/lightbulb.ml" 20 510 550
+type(
+  int
+)
+"hw5/lightbulb.ml" 20 510 542 "hw5/lightbulb.ml" 20 510 551
+type(
+  Gctx.dimension
+)
+"hw5/lightbulb.ml" 20 510 552 "hw5/lightbulb.ml" 20 510 562
+type(
+  Gctx.gctx -> unit
+)
+ident(
+  int_ref paint_bulb "hw5/lightbulb.ml" 12 288 294 "hw5/lightbulb.ml" 12 288 304
+)
+"hw5/lightbulb.ml" 20 510 528 "hw5/lightbulb.ml" 20 510 562
+call(
+  stack
+)
+type(
+  Widget.widget * Widget.notifier_controller
+)
+"hw5/lightbulb.ml" 22 568 572 "hw5/lightbulb.ml" 22 568 584
+type(
+  Widget.widget -> Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.hpair
+)
+"hw5/lightbulb.ml" 22 568 585 "hw5/lightbulb.ml" 22 568 589
+type(
+  Widget.widget
+)
+ident(
+  int_ref bulb "hw5/lightbulb.ml" 20 510 517 "hw5/lightbulb.ml" 20 510 521
+)
+"hw5/lightbulb.ml" 22 568 590 "hw5/lightbulb.ml" 22 568 598
+type(
+  Widget.widget
+)
+ident(
+  int_ref switch_w "hw5/lightbulb.ml" 8 173 180 "hw5/lightbulb.ml" 8 173 188
+)
+"hw5/lightbulb.ml" 22 568 572 "hw5/lightbulb.ml" 22 568 598
+call(
+  tail
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 20 510 512 "hw5/lightbulb.ml" 22 568 598
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 12 288 290 "hw5/lightbulb.ml" 22 568 598
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 8 173 175 "hw5/lightbulb.ml" 22 568 598
+type(
+  Widget.widget
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 25 673 677 "hw5/lightbulb.ml" 25 673 698
+type(
+  unit -> Widget.widget
+)
+ident(
+  def mk_listener_lightbulb "hw5/lightbulb.ml" 47 1244 1244 "hw5/lightbulb.ml" 1 0 -1
+)
+"hw5/lightbulb.ml" 25 673 699 "hw5/lightbulb.ml" 25 673 701
+type(
+  unit
+)
+"hw5/lightbulb.ml" 26 713 719 "hw5/lightbulb.ml" 26 713 724
+type(
+  bool ref
+)
+ident(
+  def is_on "hw5/lightbulb.ml" 28 741 743 "hw5/lightbulb.ml" 44 1185 1215
+)
+"hw5/lightbulb.ml" 26 713 727 "hw5/lightbulb.ml" 26 713 730
+type(
+  bool -> bool ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"hw5/lightbulb.ml" 26 713 731 "hw5/lightbulb.ml" 26 713 736
+type(
+  bool
+)
+"hw5/lightbulb.ml" 26 713 727 "hw5/lightbulb.ml" 26 713 736
+type(
+  bool ref
+)
+"hw5/lightbulb.ml" 28 741 748 "hw5/lightbulb.ml" 28 741 756
+type(
+  Widget.widget
+)
+ident(
+  def switch_w "hw5/lightbulb.ml" 31 819 822 "hw5/lightbulb.ml" 44 1185 1215
+)
+"hw5/lightbulb.ml" 28 741 758 "hw5/lightbulb.ml" 28 741 767
+type(
+  bool Widget.value_controller
+)
+ident(
+  def switch_cb "hw5/lightbulb.ml" 31 819 822 "hw5/lightbulb.ml" 44 1185 1215
+)
+"hw5/lightbulb.ml" 28 741 747 "hw5/lightbulb.ml" 28 741 768
+type(
+  Widget.widget * bool Widget.value_controller
+)
+"hw5/lightbulb.ml" 29 771 776 "hw5/lightbulb.ml" 29 771 791
+type(
+  bool -> string -> Widget.widget * bool Widget.value_controller
+)
+ident(
+  ext_ref Widget.checkbox
+)
+"hw5/lightbulb.ml" 29 771 792 "hw5/lightbulb.ml" 29 771 797
+type(
+  bool
+)
+"hw5/lightbulb.ml" 29 771 798 "hw5/lightbulb.ml" 29 771 814
+type(
+  string
+)
+"hw5/lightbulb.ml" 29 771 776 "hw5/lightbulb.ml" 29 771 814
+call(
+  stack
+)
+type(
+  Widget.widget * bool Widget.value_controller
+)
+"hw5/lightbulb.ml" 31 819 822 "hw5/lightbulb.ml" 31 819 831
+type(
+  bool Widget.value_controller
+)
+ident(
+  int_ref switch_cb "hw5/lightbulb.ml" 28 741 758 "hw5/lightbulb.ml" 28 741 767
+)
+"hw5/lightbulb.ml" 31 819 822 "hw5/lightbulb.ml" 31 819 851
+type(
+  bool Widget.change_listener -> unit
+)
+"hw5/lightbulb.ml" 31 819 857 "hw5/lightbulb.ml" 31 819 858
+type(
+  bool
+)
+ident(
+  def b "hw5/lightbulb.ml" 31 819 862 "hw5/lightbulb.ml" 31 819 872
+)
+"hw5/lightbulb.ml" 31 819 862 "hw5/lightbulb.ml" 31 819 867
+type(
+  bool ref
+)
+ident(
+  int_ref is_on "hw5/lightbulb.ml" 26 713 719 "hw5/lightbulb.ml" 26 713 724
+)
+"hw5/lightbulb.ml" 31 819 868 "hw5/lightbulb.ml" 31 819 870
+type(
+  bool ref -> bool -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"hw5/lightbulb.ml" 31 819 871 "hw5/lightbulb.ml" 31 819 872
+type(
+  bool
+)
+ident(
+  int_ref b "hw5/lightbulb.ml" 31 819 857 "hw5/lightbulb.ml" 31 819 858
+)
+"hw5/lightbulb.ml" 31 819 862 "hw5/lightbulb.ml" 31 819 872
+type(
+  unit
+)
+"hw5/lightbulb.ml" 31 819 852 "hw5/lightbulb.ml" 31 819 873
+type(
+  bool Widget.change_listener
+)
+"hw5/lightbulb.ml" 31 819 822 "hw5/lightbulb.ml" 31 819 873
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/lightbulb.ml" 34 916 923 "hw5/lightbulb.ml" 34 916 933
+type(
+  Gctx.gctx -> unit
+)
+ident(
+  def paint_bulb "hw5/lightbulb.ml" 42 1125 1128 "hw5/lightbulb.ml" 44 1185 1215
+)
+"hw5/lightbulb.ml" 34 916 935 "hw5/lightbulb.ml" 34 916 936
+type(
+  Gctx.gctx
+)
+ident(
+  def g "hw5/lightbulb.ml" 34 916 943 "hw5/lightbulb.ml" 39 1073 1117
+)
+"hw5/lightbulb.ml" 35 952 961 "hw5/lightbulb.ml" 35 952 966
+type(
+  Gctx.gctx
+)
+ident(
+  def g_new "hw5/lightbulb.ml" 39 1073 1080 "hw5/lightbulb.ml" 39 1073 1117
+)
+"hw5/lightbulb.ml" 35 952 969 "hw5/lightbulb.ml" 35 952 984
+type(
+  Gctx.gctx -> Gctx.color -> Gctx.gctx
+)
+ident(
+  ext_ref Gctx.with_color
+)
+"hw5/lightbulb.ml" 35 952 985 "hw5/lightbulb.ml" 35 952 986
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g "hw5/lightbulb.ml" 34 916 935 "hw5/lightbulb.ml" 34 916 936
+)
+"hw5/lightbulb.ml" 36 987 1003 "hw5/lightbulb.ml" 36 987 1004
+type(
+  bool ref -> bool
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"hw5/lightbulb.ml" 36 987 1004 "hw5/lightbulb.ml" 36 987 1009
+type(
+  bool ref
+)
+ident(
+  int_ref is_on "hw5/lightbulb.ml" 26 713 719 "hw5/lightbulb.ml" 26 713 724
+)
+"hw5/lightbulb.ml" 36 987 1003 "hw5/lightbulb.ml" 36 987 1009
+type(
+  bool
+)
+"hw5/lightbulb.ml" 37 1010 1028 "hw5/lightbulb.ml" 37 1010 1039
+type(
+  Gctx.color
+)
+ident(
+  ext_ref Gctx.yellow
+)
+"hw5/lightbulb.ml" 38 1040 1058 "hw5/lightbulb.ml" 38 1040 1068
+type(
+  Gctx.color
+)
+ident(
+  ext_ref Gctx.black
+)
+"hw5/lightbulb.ml" 36 987 999 "hw5/lightbulb.ml" 38 1040 1069
+type(
+  Gctx.color
+)
+"hw5/lightbulb.ml" 35 952 969 "hw5/lightbulb.ml" 38 1040 1069
+call(
+  stack
+)
+type(
+  Gctx.gctx
+)
+"hw5/lightbulb.ml" 39 1073 1080 "hw5/lightbulb.ml" 39 1073 1094
+type(
+  Gctx.gctx -> Gctx.position -> Gctx.dimension -> unit
+)
+ident(
+  ext_ref Gctx.fill_rect
+)
+"hw5/lightbulb.ml" 39 1073 1095 "hw5/lightbulb.ml" 39 1073 1100
+type(
+  Gctx.gctx
+)
+ident(
+  int_ref g_new "hw5/lightbulb.ml" 35 952 961 "hw5/lightbulb.ml" 35 952 966
+)
+"hw5/lightbulb.ml" 39 1073 1102 "hw5/lightbulb.ml" 39 1073 1103
+type(
+  int
+)
+"hw5/lightbulb.ml" 39 1073 1105 "hw5/lightbulb.ml" 39 1073 1107
+type(
+  int
+)
+"hw5/lightbulb.ml" 39 1073 1101 "hw5/lightbulb.ml" 39 1073 1108
+type(
+  Gctx.position
+)
+"hw5/lightbulb.ml" 39 1073 1110 "hw5/lightbulb.ml" 39 1073 1112
+type(
+  int
+)
+"hw5/lightbulb.ml" 39 1073 1114 "hw5/lightbulb.ml" 39 1073 1116
+type(
+  int
+)
+"hw5/lightbulb.ml" 39 1073 1109 "hw5/lightbulb.ml" 39 1073 1117
+type(
+  Gctx.dimension
+)
+"hw5/lightbulb.ml" 39 1073 1080 "hw5/lightbulb.ml" 39 1073 1117
+call(
+  tail
+)
+type(
+  unit
+)
+"hw5/lightbulb.ml" 35 952 957 "hw5/lightbulb.ml" 39 1073 1117
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/lightbulb.ml" 42 1125 1133 "hw5/lightbulb.ml" 42 1125 1137
+type(
+  Widget.widget
+)
+ident(
+  def bulb "hw5/lightbulb.ml" 44 1185 1189 "hw5/lightbulb.ml" 44 1185 1215
+)
+"hw5/lightbulb.ml" 42 1125 1139 "hw5/lightbulb.ml" 42 1125 1140
+type(
+  Widget.notifier_controller
+)
+"hw5/lightbulb.ml" 42 1125 1132 "hw5/lightbulb.ml" 42 1125 1141
+type(
+  Widget.widget * Widget.notifier_controller
+)
+"hw5/lightbulb.ml" 42 1125 1144 "hw5/lightbulb.ml" 42 1125 1157
+type(
+  Gctx.dimension ->
+  (Gctx.gctx -> unit) -> Widget.widget * Widget.notifier_controller
+)
+ident(
+  ext_ref Widget.canvas
+)
+"hw5/lightbulb.ml" 42 1125 1159 "hw5/lightbulb.ml" 42 1125 1162
+type(
+  int
+)
+"hw5/lightbulb.ml" 42 1125 1163 "hw5/lightbulb.ml" 42 1125 1166
+type(
+  int
+)
+"hw5/lightbulb.ml" 42 1125 1158 "hw5/lightbulb.ml" 42 1125 1167
+type(
+  Gctx.dimension
+)
+"hw5/lightbulb.ml" 42 1125 1168 "hw5/lightbulb.ml" 42 1125 1178
+type(
+  Gctx.gctx -> unit
+)
+ident(
+  int_ref paint_bulb "hw5/lightbulb.ml" 34 916 923 "hw5/lightbulb.ml" 34 916 933
+)
+"hw5/lightbulb.ml" 42 1125 1144 "hw5/lightbulb.ml" 42 1125 1178
+call(
+  stack
+)
+type(
+  Widget.widget * Widget.notifier_controller
+)
+"hw5/lightbulb.ml" 44 1185 1189 "hw5/lightbulb.ml" 44 1185 1201
+type(
+  Widget.widget -> Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.hpair
+)
+"hw5/lightbulb.ml" 44 1185 1202 "hw5/lightbulb.ml" 44 1185 1206
+type(
+  Widget.widget
+)
+ident(
+  int_ref bulb "hw5/lightbulb.ml" 42 1125 1133 "hw5/lightbulb.ml" 42 1125 1137
+)
+"hw5/lightbulb.ml" 44 1185 1207 "hw5/lightbulb.ml" 44 1185 1215
+type(
+  Widget.widget
+)
+ident(
+  int_ref switch_w "hw5/lightbulb.ml" 28 741 748 "hw5/lightbulb.ml" 28 741 756
+)
+"hw5/lightbulb.ml" 44 1185 1189 "hw5/lightbulb.ml" 44 1185 1215
+call(
+  tail
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 42 1125 1128 "hw5/lightbulb.ml" 44 1185 1215
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 34 916 919 "hw5/lightbulb.ml" 44 1185 1215
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 31 819 822 "hw5/lightbulb.ml" 44 1185 1215
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 28 741 743 "hw5/lightbulb.ml" 44 1185 1215
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 26 713 715 "hw5/lightbulb.ml" 44 1185 1215
+type(
+  Widget.widget
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 47 1244 1249 "hw5/lightbulb.ml" 47 1244 1255
+type(
+  Widget.widget
+)
+ident(
+  def quit_w "hw5/lightbulb.ml" 48 1288 1288 "hw5/lightbulb.ml" 1 0 -1
+)
+"hw5/lightbulb.ml" 47 1244 1257 "hw5/lightbulb.ml" 47 1244 1258
+type(
+  Widget.label_controller
+)
+"hw5/lightbulb.ml" 47 1244 1260 "hw5/lightbulb.ml" 47 1244 1263
+type(
+  Widget.notifier_controller
+)
+ident(
+  def qnc "hw5/lightbulb.ml" 48 1288 1288 "hw5/lightbulb.ml" 1 0 -1
+)
+"hw5/lightbulb.ml" 47 1244 1248 "hw5/lightbulb.ml" 47 1244 1264
+type(
+  Widget.widget * Widget.label_controller * Widget.notifier_controller
+)
+"hw5/lightbulb.ml" 47 1244 1267 "hw5/lightbulb.ml" 47 1244 1280
+type(
+  string ->
+  Widget.widget * Widget.label_controller * Widget.notifier_controller
+)
+ident(
+  ext_ref Widget.button
+)
+"hw5/lightbulb.ml" 47 1244 1281 "hw5/lightbulb.ml" 47 1244 1287
+type(
+  string
+)
+"hw5/lightbulb.ml" 47 1244 1267 "hw5/lightbulb.ml" 47 1244 1287
+call(
+  stack
+)
+type(
+  Widget.widget * Widget.label_controller * Widget.notifier_controller
+)
+"hw5/lightbulb.ml" 48 1288 1292 "hw5/lightbulb.ml" 48 1288 1294
+type(
+  unit -> unit
+)
+ident(
+  def qf "hw5/lightbulb.ml" 50 1317 1320 "hw5/lightbulb.ml" 1 0 -1
+)
+"hw5/lightbulb.ml" 48 1288 1295 "hw5/lightbulb.ml" 48 1288 1297
+type(
+  unit
+)
+"hw5/lightbulb.ml" 49 1307 1310 "hw5/lightbulb.ml" 49 1307 1314
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"hw5/lightbulb.ml" 49 1307 1315 "hw5/lightbulb.ml" 49 1307 1316
+type(
+  int
+)
+"hw5/lightbulb.ml" 49 1307 1310 "hw5/lightbulb.ml" 49 1307 1316
+call(
+  tail
+)
+type(
+  unit
+)
+type(
+  unit
+)
+"hw5/lightbulb.ml" 50 1317 1320 "hw5/lightbulb.ml" 50 1317 1323
+type(
+  Widget.notifier_controller
+)
+ident(
+  int_ref qnc "hw5/lightbulb.ml" 47 1244 1260 "hw5/lightbulb.ml" 47 1244 1263
+)
+"hw5/lightbulb.ml" 50 1317 1320 "hw5/lightbulb.ml" 50 1317 1342
+type(
+  Widget.event_listener -> unit
+)
+"hw5/lightbulb.ml" 50 1317 1344 "hw5/lightbulb.ml" 50 1317 1363
+type(
+  (unit -> unit) -> Widget.event_listener
+)
+ident(
+  ext_ref Widget.mouseclick_listener
+)
+"hw5/lightbulb.ml" 50 1317 1364 "hw5/lightbulb.ml" 50 1317 1366
+type(
+  unit -> unit
+)
+ident(
+  int_ref qf "hw5/lightbulb.ml" 48 1288 1292 "hw5/lightbulb.ml" 48 1288 1294
+)
+"hw5/lightbulb.ml" 50 1317 1343 "hw5/lightbulb.ml" 50 1317 1367
+call(
+  stack
+)
+type(
+  Widget.event_listener
+)
+"hw5/lightbulb.ml" 50 1317 1320 "hw5/lightbulb.ml" 50 1317 1367
+call(
+  stack
+)
+type(
+  unit
+)
+"hw5/lightbulb.ml" 54 1418 1422 "hw5/lightbulb.ml" 54 1418 1423
+type(
+  Widget.widget
+)
+ident(
+  def w "hw5/lightbulb.ml" 60 1768 1771 "hw5/lightbulb.ml" 1 0 -1
+)
+"hw5/lightbulb.ml" 54 1418 1426 "hw5/lightbulb.ml" 54 1418 1438
+type(
+  Widget.widget -> Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.hpair
+)
+"hw5/lightbulb.ml" 54 1418 1440 "hw5/lightbulb.ml" 54 1418 1453
+type(
+  Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.border
+)
+"hw5/lightbulb.ml" 54 1418 1455 "hw5/lightbulb.ml" 54 1418 1473
+type(
+  unit -> Widget.widget
+)
+ident(
+  int_ref mk_state_lightbulb "hw5/lightbulb.ml" 6 135 139 "hw5/lightbulb.ml" 6 135 157
+)
+"hw5/lightbulb.ml" 54 1418 1474 "hw5/lightbulb.ml" 54 1418 1476
+type(
+  unit
+)
+"hw5/lightbulb.ml" 54 1418 1454 "hw5/lightbulb.ml" 54 1418 1477
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 54 1418 1439 "hw5/lightbulb.ml" 54 1418 1478
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 55 1479 1489 "hw5/lightbulb.ml" 55 1479 1501
+type(
+  Widget.widget -> Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.hpair
+)
+"hw5/lightbulb.ml" 55 1479 1503 "hw5/lightbulb.ml" 55 1479 1515
+type(
+  Gctx.dimension -> Widget.widget
+)
+ident(
+  ext_ref Widget.space
+)
+"hw5/lightbulb.ml" 55 1479 1517 "hw5/lightbulb.ml" 55 1479 1519
+type(
+  int
+)
+"hw5/lightbulb.ml" 55 1479 1520 "hw5/lightbulb.ml" 55 1479 1522
+type(
+  int
+)
+"hw5/lightbulb.ml" 55 1479 1516 "hw5/lightbulb.ml" 55 1479 1523
+type(
+  Gctx.dimension
+)
+"hw5/lightbulb.ml" 55 1479 1502 "hw5/lightbulb.ml" 55 1479 1524
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 56 1525 1552 "hw5/lightbulb.ml" 56 1525 1564
+type(
+  Widget.widget -> Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.hpair
+)
+"hw5/lightbulb.ml" 56 1525 1566 "hw5/lightbulb.ml" 56 1525 1579
+type(
+  Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.border
+)
+"hw5/lightbulb.ml" 56 1525 1581 "hw5/lightbulb.ml" 56 1525 1602
+type(
+  unit -> Widget.widget
+)
+ident(
+  int_ref mk_listener_lightbulb "hw5/lightbulb.ml" 25 673 677 "hw5/lightbulb.ml" 25 673 698
+)
+"hw5/lightbulb.ml" 56 1525 1603 "hw5/lightbulb.ml" 56 1525 1605
+type(
+  unit
+)
+"hw5/lightbulb.ml" 56 1525 1580 "hw5/lightbulb.ml" 56 1525 1606
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 56 1525 1565 "hw5/lightbulb.ml" 56 1525 1607
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 57 1608 1652 "hw5/lightbulb.ml" 57 1608 1664
+type(
+  Widget.widget -> Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.hpair
+)
+"hw5/lightbulb.ml" 57 1608 1666 "hw5/lightbulb.ml" 57 1608 1678
+type(
+  Gctx.dimension -> Widget.widget
+)
+ident(
+  ext_ref Widget.space
+)
+"hw5/lightbulb.ml" 57 1608 1680 "hw5/lightbulb.ml" 57 1608 1682
+type(
+  int
+)
+"hw5/lightbulb.ml" 57 1608 1684 "hw5/lightbulb.ml" 57 1608 1686
+type(
+  int
+)
+"hw5/lightbulb.ml" 57 1608 1679 "hw5/lightbulb.ml" 57 1608 1687
+type(
+  Gctx.dimension
+)
+"hw5/lightbulb.ml" 57 1608 1665 "hw5/lightbulb.ml" 57 1608 1688
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 57 1608 1690 "hw5/lightbulb.ml" 57 1608 1703
+type(
+  Widget.widget -> Widget.widget
+)
+ident(
+  ext_ref Widget.border
+)
+"hw5/lightbulb.ml" 57 1608 1704 "hw5/lightbulb.ml" 57 1608 1712
+type(
+  Widget.widget
+)
+ident(
+  int_ref quit_w "hw5/lightbulb.ml" 47 1244 1249 "hw5/lightbulb.ml" 47 1244 1255
+)
+"hw5/lightbulb.ml" 57 1608 1689 "hw5/lightbulb.ml" 57 1608 1713
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 57 1608 1651 "hw5/lightbulb.ml" 57 1608 1714
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 56 1525 1551 "hw5/lightbulb.ml" 57 1608 1715
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 55 1479 1488 "hw5/lightbulb.ml" 57 1608 1716
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 54 1418 1426 "hw5/lightbulb.ml" 57 1608 1716
+call(
+  stack
+)
+type(
+  Widget.widget
+)
+"hw5/lightbulb.ml" 60 1768 1771 "hw5/lightbulb.ml" 60 1768 1784
+type(
+  Widget.widget -> unit
+)
+ident(
+  ext_ref Eventloop.run
+)
+"hw5/lightbulb.ml" 60 1768 1785 "hw5/lightbulb.ml" 60 1768 1786
+type(
+  Widget.widget
+)
+ident(
+  int_ref w "hw5/lightbulb.ml" 54 1418 1422 "hw5/lightbulb.ml" 54 1418 1423
+)
+"hw5/lightbulb.ml" 60 1768 1771 "hw5/lightbulb.ml" 60 1768 1786
+call(
+  stack
+)
+type(
+  unit
+)
